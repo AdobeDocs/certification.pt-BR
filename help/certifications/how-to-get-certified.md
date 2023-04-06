@@ -3,9 +3,9 @@ title: Obtenha certificação no Adobe
 description: Saiba como obter certificação no Adobe. Encontre todos os recursos necessários antes, durante e depois de ter sido certificado.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1466'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -213,4 +213,4 @@ Seu selo é uma prova tangível de sua proficiência com os produtos Adobe Exper
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.

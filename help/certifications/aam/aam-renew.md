@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1040'
 ht-degree: 2%
 
 ---
@@ -188,4 +188,4 @@ Este exame é gratuito, livro aberto e não processado. Você pode fazer o exame
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.

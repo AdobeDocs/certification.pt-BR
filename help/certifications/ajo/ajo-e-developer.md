@@ -4,9 +4,9 @@ description: Saiba como se tornar um Adobe certificado [!DNL Journey Optimizer] 
 solution: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positivo"
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '924'
 ht-degree: 12%
 
 ---
@@ -211,4 +211,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.

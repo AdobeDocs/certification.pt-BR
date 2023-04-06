@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E331" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1313'
+source-wordcount: '1311'
 ht-degree: 11%
 
 ---
@@ -212,4 +212,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
