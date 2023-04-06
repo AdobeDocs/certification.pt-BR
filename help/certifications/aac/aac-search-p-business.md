@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E501" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '987'
 ht-degree: 3%
 
 ---
@@ -64,15 +64,13 @@ Experiência trabalhando com as seguintes funções:
 
 **Detalhes do exame:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 35/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E501
-```
+* Nível: Profissional (experiência de 0 a 12 meses)
+* Pontuação de envio: 35/50
+* Hora: 100 min
+* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
+* Idiomas disponíveis: Inglês
+* Custo: $125 (global) / $95 (Índia)
+* ID de exame: AD0-E501
 
 **Autoavaliação de disponibilidade**
 
