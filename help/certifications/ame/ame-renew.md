@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1022'
 ht-degree: 4%
 
 ---
@@ -159,4 +159,4 @@ Este exame é gratuito, livro aberto e não processado. Você pode fazer o exame
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? Envie um email `certif@adobe.com`.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

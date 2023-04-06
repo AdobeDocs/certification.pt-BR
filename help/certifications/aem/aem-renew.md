@@ -4,9 +4,9 @@ description: Saiba como renovar seu [!DNL Experience Manager Sites] antes de exp
 solution: Experience Manager Sites
 role: Developer
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '604'
 ht-degree: 2%
 
 ---
@@ -84,4 +84,4 @@ As avaliações do curso são gratuitas. Não há necessidade de as programar e 
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? Envie um email `certif@adobe.com`.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

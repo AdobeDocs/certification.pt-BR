@@ -5,9 +5,9 @@ solution: Experience Manager Assets
 role: Developer
 badge: label="Exam AD0-E129" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '910'
+source-wordcount: '912'
 ht-degree: 4%
 
 ---
@@ -181,4 +181,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? Envie um email `certif@adobe.com`.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

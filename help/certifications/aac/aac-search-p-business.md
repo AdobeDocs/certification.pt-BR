@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E501" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '987'
+source-wordcount: '989'
 ht-degree: 3%
 
 ---
@@ -175,4 +175,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? Envie um email `certif@adobe.com`.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
