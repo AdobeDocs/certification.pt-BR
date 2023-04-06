@@ -2,10 +2,11 @@
 title: Certificação de arquitetura Principal
 description: Saiba como se tornar um Adobe Architect certificado Principal no Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
-role: Architect
+product: Marketo
+role: Data Architect
 badge: label="Exam AD0-E556" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 1%
