@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -67,13 +67,14 @@ Você deve ter:
 
 **Detalhes do exame:**
 
-* Nível: Especialista (experiência de 1 a 3 anos)
-* Pontuação de envio: 31/50
-* Hora: 120 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E208
+>* **Nível:** Especialista (experiência de 1 a 3 anos)
+>* **Pontuação de envio:** 31/50
+>* **Hora:** 120 min
+>* **Delivery:** Produção on-line (requer acesso à câmera) ou >produção do centro de teste
+>* **Idiomas disponíveis:** Inglês
+>* **Custo:** $225 (global) / $150 (Índia)
+>* **ID de exame:** AD0-E208
+
 
 **Autoavaliação de disponibilidade**
 

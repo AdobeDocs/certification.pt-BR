@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E117" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1593'
+source-wordcount: '1594'
 ht-degree: 22%
 
 ---
@@ -41,7 +41,7 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 * Criar e fornecer diagramas de infraestrutura/implantação
 * Determinar modelos de informações a serem usados com aplicativos de AEM
 * Definir modelos e conceitos de segurança de autenticação e autorização
-* Determinar modelos de persistência com base nos requisitos dos clientes (por exemplo, armazenamento binário, cenário de implantação etc.)
+* Determine modelos de persistência com base nos requisitos dos clientes (armazenamento binário, cenário de implantação e assim por diante)
 * Criar modelos de fluxo de trabalho para processos de negócios
 * Estabeleça estratégias para o desempenho da plataforma e teste de penetração/segurança
 * Reutilizar conteúdo em vários canais

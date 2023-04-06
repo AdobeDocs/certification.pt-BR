@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Você deve ter:
 
 Familiaridade com as seguintes ferramentas e tecnologias:
 
-* Software de teste/depuração de anúncios (por exemplo, VAST INSPETOR, ferramentas de desenvolvedor do Chrome)
-* Ferramentas do Analytics (por exemplo, Adobe Analytics, Google Analytics)
-* Software de marcação de terceiros (por exemplo, Sizmek, gerenciador de tags da Google)
-* Ferramentas de qualidade de suportes de dados de terceiros (por exemplo IAS, MOAT)
+* Software de teste/depuração de anúncios (VAST INSPETOR, ferramentas de desenvolvedor do Chrome)
+* Ferramentas do Analytics (Adobe Analytics, Google Analytics)
+* Software de marcação de terceiros (Sizmek, gerenciador de tags da Google)
+* Ferramentas de qualidade de mídia de terceiros (IAS, MOAT)
 * Navegadores principais
 * Intercâmbios de anúncios, SSPs e DMPs
 

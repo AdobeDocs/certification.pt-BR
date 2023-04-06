@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Architect
 badge: label="Exam AD0-E328" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1119'
 ht-degree: 10%
 
 ---
@@ -34,7 +34,7 @@ Você deve ter:
 * A capacidade de descrever e demonstrar recursos e recursos do produto
 * A capacidade de mapear os recursos do produto para casos de alto uso
 * Experiência de apoio à equipe de pré-vendas
-* A capacidade de oferecer armazenamento em cache no desktop (por exemplo, práticas recomendadas do produto, métricas de relatórios etc.)
+* A capacidade de oferecer armazenamento em cache no desktop (práticas recomendadas do produto, métricas de relatórios e assim por diante)
 * Experiência que descreve as diferenças entre modelos de implantação
 
 >[!NOTE]
