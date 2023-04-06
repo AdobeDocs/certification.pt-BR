@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1192'
 ht-degree: 11%
 
 ---
@@ -67,15 +67,13 @@ Você deve ter:
 
 **Detalhes do exame:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-```
+* Nível: Especialista (experiência de 1 a 3 anos)
+* Pontuação de envio: 31/50
+* Hora: 120 min
+* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
+* Idiomas disponíveis: Inglês
+* Custo: $225 (global) / $150 (Índia)
+* ID de exame: AD0-E208
 
 **Autoavaliação de disponibilidade**
 
@@ -112,16 +110,16 @@ Seção 3: Segmentação e métricas calculadas (22%)
 Seção 4: Conhecimento geral sobre ferramentas e solução de problemas (12%)
 
 * Analisar relatórios e identificar problemas de qualidade de dados
-* Defina diferentes tipos de dimensões e parâmetros existentes no [!DNL Adobe Analytics] (evars, props e eventos)
+* Defina diferentes tipos de dimensões e parâmetros existentes no [!DNL Adobe Analytics] (eVars, props e eventos)
 * Determine como inserir e remover dados [!DNL Adobe Analytics]
 * Identificar informações de URLs de marketing
 
 Seção 5: Administração (10%)
 
-* Aplique o processo para configurar os relatórios de Canal de marketing com as regras de processamento do Canal de marketing
+* Aplique o processo para configurar a variável [!UICONTROL Canal de marketing] relatórios com [!UICONTROL Canal de marketing] regras de processamento
 * Aplique o processo para configurar o Importador de classificação e o Construtor de regras
 * Aplique o processo para configurar um conjunto de relatórios virtual com base em um segmento existente
-* Usar a interface do usuário do administrador do Gerenciador de feed de dados
+* Use o [!UICONTROL Feed de dados] Interface do usuário do administrador do Gerenciador
 * Compreensão da governança de dados
 
 >[!TAB Preparar]

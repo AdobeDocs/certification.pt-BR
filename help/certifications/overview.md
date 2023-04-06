@@ -2,9 +2,9 @@
 title: Página de certificação
 description: Saiba mais sobre [!DNL Experience Cloud] Certificação no Adobe. Descubra o que obter certificação pode fazer por você.
 mini-toc-levels: 1
-source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Obter um Adobe [!DNL Experience Cloud] a certificação pode ser benéfica por v
 * **Validação de suas habilidades:** A certificação de Adobe demonstra para clientes ou empregadores potenciais que você tem as habilidades e os conhecimentos necessários para usar [!DNL Experience Cloud] produtos de forma eficaz.
 * **Avanço da carreira:** A certificação de Adobe pode ajudar você a se destacar em um mercado de trabalho lotado e aumentar suas chances de ser contratado ou promovido em seu emprego atual.
 * **Aumentar o potencial de ganho:** Os indivíduos certificados geralmente ganham mais do que seus homólogos não certificados, já que suas credenciais validam suas habilidades e conhecimento.
-* **Acesso a recursos exclusivos:** Quando você se torna certificado pelo Adobe, você obtém acesso a recursos exclusivos, como materiais de treinamento, versões de software beta e fóruns de suporte que podem ajudá-lo a se manter atualizado com os últimos desenvolvimentos e tendências de software do setor.
+* **Acesso a recursos exclusivos:** Ao ser certificado pelo Adobe, você obtém acesso a recursos exclusivos. Esses recursos incluem material de treinamento, versões de software beta e fóruns de suporte que podem ajudar você a se manter atualizado com os últimos desenvolvimentos e tendências de software no setor.
 * **Ensaios de prática livre:** O Adobe oferece exames gratuitos que podem ajudá-lo a se preparar para o exame de certificação e garantir que você esteja totalmente preparado para fazer o teste.
 * **Renovações de certificação:** As certificações de Adobe são válidas por dois anos, e você pode renovar sua certificação realizando um exame sob demanda e sem produção ou concluindo um conjunto de atividades de aprendizado contínuo.
 

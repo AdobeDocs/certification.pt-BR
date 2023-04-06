@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1038'
 ht-degree: 2%
 
 ---
@@ -46,15 +46,13 @@ Você deve estar atualmente certificado (não expirado) em:
 
 **Detalhes do exame:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
-```
+* Nível: Especialista (experiência de 1 a 3 anos)
+* Pontuação de envio: 23/30
+* Hora: 68 min
+* Delivery: Sob demanda/não processada
+* Idiomas disponíveis: Inglês
+* Custo: GRATUITO
+* ID de exame: AD5-E826 - Renovação do especialista em profissionais de negócios da Adobe Audience Manager
 
 **Objetivos e escopo do exame**
 
@@ -124,15 +122,13 @@ Você deve estar atualmente certificado (não expirado) em:
 
 **Detalhes do exame:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
-```
+* Nível: Principal (experiência de 3 a 5 anos)
+* Pontuação de envio: 22/29
+* Hora: 58 min
+* Delivery: Sob demanda/não processada
+* Idiomas disponíveis: Inglês
+* Custo: GRATUITO
+* ID de exame: AD5-E825 - Renovação Principal do Adobe Audience Manager Architect
 
 **Âmbito e objetivos:**
 

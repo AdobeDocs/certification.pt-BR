@@ -5,10 +5,10 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E407" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1201'
-ht-degree: 19%
+source-wordcount: '1229'
+ht-degree: 18%
 
 ---
 
@@ -71,15 +71,13 @@ Ambientes:
 
 **Detalhes do exame:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 34/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E407
-```
+* Nível: Principal (experiência de 3 a 5 anos)
+* Pontuação de envio: 34/50
+* Hora: 100 min
+* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
+* Idiomas disponíveis: Inglês
+* Custo: $225 (global) / $150 (Índia)
+* ID de exame: AD0-E407
 
 **Objetivos e âmbito do exame**
 

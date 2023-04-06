@@ -5,9 +5,9 @@ solution: Experience Manager Assets
 role: Developer
 badge: label="Exam AD0-E129" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '910'
 ht-degree: 4%
 
 ---
@@ -60,15 +60,13 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 
 **Detalhes do exame:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 30/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E129
-```
+* Nível: Profissional (experiência de 0 a 12 meses)
+* Pontuação de envio: 30/50
+* Hora: 100 min
+* Delivery: Online processado (requer acesso à câmera)
+* Idiomas disponíveis: Inglês
+* Custo: $125 (global) / $95 (Índia)
+* ID de exame: AD0-E129
 
 **Autoavaliação de prontidão**
 

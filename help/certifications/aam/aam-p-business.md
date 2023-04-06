@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E458" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1049'
+source-wordcount: '1073'
 ht-degree: 10%
 
 ---
@@ -36,15 +36,13 @@ Você deve ter uma compreensão básica dos fluxos de dados, dos objetivos de ne
 
 **Detalhes do exame:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E458
-```
+* Nível: Profissional (experiência de 0 a 12 meses)
+* Pontuação de envio: 31/50
+* Hora: 100 min
+* Delivery: Online processado (requer acesso à câmera)
+* Idiomas disponíveis: Inglês
+* Custo: $125 (global) / $95 (Índia)
+* ID de exame: AD0-E458
 
 **Objetivos e âmbito do exame**
 
