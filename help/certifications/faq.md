@@ -4,9 +4,9 @@ description: Obtenha respostas para perguntas sobre o programa de Certificação
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ Você pode rastrear o status da certificação acessando [Adobe Credential Manag
 
 +++O que obtenho depois de ser aprovado no exame de certificação?
 
-Após concluir o exame, os resultados serão imediatamente exibidos na tela. Em 72 horas, você receberá uma confirmação por email da pontuação do CertMetrics, com uma PDF do seu certificado. Você pode acessar logotipos de sua conta CertMetrics que mostram seu status de certificação e podem ser usados em seu site, email, assinatura, cartão comercial, perfis sociais etc.
+Após concluir o exame, os resultados serão imediatamente exibidos na tela. Em 72 horas, você receberá uma confirmação por email da pontuação do CertMetrics, com uma PDF do seu certificado. Você pode acessar logotipos de sua conta CertMetrics que mostram seu status de certificação e podem ser usados em seu site, email, assinatura, cartão comercial, perfis sociais e assim por diante.
 
 +++
 
@@ -169,7 +169,7 @@ Para saber mais sobre como renovar sua certificação, acesse [here](https://exp
 
 Fazer logon em [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. Você pode ver quando atingiu sua credencial e quando ela expirará. Você também deve verificar seu perfil e confirmar que suas informações de contato, email secundário e trabalho estão corretas.
 
-Você receberá uma notificação por email um mês antes da expiração da certificação. Mas se você alterou tarefas e não atualizou seu email, talvez não seja notificado. Adicione um email secundário (como Gmail, Hotmail, Yahoo etc.) em sua conta CertMetrics , para que você receba um email de lembrete de expiração de certificação, mesmo que altere empresas.
+Você receberá uma notificação por email um mês antes da expiração da certificação. Mas se você alterou tarefas e não atualizou seu email, talvez não seja notificado. Adicione um email secundário (como Gmail, Hotmail, Yahoo e assim por diante) na conta CertMetrics, para que você receba um email de lembrete de expiração de certificação, mesmo que altere empresas.
 
 +++
 

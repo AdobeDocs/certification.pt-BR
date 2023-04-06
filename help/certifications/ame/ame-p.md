@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E555" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -111,7 +111,7 @@ Seção 3: Definição e direcionamento de públicos-alvo (33%)
 
 Seção 4: Análise e criação de relatórios (9%)
 
-* Explique o Adobe padrão [!DNL Marketo Engage] relatórios e quando eles devem ser usados (desempenho do link de email, desempenho do email, desempenho da página de aterrissagem, desempenho de pessoas, desempenho do programa, atividade da página da Web etc.)
+* Explique o Adobe padrão [!DNL Marketo Engage] relatórios e quando eles devem ser usados (desempenho do link de email, desempenho do email, desempenho da página de aterrissagem, desempenho de pessoas, desempenho do programa, atividade da página da Web e assim por diante)
 * Informações e métricas abrangentes do painel (Painel do programa de email, Painel do programa de envolvimento)
 * Compreender as métricas de insights de email
 

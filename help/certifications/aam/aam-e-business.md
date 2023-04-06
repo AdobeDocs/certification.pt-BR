@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E457" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1207'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ Familiarize-se com as seguintes tecnologias e ambientes:
 
 Tecnologias:
 
-* Plataforma de DSP (Trade Desk, Gerenciador de lances de duplo clique etc.)
+* Plataforma de DSP (Trade Desk, Gerenciador de lance de clique duplo e assim por diante)
 * Excel
 * Tableau e ferramentas semelhantes (Power BI, Qlik)
 * Servidor de publicidade (Clique duas vezes no Gerenciador de campanha)

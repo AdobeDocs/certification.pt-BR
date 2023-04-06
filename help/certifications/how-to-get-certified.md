@@ -3,9 +3,9 @@ title: Obtenha certificação no Adobe
 description: Saiba como obter certificação no Adobe. Encontre todos os recursos necessários antes, durante e depois de ter sido certificado.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -182,7 +182,7 @@ As seções e links a seguir funcionarão somente após um logon bem-sucedido no
 | Links rápidos | Descrição |
 | ------- | ------- | 
 | Adobe Credential Management System | [Logon inicial no Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} |
-| Perfil | [Página de informações demográficas com o local do nome da conta, endereço, empresa etc. Os nomes só podem ser atualizados em um Adobe Admin](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Perfil | [Página de informações demográficas com o local do nome da conta, endereço, empresa e assim por diante. Os nomes só podem ser atualizados em um Adobe Admin](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Identificação | [Localização da ID de Adobe/logon. Geralmente começa com ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | Histórico | [Exibir relatório de pontuação e histórico de exame](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Certificações | [Exibir todas as suas certificações atuais e expiradas](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |

@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E407" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1228'
 ht-degree: 18%
 
 ---
@@ -31,10 +31,10 @@ Além disso, você deve conhecer as seguintes tecnologias e ambientes:
 
 Tecnologias:
 
-* Vários programas do Adobe Experience Cloud (por exemplo, Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, APIs do Target)
-* JavaScript (Ajax, JQuery etc.)
-* Ferramentas de depuração baseadas em navegador (por exemplo, ferramentas do desenvolvedor do Chrome, VEC Helper), JSON para depurar respostas do Target
-* Ferramentas de depuração para aplicativos nativos (por exemplo, Charles Proxy, Fiddler)
+* Vários programas do Adobe Experience Cloud (Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, APIs do Target)
+* JavaScript (Ajax, JQuery e assim por diante)
+* Ferramentas de depuração baseadas em navegador (ferramentas do desenvolvedor do Chrome, VEC Helper), JSON para depurar respostas do Target
+* Ferramentas de depuração para aplicativos nativos (Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, configuração XML
 * IDEs nativos de desenvolvimento móvel, noções básicas do desenvolvimento de iOS, noções básicas do desenvolvimento de Android
 * Ferramentas de API como o Postman

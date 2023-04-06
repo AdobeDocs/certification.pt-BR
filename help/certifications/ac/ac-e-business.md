@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Exam AD0-E708" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1605'
+source-wordcount: '1607'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias:
 
 * Adobe [!DNL Commerce] - versão 2.4
 * Ferramentas de análise e desempenho: Google Analytics, gerenciador de tags, SWAT, New Relic, Fastly, Google Lighthouse
-* Ferramentas de segurança: Conformidade com PCI, ADA, GDPR etc.
+* Ferramentas de segurança: Conformidade com PCI, ADA, GDPR e assim por diante
 * Arquitetura na nuvem ou no local
 
 >[!NOTE]
