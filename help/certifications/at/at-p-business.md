@@ -2,12 +2,12 @@
 title: Certificação Profissional para profissionais
 description: Saiba como se tornar um certificado [!DNL Adobe Target] Profissional profissional.
 solution: Target
-role: Developer
+role: User
 badge: label="Exam AD0-E408" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '966'
+source-wordcount: '968'
 ht-degree: 8%
 
 ---
@@ -170,4 +170,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? Envie um email `certif@adobe.com`.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

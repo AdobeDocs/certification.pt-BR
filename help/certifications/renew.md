@@ -2,12 +2,12 @@
 title: Programa de Renovação de Certificação Adobe
 description: Saiba como renovar sua certificação antes de expirar.
 solution: Real-time Customer Data Platform
-role: Developer
+role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---
@@ -56,4 +56,4 @@ Agora você pode renovar sua certificação por meio de aprendizagem contínua o
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? Envie um email `certif@adobe.com`.
+Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
