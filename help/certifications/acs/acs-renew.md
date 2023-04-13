@@ -6,7 +6,8 @@ product: Campaign
 role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
 source-wordcount: '1491'
 ht-degree: 11%
@@ -113,7 +114,7 @@ Para renovar seu exame, clique no botão _[!DNL Campaign Standard]Renovação do
 
 >[!NOTE]
 >
->Este exame é gratuito, livro aberto e não processado. Você pode fazer o exame até três vezes. Se você não receber 75% após três tentativas, deverá aguardar **30 dias** para tentar novamente. A não conformidade pode resultar no cancelamento da certificação.
+>Este exame é gratuito, livro aberto e não processado. Você pode fazer o exame até três vezes. Se você não tiver êxito após a terceira tentativa, é necessário aguardar **30 dias** para tentar novamente. A não conformidade pode resultar no cancelamento da certificação.
 
 +++
 
