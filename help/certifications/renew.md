@@ -6,10 +6,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: c683a0798d29f8181a92989d6ddf2c8c46a20039
+source-git-commit: 85174b3682805f711d3929ef6d8dfd0558598427
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 2%
+source-wordcount: '380'
+ht-degree: 3%
 
 ---
 
@@ -51,7 +51,7 @@ Agora você pode renovar sua certificação por meio de aprendizagem contínua o
 * [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
-* _Adobe [!DNL Workfront] - Em breve_
+* [Adobe [!DNL Workfront]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aw/aw-renew.html){target="_blank"}
 
 ### Perguntas
 
