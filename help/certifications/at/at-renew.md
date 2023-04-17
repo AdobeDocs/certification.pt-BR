@@ -6,9 +6,10 @@ product: Target
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ Nesses casos, você pode fornecer uma referência de cliente afirmando que parti
 
 **Depois que a referência ao cliente for revisada, você será notificado pela Equipe de Credenciais do Adobe.**
 
-As avaliações do curso são gratuitas. Não há necessidade de as programar e não são produzidas. Se você tiver várias certificações de nível Principal e especialista da Adobe Experience Manager, será necessário apenas preencher os requisitos abaixo e todas as certificações de AEM serão renovadas.
+As avaliações do curso são gratuitas. Não há necessidade de as programar e não são produzidas. Se você tiver várias certificações de nível Principal e especialista da Adobe Target, será necessário apenas preencher os requisitos abaixo e todas as certificações da Adobe Target neste nível serão renovadas.
 
 [Formulário de referência do cliente para [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
@@ -70,7 +71,7 @@ As avaliações do curso são gratuitas. Não há necessidade de as programar e 
 
 >[!NOTE]
 >
->Você pode repetir até concluir com sucesso três atividades ou preencher o formulário de referência do cliente.
+>É possível repetir até concluir com sucesso três atividades ou concluir duas atividades além do formulário de referência do cliente.
 
 >[!ENDTABS]
 
