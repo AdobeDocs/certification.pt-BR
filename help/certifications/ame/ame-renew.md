@@ -6,9 +6,10 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1056'
 ht-degree: 4%
 
 ---
@@ -148,13 +149,18 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 * [Experience League - [!DNL Marketo Engage] Documentação do produto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR){target="_blank"} (Trabalhar com programas, marketing por email, testes A/B)
 * [Nação Adobe Marketo](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Considere seu processo de controle de qualidade)
 
-### Reinicie a certificação
+### Renovar sua certificação
 
-Este exame é gratuito, livro aberto e não processado. Você pode fazer o exame até três vezes. Se você não tiver êxito após a terceira tentativa, é necessário aguardar **30 dias** para tentar novamente. A não conformidade pode resultar no cancelamento da certificação.
+Certifique-se de que você seguiu a etapa 1 acima e fez logon com êxito em [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no link de renovação do especialista do profissional de negócios do Marketo Engage abaixo.
 
-[!BADGE Pegue o Adobe [!DNL Marketo Engage] Exame de reinicialização do especialista do profissional de negócios AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Pegue o Adobe [!DNL Marketo Engage] Exame de renovação do especialista do profissional de negócios AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>Este exame é gratuito, livro aberto e não processado. Você pode fazer o exame até três vezes. Se você não tiver êxito após a terceira tentativa, é necessário aguardar **30 dias** para tentar novamente. A não conformidade pode resultar no cancelamento da certificação.
 
 >[!ENDTABS]
+
 
 ### Perguntas
 
