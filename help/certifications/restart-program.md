@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 9%
@@ -15,7 +16,7 @@ ht-degree: 9%
 
 # Reinicie sua jornada de certificação indo de expirado para certificado
 
-Este programa de tempo limitado, oferecido **de 17 de abril de 2023 até 20 de outubro de 2023** O , oferece a oportunidade de atualizar suas habilidades e manter-se à frente da curva em um cenário digital em rápida mudança.
+Este programa de tempo limitado, oferecido **de 24 de abril de 2023 até 20 de outubro de 2023** O , oferece a oportunidade de atualizar suas habilidades e manter-se à frente da curva em um cenário digital em rápida mudança.
 
 Os indivíduos cujas certificações expiraram entre 2020 e 23 de abril de 2023 estão qualificados para isso **grátis** programa.
 
