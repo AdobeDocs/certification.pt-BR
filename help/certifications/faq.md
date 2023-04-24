@@ -4,9 +4,10 @@ description: Obtenha respostas para perguntas sobre o programa de Certificação
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '2665'
 ht-degree: 0%
 
 ---
@@ -244,6 +245,169 @@ Não, você só precisa completar os requisitos listados para a solução. Seus 
 +++ Preciso revisar os cursos, ou posso simplesmente começar a fazer avaliações?
 
 As avaliações são baseadas nos Cursos de Experience League e sua revisão preparará os candidatos a serem aprovados com sucesso. No entanto, o principal requisito para a renovação é apenas a aprovação das Avaliações.
+
++++
+
+>[!TAB Reiniciar programa]
+
+**Visão geral do programa**
+
++++O que é o Programa de Reinicialização de Certificação do Adobe?
+
+O Adobe Certification Restart Program é uma iniciativa única que permite que os indivíduos obtenham novamente suas certificações de Adobe expiradas ao fazer exames ou avaliações on-line, sem custo.
+
++++
+
++++Por quanto tempo o programa de reinicialização será executado?
+
+O programa será executado por seis meses, de 24 de abril a 20 de outubro de 2023.
+
++++
+
++++O Adobe oferecerá esse tipo de programa novamente no futuro?
+
+Atualmente, não tencionamos voltar a oferecer esta questão. Esta é uma oferta única.
+
++++
+
++++Que níveis de certificação estão incluídos no Programa de Reinicialização?
+
+Apenas certificações de nível Especialista e Principal estão sendo incluídas no Programa de Reinicialização. As certificações de nível profissional terão um caminho de renovação disponível a partir de junho de 2023.
+
++++
+
+**Qualificação do programa**
+
++++Quem está qualificado para o Programa de Reinicialização de Certificação do Adobe?
+
+Indivíduos cujas certificações expiraram de 2020 a 23 de abril de 2023 são elegíveis para o Programa de Reinicialização, desde que a certificação desejada esteja incluída no programa (consulte a lista Exames de Certificação Elegíveis abaixo).
+
++++
+
++++ Por que todos os exames de certificação não são lançados ao longo dos anos incluídos no programa Restart?\
+Os exames lançados antes de 2019 são excluídos do programa Restart.
+
++++
+
++++Por que 23 de abril de 2023, a data limite para a qualificação do Programa de reinicialização?
+
+Porque permite que os indivíduos que não puderam participar do período de renovação da certificação LIVRE (lançado em 23 de janeiro de 2023) tenham tempo suficiente para renovar suas certificações.
+
++++
+
++++Quais certificações fazem parte do Programa de Reinicialização de Certificação do Adobe?
+
+Todas as certificações Adobe ativas, exceto aquelas que se aposentaram, fazem parte do programa.
+
++++
+
++++É possível exibir uma lista de exames qualificados por aplicativo?
+
+**Adobe Experience Manager**
+
+| ID de exame | Nome do exame |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Especialista em profissionais |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Especialista em profissionais |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Especialista em desenvolvedores |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Especialista em desenvolvedores |
+| AD0-E106 | [!DNL Adobe Experience Manager] Especialista em Engenheiros de Desenvolvimento/Ops |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arquiteto Principal |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arquiteto Principal |
+
+**[!DNL Adobe Analytics]**
+
+| ID de exame | Nome do exame |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Especialista em desenvolvedores |
+| AD0-E202 | [!DNL Adobe Analytics] Especialista em profissionais |
+| AD0-E200 | [!DNL Adobe Analytics] Arquiteto Principal |
+| AD0-E207 | [!DNL Adobe Analytics] Arquiteto Principal |
+
+**Adobe Audience Manager**
+
+| ID de exame | Nome do exame |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] Arquiteto Principal |
+| AD0-E452 | [!DNL Adobe Audience Manager] Arquiteto Principal |
+| AD0-E453 | [!DNL Adobe Audience Manager] Especialista em profissionais |
+
+**Adobe Campaign Classic**
+
+| ID de exame | Nome do exame |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Especialista em profissionais do Sites |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Especialista em profissionais do Sites |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Arquiteto Principal |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Arquiteto Principal |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Especialista em desenvolvedores |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Especialista em desenvolvedores |
+
+**Adobe Campaign Standard**
+
+| ID de exame | Nome do exame |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Especialista em profissionais |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Especialista em profissionais |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Especialista em desenvolvedores |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Especialista em desenvolvedores |
+
+**Adobe[!DNL Marketo Engage]**
+
+| ID de exame | Nome do exame |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Profissional de negócios (anteriormente MCE) |
+
+**Adobe Target**
+
+| ID de exame | Nome do exame |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] Especialista em profissionais |
+| AD0-E402 | [!DNL Adobe Target] Arquiteto Principal |
+
++++
+
+A Certificação +++My expira entre 24 de abril e 20 de outubro de 2023, enquanto este programa está disponível. Posso prosseguir o programa de Reinicialização para minha certificação depois que expirar?
+
+Não. Todos os candidatos com certificações ativas a partir da data de lançamento e depois dessa data têm a opção de seguir o caminho de renovação contínua do aprendizado que anunciamos em janeiro de 2023.
+
+O programa de reinicialização destina-se somente a certificações que expiraram antes de 24 de abril de 2023, para oferecer certificação a candidatos que não puderam participar do programa de aprendizagem contínua.
+
++++
+
+**[!DNL Marketo Engage]Arquiteto de soluções (MCSA) e Adobe Commerce**
+
++++I expiraram [!DNL Marketo] MCSA (Certified Solution Architect). Posso restabelecer isso por meio deste programa?
+
+Candidatos vencidos [!DNL Marketo] A Certificação Certified Solution Architect pode perseguir o caminho de Reinicialização do profissional de negócios da Marketo para requisitos parciais em relação ao novo [!DNL Marketo Engage] Certificação de arquiteto.
+
+O requisito final é passar o novo [!DNL Marketo Engage] Exame de arquiteto. Para todos os titulares de certificados expirados do MCSA, estamos executando uma promoção de desconto de 50% até 31 de dezembro de 2023, entre em contato com o suporte de certificação para obter detalhes.
+
++++
+
++++Por que o Adobe é [!DNL Commerce] Certificações não fazem parte do Programa de Reinicialização de Certificação Adobe?
+
+Não há titulares de certificados expirados para o Adobe oferecido no momento [!DNL Commerce] Certificações em 23 de abril de 2023. Portanto, todo o Adobe ativo [!DNL Commerce] Os candidatos certificados têm a opção de renovar através do aprendizado contínuo [caminho de renovação para certificação](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+
++++
+
+**Perfil do Gerenciador de Credenciais do Adobe**
+
++++Por que vejo _Participação_ na seção de histórico do meu perfil no Adobe Credential Manager?
+
+Isso é para marcar sua qualificação para o programa de Reinicialização de Certificação do Adobe. Os candidatos a quem foi atribuída esta participação podem preencher os requisitos para reiniciar a certificação expirada, em cada candidatura.
+
++++
+
++++I completaram os requisitos e não visualizaram os resultados no meu histórico de perfil, quando obterei o Certificado?
+
+A certificação será concedida no prazo de 72 horas após o cumprimento dos requisitos. É importante notar que este programa só irá conceder certificação aos candidatos elegíveis.
+
++++
+
++++O que devo fazer se minha certificação ainda estiver expirada mesmo depois de concluir os requisitos de reinicialização?
+
+Infelizmente, uma vez expirada a certificação, esta não pode ser prorrogada. Nesses casos, é emitida uma nova certificação em vez de a renovar.
 
 +++
 
