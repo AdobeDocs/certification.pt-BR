@@ -3,13 +3,13 @@ title: Introdução às certificações de Adobe
 description: Introdução a [!DNL Experience Cloud] certificações. Saiba mais sobre o programa e este site.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
 
 ---
-
 
 # Introdução {#getting-started}
 
@@ -93,5 +93,3 @@ O Guia de Jornada de Certificação é uma ferramenta abrangente, criada para fo
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
-
-
