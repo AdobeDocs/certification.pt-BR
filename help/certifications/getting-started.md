@@ -4,9 +4,9 @@ description: Introdução a [!DNL Experience Cloud] certificações. Saiba mais 
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] O oferece três níveis diferentes de certificaç�
 
 Esses níveis refletem uma progressão de proficiência e conhecimento, sendo a certificação Profissional a certificação de nível básico, sendo o nível intermediário Expert e Principal o mais alto nível de certificação.
 
+| Símbolo | Descrição |
+| ------- | ------- |
 | ![Selo profissional](/help/certifications/assets/professional-badge-Xsmall.png) | **Certificações profissionais** valide que um candidato tem uma compreensão fundamental de que o Adobe tem soluções de marketing digital. O exame de certificação abrange conceitos e funcionalidades básicas do Adobe [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Símbolo de especialista](/help/certifications/assets/expert-badge-Xsmall.png) | **Certificações de especialistas** são para profissionais que têm uma compreensão mais avançada das soluções de marketing digital Adobe. O exame de certificação aborda conceitos e funcionalidades mais complexas do Adobe [!DNL Experience Cloud], incluindo implementação e solução de problemas. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Símbolo principal](/help/certifications/assets/master-badge-Xsmall.png) | **Certificações principais** são destinados a profissionais que têm uma compreensão profunda das soluções de marketing digital Adobe e demonstraram experiência em várias áreas do Adobe [!DNL Experience Cloud]. O exame de certificação aborda tópicos e cenários avançados, incluindo integrações complexas, personalizações e solução de problemas. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Esses níveis refletem uma progressão de proficiência e conhecimento, sendo a 
 
 Os exames de certificação de Adobe são personalizados para três funções de trabalho diferentes. Leia as informações abaixo para encontrar a certificação correta para sua carreira.
 
+| Logotipo | Descrição |
+| ------- | ------- |
 | ![Selo para profissionais](/help/certifications/assets/business_practitioner_blk_small.png) | **Profissionais** são responsáveis por projetar, executar e gerenciar campanhas de marketing usando o Adobe [!DNL Experience Cloud] soluções. Eles devem ter uma compreensão fundamental das soluções de marketing digital da Adobe, bem como de marketing e publicidade. A certificação Business Practice valida sua capacidade de usar efetivamente as soluções de marketing digital Adobe para atingir os objetivos comerciais. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Símbolo do desenvolvedor](/help/certifications/assets/developer_blk_small.png) | **Desenvolvedores** são responsáveis pela implementação e integração do Adobe [!DNL Experience Cloud] soluções na pilha de tecnologia de uma organização. Eles devem ter experiência em desenvolvimento de software e proficiência em tecnologias da Web, como HTML, CSS, JavaScript e RESTful APIs. O Desenvolvedor valida sua capacidade de implementar e personalizar com eficácia as soluções de marketing digital da Adobe para atender aos requisitos comerciais. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Aviso do arquiteto](/help/certifications/assets/architect_blk_small.png) | **Arquitetos** são responsáveis por projetar e implementar soluções de nível empresarial usando o Adobe [!DNL Experience Cloud] soluções. Eles devem ter amplo conhecimento das soluções de marketing digital da Adobe e experiência em arquitetura de software, integração e personalização. O Arquiteto valida sua capacidade de projetar e implementar soluções complexas usando soluções de marketing digital de certificação Adobe. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
