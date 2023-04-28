@@ -3,7 +3,8 @@ title: Obtenha certificação no Adobe
 description: Saiba como obter certificação no Adobe. Encontre todos os recursos necessários antes, durante e depois de ter sido certificado.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ A equipe de Credenciais do Adobe faz parceria com fornecedores para ajudar a apo
 | Nome do fornecedor | Descrição | Página de suporte/email |
 | ------- | ------- | ------- |
 | Credly | Sistema de gerenciamento de emblema | [Suporte](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Examidade | Fornecedor de Entrega de Teste (somente Produção Online) | support@examity.com ou 855-Examity (855-392-6489) |
-| PSI | Testar fornecedor de entrega para exames de produto em um local ou em japonês | adobe.psisupport@psionline.com |
-| Xvoucher - Centro de Vouchers de Certificação Adobe | Centro de comprovantes para comprar vales individuais ou em massa | support@xvoucher.com ou [Ajuda online](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| Examidade | Fornecedor de Entrega de Teste (somente Produção Online) | [Email](mailto:support@examity.com){target="_blank"} ou 855-Examity (855-392-6489) |
+| PSI | Testar fornecedor de entrega para exames de produto em um local ou em japonês | [Email](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher - Centro de Vouchers de Certificação Adobe | Centro de comprovantes para comprar vales individuais ou em massa | [Email](mailto:support@xvoucher.com){target="_blank"} ou [Ajuda online](https://help.xvoucher.com/hc/en-us) |
 
 Outros recursos do fornecedor:
 
