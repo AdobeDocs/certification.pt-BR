@@ -7,18 +7,22 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1074'
 ht-degree: 4%
 
 ---
 
 # Renovar o Adobe [!DNL Marketo Engage] certificação
 
-Quando você passa em um exame de certificação, sua certificação é válida por dois anos.
+Sua certificação de Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
-Temos o prazer de anunciar que você agora pode renovar sua certificação por meio de um novo formato sem custo. Ela envolve o uso de cursos e tutoriais de Experience League sob demanda — basta concluir três atividades para renovar sua certificação sem custo algum. Você deve renovar antes que sua certificação expire ou precisará fazer o exame completo para ser certificado novamente.
+Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise cuidadosamente o que será necessário fazer para renovar sua certificação.
+
+Certifique-se de fornecer um tempo amplo para concluir todos os requisitos antes que a certificação expire.
+
+É importante observar que, se a certificação expirar, será necessário refazer o exame de certificação, o que NÃO é gratuito.
 
 >[!IMPORTANT]
 >
