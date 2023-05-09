@@ -6,18 +6,22 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '626'
 ht-degree: 2%
 
 ---
 
 # Renovar o Adobe [!DNL Experience Manager] certificação
 
-Quando você passa em um exame de certificação, sua certificação é válida por dois anos.
+Sua certificação de Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
-Temos o prazer de anunciar que você agora pode renovar sua certificação por meio de um novo formato sem custo. Ela envolve o uso de cursos e tutoriais de Experience League sob demanda — basta concluir três atividades para renovar sua certificação sem custo algum. Você deve renovar antes que sua certificação expire ou precisará fazer o exame completo para ser certificado novamente.
+Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise cuidadosamente o que será necessário fazer para renovar sua certificação.
+
+Certifique-se de fornecer um tempo amplo para concluir todos os requisitos antes que a certificação expire.
+
+É importante observar que, se a certificação expirar, será necessário refazer o exame de certificação, o que NÃO é gratuito.
 
 >[!IMPORTANT]
 >

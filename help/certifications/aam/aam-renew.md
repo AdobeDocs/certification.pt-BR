@@ -7,18 +7,22 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '1134'
 ht-degree: 2%
 
 ---
 
 # Renovar o Adobe [!DNL Audience Manager] certificação
 
-Quando você passa em um exame de certificação, sua certificação é válida por dois anos.
+Sua certificação de Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
-Temos o prazer de anunciar que você agora pode renovar sua certificação por meio de um novo formato sem custo. Ela envolve o uso de cursos e tutoriais de Experience League sob demanda — basta concluir três atividades para renovar sua certificação sem custo algum. Você deve renovar antes que sua certificação expire ou precisará fazer o exame completo para ser certificado novamente.
+Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise cuidadosamente o que será necessário fazer para renovar sua certificação.
+
+Certifique-se de fornecer um tempo amplo para concluir todos os requisitos antes que a certificação expire.
+
+É importante observar que, se a certificação expirar, será necessário refazer o exame de certificação, o que NÃO é gratuito.
 
 >[!IMPORTANT]
 >
