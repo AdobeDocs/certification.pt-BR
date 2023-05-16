@@ -1,13 +1,13 @@
 ---
 title: Certificação de arquitetura Principal
 description: Saiba como se tornar um arquiteto certificado Principal no Experience Manager Sites.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="Exam AD0-E117" type="positivo"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 10c157493e0bd1f947bc5c222ca0612ce275c754
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1594'
 ht-degree: 22%
