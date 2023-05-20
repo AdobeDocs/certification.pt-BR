@@ -1,53 +1,54 @@
 ---
-title: Certificação do Developer Professional
-description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Profissional de desenvolvedores.
+title: Certificação Developer Professional
+description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Profissional de desenvolvedor.
 solution: Analytics
 product: Analytics
 role: Developer
-badge: label="Exam AD0-E213" type="positivo"
+badge: label="Exame AD0-E213" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1230'
 ht-degree: 15%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Analytics] Developer Professional
+# Jornada de certificação para [!DNL Adobe Analytics] Profissional de desenvolvedor
 
-Saiba como se tornar um certificado [!DNL Analytics] Profissional de desenvolvedores.
+Saiba como se tornar um certificado [!DNL Analytics] Profissional de desenvolvedor.
 
 ## Experiência mínima
 
 Você deve ter:
 
-* 6-12 meses de experiência em [!DNL Adobe Analytics] implementação (web e aplicativo móvel)
-* Experiência atuando como um jogador que oferece suporte às equipes de implementação do Analytics em conexão entre a TI e a empresa para entender como os requisitos da empresa se traduzem em uma solução técnica (SDR) e com base nos requisitos fornecidos pelo analista
-* Como entender qual tipo de variável é necessário, onde e como coletar os dados, projetar o modelo de dados (camada de dados), configurar e manter a solução de gerenciamento de tags
+* 6-12 meses de experiência no [!DNL Adobe Analytics] implementação (web e aplicativo móvel)
+* Experiência ao atuar como player apoiando as equipes de implementação do Analytics na ponte entre a TI e a empresa para entender como os requisitos de negócios se traduzem em uma solução técnica (SDR) e com base nos requisitos fornecidos pelo analista
+* Entender qual tipo de variável é necessário, onde e como coletar os dados, projetar o modelo de dados (camada de dados), configurar e manter a solução de gerenciamento de tags
 
-Experimente as seguintes tarefas:
+Experiência com as seguintes tarefas:
 
-* Interpretar um Documento de design de soluções (SDR) e entender o propósito de todos [!DNL Adobe Analytics] variáveis coletadas
+* Interpretação de um Documento de design de soluções (SDR) e compreensão do objetivo de todos [!DNL Adobe Analytics] variáveis coletadas
 * Noções básicas e trabalho com o Adobe (Experience Platform) Launch
-* Noções básicas sobre a configuração da linha de base [!DNL Adobe Analytics] dimensões e eventos Nome da página, Nome do link, Activity Map e assim por diante, mas funcionará com desenvolvedores especialistas para obter mais implementações do cliente - O mapeamento de variável ainda é de propriedade de desenvolvedores de nível especialista
-* Criar e configurar regras no Launch seguindo o design fornecido por um especialista em AA
-* Teste e validação dos dados capturados nas variáveis e eventos acionados por meio do uso de depuradores de console da Web ou sistemas de aplicativos móveis, como logs de charles
-* Como entender o que é uma camada de dados e saber ler um objeto JavaScript
-* Compartilhamento de relatórios, segmentos e o processo para solicitar acesso, mas não como gerenciar grupos de usuários, protocolos de governança, bem como gerenciar o SDR.
-* Fornecer orientação e configurar a solução móvel/SDK
-* Noções básicas sobre a estrutura geral por trás do rastreamento de vídeo (baseado em eventos), fornecida pela documentação da base de conhecimento
-* Execução de relatórios básicos da Analysis Workspace e compreensão das saídas de dados disponíveis na [!DNL Adobe Analytics] Data Warehouse
+* Noções básicas sobre a configuração da linha de base [!DNL Adobe Analytics] dimensões e eventos Nome da página, Nome do link, Activity Map e assim por diante, mas funcionará com desenvolvedores especialistas para mais implementações do cliente - O mapeamento de variáveis ainda é de propriedade de desenvolvedores de nível Expert
+* Criação e configuração de regras no Launch seguindo o design fornecido por um especialista em AA
+* Teste e validação dos dados capturados na variável e nos eventos acionados com o uso de depuradores de console da Web ou sistemas de aplicativos móveis, como logs do Charles
+* Entender o que é uma camada de dados e saber como ler um objeto JavaScript
+* Compartilhamento de relatórios, segmentos e o processo para solicitar acesso, mas não sobre como gerenciar grupos de usuários, protocolos de governança, bem como gerenciar o SDR.
+* Orientação e configuração da solução móvel/SDK
+* Como entender a estrutura geral por trás do rastreamento de vídeo (com base em eventos) determinada documentação da base de conhecimento
+* Criação de relatórios básicos do Analysis Workspace e compreensão dos resultados de dados disponíveis no [!DNL Adobe Analytics] Data Warehouse
 * Experiência básica com o Adobe Experience Platform Launch (Adobe Launch)
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
 * Especialistas/engenheiros de implementação
 * Desenvolvedores
@@ -55,66 +56,66 @@ Experimente as seguintes tarefas:
 
 **Detalhes do exame:**
 
-* Nível: Profissional (experiência de 0 a 12 meses)
-* Pontuação de envio: 31/50
-* Hora: 100 min
-* Delivery: Online processado (requer acesso à câmera)
-* Idiomas disponíveis: Inglês
-* Custo: $125 (global) e $950 (Índia)
-* ID de exame: AD0-E213
+* Nível: profissional (0-12 meses de experiência)
+* Pontuação de aprovação: 31/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 125 (global) e US$ 950 (Índia)
+* Identificação do exame: AD0-E213
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
-Seção 1: Analytics no ecossistema do Adobe Experience Cloud (14%)
+Seção 1: Análises no ecossistema do Adobe Experience Cloud (14%)
 
 * Identificar recursos e funcionalidades da Adobe Experience Cloud ID
-* Identificar os usos do Adobe Launch
-* Identificar como habilitar/suportar [!DNL Adobe Analytics] tags no Ecossistema Adobe Experience Cloud
+* Identificar usos do Adobe Launch
+* Identificar como ativar/oferecer suporte [!DNL Adobe Analytics] tags no ecossistema do Adobe Experience Cloud
 
 Seção 2: Estratégia e design do Analytics com base em uma referência de design de solução (12%)
 
-* Em uma Referência de design de solução, identifique quais objetos de dados devem ser preenchidos
-* Como parte de um documento de Especificações técnicas, identifique como implementar a captura de dados
+* Dada uma Referência de design da solução, identifique quais objetos de dados devem ser preenchidos
+* Dada uma parte de um documento de Especificações técnicas, identifique como implementar a captura de dados
 
 Seção 3: Implementação e configuração do Analytics (30%)
 
-* Identifique as etapas para implantar [!DNL Adobe Analytics] Código
-* Identificar funções do código de implantação mínimo para o rastreamento do Analytics
-* Identifique as etapas para configurar vários componentes no [!DNL Adobe Analytics] interface
-* Identificar funções de [!DNL Adobe Analytics] configurações de conjunto de relatórios e variável
-* Identificar as características de uma camada de dados e os valores da camada de dados
-* Identifique as funções de Medição de aplicativo para recursos de rastreamento, como rastreamento de link e rastreamento de comércio eletrônico
+* Identificar as etapas de implantação [!DNL Adobe Analytics] Código
+* Identificar funções do código de implantação mínimo para rastreamento do Analytics
+* Identifique as etapas para configurar vários componentes no [!DNL Adobe Analytics] IU
+* Identificar funções de [!DNL Adobe Analytics] configurações do conjunto de relatórios e da variável
+* Identificação das características de uma camada de dados e dos valores da camada de dados
+* Identificar funções de Avaliação do aplicativo para recursos de rastreamento, como rastreamento de link e rastreamento de comércio eletrônico
 
 Seção 4: Sistemas de gerenciamento de tags (18%)
 
-* Identificar se os requisitos foram atendidos usando auditorias de tags
-* Identifique as etapas para configurar a marcação do site com o Adobe Launch
+* Identifique se os requisitos foram atendidos usando auditorias de tags
+* Identifique as etapas para configurar a marcação de site com o Adobe Launch
 * Dado um cenário, identifique como ativar, modificar e solucionar problemas de extensões no Adobe Launch
 * Identificar como criar regras e elementos de dados
 
 Seção 5: Mobile Services e API (8%)
 
-* Identifique as funções de [!DNL Adobe Analytics] API (feed de dados, depósito, fontes de dados, relatórios)
+* Identificar as funções de [!DNL Adobe Analytics] API (feed de dados, warehouse, fontes de dados, relatórios)
 * Identificar as características das regras de processamento e dos serviços móveis
 
 Seção 6: Teste, validação e solução de problemas (18%)
 
-* Identificar o significado de erros comuns do JavaScript
-* Identificar o significado de comum [!DNL Adobe Analytics] erros de variáveis
-* Em um cenário, identifique as práticas recomendadas de teste e depuração que devem ser seguidas
-* Identifique como rastrear uma [!DNL Adobe Analytics] chamada do servidor em todo o ciclo de vida (ou seja, da solicitação de beacon à exibição no relatório)
+* Identificar o significado de erros comuns de JavaScript
+* Identificar o significado de [!DNL Adobe Analytics] erros de variáveis
+* Dado um cenário, identifique as práticas recomendadas de validação de teste e depuração que devem ser seguidas
+* Identificar como rastrear um [!DNL Adobe Analytics] chamada de servidor do em todo o seu ciclo de vida (ou seja, da solicitação de sinal para a exibição no relatório)
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Perguntas de exemplo**
+**Exemplos de perguntas**
 
-As perguntas de amostra permitem ver o tipo e o formato dos itens que você encontrará no exame real. Não há necessidade de logon. Os resultados das perguntas de amostra não são armazenados e não preveem seus resultados reais de teste.
+Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
 
-[Veja as perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
 
 **Seção 1: Analytics no ecossistema do Adobe Experience Cloud**
 
@@ -135,10 +136,10 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 
 * [Implementar o  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
 * [Visão geral das tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR){target="_blank"}
-* [Guia da ferramenta do Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}
+* [Guia de ferramentas do Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}
 * [Guia de administração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=pt-BR){target="_blank"}
-* [Desenvolvedores ao vivo: Camada de dados do cliente Adobe: Rastrear os dados do visitante](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
-* [Dica rápida - Transmissão de dados para regras do Launch](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
+* [Developers Live: Camada de dados de clientes Adobe: controle os dados de visitantes](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [Dica rápida - Transmitir dados para as regras do Launch](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
 **Seção 4: Sistemas de gerenciamento de tags**
 
@@ -149,9 +150,9 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 
 **Seção 5: Mobile Services e API**
 
-* [[!DNL Adobe Analytics]: Estudo de caso de integração de E-mail Marketing (ESP)](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
+* [[!DNL Adobe Analytics]: Estudo de caso da integração do Email Marketing (ESP)](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] APIs](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
-* [Bem-vindo ao guia de administração das equipes e da empresa](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}
+* [Bem-vindo ao guia de administração de empresas e equipes](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}
 * [Introdução à API do Analytics](https://developer.adobe.com/analytics-apis/docs/2.0/guides/){target="_blank"}
 * [Guia de administração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=pt-BR){target="_blank"}
 
@@ -165,27 +166,27 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E213
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -193,4 +194,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

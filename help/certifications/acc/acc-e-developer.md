@@ -1,10 +1,10 @@
 ---
-title: Certificação do Developer Expert
+title: Certificação Developer Expert
 description: Saiba como se tornar um especialista certificado da Adobe Developer no [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E330" type="positivo"
+badge: label="Exame AD0-E330" type="positivo"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Campaign Classic] Especialista em desenvolvedores
+# Jornada de certificação para o Adobe [!DNL Campaign Classic] Especialista em desenvolvedores
 
 Saiba como se tornar um especialista certificado da Adobe Developer.
 
@@ -22,23 +22,23 @@ Saiba como se tornar um especialista certificado da Adobe Developer.
 
 Você deve ter:
 
-* Pelo menos dois anos de experiência em software do Campaign
-* Pelo menos três anos de experiência combinada em programação JavaScript, desenvolvimento SQL incluindo ETL e tecnologias da Web (XML, HTML e serviços da Web)
-* Experiência ao executar uma campanha de marketing usando o omnicanal digital
-* Experiência com arquitetura de banco de dados e conhecimento sobre marketing de banco de dados
+* Pelo menos dois anos de experiência em software no Campaign
+* Pelo menos três anos de experiência combinada em programação JavaScript, desenvolvimento de SQL, incluindo ETL, e tecnologias da Web (XML, HTML e serviços da Web)
+* Experiência na execução de uma campanha de marketing usando omnicanal digital
+* Experiência com arquitetura de banco de dados e conhecimento de marketing de banco de dados
 * Capacidade de mapear requisitos para a funcionalidade do Campaign
 * Capacidade de solucionar problemas de implementações do Campaign
-* Noções básicas das configurações do servidor relacionadas ao Campaign
+* Conhecimento básico das configurações de servidor relacionadas ao Campaign
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
 * Consultor técnico
 * Engenheiro de tecnologia de marketing
@@ -46,24 +46,24 @@ Você deve ter:
 
 **Detalhes do exame**
 
-* Nível: Especialista (experiência de 1 a 3 anos)
-* Pontuação de envio: 34/50
-* Hora: 100 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E330
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 34/50
+* Tempo: 100 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E330
 
 **Autoavaliação de disponibilidade**
 
-Complete o [questionário de disponibilidade online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} para ver se a sua experiência atual corresponde à qualificação mínima de candidato recomendada.
+Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
 Seção 1: Configuração do sistema (16%)
 
 * Aplicar configurações e padrões em todo o sistema
-* Dados vários parâmetros, selecione o recurso Adobe Campaign apropriado para implementar um caso de uso
+* Dados os vários parâmetros, selecione o recurso Adobe Campaign apropriado para implementar um caso de uso
 * Solução de problemas de configurações do sistema
 * Implementar configurações personalizadas
 * Identificar os recursos de configuração do Painel de controle do Campaign
@@ -72,51 +72,51 @@ Seção 2: Personalização (22%)
 
 * Dado um conjunto de requisitos, aplique as práticas recomendadas para projetar um modelo de dados
 * Descrever a implementação de APIs no Campaign
-* Descreva as práticas recomendadas para desenvolvimento com JavaScript no Adobe Campaign
+* Descrever as práticas recomendadas para o desenvolvimento com JavaScript no Adobe Campaign
 * Aplicar bibliotecas JavaScript em workflows, chamadas SOAP, regras de tipologia e blocos de personalização
-* Descreva as práticas recomendadas para usar funções SQL no Adobe [!DNL Campaign Classic]
-* Em um cenário, saiba como usar scripts SQL no Adobe [!DNL Campaign Classic]
-* Descreva as funções OTB comumente usadas
+* Descrever as práticas recomendadas para usar funções SQL no Adobe [!DNL Campaign Classic]
+* Dado um cenário, entenda como usar scripts SQL no Adobe [!DNL Campaign Classic]
+* Descrever as funções OOTB usadas com frequência
 
 Seção 3: Gerenciamento de acesso (8%)
 
 * Dado um cenário, defina as configurações de segurança para um operador
-* Descreva como definir as configurações de gerenciamento de acesso com base no documento de design da solução
-* Descreva o gerenciamento de acesso usando o Painel de controle do Campaign
+* Descrever como definir as configurações de gerenciamento de acesso com base no documento de design da solução
+* Descrever o gerenciamento de acesso usando o Painel de controle do Campaign
 * Identificar as limitações do particionamento de dados e quando usar o sysfilter
 
 Seção 4: Integração de dados (16%)
 
-* Em um cenário, selecione a melhor abordagem para integrar com fontes de dados externas
+* Dado um cenário, selecione a melhor abordagem para integrar com fontes de dados externas
 * Implementar práticas recomendadas para o processamento de dados do fluxo de trabalho
 * Aplicar técnicas de integração de dados em um fluxo de trabalho
-* Identificar as configurações de segurança e de rede a serem integradas ao Adobe Campaign a partir de um sistema externo
-* Configurar o processo de CRUD em um schema de fora do Adobe Campaign
+* Identificar configurações de segurança e rede a serem integradas ao Adobe Campaign a partir de um sistema externo
+* Configurar o processo CRUD em um esquema de fora do Adobe Campaign
 
-Seção 5: Manutenção de instância (12%)
+Seção 5: Manutenção de instâncias (12%)
 
-* Entenda e aja de acordo com o Workflow heatmap
-* Demonstrar o processo para criar um fluxo de trabalho personalizado ou um relatório para monitoramento de instâncias
-* Identificar problemas com base em indicadores de sistema
-* Explicar o impacto dos serviços e processos no sistema
+* Entender e agir no mapa de calor do fluxo de trabalho
+* Demonstrar o processo para criar um fluxo de trabalho ou relatório personalizado para monitoramento de instância
+* Identificar problemas com base em indicadores do sistema
+* Explicar o impacto de serviços e processos no sistema
 * Demonstrar métricas/verificações básicas de auditoria do sistema
 
-Seção 6: Configuração da campanha (25%)
+Seção 6: Configuração do Campaign (25%)
 
 * Aplicar técnicas avançadas de personalização
-* Configurar e aplicar target mappings personalizados
-* Identifique o uso adequado do JavaScript no fluxo de trabalho da campanha e por que
-* Aplicar código personalizado para manipular tabelas temporárias e contexto de fluxo de trabalho
+* Configurar e aplicar mapeamentos de público alvo personalizados
+* Identificar o uso apropriado do JavaScript no fluxo de trabalho do Campaign e por quê
+* Aplicar código personalizado para manipular tabelas temporárias e contexto do fluxo de trabalho
 * Validar e depurar a lógica do fluxo de trabalho
 * Aplicar configurações avançadas de entrega
-* Descreva as práticas de fluxo de trabalho que têm um impacto negativo no desempenho
-* Em um caso de uso, recomende um design de fluxo de trabalho de direcionamento complexo
+* Descrever as práticas de fluxo de trabalho que têm um impacto negativo no desempenho
+* Dado um caso de uso, recomendamos um design complexo de fluxo de trabalho para construção do target
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Seção 1: Configuração do sistema**
 
@@ -148,7 +148,7 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 **Seção 4: Integração de dados**
 
 * [Contas externas](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=en){target="_blank"}
-* [Implantação FDA do Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html?lang=en){target="_blank"}
+* [Implantação do FFDA no Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html?lang=en){target="_blank"}
 * [Introdução à importação e exportação de dados](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=en){target="_blank"}
 * [Introdução a workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
 * [FTP (Classe)](https://experienceleague.adobe.com/developer/campaign-api/api/c-FTP.html){target="_blank"}
@@ -163,11 +163,11 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 * [Introdução ao Painel de controle](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html?lang=en){target="_blank"}
 * [Sobre o monitoramento de desempenho](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=en){target="_blank"}
 
-**Seção 6: Configuração da campanha**
+**Seção 6: Configuração do Campaign**
 
 * [Canais de comunicação](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
 * [Introdução à personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en){target="_blank"}
-* [Aplicativos e relatórios da Web - abstractForm](https://experienceleague.adobe.com/developer/campaign-api/api/s-xtk-abstractForm.html){target="_blank"}
+* [Aplicações web e relatórios - abstractForm](https://experienceleague.adobe.com/developer/campaign-api/api/s-xtk-abstractForm.html){target="_blank"}
 * [Sobre serviços da Web](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html?lang=en){target="_blank"}
 * [Usar tabela de recipient personalizada](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=en){target="_blank"}
 * [Sobre modelos](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=en){target="_blank"}
@@ -177,36 +177,36 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Fazer um teste de prática**
+**Fazer um teste prático**
 
-Recomendamos fazer o teste de prática livre antes de começar. Você terá acesso irrestrito a todos os testes de prática disponíveis para exames no nível do especialista Adobe.
+Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
 
-Nossos testes de prática são desenvolvidos a partir do mesmo blueprint dos exames ao vivo. O teste de prática ajudará você a entender os tópicos abordados no exame ao vivo.
+Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
 
-Lembre-se de que passar no teste de prática não garante que você passará no exame de certificação.
+Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
 
-Vá para o [Portal de preparação de teste de certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste de prática.
+Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E330
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E330 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E330 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -214,4 +214,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

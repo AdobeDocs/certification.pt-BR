@@ -1,12 +1,13 @@
 ---
-title: Certificação de arquitetura Principal
+title: Arquiteto Principal da certificação
 description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Arquiteto Principal.
 solution: Analytics
 product: Analytics
 role: Data Architect,Developer
-badge: label="Exam AD0-E207" type="positivo"
+badge: label="Exame AD0-E207" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '963'
 ht-degree: 20%
@@ -19,83 +20,83 @@ Saiba como se tornar um certificado [!DNL Analytics] Arquiteto Principal.
 
 ## Experiência mínima
 
-Você deve ter no mínimo 3 a 4 anos de design de experiência [!DNL Adobe Analytics] arquitetura, especificações de camada de dados e gerenciamento de tags, bem como uma compreensão básica do código JavaScript.
+Você deve ter um mínimo de 3-4 anos de experiência em design [!DNL Adobe Analytics] arquitetura, especificações da camada de dados e gerenciamento de tags, bem como uma compreensão básica do código JavaScript.
 
-Além disso, você é responsável por traduzir os requisitos de negócios em especificações de rastreamento e [!DNL Adobe Analytics] e você está familiarizado com as seguintes tecnologias e ambientes:
+Além disso, você é responsável por transformar os requisitos de negócios em especificações de rastreamento e [!DNL Adobe Analytics] e estiver familiarizado com as seguintes tecnologias e ambientes:
 
-* Aplicativos do Web Analytics
+* Aplicativos de análise da web
 * Adobe Experience Cloud
 * Sistemas Tag Management
 * CMS
-* Ferramentas do desenvolvedor do navegador
+* Ferramentas de desenvolvedor do navegador
 * Ferramentas de otimização
 * Editores de código
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
 * Arquiteto de soluções
-* Gerenciador técnico
+* Gerente técnico
 * Arquiteto de dados
-* Engenheiro do Analytics
+* Engenheiro de análise
 * Estrategista do Analytics
 * Engenheiro de várias soluções
 
 **Detalhes do exame:**
 
-* Nível: Principal (experiência de 3 a 5 anos)
-* Pontuação de envio: 33/50
-* Hora: 100 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E207
+* Nível: Principal (3-5 anos de experiência)
+* Pontuação de aprovação: 33/50
+* Tempo: 100 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do exame: AD0-E207
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
-Seção 1: Descoberta (18%)
+Seção 1: Detecção (18%)
 
-* Demonstrar a capacidade de auditar sites
-* Investigar as necessidades do cliente para criar requisitos comerciais
-* Dado um cenário, crie uma estrutura de medição
+* Demonstrar capacidade de auditar sites
+* Investigar as necessidades do cliente para criar requisitos de negócios
+* Dado um cenário, criar estrutura de medição
 
-Seção 2: Design da solução (26%)
+Seção 2: Projeto da solução (26%)
 
-* Traduza os requisitos da empresa em variáveis e métricas
-* Demonstrar a capacidade de gerenciar configurações dos conjuntos de relatórios
-* Em um cenário, recomende os melhores métodos de coleta de dados
+* Traduzir os requisitos de negócios em variáveis e métricas
+* Demonstrar capacidade de gerenciar configurações de conjuntos de relatórios
+* Dado um cenário, recomende os melhores métodos para coletar dados
 * Escreva especificações técnicas para engenheiros de marcação
-* Escreva especificações técnicas para desenvolvedores do site
+* Escrever especificações técnicas para desenvolvedores de sites
 * Criar usuários/grupos do Experience Cloud
 
-Seção 3: Pós-implementação (28%)
+Seção 3: Pós-implementação (28 %)
 
 * Dado um conjunto de requisitos, valide o rastreamento por meio de ferramentas de desenvolvedor do navegador e relatórios de Adobe
 * Aplicar conceitos de procedimentos para gerenciar a extração de dados e os relacionamentos
 * Avaliar os requisitos de privacidade de dados para estabelecer um modelo de governança de dados
 * Dado um cenário, gerencie fontes de dados e conectores
-* Configure os segmentos necessários e as métricas calculadas para atender às necessidades dos negócios
+* Configure os segmentos necessários e as métricas calculadas para atender aos requisitos de negócios
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Perguntas de exemplo**
+**Exemplos de perguntas**
 
-As perguntas de amostra permitem ver o tipo e o formato dos itens que você encontrará no exame real. Não há necessidade de logon. Os resultados das perguntas de amostra não são armazenados e não preveem seus resultados reais de teste.
+Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
 
-[Veja as perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
 
-**Seção 1: Descoberta**
+**Seção 1: Detecção**
 
 * [Implementar o  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
 * [[!DNL Analytics] Guia de componentes](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=pt-BR){target="_blank"}
@@ -123,48 +124,48 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 * [[!DNL Analytics] Manual do administrador](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=pt-BR){target="_blank"}
 * [A camada de dados orientada por eventos](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
 * [[!DNL Analytics] Guia de exportação](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=pt-BR){target="_blank"}
-* [Adobe [!DNL Target] Guia do profissional de negócios](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Target] Guia do profissional de negócios do](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=pt-BR){target="_blank"}
 * [Adobe [!DNL Experience Cloud] Serviço de identidade](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR){target="_blank"}
 * [[!DNL Analytics] Guia de importação](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=pt-BR){target="_blank"}
 * [[!DNL Analytics] Guia das ferramentas](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}
 * [Processo de inserção de dados](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Implementar o Experience Cloud em sites com tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=pt-BR){target="_blank"}
+* [Implementar o Experience Cloud em sites com o tutorial de tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=pt-BR){target="_blank"}
 
 >[!TAB Obter certificado]
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Fazer um teste de prática**
+**Fazer um teste prático**
 
-Recomendamos fazer o teste de prática livre antes de começar. Você terá acesso irrestrito a todos os testes de prática disponíveis para exames no nível do especialista Adobe.
+Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
 
-Nossos testes de prática são desenvolvidos a partir do mesmo blueprint dos exames ao vivo. O teste de prática ajudará você a entender os tópicos abordados no exame ao vivo.
+Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
 
-Lembre-se de que passar no teste de prática não garante que você passará no exame de certificação.
+Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
 
-Vá para o [Portal de preparação de teste de certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste de prática.
+Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E207
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -172,4 +173,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? Envie um email `certif@adobe.com`
+Dúvidas adicionais? Envie um email `certif@adobe.com`

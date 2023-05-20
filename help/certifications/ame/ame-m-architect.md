@@ -1,37 +1,38 @@
 ---
-title: Certificação de arquitetura Principal
-description: Saiba como se tornar um Adobe Architect certificado Principal no Adobe [!DNL Marketo Engage].
+title: Arquiteto Principal da certificação
+description: Saiba como se tornar um arquiteto de Adobe certificado Principal no Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
-badge: label="Exam AD0-E556" type="positivo"
+badge: label="Exame AD0-E556" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 1%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Marketo Engage] Arquiteto Principal
+# Jornada de certificação para o Adobe [!DNL Marketo Engage] Arquiteto Principal
 
-Saiba como se tornar um arquiteto de Adobe certificado Principal.
+Saiba como se tornar um arquiteto de Adobe Principal certificado.
 
-O Adobe Credential Program lançou uma nova certificação Adobe Marketo Engage Architect para candidatos interessados em obter o título de Principal Certificado. Substitui o processo de entrevista de certificação Marketo Certified Solution Architect (MCSA) anterior. [Leia mais](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+O Programa de Credenciais do Adobe lançou uma nova certificação do Adobe Marketo Engage Architect para candidatos interessados em obter o título Principal Certificado. Ele substitui o processo anterior de entrevista de certificação do Marketo Certified Solution Architect (MCSA). [Leia mais](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
 ## Experiência mínima
 
 Você deve ter:
 
-* Uma certificação atual em [!DNL Marketo Engage] Especialista certificado para profissionais
-* Pelo menos cinco anos de experiência, preferencialmente com múltiplos casos de [!DNL Marketo Engage]
-* Compreensão do impacto nos negócios e explicação/comunicação efetiva das suas soluções às partes interessadas (técnicas e não técnicas) a diferentes níveis
-* A capacidade de conceitualizar uma solução e traduzir para um [!DNL Marketo Engage] arquitetura, entender os processos de negócios afetados pelas integrações
-* Familiaridade com os princípios da arquitetura de uma instância
+* Uma certificação atual no [!DNL Marketo Engage] Especialista certificado de profissional de negócios
+* Pelo menos cinco anos de experiência, de preferência com várias instâncias de [!DNL Marketo Engage]
+* Uma compreensão do impacto nos negócios e explicar/comunicar efetivamente sua solução às partes interessadas (técnicas e não técnicas) em diferentes níveis
+* A capacidade de conceituar uma solução e traduzir em um [!DNL Marketo Engage] e compreender os processos de negócios afetados pelas integrações
+* Familiaridade com os princípios de arquitetura de uma instância
 
 Além disso, você deve estar familiarizado com as seguintes ferramentas e tecnologias:
 
-* Adobe [!DNL Marketo Engage] recursos, funcionalidade e aplicativos
+* Adobe [!DNL Marketo Engage] recursos, funcionalidades e aplicativos
 * Sistemas de banco de dados
 * Conectividade de API
 * Plataforma CRM
@@ -39,145 +40,145 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
 * Gerente de tecnologia de marketing
-* Gerente de operações de marketing/sênior
+* Gerente de operações sênior/de marketing
 * Diretor de operações de marketing
 * Director/Gerente sênior para operações de receita
-* Consultores de operações/tecnologia/automação de marketing
+* Consultores de operações de marketing/tecnologia/automação
 * Tecnólogo de marketing
 * Gerente de campanha
-* Gerente de automação de marketing
+* Gerenciador de automação de marketing
 * Marketing digital
-* Gerente de demanda
+* Gerente de geração de demanda
 * Arquiteto de soluções
-* Analista de sistemas de negócios
+* Analista de sistemas empresariais
 * Gerente de CRM
-* Gerenciador de marketing do CRM/Lifecycle
+* Gerente de marketing de CRM/ciclo de vida
 
 **Detalhes do exame:**
 
 * Pré-requisito: Adobe Certified Expert - [!DNL Marketo Engage] Especialista em profissionais de negócios
-* Nível: Principal (experiência de 3 a 5 anos)
-* Certificação profissional
-* Pontuação de envio: 30/50
-* Hora: 150 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E556
+* Nível: Principal (3-5 anos de experiência)
+* Certificação de profissional
+* Pontuação de aprovação: 30/50
+* Tempo: 150 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do exame: AD0-E556
 
-**Autoavaliação de prontidão**
+**Autoavaliação de disponibilidade**
 
-Complete o [questionário de disponibilidade online](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} para ver se a sua experiência atual corresponde à qualificação mínima de candidato recomendada.
+Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
-Seção 1: Liderança de projeto (16%)
+Seção 1: Liderança em projetos (16%)
 
-* Em um estudo de caso, identifique os interessados certos
-* Avalie um conjunto de requisitos e recomende limites de projeto, orçamento, recursos e escopo
-* Dado um processo modificado, determine quem precisa de habilitação e de um plano de implantação de habilitação eficiente
-* Avaliar uma auditoria e recomendar prioridades e linha do tempo
+* Com base em um estudo de caso,
+* Avaliar um conjunto de requisitos e recomendar limites de projeto, orçamento, recursos e escopo
+* Dado um processo modificado, determine quem precisa de ativação e de um plano de implantação de ativação eficiente
+* Avaliar uma auditoria e recomendar prioridades e cronograma
 
-Seção 2: [!DNL Marketo Engage] Design da arquitetura (48%)
+Seção 2: [!DNL Marketo Engage] Projeto de arquitetura (48%)
 
-* Reúna requisitos/necessidades e recomende o gerenciamento de clientes potenciais e o design do ciclo de vida
-* Revisar uma implementação existente e fornecer conclusões
-* Dada a necessidade de negócios, identifique os diferentes comportamentos para pontuação
+* Coletar requisitos/necessidades e recomendar um gerenciamento de clientes potenciais e um projeto de ciclo de vida
+* Revisar uma implementação existente e fornecer resultados
+* Dada uma necessidade de negócios, identifique os diferentes comportamentos para pontuação
 * Revise uma implementação existente, recomende ações para dimensionar a execução da campanha
-* Descreva um procedimento operacional para roteamento de clientes potenciais em vários países
-* Em um cenário, avalie o impacto e os requisitos para incorporar a nova tecnologia à instância
+* Descrever um procedimento operacional para o roteiro de lead em vários países
+* Dado um cenário, avalie o impacto e os requisitos para incorporar nova tecnologia à instância
 * Identifique os diferentes tipos de integrações e quando usá-las
-* Em um cenário, descreva os vários estágios no ciclo de vida da pessoa afetados pelas alterações/requisitos propostos
-* Aprecie um conjunto de requisitos e recomende uma abordagem à lógica de campanha
+* Dado um cenário, descreva os vários estágios no ciclo de vida da pessoa afetados pelas alterações/requisitos propostos
+* Avaliar um conjunto de requisitos e recomendar uma abordagem para a lógica da campanha
 
 Seção 3: Relatórios e atribuição (20%)
 
-* Com um modelo a ser revisado, explique o conceito de desvios no modelador de ciclo de vida
-* Dada uma publicidade online ou conteúdo social ou orgânico, recomende uma abordagem para relatórios
-* Ilustrar como validar [!DNL Marketo Engage] relatórios nas alterações do ciclo de vida de rastreamento
-* Identificar métricas para usar em um determinado tipo de relatório
-* Identificar como rastrear a atribuição de vários canais para avaliar o ROI
-* Identificar e descrever os prós e contras de diferentes modelos de atribuição
-* Dado um requisito de negócios, descreva os efeitos da configuração de canal para o relatório
+* Dado um modelo para revisão, explique o conceito de desvios no modelador de ciclo de vida
+* Dada uma publicidade on-line ou conteúdo ou social orgânico, recomende uma abordagem para a geração de relatórios
+* Ilustrar como validar [!DNL Marketo Engage] relatórios no rastreamento de alterações no ciclo de vida
+* Identificação de métricas para usar em um determinado tipo de relatório
+* Identifique como rastrear a atribuição de vários canais para avaliar o ROI
+* Identificar e descrever os prós e os contras de diferentes modelos de atribuição
+* Dado um requisito de negócios, descreva os efeitos da configuração do canal para a geração de relatórios
 
 Seção 4: Operações avançadas (16%)
 
-* Em um cenário, identifique as etapas apropriadas para melhorar o gerenciamento ou a governança
-* Considerando um conjunto de requisitos, recomende um schema de dados eficiente
+* Dado o cenário, identificar as etapas adequadas para melhorar a gestão ou a governança
+* Dado um conjunto de requisitos, recomende um esquema de dados eficiente
 * Avaliar a implementação de um cliente e recomendar ações para melhorar a capacidade de entrega
 * Avaliar a implementação de um cliente e recomendar ações para melhorar o gerenciamento administrativo
-* Obtenha informações sobre a implementação de um cliente e recomende práticas de segurança
+* Coletar informações sobre a implementação de um cliente e recomendar práticas de segurança
 * Explicar a aplicabilidade do espaço de trabalho e das partições para um determinado cenário
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Perguntas de exemplo**
+**Exemplos de perguntas**
 
-As perguntas de amostra permitem ver o tipo e o formato dos itens que você encontrará no exame real. Não há necessidade de logon. Os resultados das perguntas de amostra não são armazenados e não preveem seus resultados reais de teste.
+Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
 
-[Veja as perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
 
-**Seção 1: Liderança de projeto**
+**Seção 1: Liderança em projetos**
 
-* [Blog de Campeões - Nação do Marketo](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Blog do Campeão - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 * [Documentação do produto Marketo](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR){target="_blank"}
 * [Documentação - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
-**Seção 2: Adobe [!DNL Marketo Engage] design de arquitetura**
+**Seção 2: Adobe [!DNL Marketo Engage] projeto de arquitetura**
 
-* [Instruções para a criação de uma regra de sincronização personalizada](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [O guia definitivo para a pontuação do cliente potencial](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [Instruções para Criar uma Regra de Sincronização Personalizada](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [O guia definitivo para a pontuação de leads](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
 **Seção 3: Relatórios e atribuição**
 
 * [Visão geral do tipo de relatório](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en){target="_blank"}
 * [Noções básicas sobre atribuição](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html?lang=en){target="_blank"}
-* [Blog de Campeões - Nação do Marketo](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Blog do Campeão - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 
 **Seção 4: Operações avançadas**
 
 * [Documentação do produto Marketo](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR){target="_blank"}
-* [Suprimindo rejeições leves](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [Como entender espaços de trabalho e partições de pessoa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=en){target="_blank"}
+* [Supressão de rejeições temporárias](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=en){target="_blank"}
 
 >[!TAB Obter certificado]
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E556
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -185,4 +186,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

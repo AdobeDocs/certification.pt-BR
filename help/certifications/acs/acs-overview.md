@@ -1,6 +1,6 @@
 ---
 title: Visão geral da certificação Campaign Standard
-description: Visão geral das opções de certificação do Adobe Campaign Standard
+description: Visão geral das opções de certificação para o Adobe Campaign Standard
 solution: Campaign, Campaign Standard
 version: Standard
 exl-id: 72e0fc04-4a63-4951-89d1-8f13ad58d70e
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 **Especialista**
 
-* [Profissionais](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
+* [Profissional de negócios](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Desenvolvedor](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
-Visite o [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.
+Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.

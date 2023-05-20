@@ -1,10 +1,10 @@
 ---
-title: Certificação Profissional para profissionais
-description: Aprenda a se tornar um profissional de Adobe Business certificado em [!DNL Campaign Classic].
+title: Certificação profissional de profissional de negócios
+description: Saiba como se tornar um profissional certificado de Profissional de negócios na Adobe [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E329" type="positivo"
+badge: label="Exame AD0-E329" type="positivo"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,119 +14,119 @@ ht-degree: 12%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Campaign Classic] Profissional profissional
+# Jornada de certificação para o Adobe [!DNL Campaign Classic] Profissional de Profissional de Negócios
 
-Saiba como se tornar um profissional Adobe profissional de profissionais de negócios certificado.
+Saiba como se tornar um profissional certificado de profissional de negócios do Adobe.
 
 ## Experiência mínima
 
 Você deve ter:
 
-* Um mínimo de um ano de experiência de software fundamental do Campaign
+* Um mínimo de um ano de experiência básica em software Campaign
 * Uma compreensão de como executar um query
-* Compreensão do kit de ferramentas que a Adobe Campaign oferece
-* Conhecimento sobre como transformar objetivos de negócios em fluxo de trabalho
+* Uma compreensão do kit de ferramentas que a Adobe Campaign oferece
+* Conhecimento de como traduzir objetivos de negócios em fluxo de trabalho
 * Uma compreensão sobre direcionamento e segmentação de um público-alvo
-* Experiência com testes e envio de um delivery
-* Experiência prática manual configurando fluxos de trabalho personalizados, entre canais e enviando entregas
-* Análise de experiência e monitoramento de logs e erros
-* Compreensão de conceitos e táticas de marketing digital
-* Noções básicas sobre automação, métricas e táticas de campanha (recursos sobre gerenciamento de dados, serviços em nuvem, aprovações e assim por diante)
-* Noções básicas sobre bancos de dados relacionais básicos e definição de metas de consultas em uma campanha
-* Experiência com HTML básico e personalização
-* Gerenciamento do serviço de assinatura (opt in/opt out)
+* Experiência com teste e envio de um delivery
+* Experiência prática de configuração de workflows personalizados entre canais e envio de deliveries
+* Experiência na análise e no monitoramento de logs e erros
+* Uma compreensão de conceitos e táticas de marketing digital
+* Noções básicas sobre automação, métricas e táticas de campanha (recursos relacionados a gerenciamento de dados, serviços em nuvem, aprovações etc.)
+* Uma compreensão de bancos de dados relacionais básicos e de consultas de direcionamento em uma campanha
+* Experiência com HTML e personalização básicas
+* Gerenciamento de serviço de assinatura (aceitação/recusa)
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
 * Consultor de negócios
 * Analista de negócios
-* Gerente de interação
+* Gerenciador de interação
 * Gerente de campanha
-* Comerciante de banco de dados
-* Profissional
+* Profissional de marketing de banco de dados
+* Profissional de negócios
 * Gerente de projeto do CRM
 
 **Detalhes do exame:**
 
-* Nível: Profissional (experiência de 0 a 12 meses)
-* Pontuação de envio: 32/50
-* Hora: 100 min
-* Delivery: Online processado (requer acesso à câmera)
-* Idiomas disponíveis: Inglês
-* Custo: $125 (global) / $95 (Índia)
-* ID de exame: AD0-E329
+* Nível: profissional (0-12 meses de experiência)
+* Pontuação de aprovação: 32/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 125 (global) / US$ 95 (Índia)
+* Identificação do Exame: AD0-E329
 
 **Autoavaliação de disponibilidade**
 
-Complete o [questionário de disponibilidade online](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} para ver se a sua experiência atual corresponde à qualificação mínima de candidato recomendada.
+Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
 Seção 1: Criar uma campanha (29%)
 
-* Reconhecer os diferentes conceitos e objetivos do Digital Marketing
-* Identificar e definir os principais recursos e estruturas da ferramenta em relação à interface
-* Determine o template de delivery apropriado com subdomínio para usar determinados requisitos de negócios
-* Identifique os requisitos adequados de preparação ou personalização do delivery, tendo em conta os requisitos de negócios
-* Determine o público-alvo correto entre perfis e analise os resultados dos resultados esperados
-* Recomendar e aplicar as configurações corretas de aprovação da campanha
+* Reconhecer os diferentes conceitos e objetivos do Marketing digital
+* Identificar e definir os principais recursos e a estrutura da ferramenta em relação à interface
+* Determine o modelo de entrega apropriado com o subdomínio para usar determinados requisitos de negócios
+* Identificar os requisitos apropriados de preparação ou personalização da entrega de acordo com os Requisitos de negócios
+* Determine o público-alvo correto entre os perfis e analise os resultados dos resultados esperados
+* Recomendar e aplicar as configurações corretas de aprovação de campanha
 * Determine o agendamento com base nos requisitos da campanha
-* Reconhecer onde localizar os resultados ou a saída do delivery
-* Diferenciar entre diferentes tipos de erro e aviso (delivery, campanha e nível de workflow)
+* Reconhecer onde localizar os resultados da entrega ou a saída
+* Diferenciar entre diferentes tipos de erro e aviso (nível de delivery, campanha e fluxo de trabalho)
 
-Seção 2: Gerenciamento de fluxo de trabalho e recursos da plataforma (16%)
+Seção 2: Recursos de gerenciamento de fluxo de trabalho e plataforma (16%)
 
-* Em um cenário, determine quais atividades de workflow devem ser selecionadas
+* Dado um cenário, determine quais atividades de workflow devem ser selecionadas
 * Diferenciar entre workflows técnicos e de campanha
-* Em um cenário, determine qual solução de fluxo de trabalho é ideal para situações contínuas, de espera, recorrentes e de interrupção
-* Identifique os novos recursos e características do Campaign V8 em comparação às versões anteriores
+* Dado um cenário, determine qual solução de workflow é ideal para situações contínuas, de espera, recorrentes e de anulação
+* Identifique os novos recursos do Campaign V8 em comparação às versões anteriores
 
-Seção 3: Operações de dados (20%)
+Seção 3: Operações de dados (20 %)
 
-* Determine como modificar colunas em uma visualização para testar dados/saída
-* Descreva as finalidades da união, interseção, exclusão e segmentação do fluxo de trabalho dividido
-* Determine o método apropriado para reconciliar dados, gerar um complemento, desduplicar e importar dados
-* Em um cenário, identifique qual regra de enriquecimento de dados deve ser usada
-* Dado um cenário, determine como segmentar um público e armazená-lo como uma lista e células
-* Em um cenário, determine o melhor método para exportar dados para destinos configurando-os
+* Determine como modificar colunas em uma exibição para testar dados/saída
+* Descreva as finalidades das atividades de união, interseção, exclusão e split workflow targeting
+* Determinar o método apropriado para reconciliar dados, gerar um complemento, desduplicar e importar dados
+* Dado um cenário, identifique qual regra de enriquecimento de dados deve ser usada
+* Dado um cenário, determine como segmentar um público e armazenar como uma lista e células
+* Dado um cenário, determine o melhor método para exportar dados para destinos configurando-os
 
-Seção 4: Configuração do delivery (28%)
+Seção 4: Configuração de delivery (28%)
 
-* Em um cenário, determine o tipo de delivery correto
+* Dado um cenário, determine o tipo de delivery correto
 * Dados os requisitos de negócios, determine como criar modelos
-* Dados os requisitos comerciais, determine as propriedades corretas de delivery
-* Identificar e aplicar opções de personalização OOTB disponíveis para um delivery (link para mirror page, saudação, cancelamento de sub-link)
-* Em um cenário, determine a regra de tipologia apropriada (controle, filtragem, pressão, capacidade)
-* Identifique a causa da exclusão de um recipient de um delivery no log e verifique os diagnósticos do delivery
-* Indique onde/como testar o conteúdo e a personalização do delivery
-* Diferencie entre os vários estados de delivery que ocorrem durante o processamento e aplique as ações
+* Dados os requisitos de negócios, determine as propriedades corretas de delivery
+* Identificar e aplicar as opções de personalização OOTB disponíveis para um delivery (link para mirror page, saudação, unsub-link)
+* Dado um cenário, determine a regra de tipologia apropriada (controle, filtragem, pressão, capacidade)
+* Identifique a causa da exclusão de um recipient de uma entrega no log e verifique o diagnóstico de entrega
+* Indicar onde/como testar o conteúdo e a personalização da entrega
+* Diferenciar entre os vários estados de entrega que ocorrem durante o processamento e aplicar ações
 
 Seção 5: Administração e relatórios (7%)
 
 * Identificar relatórios OOTB comuns e onde acessá-los
-* Determine qual relatório OOTB é necessário com base nos requisitos de relatório
-* Identificar a funcionalidade de análise descritiva no Adobe Campaign
-* Em um cenário, aplique as autorizações certas para limitar/permitir o acesso aos objetos do Campaign
+* Determine qual relatório de OOTB é necessário com base nos requisitos de relatórios
+* Identificação da funcionalidade de Análise descritiva no Adobe Campaign
+* Dado um cenário, aplique as autorizações certas para limitar/permitir acesso aos objetos do Campaign
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Perguntas de exemplo**
+**Exemplos de perguntas**
 
-As perguntas de amostra permitem ver o tipo e o formato dos itens que você encontrará no exame real. Não há necessidade de logon. Os resultados das perguntas de amostra não são armazenados e não preveem seus resultados reais de teste.
+Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
 
-[Veja as perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
 
 **Seção 1: Criar uma campanha**
 
@@ -154,7 +154,7 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 * [Introdução a campanhas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=pt-BR){target="_blank"}
 * [Trabalhar com origens e destinos](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=pt-BR){target="_blank"}
 
-**Seção 4: Configuração do delivery**
+**Seção 4: Configuração de delivery**
 
 * [Criar e projetar entregas de email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=en){target="_blank"}
 * [Canais de comunicação](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
@@ -175,26 +175,26 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E329
 
-[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331 newtab=true"}
+[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -202,4 +202,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

@@ -1,12 +1,13 @@
 ---
-title: Certificação de arquitetura Principal
+title: Arquiteto Principal da certificação
 description: Saiba como se tornar um certificado [!DNL Adobe Target] Arquiteto Principal.
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E407" type="positivo"
+badge: label="Exame AD0-E407" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1228'
 ht-degree: 18%
@@ -15,55 +16,55 @@ ht-degree: 18%
 
 # Jornada de certificação para [!DNL Adobe Target] Arquiteto Principal
 
-Saiba como se tornar um arquiteto de Adobe certificado Principal.
+Saiba como se tornar um arquiteto de Adobe Principal certificado.
 
 ## Experiência mínima
 
 Você deve ter:
 
 * Pelo menos três anos de experiência em otimização de marketing digital, incluindo a implementação [!DNL Adobe Target] atividades
-* Experiência de pelo menos dois anos (ou cinco envolvimentos) na implementação, implantação e solução de problemas [!DNL Adobe Target]
+* Pelo menos dois anos de experiência (ou cinco contratos) na implementação, implantação e solução de problemas [!DNL Adobe Target]
 * Experiência de integração do Target com a Adobe Experience Cloud
-* Compreensão fundamental do JavaScript, HTML, CSS e desenvolvimento da Web de front-end
-* Familiaridade com/conscientização [!DNL Adobe Target] APIs/SDKs, integração do lado do servidor, relatórios e administração
-* Conhecimento da implementação [!DNL Adobe Target] com estruturas de aplicativo de página única (SPA), dispositivos móveis e email e recomendações
+* Entendimento fundamental do JavaScript, HTML, CSS e desenvolvimento de front-end na Web
+* Familiaridade com/percepção de [!DNL Adobe Target] APIs/SDKs, integração do lado do servidor, relatórios e administração
+* Conhecimento da implementação do [!DNL Adobe Target] com estruturas de aplicativo de página única (SPA), dispositivos móveis e email e recomendações
 
-Além disso, você deve conhecer as seguintes tecnologias e ambientes:
+Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
 
 Tecnologias:
 
 * Vários programas do Adobe Experience Cloud (Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, APIs do Target)
 * JavaScript (Ajax, JQuery e assim por diante)
-* Ferramentas de depuração baseadas em navegador (ferramentas do desenvolvedor do Chrome, VEC Helper), JSON para depurar respostas do Target
+* Ferramentas de depuração baseadas em navegador (ferramentas de desenvolvedor do Chrome, auxiliar do VEC), JSON para respostas de depuração do Target
 * Ferramentas de depuração para aplicativos nativos (Charles Proxy, Fiddler)
-* HTML, CSS, HTTP, configuração XML
-* IDEs nativos de desenvolvimento móvel, noções básicas do desenvolvimento de iOS, noções básicas do desenvolvimento de Android
-* Ferramentas de API como o Postman
+* Configuração de HTML, CSS, HTTP, XML
+* IDEs de desenvolvimento nativo para dispositivos móveis, noções básicas de desenvolvimento do iOS, noções básicas de desenvolvimento do Android
+* Ferramentas de API, como o Postman
 * VEC Helper
 
 Ambientes:
 
 * Adobe Experience Cloud
-* Implementação do lado do cliente sem o gerenciador de tags
-* Tag Management Systems, especialmente o Launch (IF)
+* Implementação do lado do cliente sem gerenciador de tags
+* Sistemas Tag Management, especialmente o Launch (IF)
 * Ambientes do lado do servidor (para uso da API)
 * Email
-* Ambientes Web e móveis
-* Ambiente hospedado no AMS
+* Ambientes da Web e móveis
+* Ambiente hospedado pelo AMS
 * Adobe I/O Runtime
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
-* Engenheiro/arquiteto de otimização da taxa de conversão
-* Engenheiro de personalização/arquiteto
+* Engenheiro/arquiteto de otimização de taxa de conversão
+* Engenheiro/arquiteto de personalização
 * Arquiteto de soluções digitais
 * Consultor de transformação digital
 * Líder de otimização de experiência
@@ -72,84 +73,84 @@ Ambientes:
 
 **Detalhes do exame:**
 
-* Nível: Principal (experiência de 3 a 5 anos)
-* Pontuação de envio: 34/50
-* Hora: 100 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E407
+* Nível: Principal (3-5 anos de experiência)
+* Pontuação de aprovação: 34/50
+* Tempo: 100 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E407
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
 Seção 1: [!DNL Adobe Target] fundamentos (12%)
 
 * Identifique o [!DNL Adobe Target] uso para um determinado cenário
-* Explique as tecnologias fundamentais de um [!DNL Adobe Target] implementação
+* Explicar as tecnologias fundamentais de um [!DNL Adobe Target] implementação
 
-Seção 2: Integração com [!DNL Adobe Target] (16%)
+Seção 2: Integração com o [!DNL Adobe Target] (16 %)
 
-* Aplique o processo para integrar [!DNL Adobe Target] com o Adobe Analytics (A4T)
-* Aplique o processo para integrar [!DNL Adobe Target] para o Adobe Experience Manager
+* Aplicar o processo para integrar [!DNL Adobe Target] com Adobe Analytics (A4T)
+* Aplicar o processo para integrar [!DNL Adobe Target] para o Adobe Experience Manager
 * Descrever a integração com outras soluções da Adobe Experience Cloud
-* Descreva a integração com públicos-alvo da Adobe Experience Cloud
+* Descrever a integração com o Adobe Experience Cloud Audiences
 
-Seção 3: [!DNL Adobe Target] administração e governação (13%)
+Seção 3: [!DNL Adobe Target] administração e governança (13%)
 
-* Definir um [!DNL Adobe Target] estratégia de implementação e governação do sistema
-* Aplique o processo e as práticas recomendadas para gerenciar usuários
-* Descreva os aspectos administrativos da configuração de implementação
+* Definir uma configuração [!DNL Adobe Target] estratégia de implementação e governança do sistema
+* Aplicar o processo e as práticas recomendadas para gerenciar usuários
+* Descrever os aspectos administrativos da configuração de implementação
 
-Seção 4: [!DNL Adobe Target] e pontos de contato compatíveis (15%)
+Seção 4: [!DNL Adobe Target] e pontos de contato suportados (15%)
 
-* Descrever a implementação de entrega do lado do cliente
-* Descrever a implementação de entrega do lado do servidor
-* Descreva os requisitos de implementação para dispositivos móveis, segmentação por email e APIs
+* Descrever a implementação da entrega no lado do cliente
+* Descrever a implementação da entrega do lado do servidor
+* Descrever os requisitos de implementação para dispositivos móveis, direcionamento de email e APIs
 
-Seção 5: Aproveitamento [!DNL Adobe Target] recomendações (9%)
+Seção 5: Aproveitamento [!DNL Adobe Target] recomendações (9 %)
 
-* Demonstrar uma compreensão de recomendações, catálogos e ambientes
-* Aplique o processo para configurar as recomendações do Target
+* Demonstrar uma compreensão das recomendações, catálogos e ambientes
+* Aplicar o processo para configurar as recomendações do Target
 
-Seção 6: Arquitetura, projeto e implementação [!DNL Adobe Target] (15%)
+Seção 6: Arquiteto, projeto e implementação [!DNL Adobe Target] (15 %)
 
 * Selecione a implementação correta da mbox
-* Demonstrar o design de um [!DNL Adobe Target] implementação
-* Descreva a implementação de [!DNL Adobe Target] em aplicativos nativos para dispositivos móveis
+* Demonstrar a criação de um [!DNL Adobe Target] implementação
+* Descrever a implementação do [!DNL Adobe Target] em aplicativos móveis nativos
 
 Seção 7: Solução de problemas (20%)
 
 * Solução de problemas de erros de mbox
-* Solução de problemas de erros da atividade
-* Compreender erros de integração
-* Solução de problemas [!DNL Adobe Target] Erros de Recommendations
+* Solução de problemas de erros de atividade
+* Entender erros de integração
+* Solução de problemas [!DNL Adobe Target] Erros do Recommendations
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Perguntas de exemplo**
+**Exemplos de perguntas**
 
-As perguntas de amostra permitem ver o tipo e o formato dos itens que você encontrará no exame real. Não há necessidade de logon. Os resultados das perguntas de amostra não são armazenados e não preveem seus resultados reais de teste.
+Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
 
-[Veja as perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
 
 **Seção 1: [!DNL Adobe Target] fundamentos**
 
 * Guia do profissional de negócios do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=pt-BR){target="_blank"}
 * [Saiba como usar [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
 
-**Seção 2: Integração com[!DNL Adobe Target]**
+**Seção 2: Integração com o[!DNL Adobe Target]**
 
 * Guia do profissional de negócios do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=pt-BR){target="_blank"}
 * [Vídeos e tutoriais do AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=pt-BR){target="_blank"}
 * [Opções de criação de público-alvo](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=pt-BR){target="_blank"}
 * [Públicos da Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=pt-BR){target="_blank"}
-* [Integração do Audience Manager com o Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
+* [Integrar o Audience Manager com o Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Integração do Adobe.IO](http://developers.adobetarget.com/api/#introduction){target="_blank"}
-* [Exportar fragmentos de experiência para [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
+* [Exportar fragmentos de experiência para o [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
 * [Integração do Experience Platform Launch e do AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html?lang=en){target="_blank"}
 * [Publicar segmentos na Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=pt-BR){target="_blank"}
 * [Configuração manual da integração com o [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html?lang=en){target="_blank"}
@@ -159,7 +160,7 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 **Seção 3: [!DNL Adobe Target] administração e governança**
 
 * Guia do profissional de negócios do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Adobe Target] Visão geral da segurança](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf){target="_blank"}
+* [[!DNL Adobe Target] Visão geral de segurança](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf){target="_blank"}
 * [Usuários do Adobe Admin Console](https://helpx.adobe.com/br/enterprise/using/users.html){target="_blank"}
 * [Guia do usuário de administração do AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 
@@ -170,11 +171,11 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 * [Tutorial Implementar a Adobe Experience Cloud em aplicativos para dispositivos móveis](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=en){target="_blank"}
 * [Referência da API do Target](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
 
-**Seção 5: Aproveitamento [!DNL Adobe Target] recomendações**
+**Seção 5: Aproveitamento [!DNL Adobe Target] recommendations**
 
 * Guia do profissional de negócios do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=pt-BR){target="_blank"}
 
-**Seção 6: Arquitetura, projeto e implementação[!DNL Adobe Target]**
+**Seção 6: Arquiteto, projeto e implementação[!DNL Adobe Target]**
 
 * Guia do profissional de negócios do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=pt-BR){target="_blank"}
 * [Adicionar [!DNL Adobe Target] com tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=en){target="_blank"}
@@ -182,43 +183,43 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 * [Saiba como usar [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
 * [Referência da API do Target](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
 * [[!DNL Adobe Target] Visão geral da extensão](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=en){target="_blank"}
-* [Introdução à tomada de decisão no dispositivo](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
-* [Quando usar a decisão no dispositivo vs. de borda](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
-* [Resolvido: Token de acesso JWT](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
+* [Introdução à decisão no dispositivo](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
+* [Quando usar a decisão no dispositivo e na borda](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
+* [Resolvido: token de acesso JWT](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
 **Seção 7: Solução de problemas**
 
 * Guia do profissional de negócios do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=pt-BR){target="_blank"}
 * [[!DNL Adobe Target] Tutoriais](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
-* [Limpar cache e cookies de vários navegadores](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
-* [Exportar fragmentos de experiência para [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
-* [Resolvido: Por que meu público-alvo histórico é exibido como &quot;coletando dados&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
+* [Limpar cache e cookies para vários navegadores](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
+* [Exportar fragmentos de experiência para o [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
+* [Solução: por que meu público-alvo histórico está sendo exibido como &quot;coletando dados&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Públicos da Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=pt-BR){target="_blank"}
 
 >[!TAB Obter certificado]
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E407
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -226,4 +227,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

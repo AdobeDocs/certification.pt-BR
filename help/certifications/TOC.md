@@ -23,8 +23,8 @@ ht-degree: 47%
    + Adobe [!DNL Advertising] {#aac}
       + [Visão geral da publicidade](/help/certifications/aac/aac-overview.md)
       + Profissional {#aac-professional}
-         + [Profissional de negócios (Pesquisa)](/help/certifications/aac/aac-search-p-business.md)
-         + [Profissional (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
+         + [Profissional de negócios (pesquisa)](/help/certifications/aac/aac-search-p-business.md)
+         + [Profissional de negócios (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
       + [Renovação](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
       + [Visão geral do Analytics](/help/certifications/aa/aa-overview.md)
@@ -68,7 +68,7 @@ ht-degree: 47%
          + [Desenvolvedor](/help/certifications/acs/acs-e-developer.md)
       + [Renovação](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
-      + [Visão geral do comércio](/help/certifications/ac/ac-overview.md)
+      + [Visão geral do Commerce](/help/certifications/ac/ac-overview.md)
       + Profissional {#ac-professional}
          + [Profissional de negócios](/help/certifications/ac/ac-p-business.md)
          + [Desenvolvedor](/help/certifications/ac/ac-p-developer.md)
@@ -85,15 +85,15 @@ ht-degree: 47%
       + Profissional {#aem-professional}
          + [Profissional de negócios](/help/certifications/aem/aem-p-business.md)
          + [Desenvolvedor (Sites)](/help/certifications/aem/aem-sites-p-developer.md)
-         + [Desenvolvedor (Ativos)](/help/certifications/aem/aem-assets-p-developer.md)
+         + [Desenvolvedor (Assets)](/help/certifications/aem/aem-assets-p-developer.md)
          + [Desenvolvedor de back-end (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md)
          + [Fundamentos técnicos](/help/certifications/aem/aem-p-foundations.md)
       + Especialista {#aem-expert}
-         + [Profissional (Sites)](/help/certifications/aem/aem-sites-e-business.md)
+         + [Profissional de negócios (Sites)](/help/certifications/aem/aem-sites-e-business.md)
          + [Desenvolvedor (Sites)](/help/certifications/aem/aem-sites-e-developer.md)
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
          + [Desenvolvedor (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
-         + [Migração de Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
+         + [Migração do Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
       + Principal {#aem-master}
          + [Arquiteto (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Renovação](/help/certifications/aem/aem-renew.md)
@@ -112,14 +112,14 @@ ht-degree: 47%
          + [Profissional de negócios](/help/certifications/adc/adc-p-business.md)
       + [Renovação](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
-      + [Visão geral da Real-Time CDP](/help/certifications/rtcdp/rtcdp-overview.md)
+      + [Visão geral do Real-Time CDP](/help/certifications/rtcdp/rtcdp-overview.md)
       + Profissional {#rtcdp-professional}
          + [Profissional de negócios](/help/certifications/rtcdp/rtcdp-p-business.md)
       + Especialista {#rtcdp-expert}
-         + [Profissional técnico](/help/certifications/rtcdp/rtcdp-e-technical.md)
+         + [Técnico](/help/certifications/rtcdp/rtcdp-e-technical.md)
       + [Renovação](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
-      + [Visão geral da Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+      + [Visão geral do Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
       + Especialista {#ajo-expert}
          + [Desenvolvedor](/help/certifications/ajo/ajo-e-developer.md)
       + [Renovação](/help/certifications/ajo/ajo-renew.md)
@@ -133,14 +133,14 @@ ht-degree: 47%
          + [Arquiteto](/help/certifications/at/at-m-architect.md)
       + [Renovação](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
-      + [Visão geral da Workfront](/help/certifications/aw/aw-overview.md)
+      + [Visão geral do Workfront](/help/certifications/aw/aw-overview.md)
       + Profissional {#aw-professional}
-         + [Desenvolvedor (Fusão)](/help/certifications/aw/aw-fusion-p-developer.md)
+         + [Desenvolvedor (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [Gerente de projetos](/help/certifications/aw/aw-p-project-manager.md)
-         + [Desenvolvedor (Core)](/help/certifications/aw/aw-core-p-developer.md)
+         + [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-p-developer.md)
       + Especialista {#aw-expert}
-         + [Desenvolvedor (Core)](/help/certifications/aw/aw-core-e-developer.md)
-         + [Conector avançado AEM](/help/certifications/aw/aw-aem-e-connector.md)
+         + [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-e-developer.md)
+         + [Conector aprimorado para AEM](/help/certifications/aw/aw-aem-e-connector.md)
       + [Renovação](/help/certifications/aw/aw-renew.md)
 + Oculto {#hidden}
-   + [Verificador de Exame de Elegibilidade de Reinicialização de Certificação](exam-eligibility-check.md)
+   + [Verificador de Exame de Elegibilidade de Reinicialização da Certificação](exam-eligibility-check.md)

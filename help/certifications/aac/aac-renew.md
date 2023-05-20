@@ -1,27 +1,28 @@
 ---
 title: Renovação da certificação
-description: Saiba como renovar o Adobe [!DNL Advertising] antes de expirar.
+description: Saiba como renovar seu Adobe [!DNL Advertising] certificação antes de expirar.
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
 
 ---
 
-# Renovar seu [!DNL Advertising] certificação
+# Renove seu [!DNL Advertising] certificação
 
-Quando você passa em um exame de certificação, sua certificação é válida por dois anos.
+Quando você passar em um exame de certificação, sua certificação é válida por dois anos.
 
-Temos o prazer de anunciar que você agora pode renovar sua certificação por meio de um novo formato sem custo. Ela envolve o uso de cursos e tutoriais de Experience League sob demanda, basta concluir três atividades para renovar sua certificação sem custo algum. Você deve renovar antes que sua certificação expire ou precisará fazer o exame completo para ser certificado novamente.
+Temos o prazer de anunciar que você poderá renovar sua certificação agora por meio de um novo formato sem custo. Ela envolve o uso de cursos e tutoriais de Experience League sob demanda - basta concluir três atividades para renovar sua certificação sem custo algum. Você deve renovar antes da certificação expirar, ou você precisará fazer o exame completo para se tornar certificado novamente.
 
 >[!IMPORTANT]
 >
->Os links de exame a seguir mostrarão **only** após uma **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Os links de exames a seguir **somente** depois de um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -29,19 +30,19 @@ Temos o prazer de anunciar que você agora pode renovar sua certificação por m
 
 >[!NOTE]
 >
->A renovação profissional virá em breve.
+>Renovação profissional em breve.
 
 >[!TAB Especialista]
 
 >[!NOTE]
 >
->A renovação de especialistas virá em breve.
+>A renovação por especialistas será em breve.
 
 >[!TAB Principal]
 
 >[!NOTE]
 >
->A renovação principal virá em breve.
+>Renovação principal em breve.
 
 >[!ENDTABS]
 
@@ -49,4 +50,4 @@ Temos o prazer de anunciar que você agora pode renovar sua certificação por m
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

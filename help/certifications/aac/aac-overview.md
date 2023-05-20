@@ -1,6 +1,6 @@
 ---
 title: Visão geral da certificação de publicidade
-description: Visão geral das opções de certificação para publicidade Adobe
+description: Visão geral das opções de certificação para a Adobe Advertising
 solution: Advertising
 product: Advertising Cloud
 exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 **Profissional**
 
-* [Profissional de negócios (Pesquisa)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [Profissional (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [Profissional de negócios (pesquisa)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [Profissional de negócios (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
-Visite o [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.
+Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.

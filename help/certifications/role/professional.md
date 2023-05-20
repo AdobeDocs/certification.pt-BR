@@ -12,35 +12,35 @@ ht-degree: 30%
 
 **Advertising**
 
-* [Profissional de negócios (Pesquisa)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [Profissional (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [Profissional de negócios (pesquisa)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [Profissional de negócios (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
 
-* [Profissionais](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [Profissional de negócios](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [Desenvolvedor](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 
 **Audience Manager**
 
-* [Profissionais](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [Profissional de negócios](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Campaign Classic**
 
-* [Profissionais](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [Profissional de negócios](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Desenvolvedor](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **Commerce**
 
-* [Profissionais](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [Profissional de negócios](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
 * [Desenvolvedor](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
 * [Desenvolvedor](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **Experience Manager**
 
-* [Profissionais](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [Profissional de negócios](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [Desenvolvedor (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [Desenvolvedor (Ativos)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [Desenvolvedor (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [Desenvolvedor de back-end (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [Fundamentos técnicos](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
@@ -58,9 +58,9 @@ ht-degree: 30%
 
 **Workfront**
 
-* [Desenvolvedor (Fusão)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [Desenvolvedor (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Gerente de projetos](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [Desenvolvedor (Core)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 >[!MORELIKETHIS]
 >

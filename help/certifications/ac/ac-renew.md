@@ -1,6 +1,6 @@
 ---
 title: Renovação da certificação
-description: Saiba como renovar o Adobe [!DNL Commerce] antes de expirar.
+description: Saiba como renovar seu Adobe [!DNL Commerce] certificação antes de expirar.
 solution: Commerce
 product: Magento
 role: Developer,User,Data Architect
@@ -16,104 +16,104 @@ ht-degree: 1%
 
 # Renovar o Adobe [!DNL Commerce] certificação
 
-Sua certificação de Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
+Sua certificação Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
-Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise cuidadosamente o que será necessário fazer para renovar sua certificação.
+Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise com cuidado o que será necessário fazer para renovar sua certificação.
 
-Certifique-se de fornecer um tempo amplo para concluir todos os requisitos antes que a certificação expire.
+Certifique-se de fornecer tempo suficiente para concluir todos os requisitos antes da certificação expirar.
 
-É importante observar que, se a certificação expirar, será necessário refazer o exame de certificação, o que NÃO é gratuito.
+É importante observar que, se a certificação expirar, você precisará fazer novamente o exame de certificação, que NÃO é gratuito.
 
 >[!IMPORTANT]
 >
->Os links de avaliação do curso a seguir funcionarão **only** após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Os links de avaliação do curso a seguir funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
 >[!TAB Profissional]
 
-Você deve estar atualmente certificado (não expirado) em:
+Você deve estar certificado no momento (não expirado) em:
 
-* Adobe [!DNL Commerce] Profissional profissional
-* Adobe [!DNL Commerce] Developer Professional
-* Adobe [!DNL Commerce] Profissional de Desenvolvedor Front-End
+* Adobe [!DNL Commerce] Profissional de Profissional de Negócios
+* Adobe [!DNL Commerce] Profissional de desenvolvedor
+* Adobe [!DNL Commerce] Desenvolvedor de front-end Professional
 
-## Instruções para renovar o Adobe [!DNL Commerce] certificação
+## Instruções para a renovação do seu Adobe [!DNL Commerce] certificação
 
-Selecionar **três atividades** para completar e passar pelas avaliações do curso associadas a cada um deles.
+Selecionar **três atividades** para concluir e passar nas avaliações do curso associadas a cada um.
 
-* **Etapa 1**: Logon com êxito em [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
-* **Etapa 2**: Estudo dos cursos de Experience League
+* **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
+* **Etapa 2**: Estude os cursos em Experience League
 * **Etapa 3**: Concluir e passar em cada avaliação de curso com pelo menos 80%
 
-Como alternativa, estude dois cursos, faça duas avaliações de curso e envie um formulário de referência do cliente para validar seu envolvimento em um projeto que totaliza 100 horas nos últimos 12 meses.
+Como alternativa, estude dois cursos, passe em duas avaliações de curso e envie um formulário de referência do cliente validando seu envolvimento em um projeto que totaliza 100 horas nos últimos 12 meses.
 
-Para determinadas certificações Adobe Experience Cloud, o Programa de Credenciais do Adobe aceita **referências do cliente** que valide seu trabalho contínuo como um líder, gerente e/ou participante de um projeto de implementação da Adobe Experience Cloud certificado pelo Adobe.
+Para certas certificações Adobe Experience Cloud, o Adobe Credential Program aceita **referências de cliente** que validam o seu trabalho contínuo como um indivíduo com certificação Adobe que lidera, gerencia e/ou participa de um projeto de implementação do Adobe Experience Cloud.
 
-Nesses casos, você pode fornecer uma referência de cliente afirmando que participou de pelo menos 100 horas de envolvimento demonstrado do projeto durante seu intervalo de renovação de certificação de 2 anos.
+Nesses casos, você pode fornecer uma referência do cliente confirmando que participou de pelo menos 100 horas de envolvimento demonstrado no projeto durante o intervalo de dois anos da renovação da certificação.
 
-**Depois que a referência ao cliente for revisada, você será notificado pela Equipe de Credenciais do Adobe.**
+**Depois que a referência do cliente for revisada, você será notificado pela Equipe de credenciais do Adobe.**
 
-As avaliações do curso são gratuitas. Não há necessidade de as programar e não são produzidas. Se você tiver várias certificações de nível profissional da Adobe Commerce, será necessário apenas preencher os requisitos abaixo e todas as certificações da Adobe Commerce nesse nível serão renovadas.
+As avaliações do curso são gratuitas. Não há necessidade de programá-los, e eles não são monitorados. Se você tiver várias certificações de nível Adobe Commerce Professional, precisará apenas concluir os requisitos abaixo e todas as certificações Adobe Commerce neste nível serão renovadas.
 
 [Formulário de referência do cliente para o Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
 
-### Cursos e avaliações do curso para profissionais:
+### Cursos e avaliações de cursos para profissionais:
 
 | Curso | Avaliação do curso |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] Tendências de comércio eletrônico](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
+| [Adobe [!DNL Commerce] Tendências do comércio eletrônico](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
 | [Adobe [!DNL Commerce] Personalização](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html?lang=en){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
-| [Adobe [!DNL Commerce] Automação de AI](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
-| [[!DNL Commerce]: Integrações de dados para o Experience Platform e além](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
-| [[!DNL Commerce]: Comércio composto no Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
+| [Adobe [!DNL Commerce] Automação de IA](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
+| [[!DNL Commerce]: Integrações de dados para o Experience Platform e mais além](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
+| [[!DNL Commerce]: Comércio combinável no Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
 
 >[!NOTE]
 >
->É possível repetir até concluir com sucesso três atividades ou concluir duas atividades, além do formulário de referência do cliente.
+>Você pode repetir até concluir com êxito três atividades ou duas atividades, além do formulário de referência do cliente.
 
 >[!TAB Especialista e Principal]
 
-Você deve estar atualmente certificado (não expirado) em:
+Você deve estar certificado no momento (não expirado) em:
 
-* Adobe [!DNL Commerce] Especialista em profissionais
+* Adobe [!DNL Commerce] Especialista em Profissionais de Negócios
 * Adobe [!DNL Commerce] Especialista em desenvolvedores
 * Adobe [!DNL Commerce] Arquiteto Principal
-* Adobe [!DNL Commerce] Especialista em desenvolvedores front-end
+* Adobe [!DNL Commerce] Especialista em desenvolvimento front-end
 
-## Instruções para renovar o Adobe [!DNL Commerce] certificação
+## Instruções para a renovação do seu Adobe [!DNL Commerce] certificação
 
-Selecionar **três atividades** para completar e passar pelas avaliações do curso associadas a cada um deles.
+Selecionar **três atividades** para concluir e passar nas avaliações do curso associadas a cada um.
 
-* **Etapa 1**: Logon com êxito em [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
-* **Etapa 2**: Estudo dos cursos de Experience League
+* **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
+* **Etapa 2**: Estude os cursos em Experience League
 * **Etapa 3**: Concluir e passar em cada avaliação de curso com pelo menos 80%
 
-Como alternativa, estude dois cursos, faça duas avaliações de curso e envie um formulário de referência do cliente para validar seu envolvimento em um projeto que totaliza 100 horas nos últimos 12 meses.
+Como alternativa, estude dois cursos, passe em duas avaliações de curso e envie um formulário de referência do cliente validando seu envolvimento em um projeto que totaliza 100 horas nos últimos 12 meses.
 
-Para determinadas certificações Adobe Experience Cloud, o Programa de Credenciais do Adobe aceita **referências do cliente** que valide seu trabalho contínuo como um líder, gerente e/ou participante de um projeto de implementação da Adobe Experience Cloud certificado pelo Adobe.
+Para certas certificações Adobe Experience Cloud, o Adobe Credential Program aceita **referências de cliente** que validam o seu trabalho contínuo como um indivíduo com certificação Adobe que lidera, gerencia e/ou participa de um projeto de implementação do Adobe Experience Cloud.
 
-Nesses casos, você pode fornecer uma referência de cliente afirmando que participou de pelo menos 100 horas de envolvimento demonstrado do projeto durante seu intervalo de renovação de certificação de 2 anos.
+Nesses casos, você pode fornecer uma referência do cliente confirmando que participou de pelo menos 100 horas de envolvimento demonstrado no projeto durante o intervalo de dois anos da renovação da certificação.
 
-**Depois que a referência ao cliente for revisada, você será notificado pela Equipe de Credenciais do Adobe.**
+**Depois que a referência do cliente for revisada, você será notificado pela Equipe de credenciais do Adobe.**
 
-As avaliações do curso são gratuitas. Não há necessidade de as programar e não são produzidas. Se você tiver várias certificações de nível Principal e especialista da Adobe Commerce, será necessário apenas preencher os requisitos abaixo e suas certificações da Adobe Commerce nesse nível serão renovadas.
+As avaliações do curso são gratuitas. Não há necessidade de programá-los, e eles não são monitorados. Se você tiver várias certificações de nível Principal e de especialista da Adobe Commerce, precisará apenas concluir os requisitos abaixo e suas certificações da Adobe Commerce nesse nível serão renovadas.
 
 [Formulário de referência do cliente para o Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
-### Cursos e avaliações do curso para peritos e principais:
+### Cursos e avaliações de cursos para especialistas e principais:
 
 | Curso | Avaliação do curso |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] Tendências de comércio eletrônico](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] Tendências do comércio eletrônico](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
 | [Adobe [!DNL Commerce] Personalização](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html?lang=en){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
-| [Adobe [!DNL Commerce] Automação de AI](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
-| [[!DNL Commerce]: Integrações de dados para o Experience Platform e além](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
-| [[!DNL Commerce]: Comércio composto no Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
+| [Adobe [!DNL Commerce] Automação de IA](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
+| [[!DNL Commerce]: Integrações de dados para o Experience Platform e mais além](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
+| [[!DNL Commerce]: Comércio combinável no Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
 
 >[!NOTE]
 >
->É possível repetir até concluir com sucesso três atividades ou concluir duas atividades, além do formulário de referência do cliente.
+>Você pode repetir até concluir com êxito três atividades ou duas atividades, além do formulário de referência do cliente.
 
 >[!ENDTABS]
 
@@ -121,4 +121,4 @@ As avaliações do curso são gratuitas. Não há necessidade de as programar e 
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

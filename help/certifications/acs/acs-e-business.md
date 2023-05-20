@@ -1,10 +1,10 @@
 ---
-title: Certificação do especialista em profissionais
-description: Aprenda a se tornar um especialista Adobe no Adobe. [!DNL Campaign Standard]
+title: Certificação Business Practitioner Expert
+description: Saiba como se tornar um especialista certificado em prática de negócios Adobe no Adobe [!DNL Campaign Standard]
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
-badge: label="Exam AD0-E307" type="positivo"
+badge: label="Exame AD0-E307" type="positivo"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,107 +14,107 @@ ht-degree: 5%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Campaign Standard] Especialista em profissionais
+# Jornada de certificação para o Adobe [!DNL Campaign Standard] Especialista em Profissionais de Negócios
 
-Aprenda a se tornar um especialista Adobe.
+Saiba como se tornar um especialista certificado em profissionais de negócios Adobe.
 
 ## Experiência mínima
 
-Você deve ter experiência em trabalhar em um ambiente de entrega de canal (email, mala direta, celular e social); familiaridade com táticas de campanha de marketing, como multitoque, ciclo de vida e reativação; e compreensão de métricas de marketing, como ROI, taxas de cliques e conversão.
+Você deve ter experiência em trabalhar em um ambiente de entrega de canal (email, correspondência direta, celular e redes sociais); familiaridade com táticas de campanha de marketing, como multitoque, ciclo de vida e reativação; e uma compreensão de métricas de marketing, como ROI, taxas de click-through e conversão.
 
 Além disso, você deve ter:
 
 * Experiência de campo trabalhando com [!DNL Campaign Standard] com frequência regular
-* Capacidade de processar arquivos de dados
+* A capacidade de processar arquivos de dados
 * Uma compreensão dos conceitos de bancos de dados relacionais, acionadores, APIs e workflows técnicos
-* Uma compreensão de como criar workflows de marketing e trabalhar com dados subjacentes para iniciar workflows de marketing
-* Experiência ao configurar relatórios
-* Noções básicas sobre a configuração e aprovação do delivery da campanha
+* Uma compreensão de como criar workflows de marketing e trabalhar com os dados subjacentes para iniciar workflows de marketing
+* Experiência na configuração de relatórios
+* Uma compreensão da configuração e das aprovações da entrega de campanha
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
-* Gerente de marketing por email
-* Gerente de marketing digital
-* Especialista em campanha
+* Gerenciador de marketing por email
+* Gerenciador de marketing digital
+* Especialista de campanha
 * Gerente de operações de marketing
 * Gerente de produto do Campaign
 * Analista de campanha
-* Gerente de análise de dados
+* Gerenciador de análise de dados
 * Gerente de CRM
-* Gerente de soluções
+* Gerenciador de soluções
 
 **Detalhes do exame:**
 
-* Nível: Especialista (experiência de 1 a 3 anos)
-* Pontuação de envio: 30/50
-* Hora: 100 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês e Japonês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E307
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 30/50
+* Tempo: 100 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês e japonês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E307
 
 **Autoavaliação de disponibilidade**
 
-Complete o [questionário de disponibilidade online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} para ver se a sua experiência atual corresponde à qualificação mínima de candidato recomendada.
+Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
-Seção 1: Gerenciamento de delivery (25%)
+Seção 1: Gestão de deliveries (25%)
 
-* Aplicar práticas recomendadas na configuração e implantação de um delivery
-* Determine a configuração correta do delivery
-* Aplicar funcionalidades do Email Designer ao cenário apropriado
+* Aplicar práticas recomendadas ao configurar e implantar um delivery
+* Determine a configuração de entrega correta
+* Aplicar as funcionalidades do Designer de email ao cenário apropriado
 
-Seção 2: Gerenciamento de campanhas (25%)
+Seção 2: Gestão de campanhas (25%)
 
 * Aplicar configurações para executar workflows
-* Aplique as práticas recomendadas em planejamento, estrutura e modificação de uma campanha
+* Aplicar práticas recomendadas ao planejar, estruturar e modificar uma campanha
 
-Seção 3: Análise dos requisitos (10%)
+Seção 3: Análise de requisitos (10%)
 
-* Projete um novo fluxo de trabalho com base nos requisitos de negócios/campanha
+* Criar um novo fluxo de trabalho com base nos requisitos de negócios/campanha
 * Interpretar os requisitos do cliente
 
 Seção 4: Relatórios (15%)
 
 * Dados os requisitos do cliente, determine o relatório apropriado para gerar
-* Em um cenário, personalize um relatório dinâmico pronto para uso
-* Dados os dados de relatório OOTB de amostra, fornecem uma interpretação dos resultados
-* Aplique o processo para agendar e enviar um relatório do OOTB
+* Dado um cenário, personalize um relatório dinâmico pronto para uso
+* Dados de relatório de OOTB de amostra, forneça uma interpretação dos resultados
+* Aplicar o processo para agendar e enviar um relatório OOTB
 
 Seção 5: Solução de problemas (10%)
 
 * Monitorar e identificar erros
 * Analisar e interpretar resultados da implantação
 
-Seção 6: Gestão e administração de dados (15%)
+Seção 6: Gestão e administração de dados (15 %)
 
 * Explicar os recursos do modelo de dados
 * Executar [!DNL Campaign Standard] administração
-* Aplique o processo para criar públicos-alvo direcionados
+* Aplicar o processo para criar públicos-alvo direcionados
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Seção 1: Gerenciamento de delivery**
+**Seção 1: Gestão de delivery**
 
 * [Gerenciamento de Portfolio](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Sobre a configuração de canal](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
 * [Monitoramento de um delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=en){target="_blank"}
 * [Designer de email do Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
 
-**Seção 2: Gerenciamento de campanhas**
+**Seção 2: Gestão de campanhas**
 
 * [Sobre a execução de fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html?lang=en){target="_blank"}
 * [Modificação de recursos personalizados para solicitações de privacidade](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html?lang=en){target="_blank"}
@@ -125,11 +125,11 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 * [Criação de um workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=en){target="_blank"}
 * [Gerenciamento de usuários](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html?lang=en){target="_blank"}
 
-**Seção 4: Relatório**
+**Seção 4: Relatórios**
 
 * [Introdução aos relatórios dinâmicos](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
 * [Introdução aos relatórios](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html?lang=en){target="_blank"}
-* [Personalizado Criar relatório com base em atributos de perfil personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html?lang=en){target="_blank"}
+* [Personalizar Criação de um relatório com base em atributos de perfil personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html?lang=en){target="_blank"}
 * [Introdução a relatórios dinâmicos](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
 * [Criar relatório com base em segmentos de fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en){target="_blank"}
 
@@ -147,36 +147,36 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Fazer um teste de prática**
+**Fazer um teste prático**
 
-Recomendamos fazer o teste de prática livre antes de começar. Você terá acesso irrestrito a todos os testes de prática disponíveis para exames no nível do especialista Adobe.
+Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
 
-Nossos testes de prática são desenvolvidos a partir do mesmo blueprint dos exames ao vivo. O teste de prática ajudará você a entender os tópicos abordados no exame ao vivo.
+Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
 
-Lembre-se de que passar no teste de prática não garante que você passará no exame de certificação.
+Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
 
-Vá para o [Portal de preparação de teste de certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste de prática.
+Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E307
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E307 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E307 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -184,4 +184,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

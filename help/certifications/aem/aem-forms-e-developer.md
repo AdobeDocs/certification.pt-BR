@@ -1,10 +1,10 @@
 ---
-title: Certificação profissional do desenvolvedor de backend do AEM Forms
-description: Saiba como se tornar um Adobe certificado [!DNL Experience Manager Forms] especialista em desenvolvedores de back-end.
+title: Certificação profissional do desenvolvedor de back-end do AEM Forms
+description: Saiba como se tornar um Adobe de certificado [!DNL Experience Manager Forms] desenvolvedor de back-end Expert.
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E125" type="positivo"
+badge: label="Exame AD0-E125" type="positivo"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Experience Manager Forms] Especialista em desenvolvedores
+# Jornada de certificação para o Adobe [!DNL Experience Manager Forms] Especialista em desenvolvedores
 
 Saiba como se tornar um certificado [!DNL Experience Manager Forms] Especialista em desenvolvedores.
 
@@ -24,107 +24,107 @@ Você deve ter:
 
 * 1 a 3 anos de experiência com o AEM Forms
 * Pelo menos 5 anos de experiência profissional no setor de TI
-* A capacidade de liderar o desenvolvimento, a configuração, o teste e a implantação de soluções personalizadas de formulários
-* A capacidade de configurar um formulário, traduzir requisitos de negócios em workflows, integrar com sistemas externos
-* Compreensão dos componentes básicos do AEM Forms
+* A capacidade de liderar o desenvolvimento, a configuração, o teste e a implantação de soluções de formulários personalizadas
+* A capacidade de configurar um formulário, traduzir requisitos de negócios em fluxos de trabalho, integrar a sistemas externos
+* Uma compreensão dos componentes de base do AEM Forms
 
-Além disso, você deve conhecer as seguintes tecnologias e ambientes:
+Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
 
 * Criar modelos XDP, modelos XFA
 * Criação de PDF forms (estático/dinâmico, interativo e não interativo)
-* Associação de dados de esquema ou XML
+* Associação de esquema ou dados XML
 * Criar fragmento de formulário
 * Criar um Formulário adaptável
-* Depuração de formulário complexo
+* Depuração de formulários complexos
 * Configurar e executar o envio de formulários
 * Criar e implantar instâncias de AEM para formulários adaptáveis
 * Usar modelo de formulário
 * Capacidade de integração com serviços de dados
-* Implementação de workflow
-* Noções básicas do AEM forms workbench (JEE) para criar processos e serviços longos ao vivo - curtos.
+* Implementação do workflow
+* Conhecimento básico do AEM Forms Workbench (JEE) para criar processos e serviços de longa duração e curta duração.
 * Desenvolver clientlibs do javascript usando a API do GuideBridge
-* Com base em sign v Government CAC sabe qual ambiente do AEM Forms desktop ou servidor é baseado para usar
-* Noções básicas sobre Java/J2EE e JavaScript para escrever lógica e chamar serviços diferentes.
+* Com base no CAC de sign v government, saiba qual desktop ou servidor de ambiente AEM Forms deve ser usado
+* Conhecimento básico do Java/J2EE e JavaScript para escrever lógica e chamar serviços diferentes.
 * Preencher previamente um formulário adaptável
-* Compreensão básica ou conhecimento dos componentes OSGi e Sling
+* Noções básicas ou conhecimento de OSGi, componentes do Sling
 * Uso de serviços de documento
-* AEM Designer, AEM workbench, AEM espaço de trabalho
+* Designer de AEM, AEM workbench, AEM workspace
 * Console de formulários adaptáveis
 * Ferramentas Java IDE
 * Maven
-* Ferramentas de GIT/Versionamento
+* Ferramentas de controle de versão/GIT
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
 * Desenvolvedores de AEM
-* Desenvolvedores de AEM sênior
-* Consultores AEM
-* Arquitetos AEM
+* Desenvolvedores sênior do AEM
+* Consultores do AEM
+* Arquitetos do AEM
 
 **Detalhes do exame:**
 
-* Nível: Especialista (experiência de 1 a 3 anos)
-* Pontuação de envio: 27/50
-* Hora: 100 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E125
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 27/50
+* Tempo: 100 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do exame: AD0-E125
 
 **Autoavaliação de disponibilidade**
 
-Complete o [questionário de disponibilidade online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} para ver se a sua experiência atual corresponde à qualificação mínima de candidato recomendada.
+Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
-Seção 1: Criação e gerenciamento do Forms (36%)
+Seção 1: Criação e gerenciamento de Forms (36%)
 
 * Criar Forms
-* Configurar o Forms Data Model
+* Configurar o modelo de dados do Forms
 * Personalizar o AEM Forms
-* Desenvolver e usar o JavaScript ClientLib usando a API GuideBridge
+* Desenvolver e usar a ClientLib do Javascript usando a API do GuideBridge
 
 Seção 2: Processos e fluxos de trabalho (34%)
 
 * Projetar e orquestrar um fluxo de trabalho de aprovação de formulário
 * Desenvolver um pacote OSGi usando a API de serviços de documento
-* Programar diferentes processos em lote assíncronos usando o ponto de extremidade Watchfolder
-* Produza diferentes resultados do design XFA/XDP
-* Manipular o PDF usando serviços Forms ou Assembler
+* Agendar diferentes processos em lote assíncronos usando o endpoint do Watchfolder
+* Produzir saída diferente do design XFA/XDP
+* Manipular PDF usando os serviços do Forms ou Assembler
 * Implementar serviços JDBC
 
 Seção 3: Administração e solução de problemas (18%)
 
-* Solucionar problemas e diferenciar arquivos de log
-* Executar atividades administrativas
+* Solucionar problemas e diferenciar arquivos de registro
+* Executar atividades de administração
 * Aplicar Service Packs
-* Executar AEM configuração do Dispatcher para Forms
-* Navegar por consoles diferentes
+* Executar a configuração do Dispatcher do AEM para Forms
+* Navegar em diferentes consoles
 
-Seção 4: Pontos de extremidade e integrações de API (8%)
+Seção 4: Endpoints e integrações de API (8%)
 
 * Integrar com a Adobe Experience Cloud
 * Gerar e consumir vários serviços de ponto de extremidade
 
-Seção 5: Comunicação interativa (4%)
+Seção 5: Comunicação interativa (4 %)
 
 * Projetar, demonstrar e implementar processos para a comunicação interativa
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Seção 1: Criação e gerenciamento do Forms**
+**Seção 1: Criação e gerenciamento de Forms**
 
 * [Guia do Adobe Experience Manager 6.4 Forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
 * [Integração de dados do AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en){target="_blank"}
@@ -133,20 +133,20 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 
 **Seção 2: Processos e fluxo de trabalho**
 
-* [AEM Forms Tutorials e vídeos](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=pt-BR){target="_blank"}
+* [Tutorials e vídeos do AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=pt-BR){target="_blank"}
 * [Armazenamento personalizado para rascunhos e envios](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html?lang=en){target="_blank"}
 * [Serviço de saída](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html?lang=en#generating-non-interactive-form-documents){target="_blank"}
 
 **Seção 3: Administração e solução de problemas**
 
 * [Depuração do AEM as a Cloud Service usando logs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [Ativar o registro para HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html?lang=en){target="_blank"}
-* [Notas de versão mais recentes do Adobe Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR){target="_blank"}
+* [Habilitar registro para HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html?lang=en){target="_blank"}
+* [Notas de versão mais recentes do Service Pack do Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR){target="_blank"}
 * [Configuração do Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=pt-BR){target="_blank"}
 
-**Seção 4: Pontos de extremidade e integrações da API**
+**Seção 4: Endpoints e integrações de API**
 
-* [Integrar o Adobe Experience Manager Forms as Cloud Service com o Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html?lang=en){target="_blank"}
+* [Integrar o Adobe Experience Manager Forms as Cloud Service com o Acrobat Sign | ADOBE EXPERIENCE MANAGER](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html?lang=en){target="_blank"}
 
 **Seção 5: Comunicação interativa**
 
@@ -157,37 +157,37 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only** após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Fazer um teste de prática**
+**Fazer um teste prático**
 
-Recomendamos fazer o teste de prática livre antes de começar. Você terá acesso irrestrito a todos os testes de prática disponíveis para exames no nível do especialista Adobe.
+Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
 
-Nossos testes de prática são desenvolvidos a partir do mesmo blueprint dos exames ao vivo. O teste de prática ajudará você a entender os tópicos abordados no exame ao vivo.
+Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
 
-Lembre-se de que passar no teste de prática não garante que você passará no exame de certificação.
+Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
 
-Vá para o [Portal de preparação de teste de certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste de prática.
+Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E125
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -195,4 +195,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

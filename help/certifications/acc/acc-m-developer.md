@@ -1,10 +1,10 @@
 ---
-title: Certificação de arquitetura Principal
-description: Saiba como se tornar um Adobe Architect certificado Principal no [!DNL Campaign Classic].
+title: Arquiteto Principal da certificação
+description: Saiba como se tornar um arquiteto de Adobe certificado Principal no [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Exam AD0-E328" type="positivo"
+badge: label="Exame AD0-E328" type="positivo"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,9 +14,9 @@ ht-degree: 10%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Campaign Classic] Arquiteto Principal
+# Jornada de certificação para o Adobe [!DNL Campaign Classic] Arquiteto Principal
 
-Saiba como se tornar um Adobe Architect certificado Principal no [!DNL Campaign Classic].
+Saiba como se tornar um arquiteto de Adobe certificado Principal no [!DNL Campaign Classic].
 
 ## Experiência mínima
 
@@ -26,92 +26,92 @@ Você deve ter:
 * Uma compreensão de como o Adobe Campaign funciona como uma solução de marketing digital e a implementa com base nos requisitos do projeto
 * A capacidade de criar um documento de design funcional
 * A capacidade de criar um escopo funcional de trabalho para uma instalação do Adobe Campaign
-* A capacidade de fornecer o roteiro técnico, incluindo as dependências de LEO e de tarefa
-* A capacidade de fornecer informações sobre requisitos técnicos para o escopo e cronograma do projeto
-* Workshops de experiência com requisitos empresariais
-* Workshop de soluções líderes na experiência
+* A capacidade de fornecer o roteiro técnico, incluindo dependências de LEO e tarefas
+* A capacidade de fornecer informações de requisitos técnicos para o escopo e o cronograma do projeto
+* Experiência com workshops de requisitos comerciais
+* Workshops de design de solução líder de experiência
 * A capacidade de avaliar várias abordagens de solução e fornecer recomendações
 * A capacidade de revisar campanhas e processos existentes em outras plataformas para determinar as necessidades da implementação do Adobe Campaign
-* A capacidade de descrever e demonstrar recursos e recursos do produto
+* A capacidade de descrever e demonstrar os recursos e as capacidades do produto
 * A capacidade de mapear os recursos do produto para casos de alto uso
-* Experiência de apoio à equipe de pré-vendas
-* A capacidade de oferecer armazenamento em cache no desktop (práticas recomendadas do produto, métricas de relatórios e assim por diante)
+* Experiência de suporte à equipe de pré-vendas
+* A capacidade de oferecer coaching no escritório (prática recomendada do produto, métricas de relatórios etc.)
 * Experiência que descreve as diferenças entre modelos de implantação
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
-* Líder técnico com Adobe [!DNL Campaign Classic] fundo
-* Adobe Certified Expert - [!DNL Campaign Classic] Desenvolvedor
-* Adobe [!DNL Campaign Classic] desenvolvedor ou função semelhante
+* Líder técnica com Adobe [!DNL Campaign Classic] plano de fundo
+* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Desenvolvedor
+* Adobe [!DNL Campaign Classic] função de desenvolvedor ou similar
 * Arquiteto de soluções Martech
 
 **Detalhes do exame:**
 
-* Nível: Principal (experiência de 3 a 5 anos)
-* Pontuação de envio: 30/50
-* Hora: 100 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E328
+* Nível: Principal (3-5 anos de experiência)
+* Pontuação de aprovação: 30/50
+* Tempo: 100 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E328
 
-**Autoavaliação de prontidão**
+**Autoavaliação de disponibilidade**
 
-Complete o [questionário de disponibilidade online](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} para ver se a sua experiência atual corresponde à qualificação mínima de candidato recomendada.
+Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
 Seção 1: Definição da solução (24%)
 
-* Dados os requisitos específicos de negócios, determine as informações relevantes para o design da solução
-* Considerando um cenário, forneça recomendações de desempenho, infraestrutura e configuração
+* Dados os requisitos específicos de negócios, determine as informações relevantes para o projeto da solução
+* Dado um cenário, forneça desempenho, infraestrutura e recomendações de configuração
 * Analisar [!DNL Campaign Classic] configurações para aconselhar sobre melhorias
-* Determine os requisitos da empresa para projetar uma solução de marketing digital
-* Em um cenário, especifique o método de implantação de produto correto
+* Determine os requisitos comerciais para projetar uma solução de marketing digital
+* Dado um cenário, especifique o método correto de implantação do produto
 
-Seção 2: Paisagem de dados (24%)
+Seção 2: Cenário de dados (24%)
 
-* Especifique os parâmetros de design do Modelo de dados e do mapa de integração para uma solução do Campaign com outras ferramentas do cliente
-* Em um cenário, determine o design da solução necessário para estar em conformidade com as leis e regulamentos
-* Em um cenário, determine o design ideal do fluxo de trabalho técnico
+* Especifique o Modelo de dados e os parâmetros de design do mapa de integração para uma solução do Campaign com outras ferramentas do cliente
+* Dado um cenário, determine o design da solução necessário para estar em conformidade com as leis e normas
+* Dado um cenário, determine o design de fluxo de trabalho técnico ideal
 
-Seção 3: Instalação e gestão (16%)
+Seção 3: Instalação e gerenciamento (16%)
 
-* Dado um conjunto de módulos de chave, valide a configuração do módulo
-* Considerando um cenário, recomende soluções de integração para habilitar integrações nativas e de terceiros com o Adobe [!DNL Campaign Classic]
-* Dado um cenário, determine métodos de diagnóstico
-* Especificar parâmetros de integração e abordagem para integrações de aplicativos Adobe e não-Adobe
-* Em um cenário, aconselhe-se sobre a infraestrutura de hardware apropriada necessária durante o design da solução
-* Em um cenário, determine o método correto de promoção da solução para o respectivo ambiente
+* Dado um conjunto de módulos chave, valide a configuração da configuração do módulo
+* Dado um cenário, recomende soluções de integração para permitir integrações nativas e de terceiros com o Adobe [!DNL Campaign Classic]
+* Dado um cenário, determine os métodos de diagnóstico
+* Especificar parâmetros de integração e abordagem para integrações de Adobe e de aplicativos que não sejam Adobe
+* Dado um cenário, aconselhe sobre a infraestrutura de hardware apropriada necessária durante o projeto da solução
+* Dado um cenário, determine o método correto para a promoção da solução para o respectivo ambiente
 
-Seção 4: Liderança de projeto (10%)
+Seção 4: Liderança em projetos (10%)
 
 * Dados os requisitos do cliente, determine as atividades e os recursos apropriados necessários
-* Em um cenário, analise a solução geral para determinar riscos técnicos, suposições, problemas e dependências
-* Comunicar o conhecimento técnico do ACC às equipes internas e externas
+* Dado um cenário, analisar a solução geral para determinar riscos técnicos, premissas, problemas e dependências
+* Comunicar a experiência técnica do ACC às equipes internas e externas
 
 Seção 5: Personalização (26%)
 
 * Analisar e projetar recursos personalizados
 * Analisar e projetar integrações personalizadas
-* Determine o método correto para projetar templates de campanha e workflows complexos
+* Determine o método correto para projetar modelos de campanha e fluxos de trabalho complexos
 * Determine o método correto para projetar soluções usando módulos adicionais
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Seção 1: Definição de solução**
+**Seção 1: Definição da solução**
 
 * [Gerenciar subscrições](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html?lang=en){target="_blank"}
 * [Introdução à configuração do servidor do Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=en){target="_blank"}
@@ -119,7 +119,7 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 * [Recomendações para dimensionamento de hardware](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html?lang=en){target="_blank"}
 * [Implantação independente](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=en){target="_blank"}
 
-**Seção 2: Paisagem de dados**
+**Seção 2: Cenário de dados**
 
 * [Power Boster e Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html?lang=en){target="_blank"}
 * [Restringir visualização de PII](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html?lang=en){target="_blank"}
@@ -127,7 +127,7 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 * [Práticas recomendadas do modelo de dados](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=br){target="_blank"}
 * [Gerenciar solicitações de privacidade](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
 
-**Seção 3: Instalação e gestão**
+**Seção 3: Instalação e gerenciamento**
 
 * [Criação de espaços de oferta](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html?lang=en){target="_blank"}
 * [Conectores CRM](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html?lang=en){target="_blank"}
@@ -135,7 +135,7 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 * [Trabalhar com pacotes de dados](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
 * [Contas externas](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=en){target="_blank"}
 
-**Seção 4: Liderança de projeto**
+**Seção 4: Liderança em projetos**
 
 * [Monitorar a execução do fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=br){target="_blank"}
 * [Configurar identidade e logon único](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
@@ -155,26 +155,26 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E328
 
-[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328 newtab=true"}
+[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -182,4 +182,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

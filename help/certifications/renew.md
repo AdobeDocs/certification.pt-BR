@@ -1,5 +1,5 @@
 ---
-title: Programa de Renovação de Certificação Adobe
+title: Programa de renovação da certificação Adobe
 description: Saiba como renovar sua certificação antes de expirar.
 solution: Real-time Customer Data Platform
 role: User
@@ -15,31 +15,31 @@ ht-degree: 3%
 
 # Renovar sua certificação {#renew}
 
-Para manter a certificação Adobe, é necessário renová-la a cada 24 meses. A não renovação da certificação dentro do período especificado resultará na expiração, e você precisará fazer o exame de certificação completo novamente para ser recertificado.
+Para manter sua certificação de Adobe, você deve renová-la a cada 24 meses. Se você não renovar sua certificação dentro do prazo especificado, o resultado será sua expiração, e você precisará fazer o exame de certificação completo novamente para obter a nova certificação.
 
-Para evitar interrupções no seu status de certificação, acompanhe a data de renovação da certificação e certifique-se de concluir o processo de renovação antes da data de expiração.
+Para evitar interrupções no status da certificação, controle a data de renovação da certificação e conclua o processo de renovação antes da data de expiração.
 
-Consulte suas certificações atuais e expiradas na guia certificações, na [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+Veja suas certificações atuais e expiradas na guia Certificações, no [Sistema de Gerenciamento de Credenciais Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
 ## Como renovo minha certificação?
 
-Renovar sua certificação de Adobe é fácil! Dependendo do seu nível de certificação, solução ou função de cargo, você concluirá sua renovação trabalhando por meio de atividades de aprendizado contínuo e avaliações de aprovação ou passando um exame de função de trabalho sob demanda não processado.
+É fácil renovar sua certificação de Adobe! Dependendo do seu nível de certificação, solução ou função, você concluirá a renovação trabalhando em atividades de aprendizado contínuo e passando nas avaliações, ou passando em um exame de função de trabalho sob demanda não supervisionado.
 
-O Adobe oferece vários recursos e ferramentas para ajudá-lo a renovar sua certificação, incluindo:
+O Adobe oferece vários recursos e ferramentas para ajudar você a renovar sua certificação, incluindo:
 
-* Acesso a cursos em linha
+* Acesso a cursos online
 * Tutorials
-* Materiais dos estudos
+* Materiais de estudo
 
 ## Quanto custa?
 
-Você pode renovar sua certificação **gratuitamente**. Isso oferece uma maneira econômica de manter sua certificação e manter suas habilidades de solução atualizadas.
+Você pode renovar sua certificação **gratuitamente**. Dessa forma, você tem uma maneira econômica de manter sua certificação e seus conhecimentos sobre soluções atualizados.
 
-Com o suporte e os recursos do Adobe, a renovação de uma Certificação Adobe Experience Cloud é uma tarefa simples que permite manter sua experiência e se manter competitiva no mercado digital.
+Com suporte e recursos do Adobe, a renovação de uma certificação Adobe Experience Cloud é um processo simples que permite manter sua experiência e a competitividade no mercado digital.
 
 ## Opções de renovação disponíveis
 
-Agora você pode renovar sua certificação por meio de aprendizagem contínua ou fazendo um exame de renovação sob demanda. Para saber como renovar sua certificação atual antes de expirar, selecione uma solução abaixo.
+Agora você pode renovar sua certificação por meio de aprendizado contínuo ou fazendo um exame de renovação sob demanda. Para saber como renovar sua certificação atual antes da expiração, selecione uma solução abaixo.
 
 ### Soluções
 
@@ -57,4 +57,4 @@ Agora você pode renovar sua certificação por meio de aprendizagem contínua o
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

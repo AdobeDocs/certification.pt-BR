@@ -3,186 +3,187 @@ title: Certificação Core Developer Expert
 description: Saiba como se tornar um especialista certificado da Adobe Developer no Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E904" type="positivo"
+badge: label="Exame AD0-E904" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1709'
 ht-degree: 0%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Workfront] Especialista em desenvolvedores principais
+# Jornada de certificação para o Adobe [!DNL Workfront] Especialista do desenvolvedor principal
 
-Saiba como se tornar um especialista certificado da Adobe Developer.
+Saiba como se tornar um Adobe Developer Expert certificado.
 
 ## Experiência mínima
 
-Deve ter pelo menos 18-24 meses de experiência com [!DNL Workfront]e podem:
+Você deve ter pelo menos 18-24 meses de experiência com [!DNL Workfront]e podem:
 
-* Navegue pelo [!DNL Workfront] sistema, compreendendo onde fica sua funcionalidade
+* Navegue pela [!DNL Workfront] sistema, compreendendo onde reside sua funcionalidade
 * Configurar todos os aspectos do sistema
-* Discuta os requisitos com os clientes e traduza-os em uma solução viável
-* Conceber e modificar o processo existente de melhoria de forma colaborativa
+* Discuta os requisitos com os clientes e transforme-os em uma solução viável
+* Eliminar e modificar o processo existente para melhoria de forma colaborativa
 * Entender e aplicar os casos de uso de marketing e PMO
-* Recomendar e criar relatórios que suportem processos do cliente
+* Recomendar e criar relatórios que deem suporte aos processos do cliente
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
-* [!DNL Workfront] Administradores do sistema especializados na implementação e configuração de instância nova ou atualizada
-* Projetista/arquiteto de processos
+* [!DNL Workfront] Administradores do sistema especializados em implementação e configuração de instância nova ou atualizada
+* Designer/arquiteto de processos
 * Analista de negócios
 * Consultor técnico
 * Consultor de configuração
 
 **Detalhes do exame:**
 
-* Nível: Especialista (experiência de 1 a 3 anos)
-* Pontuação de envio: 36/64
-* Hora: 130 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E904
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 36/64
+* Tempo: 130 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E904
 
 **Autoavaliação de disponibilidade**
 
-Complete o [questionário de disponibilidade online](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} para ver se a sua experiência atual corresponde à qualificação mínima de candidato recomendada.
+Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
 Seção 1: Administração e configuração do sistema principal (17%)
 
-* Em um cenário, descreva maneiras de compartilhar permissões e acesso com eficácia.
-* Em um diagrama, selecione a ordem de acesso correta da hierarquia.
-* Em um cenário, identifique quando um status de grupo versus um status de sistema deve ser usado.
-* Dado um conjunto de dados, demonstre os recursos do início.
-* Em um cenário, identifique as práticas recomendadas para os usuários de provisionamento automático.
-* Dado um cenário, demonstrar como Grupos e equipes no perfil de um usuário podem afetar o que pode ser visto ou feito dentro do [!DNL Workfront].
-* Em um cenário, recomende se uma Equipe deve ser padrão, Kanban ou Sombra.
-* Em um cenário, determine a prática recomendada para implantar storyboards personalizados da equipe ágil.
+* Dado um cenário, descreva maneiras de compartilhar permissões e acesso com eficiência.
+* Dado um diagrama, selecione a ordem correta de acesso à hierarquia.
+* Dado um cenário, identifique quando um status de grupo x um status de sistema deve ser usado.
+* Dado um conjunto de dados, demonstre os recursos de kickstarts.
+* Dado um cenário, identifique as práticas recomendadas para usuários de provisionamento automático.
+* Dado um cenário, demonstrar como grupos e equipes no perfil de um usuário podem afetar o que pode ser visto ou feito no [!DNL Workfront].
+* Dado um cenário, recomende se uma Equipe deve ser padrão, Kanban ou Scrum.
+* Dado um cenário, determine a prática recomendada para implantar storyboards personalizados de equipe Agile.
 
-Seção 2: Participação, formulários personalizados e gerenciamento de projetos (17%)
+Seção 2: Entrada, formulários personalizados e gerenciamento de projetos (17%)
 
-* Em um cenário, identifique as áreas de configuração necessárias para suportar as alocações de trabalho.
-* Em um cenário, identifique as configurações necessárias.
-* Em um cenário, identifique como um valor é passado para um formulário personalizado de projeto.
-* Em um cenário, descreva o que deve ser feito para lidar com erros de relatório e cálculo.
-* Em um cenário, identifique elementos de suporte que se prestam a modelos.
+* Dado um cenário, identifique as áreas de configuração necessárias para dar suporte às alocações de trabalho.
+* Dado um cenário, identifique as configurações necessárias.
+* Dado um cenário, identifique como um valor é passado para um formulário personalizado de projeto.
+* Dado o cenário, descreva o que deve ser feito para resolver erros de relatório e cálculo.
+* Dado um cenário, identifique elementos de suporte que se prestam a modelos.
 
-Seção 3: Funcionalidade estratégica - Gerenciamento de portfólio e programa, gerenciamento de recursos (13%)
+Seção 3: Funcionalidade estratégica - gestão de carteiras e programas, gestão de recursos (13 %)
 
-* Em um cenário, determine como capturar KPIs pós-projeto que são refletidos no Portfolio Otimizer.
-* Em um cenário, ajuste o caso de negócios para refletir uma alteração no escopo do projeto.
-* Em um cenário, crie uma visualização que identifique em um portfólio se um projeto atende ao nível médio de critérios necessários para ser executado.
-* Dado um cenário, descreva formas de gerir o risco qualitativamente ou quantitativamente.
-* Em caso de cenário, prever um mecanismo que garanta que os projetos prioritários mais elevados sejam plenamente dotados de pessoal.
-* Em um cenário, determine a causa raiz.
-* Em um determinado cenário, determine por que um usuário está acima do alocado.
+* Dado um cenário, determine como capturar KPIs pós-projeto que são refletidos no Otimizador de Portfolio.
+* Dado um cenário, ajuste o business case para refletir uma mudança no escopo do projeto.
+* Dado um cenário, crie uma visualização que identifique em um portfólio se um projeto atende ao nível médio de critérios necessários para ser executado.
+* Dado um cenário, descreva maneiras de gerenciar o risco qualitativa ou quantitativamente.
+* Dado o cenário, fornecer um mecanismo para garantir que os projetos com a maior prioridade sejam totalmente dotados de pessoal.
+* Dado um cenário, determine a causa raiz.
+* Dado um cenário, determine por que um usuário está superalocado.
 
-Seção 4: Gerenciamento de documentos e prova (13%)
+Seção 4: Gestão de documentos e prova (13%)
 
-* Dado um cenário, demonstre quando utilizar gerenciamento de documentos versus provas
-* Em um cenário, identifique as práticas recomendadas para usar o visualizador de prova, as configurações e a funcionalidade de marcação
+* Dado um cenário, demonstrar quando utilizar gerenciamento de documentos versus prova
+* Dado um cenário, identifique as práticas recomendadas para usar a funcionalidade de visualizador de provas, configurações e marcação
 * Dado um cenário, demonstre como editar e definir permissões em um arquivo.
-* Dado um cenário, demonstrar como configurar o armazenamento externo de documentos com restrições de segurança
+* Dado um cenário, demonstrar como configurar o armazenamento de documentos externo com restrições de segurança
 
-Seção 5: Relatórios (13%)
+Seção 5: Relatórios (13 %)
 
-* Em um cenário, descreva maneiras de combinar várias colunas de dados em uma única coluna.
-* Em um relatório ou filtro, demonstre as vantagens de usar valores curingas.
-* Identificar relacionamentos pai-filho em um relatório.
-* Em um determinado cenário, descreva como os relatórios facilitam a execução eficiente do trabalho.
-* Dado um cenário, ilustre [!DNL Workfront] Relatórios para monitorar e melhorar a adoção do usuário.
+* Dado um cenário, descreva maneiras de combinar várias colunas de dados em uma única coluna.
+* Dado um relatório ou filtro, demonstre os méritos de usar valores curingas.
+* Identificar relações pai-filho em um relatório.
+* Dado o cenário, descreva como os relatórios facilitam a execução eficiente do trabalho.
+* Dado um cenário, ilustre [!DNL Workfront] Relatórios para monitorar e melhorar a adoção de usuários.
 
-Seção 6: Metodologia/práticas recomendadas/casos de uso (20%)
+Seção 6: Metodologia / práticas recomendadas / casos de uso (20%)
 
-* Considerando um cenário em [!DNL Workfront], demonstre a funcionalidade para configurar o rastreamento de deliveries que fazem parte de uma única campanha.
-* Considerando um cenário em [!DNL Workfront], demonstrar funcionalidade em torno da priorização estratégica e da justificação do trabalho.
-* Considerando um cenário em [!DNL Workfront], demonstrar funcionalidade em relação a finanças, utilização, previsão, taxas/registros de faturamento
-* Considerando um cenário em [!DNL Workfront], demonstrarem funcionalidade ao configurar fluxos de trabalho e aprovações.
-* Em um cenário como Ágil, identifique os recursos nativos para mostrar o progresso.
-* Em um cenário, recomende uma estrutura de controle sobre a administração do sistema ao expandir a instância de um cliente.
-* Em um cenário, identifique áreas a serem consideradas ao expandir a instância de um cliente para permitir que equipes adicionais trabalhem juntas.
+* Dado um cenário dentro de [!DNL Workfront], demonstrar a funcionalidade para configurar o rastreamento de produtos finais que fazem parte de uma única campanha.
+* Dado um cenário dentro de [!DNL Workfront], demonstrar a funcionalidade em torno da priorização estratégica e da justificação do trabalho.
+* Dado um cenário dentro de [!DNL Workfront], demonstrar funcionalidade em finanças, utilização, previsão, taxas/registros de cobrança
+* Dado um cenário dentro de [!DNL Workfront], demonstrar a funcionalidade relacionada à configuração de fluxo de trabalho e aprovações.
+* Dado um cenário para Agile, identifique recursos nativos para mostrar o progresso.
+* Dado um cenário, recomende uma estrutura de governança em torno da administração do sistema ao expandir a instância de um cliente.
+* Dado um cenário, identifique áreas para consideração ao expandir a instância de um cliente para permitir que equipes adicionais trabalhem juntas.
 
-Seção 7: Consultoria empresarial (8%)
+Seção 7: Consultoria de negócios (8%)
 
-* Em um cenário, descreva o processo necessário para apoiar totalmente esse esforço.
-* Em um cenário, explique como adaptar um fluxo de trabalho existente para atender a uma mudança recente em um processo de negócios crítico e inovador.
-* Em um determinado cenário, identifique as configurações mais difíceis de serem alteradas para uma determinada instância.
-* Em um cenário, identifique as principais considerações do gerenciamento de alterações para um [!DNL Workfront] implementação
-* Em um cenário, forneça uma recomendação.
+* Dado um cenário, descreva o processo necessário para dar suporte total a esse esforço.
+* Dado um cenário, explique como adaptar um fluxo de trabalho existente para atender a uma mudança recente em um processo de negócios crítico e em curso.
+* Dado um cenário, identifique as configurações mais difíceis de alterar para uma determinada instância.
+* Dado um cenário, identifique as principais considerações do gerenciamento de alterações para um [!DNL Workfront] implementação
+* Dado um cenário, forneça uma recomendação.
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Seção 1: Administração e configuração do sistema principal**
 
 * [Configuração do sistema: grupos e usuários](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
-* [Como os níveis de acesso e as permissões funcionam em conjunto](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [Status do projeto do sistema](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
-* [Primeiros Passos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
-* [Mapear atributos do usuário e provisionar novos usuários automaticamente](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
+* [Como os níveis de acesso e as permissões funcionam juntos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
+* [Status de projeto do sistema](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
+* [Início](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
+* [Mapear atributos do usuário e provisionar automaticamente novos usuários](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
 * [Criar grupos e subgrupos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html?lang=en){target="_blank"}
 
-**Seção 2: Participação, formulários personalizados e gerenciamento de projetos**
+**Seção 2: Entrada, formulários personalizados e gerenciamento de projetos**
 
-* [Definir configurações de projeto padrão global](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
+* [Definir configurações globais padrão do projeto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
 * [Definir minhas configurações](https://experienceleague.adobe.com/docs/workfront/using/basics/manage-account-profile/configure-user-profile/configure-my-settings.html){target="_blank"}
 * [Adicionar dados calculados a um formulário personalizado](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [Erro ao manipular o passo a passo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html?lang=en){target="_blank"}
+* [Manipulação de erros de apresentação](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html?lang=en){target="_blank"}
 * [Prática recomendada - Modelos de projeto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
-**Seção 3: Funcionalidade estratégica - gerenciamento de portfólio e programa, gerenciamento de recursos**
+**Seção 3: Funcionalidade estratégica — gerenciamento de portfólio e programa, gerenciamento de recursos**
 
-* [Entender os KPIs no Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [Gerenciamento do escopo do projeto](https://business.adobe.com/blog/basics/scope-management){target="_blank"}
+* [Entender KPIs no Analytics aprimorado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
+* [Gerenciamento do Escopo do Projeto](https://business.adobe.com/blog/basics/scope-management){target="_blank"}
 * [Priorizar e gerenciar o trabalho com portfólios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=en){target="_blank"}
 * [Criar e editar riscos em projetos](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html?lang=en){target="_blank"}
-* [Compreender e atualizar as prioridades do projeto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
-* [Exibir: detalhes de emissão originada para tarefas e projetos](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
+* [Entender e atualizar as prioridades de projeto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
+* [Exibir: detalhes de problemas de origem para tarefas e projetos](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
 
 **Seção 4: Gestão de documentos e prova**
 
 * [Entender a diferença entre um documento e uma prova](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
-* [Prática recomendada - Verificação linguística](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html?lang=en){target="_blank"}
+* [Prática recomendada - Prova](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html?lang=en){target="_blank"}
 * [Editar projetos](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [Vincular documentos de aplicativos externos](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
 
-**Seção 5: Relatório**
+**Seção 5: Relatórios**
 
-* [Exibir: unir informações de várias colunas em uma coluna compartilhada](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
-* [Criar filtros com curingas baseadas em usuário](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=en){target="_blank"}
-* [Exibir: exibir a relação pai-filho em uma tarefa recuando as tarefas](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html?lang=en){target="_blank"}
+* [Exibição: mesclar informações de várias colunas em uma coluna compartilhada](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
+* [Criar filtros com curingas baseados no usuário](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=en){target="_blank"}
+* [Exibição: exibir o relacionamento pai-filho em uma tarefa recuando as tarefas](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html?lang=en){target="_blank"}
 * [Relatórios e painéis](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
-* [Práticas recomendadas - Integração e adoção](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
+* [Prática recomendada - Integração e adoção](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
 
-**Seção 6: Metodologia/práticas recomendadas/casos de uso**
+**Seção 6: Metodologia / práticas recomendadas / casos de uso**
 
-* [Rastrear o progresso a partir da linha do tempo do projeto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [Priorize seu trabalho no [!DNL Workfront] Início](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html?lang=en){target="_blank"}
-* [Visão Geral da Faturamento e Receita](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html?lang=en){target="_blank"}
+* [Acompanhar o progresso a partir da linha do tempo do projeto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
+* [Priorize o seu trabalho no [!DNL Workfront] Início](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html?lang=en){target="_blank"}
+* [Visão geral de faturamento e receita](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html?lang=en){target="_blank"}
 * [Exibir informações de utilização de recursos](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
 * [Criar um processo de aprovação para itens de trabalho](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [Visão geral do fluxo de trabalho automatizado](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
 
 **Seção 7: Consultoria empresarial**
 
-* [Entender o esforço do trabalho](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html?lang=en){target="_blank"}
-* [Editar um modelo de fluxo de trabalho automatizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html?lang=en){target="_blank"}
+* [Entender o esforço de trabalho](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html?lang=en){target="_blank"}
+* [Editar um template de workflow automatizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html?lang=en){target="_blank"}
 * [Converter problemas em outros itens de trabalho](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
-* [Definir configurações de projeto padrão global](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
+* [Definir configurações globais padrão do projeto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
 * [Definir objetivos para o seu Adobe [!DNL Workfront] implementação](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
 * [Prática recomendada - Planejador de recursos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html?lang=en){target="_blank"}
 
@@ -190,36 +191,36 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Fazer um teste de prática**
+**Fazer um teste prático**
 
-Recomendamos fazer o teste de prática livre antes de começar. Você terá acesso irrestrito a todos os testes de prática disponíveis para exames no nível do especialista Adobe.
+Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
 
-Nossos testes de prática são desenvolvidos a partir do mesmo blueprint dos exames ao vivo. O teste de prática ajudará você a entender os tópicos abordados no exame ao vivo.
+Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
 
-Lembre-se de que passar no teste de prática não garante que você passará no exame de certificação.
+Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
 
-Vá para o [Portal de preparação de teste de certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste de prática.
+Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E904
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -227,4 +228,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

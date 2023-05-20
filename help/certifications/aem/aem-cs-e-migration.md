@@ -1,10 +1,10 @@
 ---
 title: Certificação de especialistas
-description: Saiba como se tornar um Adobe certificado [!DNL Experience Manager] especialista.
+description: Saiba como se tornar um Adobe de certificado [!DNL Experience Manager] especialista.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E136" type="positivo"
+badge: label="Exame AD0-E136" type="positivo"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,111 +14,111 @@ ht-degree: 10%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Experience Manager] Especialista em migração as a Cloud Service
+# Jornada de certificação para o Adobe [!DNL Experience Manager] Especialista as a Cloud Service em migração
 
-Saiba como se tornar um Adobe certificado [!DNL Experience Manager] Especialista.
+Saiba como se tornar um Adobe de certificado [!DNL Experience Manager] Especialista.
 
 ## Experiência mínima
 
 Você deve ter:
 
-* Uma compreensão das mudanças gerais na arquitetura e nos recursos ao migrar de qualquer serviço de AEM (autogerenciado, AMS ou qualquer nuvem de terceiros) para AEM as a Cloud Service.
+* Uma compreensão das alterações gerais na arquitetura e nos recursos ao mudar de qualquer serviço AEM (autogerenciado, AMS ou qualquer nuvem de terceiros) para AEM as a Cloud Service.
 * 1 a 3 anos de experiência em desenvolvimento de aplicativos web usando o Adobe [!DNL Experience Manager]
-* Mãos sobre a experiência usando AEM Forms, Ativos e Sites
-* A capacidade de orientar os clientes durante o processo de migração, aconselhando e participando em todas as fases de um projeto AEM
+* Experiência prática usando o AEM Forms, o Assets e o Sites
+* A capacidade de orientar os clientes durante o processo de migração, aconselhando e participando de todas as fases de um projeto AEM
 
-Além disso, você deve conhecer as seguintes tecnologias e ambientes:
+Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
 
 * Ferramentas de conversão de índice
-* Ferramentas de conversão de workflow
+* Ferramentas de conversão de fluxo de trabalho
 * Ferramentas do Dispatcher
 * Rede de entrega de conteúdo (CDN)
 * Best Practices Analyzer
-* Modernização AEM
+* Modernização do AEM
 * Navegador de repositório
 * Console do desenvolvedor
-* Ferramenta de mapeamento de usuário para Adobe IMS
-* Ferramenta Cmd de E/S
+* Ferramenta de mapeamento de usuário para IMS Adobe
+* Ferramenta de comando de E/S
 * New Relic
 * SDK da nuvem local
-* Desenvolvimento, preparo, autor de produto, serviço de publicação e visualização
-* Configuração local do Dispatcher usando o Docker
-* Logs da nuvem à direita no ambiente local
-* Interfaces do console do Cloud
+* Serviço de desenvolvimento, preparo, produção, autor, publicação e visualização
+* Configuração do Dispatcher local usando o Docker
+* Logs da nuvem de rejeito no ambiente local
+* Interfaces do console da nuvem
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
-* Desenvolvedores com experiência no Adobe [!DNL Experience Manager]
-* Desenvolvedores que participaram de pelo menos uma Migração de nuvem
+* Desenvolvedores com experiência com o Adobe [!DNL Experience Manager]
+* Desenvolvedores que participaram de pelo menos uma migração na nuvem
 * Adobe [!DNL Experience Manager] Desenvolvedores de sites
 * Adobe [!DNL Experience Manager] Arquiteto de sites
 * Adobe [!DNL Experience Manager] Desenvolvedores de ativos
 * Adobe [!DNL Experience Manager] Desenvolvedores do Forms
-* Desenvolvedores/DevOps/Leads/Arquitetos que participaram de várias implantações de AEM com no mínimo 2 a 3 anos de experiência em desenvolvimento de aplicativos Web usando o Adobe [!DNL Experience Manager]
+* Desenvolvedores/DevOps/Líderes/Arquitetos que participaram de várias implantações de AEM com um mínimo de 2 a 3 anos de experiência em desenvolvimento de aplicativos da Web usando o Adobe [!DNL Experience Manager]
 
 **Detalhes do exame**
 
-* Nível: Especialista (experiência de 1 a 3 anos)
-* Pontuação de envio: 31/50
-* Hora: 100 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $125 (global) / $95 (Índia)
-* ID de exame: AD0-E136
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 31/50
+* Tempo: 100 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 125 (global) / US$ 95 (Índia)
+* Identificação do Exame: AD0-E136
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
-Seção 1: Avaliação (32%)
+Seção 1: Avaliação (32 %)
 
-* Usar o BPA
+* Uso do BPA
 * Preparar e estimar um plano de migração
-* Avaliar quais usuários, grupos e permissões precisam ser movidos
+* Avaliar qual usuário, grupos e permissões precisam ser movidos
 * Revisar recursos obsoletos
-* Determinar os requisitos do fluxo de trabalho
+* Determine os requisitos do fluxo de trabalho
 * Explicar os requisitos para a transferência de conteúdo
 * Explicar a implementação relacionada ao ativo e seu impacto
 * Identificar requisitos relacionados ao Dispatcher
 
 Seção 2: Design (16%)
 
-* Analise os componentes existentes e valide com a versão mais recente
+* Revisar componentes existentes e validar com a versão mais recente
 * Preparar configuração para microsserviços de ativos
 * Explicar a estratégia de armazenamento em cache
 
-Seção 3: Implantação (16%)
+Seção 3: Implantação (16 %)
 
-* Configurar pipelines do Cloud Manager e vincular os ambientes a
-* Provisionar ambientes AEMaaCS (desenvolvimento, estágio, produção - autor, publicar, visualização)
+* Configurar pipelines do Cloud Manager e vincular o aos ambientes
+* Provisionar ambientes do AEMaaCS (desenvolvimento, preparo, produção - criação, publicação, visualização)
 * Gerencie o processo de implantação com a ajuda da CLI do Adobe IO
 
-Seção 4: Migração (20%)
+Seção 4: Migração (20 %)
 
 * Executar testes
 * Preparar uma estratégia de migração de ativos
-* Preparar uma estratégia de migração de conteúdo inicial/base
-* Execute ferramentas de migração (transferência de conteúdo, modernização, refatoração). Relatório e refinar resultados, especialmente resultados críticos não tratados por ferramentas
-* Planejar o suporte pós-ativação
+* Preparar uma estratégia de migração de conteúdo inicial/básico
+* Executar ferramentas de migração (transferência de conteúdo, modernização, refatoração). Relatar e refinar resultados, especialmente resultados críticos não tratados por ferramentas
+* Planejar o suporte pós ativação
 
-Seção 5: Implementação (16%)
+Seção 5: Execução (16 %)
 
-* Mesclar vários projetos em um único projeto a ser implantado por meio do pipeline de Adobe
-* Gerenciar scripts de repontagem para permissão de usuário/grupo
+* Mesclar vários projetos em um único projeto para serem implantados por meio do pipeline de Adobe
+* Gerenciar scripts de repointit para permissão de usuário/grupo
 * Configurar SDKs locais
-* Atualizar configurações com base em modos de execução disponíveis em AEM as a Cloud Service
+* Atualizar configurações com base nos modos de execução disponíveis no AEM as a Cloud Service
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Seção 1: Avaliação**
 
@@ -153,27 +153,27 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E136
 
-[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136 newtab=true"}
+[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -181,4 +181,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

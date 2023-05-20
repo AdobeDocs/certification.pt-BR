@@ -1,112 +1,113 @@
 ---
 title: Certificação de especialistas
-description: Saiba como se tornar um Adobe certificado [!DNL Journey Optimizer] Especialista em desenvolvedores.
+description: Saiba como se tornar um Adobe de certificado [!DNL Journey Optimizer] Especialista em desenvolvedores.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-badge: label="Exam AD0-E603" type="positivo"
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+badge: label="Exame AD0-E603" type="positivo"
+exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 12%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Journey Optimizer] Especialista em desenvolvedores
+# Jornada de certificação para o Adobe [!DNL Journey Optimizer] Especialista em desenvolvedores
 
-Saiba como se tornar um Adobe certificado [!DNL Journey Optimizer] Especialista em desenvolvedores.
+Saiba como se tornar um Adobe de certificado [!DNL Journey Optimizer] Especialista em desenvolvedores.
 
 ## Experiência mínima
 
-Você deve ter pelo menos um ano de experiência trabalhando com vários sistemas de CDP e automação de marketing e pode executar as seguintes tarefas:
+Você deve ter pelo menos um ano de experiência trabalhando com vários sistemas de CDP e automação de marketing e ser capaz de executar as seguintes tarefas:
 
 * Configuração de permissões de usuário
 * Criação e gerenciamento de sandboxes
 * Configuração da marca
 * Entender os conceitos de design do esquema
-* Configuração de fontes de dados e assimilação de dados
+* Configurar fontes de dados e assimilação de dados
 * Criação de segmentos
-* Configurar eventos de experiência
+* Configuração de eventos de experiência
 * Criação e gerenciamento de ofertas
-* Criar simulações (ofertas de teste)
-* Criação de email, SMS, mensagens no aplicativo e notificações por push
+* Criar simulações (testar ofertas)
+* Criação de email, SMS, em mensagens do aplicativo e notificações por push
 * Manipulação e personalização de conteúdo usando funções auxiliares
-* Validação, revisão de texto e publicação de uma mensagem
-* Criação de uma jornada de vários canais
-* Relatórios de jornada
-* Teste/validação de jornadas
+* Validar, revisar e publicar uma mensagem
+* Criação de uma jornada multicanal
+* Jornada relatórios
+* Jornadas de teste/validação
 
 >[!NOTE]
 >
->Sua certificação é válida por dois anos a partir do momento em que for aprovada. Recomendamos ter a versão mais recente quando possível, pois ela abrange recursos de produto mais recentes.
+>Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
 * Arquiteto de dados
 * Engenheiro de dados
-* Arquiteto da solução
-* Arquiteto empresarial
-* Desenvolvedor da automação de marketing
+* Arquiteto de soluções
+* Arquiteto corporativo
+* Desenvolvedor de automação de marketing
 * Desenvolvedor de CDP
-* Arquiteto da CDP
+* Arquiteto de CDP
 
 **Detalhes do exame:**
 
-* Nível: Especialista (experiência de 1 a 3 anos)
-* Pontuação de envio: 31/51
-* Hora: 110 min
-* Delivery: Produção on-line (requer acesso à câmera) ou produção do centro de teste
-* Idiomas disponíveis: Inglês
-* Custo: $225 (global) / $150 (Índia)
-* ID de exame: AD0-E603
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 31/51
+* Tempo: 110 minutos
+* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E603
 
 **Autoavaliação de disponibilidade**
 
-Complete o [questionário de disponibilidade online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} para ver se a sua experiência atual corresponde à qualificação mínima de candidato recomendada.
+Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
 Seção 1: Administração e configuração (17%)
 
-* Identificar as funções e quais permissões se aplicam a cada função
-* Descreva como atribuir/redefinir/excluir uma sandbox
-* Demonstrar compreensão da administração do canal
-* Demonstrar compreensão de eventos/ações/fontes de dados
+* Identifique as funções e quais permissões se aplicam a cada função
+* Descrever como atribuir/redefinir/excluir uma sandbox
+* Demonstrar uma compreensão da Administração de canal
+* Demonstrar uma compreensão de Eventos/Ações/Fontes de dados
 
 Seção 2: Adobe Experience Platform Foundation (33%)
 
 * Demonstrar uma compreensão do Experience Data Model (XDM)
-* Explica como configurar fontes de dados e assimilação de dados
-* Demonstrar compreensão do serviço de segmentação
-* Explicar como configurar schemas para o AJO
+* Explicar como configurar fontes de dados e a assimilação de dados
+* Demonstrar uma compreensão do serviço de segmentação
+* Explicar como configurar esquemas para o AJO
 * Determine o comportamento do perfil do cliente em tempo real no AJO
 
-Seção 3: offer decisioning (11%)
+Seção 3: Offer decisioning (11 %)
 
-* Demonstrar compreensão da criação e do gerenciamento de ofertas e componentes
-* Demonstrar como usar perfis de teste para executar simulação de oferta
+* Demonstrar uma compreensão da criação e do gerenciamento de ofertas e componentes
+* Demonstrar como usar perfis de teste para executar a simulação da oferta
 
 Seção 4: Criação de conteúdo (20%)
 
-* Demonstrar compreensão de como criar email, SMS, mensagens no aplicativo e notificações por push
+* Demonstrar uma compreensão de como criar mensagens de email, SMS, no aplicativo e notificações por push
 * Demonstrar uma compreensão da manipulação e personalização de conteúdo usando funções auxiliares
-* Demonstrar compreensão da validação, verificação e publicação de uma mensagem
+* Demonstrar uma compreensão da validação, prova e publicação de uma mensagem
 
 Seção 5: Journey Orchestration (19%)
 
-* Explicar o processo de criação de uma jornada de vários canais
-* Identificar onde acessar painéis de relatórios
+* Explicar o processo de criação de uma jornada multicanal
+* Identificar onde acessar os painéis do relatório
 * Demonstrar como testar e validar uma jornada
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Seção 1: Administração e configuração**
 
@@ -118,7 +119,7 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
    * Medidas de proteção
    * Jornadas
 
-* [Visão geral das sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR){target="_blank"}
+* [Visão geral de sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR){target="_blank"}
 
 
 **Seção 2: AEP Foundation**
@@ -126,20 +127,20 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 * [Documentação do Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR){target="_blank"}
 
    * Guia XDM
-   * Guia de Perfil do cliente em tempo real
-   * Guia do Serviço de identidade da plataforma
-   * configurar um fluxo de dados
-   * Guia dos conectores de origem
+   * Guia do Perfil do cliente em tempo real
+   * Guia do Serviço de identidade da Platform
+   * configurar um Fluxo de dados
+   * Guia de conectores de origem
    * Guia de assimilação de dados
    * Guia do Serviço de segmentação
    * Esquemas
 
 * [Introdução ao Adobe [!DNL Experience Platform] curso](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=pt-BR){target="_blank"}
-* [Introdução ao Adobe [!DNL Experience Platform] curso para engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=pt-BR){target="_blank"}
-* [Curso Ingestão de dados para engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=pt-BR){target="_blank"}
+* [Introdução ao Adobe [!DNL Experience Platform] para curso de engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=pt-BR){target="_blank"}
+* [Curso Assimilação de dados para engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=pt-BR){target="_blank"}
 * [Blueprints de experiência digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=pt-BR){target="_blank"}
 
-**Seção 3: offer decisioning**
+**Seção 3: Offer Decisioning**
 
 * [Documentação do Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
 
@@ -172,39 +173,39 @@ Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only**  após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Fazer um teste de prática**
+**Fazer um teste prático**
 
-Recomendamos fazer o teste de prática livre antes de começar. Você terá acesso irrestrito a todos os testes de prática disponíveis para exames no nível do especialista Adobe.
+Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
 
-Nossos testes de prática são desenvolvidos a partir do mesmo blueprint dos exames ao vivo. O teste de prática ajudará você a entender os tópicos abordados no exame ao vivo.
+Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
 
-Lembre-se de que passar no teste de prática não garante que você passará no exame de certificação.
+Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
 
-Vá para o [Portal de preparação de teste de certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste de prática.
+Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 ### Número do exame: AD0-E603
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E603 newtab=true"}[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E603 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603 newtab=true"}
 
-Compre seu comprovante de exame em [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Compre o comprovante do exame em [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -212,4 +213,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

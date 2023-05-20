@@ -1,31 +1,32 @@
 ---
-title: Certificação Profissional para profissionais
-description: Saiba como ser certificado como Adobe [!DNL Audience Manager] Profissional profissional.
+title: Certificação profissional de profissional de negócios
+description: Saiba como se tornar certificado como um Adobe [!DNL Audience Manager] Profissional de negócios.
 solution: Audience Manager
 product: Audience Manager
 role: User
-badge: label="Exam AD0-E458" type="positivo"
+badge: label="Exame AD0-E458" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1073'
 ht-degree: 10%
 
 ---
 
-# Jornada de certificação para Adobe [!DNL Audience Manager] Profissional profissional
+# Jornada de certificação para o Adobe [!DNL Audience Manager] Profissional de Profissional de Negócios
 
-Saiba como se tornar certificado como um [!DNL Audience Manager] Profissional profissional.
+Saiba como se tornar certificado como um [!DNL Audience Manager] Profissional de negócios.
 
 ## Experiência mínima
 
-Você deve ter uma compreensão básica dos fluxos de dados, dos objetivos de negócios e dos KPIs, com alguma experiência em análise e estratégias de dados
+Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negócios e KPIs, com alguma experiência em análise de dados e estratégias
 
 >[!BEGINTABS]
 
 >[!TAB Prepare-se]
 
-**Público-alvo previsto:**
+**Público-alvo:**
 
 * Especialista em marketing digital
 * Consultor de tecnologia de marketing
@@ -37,83 +38,83 @@ Você deve ter uma compreensão básica dos fluxos de dados, dos objetivos de ne
 
 **Detalhes do exame:**
 
-* Nível: Profissional (experiência de 0 a 12 meses)
-* Pontuação de envio: 31/50
-* Hora: 100 min
-* Delivery: Online processado (requer acesso à câmera)
-* Idiomas disponíveis: Inglês
-* Custo: $125 (global) / $95 (Índia)
-* ID de exame: AD0-E458
+* Nível: profissional (0-12 meses de experiência)
+* Pontuação de aprovação: 31/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 125 (global) / US$ 95 (Índia)
+* Identificação do Exame: AD0-E458
 
-**Objetivos e âmbito do exame**
+**Objetivos e escopo do exame**
 
 Seção 1: Criação e sindicalização de segmentos (32%)
 
-* Identificar maneiras de utilizar dados primários, secundários e de terceiros para fins analíticos e de direcionamento
-* Descreva o processo básico para a ativação de metas de negócios ou de campanha
-* Diferenciar os métodos de ativação de segmento
+* Identificar maneiras de utilizar dados primários, secundários e de terceiros para fins de direcionamento e análise
+* Descrever o processo básico para a ativação de objetivos de negócios ou de campanha
+* Diferenciar os métodos de ativação de segmentos
 * Identificar os diferentes tipos de destinos
-* Identificar os diferentes tipos de fontes
+* Identificar os diferentes tipos de origens
 
 Seção 2: Criação de características (16%)
 
-* Em um cenário, identifique sinais, características, segmentos e públicos
+* Dado um cenário, identifique sinais, características, segmentos e públicos
 * Identificar os usos de diferentes tipos de características
 
-Seção 3: Relatórios e medidas (16%)
+Seção 3: Relatórios e medições (16 %)
 
-* Dado um cenário, gere relatórios para medir a ativação ou as metas da campanha
-* Em um determinado cenário, compare os públicos-alvo com base nas taxas de correspondência
+* Dado um cenário, gerar relatórios para medir a ativação ou as metas da campanha
+* Dado um cenário, compare os públicos com base nas taxas de correspondência
 
 Seção 4: Solução de problemas (10%)
 
 * Dado um cenário, solucione problemas de dados de entrada de diferentes fontes e tipos de origem
 * Validar formato para arquivos de dados de entrada
 
-Seção 5: Taxonomia (12%)
+Seção 5: Taxonomia (12 %)
 
 * Determine a estrutura apropriada para criar características e segmentos que utilizam uma nomenclatura clara e consistente
-* Determine a técnica correta para manter uma plataforma organizada usando uma estrutura de pastas clara
+* Determine a técnica correta para manter uma plataforma organizada usando uma estrutura de pastas limpa
 
-Seção 6: Mesclar perfis, sincronização de ID e Audience Marketplace
+Seção 6: Mesclagem de perfis, Sincronização de ID e Audience Marketplace
 
-* Organize as características do usuário em um único perfil unificado para criar públicos baseados em dispositivos ou em residências
-* Identifique a ativação usando o Audience Marketplace
+* Organize as características do usuário em um perfil unificado para criar públicos-alvo domésticos ou baseados em dispositivos
+* Identificar ativação usando o Audience Marketplace
 
->[!TAB Preparar]
+>[!TAB Prepare-se]
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe dará os conhecimentos e as competências necessárias para ser aprovado no exame. Uma combinação de treinamento e experiência no trabalho bem-sucedida é essencial para fornecer o repositório necessário para ser aprovado no exame.
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudá-lo a se preparar:
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Perguntas de exemplo**
+**Exemplos de perguntas**
 
-As perguntas de amostra permitem ver o tipo e o formato dos itens que você encontrará no exame real. Não há necessidade de logon. Os resultados das perguntas de amostra não são armazenados e não preveem seus resultados reais de teste.
+Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
 
-[Veja as perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
+[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
 **Seção 1: Criação e sindicalização de segmentos**
 
 * [Uso de dados de upload em massa no Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html?lang=en){target="_blank"}
 * [Sobre segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=pt-BR){target="_blank"}
-* [Crie uma característica de conversão em [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
-* [[!DNL Audience Manager] tutoriais](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
+* [Criar uma característica de conversão no [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
+* Tutoriais do [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
 * [Diretrizes de disponibilidade do GDPR para [!DNL Audience Manager] Clientes (controladores de dados)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html?lang=en){target="_blank"}
-* [Página Detalhes do segmento](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html?lang=en){target="_blank"}
+* [Página Detalhes do Segmento](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html?lang=en){target="_blank"}
 * [Dicas do cliente - práticas recomendadas de características e segmentos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
 
-**Seção 2: Criação de característica**
+**Seção 2: Criação de características**
 
 * [Sinais, características e segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
 * [Segmentos: finalidade, composição e regras](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=en){target="_blank"}
-* [Compartilhamento de segmento do Experience Platform com [!DNL Audience Manager] e outras soluções Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.){target="_blank"}
+* [compartilhamento de segmento Experience Platform com [!DNL Audience Manager] e outras soluções de Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.){target="_blank"}
 * [Referência de qualificação de características e segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html?lang=en){target="_blank"}
 * [Dados de população de características e segmentos no Construtor de segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=en){target="_blank"}
 
 **Seção 3: Relatórios e medições**
 
 * [Utilização de relatórios do Audience Optimization para entender o desempenho da mídia](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html?lang=en){target="_blank"}
-* [Compartilhamento de segmento do Experience Platform com [!DNL Audience Manager] e outras soluções Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
+* [compartilhamento de segmento Experience Platform com [!DNL Audience Manager] e outras soluções de Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
 * [Entender as taxas de correspondência](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
 * [Criar uma fonte de dados para dados do Analytics](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
 
@@ -133,10 +134,10 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 * [Criar uma taxonomia de características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
 * [Noções sobre segmentação](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html?lang=en){target="_blank"}
 
-**Seção 6: Mesclar perfis, sincronização de ID e Audience Marketplace**
+**Seção 6: Mesclagem de perfis, sincronização de ID e Audience Marketplace**
 
-* [Como os aprimoramentos da Regra de mesclagem de perfis afetam a segmentação, a ativação e os relatórios](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html?lang=en){target="_blank"}
-* [Crie uma característica de conversão em [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
+* [Como as melhorias na Regra de mesclagem de perfis afetam a segmentação, a ativação e os relatórios](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html?lang=en){target="_blank"}
+* [Criar uma característica de conversão no [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
 * [Ativar segmentos de público-alvo sob demanda para destinos em lote por meio da API de ativação ad-hoc](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html?lang=en){target="_blank"}
 * [Ativar perfis e segmentos para um destino](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html?lang=pt-BR){target="_blank"}
 
@@ -144,27 +145,27 @@ As perguntas de amostra permitem ver o tipo e o formato dos itens que você enco
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only** após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Depois de fazer logon, os links a seguir serão acessados diretamente.**
+**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Faça o exame de certificação**
+**Fazer o exame de certificação**
 
-O Adobe usa dois fornecedores para administrar exames de produtos, PSI e Examity.
+O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
 
-* **PSI** oferece opções de teste de centro e teste japonês (quando disponível)
-* **[!DNL Examity]** oferece uma opção online remota
+* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
+* **[!DNL Examity]** oferece uma opção remota online
 
-Para agendar, reprogramar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É tão simples assim!
+Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
 
 **Número do exame: AD0-E458**
 
-[!BADGE Examidade]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458 newtab=true"}
+[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458 newtab=true"}
 
-Você pode pagar por seu exame de certificação por comprovante ou cartão de crédito. Para comprar um comprovante de exame, acesse: [Centro de Vouchers de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 >[!ENDTABS]
 
@@ -172,4 +173,4 @@ Você pode aplicar o código do comprovante ao agendar seu exame. Se você tiver
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

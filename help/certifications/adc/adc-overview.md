@@ -1,6 +1,6 @@
 ---
 title: Visão geral da certificação Document Cloud
-description: Visão geral das opções de certificação do Adobe Document Cloud
+description: Visão geral das opções de certificação para o Adobe Document Cloud
 solution: Document Cloud
 hide: true
 hidefromtoc: true
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 **Profissional**
 
-* [Profissional de negócios (Pesquisa)](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
+* [Profissional de negócios (pesquisa)](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
 
-Visite o [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.
+Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.

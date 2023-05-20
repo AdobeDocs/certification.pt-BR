@@ -1,6 +1,6 @@
 ---
 title: Renovação da certificação
-description: Saiba como renovar o Adobe [!DNL Document Cloud] antes de expirar.
+description: Saiba como renovar seu Adobe [!DNL Document Cloud] certificação antes de expirar.
 solution: Document Cloud
 product: Document Cloud
 role: User
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 # Renovar o Adobe [!DNL Document Cloud] certificação
 
-Sua certificação de Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
+Sua certificação Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
-Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise cuidadosamente o que será necessário fazer para renovar sua certificação.
+Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise com cuidado o que será necessário fazer para renovar sua certificação.
 
-Certifique-se de fornecer um tempo amplo para concluir todos os requisitos antes que a certificação expire.
+Certifique-se de fornecer tempo suficiente para concluir todos os requisitos antes da certificação expirar.
 
-É importante observar que, se a certificação expirar, será necessário refazer o exame de certificação, o que NÃO é gratuito.
+É importante observar que, se a certificação expirar, você precisará fazer novamente o exame de certificação, que NÃO é gratuito.
 
 >[!IMPORTANT]
 >
->As seções e links a seguir funcionarão **only** após um **logon bem-sucedido** para [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -42,4 +42,4 @@ Certifique-se de fornecer um tempo amplo para concluir todos os requisitos antes
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Perguntas adicionais? [Entre em contato conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
