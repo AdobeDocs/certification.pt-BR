@@ -8,9 +8,9 @@ badge: label="Exame AD0-D106" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
+source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '895'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,6 @@ Seção 4: Solução recomendada (12%)
 Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
 Estes são alguns recursos sugeridos para ajudar você a se preparar:
-
-**Seção 1: Educação**
 
 **Seção 1: Descoberta de caso de uso**
 
