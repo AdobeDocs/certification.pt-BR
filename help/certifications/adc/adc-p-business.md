@@ -8,9 +8,9 @@ badge: label="Exame AD0-D106" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bad41c3fcc4529bde82b3a3742761cd24af8d3ab
+source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Saiba como se tornar um profissional certificado de profissional de negócios do
 Você deve ter:
 
 * Pelo menos 0 a 12 meses de experiência no Adobe Document Cloud
+* Ser capaz de identificar e comunicar as necessidades dos negócios
+* Ser capaz de executar o aviso de ativação de produto nas soluções da Adobe Document Cloud.
 
 >[!NOTE]
 >
@@ -135,6 +137,10 @@ O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exa
 * **[!DNL Examity]** oferece uma opção remota online
 
 Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
+
+O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
+
+Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
 
 O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
 
