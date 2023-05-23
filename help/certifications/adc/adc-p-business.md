@@ -8,9 +8,9 @@ badge: label="Exame AD0-D106" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
+source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -111,6 +111,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [O que é uma assinatura digital?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [O impacto econômico total do Adobe Sign](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
 * [Refaça a imagem das experiências do documento com APIs PDF projetadas para desenvolvedores](https://developer.adobe.com/document-services){target="_blank"}
+* [Limitar visibilidade do documento](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
 **Seção 4: Solução recomendada**
 
