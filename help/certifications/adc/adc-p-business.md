@@ -8,14 +8,14 @@ badge: label="Exame AD0-D106" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '894'
 ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o profissional de prática de negócios da Adobe Doc Cloud
+# Jornada de certificação para profissional de negócios da Adobe Document Cloud
 
 Saiba como se tornar um profissional certificado de profissional de negócios do Adobe.
 
@@ -40,7 +40,6 @@ Você deve ter:
 * Consultor de soluções
 * Analista de negócios
 * Vendas
-* Desenvolvedor
 
 **Detalhes do exame:**
 
@@ -59,7 +58,7 @@ Seção 1: Detecção de casos de uso (36%)
 * Faça perguntas qualificativas para identificar oportunidades de Document Cloud
 * Definir casos de uso de negócios de alto nível
 
-Seção 2: Avaliação do processo empresarial (34)
+Seção 2: Avaliação de processos de negócios (34%)
 
 * Identificar as principais áreas de aprimoramento de processos e adequação a soluções
 * Alinhe as metas de negócios com os recursos de Document Cloud
