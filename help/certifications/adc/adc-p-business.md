@@ -8,9 +8,9 @@ badge: label="Exame AD0-D106" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
+source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -127,15 +127,13 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Fazer um teste prático**
+**Faça um teste prático - em breve!**
 
 Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
 
 Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
 
 Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
-
-Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
 
 **Fazer o exame de certificação**
 
