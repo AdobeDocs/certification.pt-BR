@@ -5,7 +5,7 @@ solution: Document Cloud
 hide: true
 hidefromtoc: true
 exl-id: dde41cf9-13ef-4571-8948-341ef5585da7
-source-git-commit: 6ac789444e5c7ce3b8ed8d684f12dc0df1edc886
+source-git-commit: 56211ffae8fe9855812502b453f4c14ad47bf9f1
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 **Profissional**
 
-* [Profissional de negócios (pesquisa)](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
+* [Profissional de negócios (pesquisa)](/help/certifications/adc/adc-p-business.md) <!--AD0-D106-->
 
 Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.
