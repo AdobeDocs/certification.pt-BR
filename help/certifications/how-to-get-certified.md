@@ -4,9 +4,9 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ O Adobe usa dois fornecedores para administrar os exames monitorados: [!DNL PSI]
 
 **Siga estas etapas para se inscrever no exame de certificação:**
 
-* **Etapa 1:** Logon bem-sucedido no [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Etapa 1:** Logon bem-sucedido no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Etapa 2:** Retorne a este site e clique em Certificações técnicas.
 * **Etapa 3:** Escolha a solução Adobe, o nível de certificação e a função
 * **Etapa 4:** Siga as etapas fornecidas na seção **Obter certificado** seção.
@@ -50,7 +50,7 @@ Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas ant
 
 Nenhum fornecedor de suporte ou exame do Adobe pode processar solicitações de reagendamento e cancelamento. Cancelamentos abaixo de 48 horas estão sujeitos a uma taxa de reescalonamento além da taxa do exame.
 
-Depois de concluir um exame, você recebe uma aprovação provisória ou reprovação. A pontuação final pode levar até 72 horas para ser preenchida. Você encontrará seu relatório de resultado e pontuação na guia Histórico na [Gerenciador de Credenciais Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+Depois de concluir um exame, você recebe uma aprovação provisória ou reprovação. A pontuação final pode levar até 72 horas para ser preenchida. Você encontrará seu relatório de resultado e pontuação na guia Histórico na [Gerenciador de Credenciais Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Se você não passar em um exame de certificação de Adobe na primeira tentativa, deve esperar pelo menos 24 horas antes de refazer o exame. A reprovação em um exame na segunda tentativa ou em qualquer tentativa subsequente requer um período de espera de 14 dias antes de refazer o exame. Cada tentativa incorre em uma taxa de exame separada.
 
@@ -212,6 +212,6 @@ Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe
 
 **Perguntas**
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.

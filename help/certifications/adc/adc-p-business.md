@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-D106" type="positivo"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '963'
 ht-degree: 1%
 
 ---
@@ -96,7 +96,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [API incorporada do Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [PDF e ferramentas de assinatura eletrônica para sua empresa. A Acrobat entendeu.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Guia do usuário do Adobe Acrobat](https://helpx.adobe.com/br/acrobat/user-guide.html){target="_blank"}
-* [Visão geral das integrações - Novidades](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [Visão geral das integrações - Novidades](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Assinaturas on-line seguras e flexíveis](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **Seção 3: Definir recursos de Document Cloud (DC)**
@@ -122,7 +122,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 >[!IMPORTANT]
 >
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
@@ -163,7 +163,7 @@ Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um 
 
 **Perguntas**
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
 
