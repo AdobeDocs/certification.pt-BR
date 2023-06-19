@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="Exame AD0-E604" type="positivo"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '772'
-ht-degree: 10%
+source-wordcount: '863'
+ht-degree: 9%
 
 ---
 
@@ -128,8 +128,17 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 >
 >As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
+
+**Fazer um teste prático**
+
+Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
+
+Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
+
+Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
+
+Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
 
 **Fazer o exame de certificação**
 
