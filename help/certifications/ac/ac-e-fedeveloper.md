@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E710" type="positivo"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Jornada de certificação para o Adobe [!DNL Commerce] Especialista em desenvolvimento front-end
 
 Saiba como se tornar um Adobe Developer Expert certificado.
+
+>[!NOTE]
+>
+>Este exame Adobe Commerce Front End Developer Expert (AD0-E710) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 18 de agosto de 2023. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame](ac-e-fedeveloper0623.md).
 
 ## Experiência mínima
 
@@ -38,10 +42,6 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 * Noções básicas sobre pacotes de código
 * Implementar tradução
 * Noções básicas sobre como trabalhar com modelos de email
-
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
