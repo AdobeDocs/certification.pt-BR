@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E502" type="positivo"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -128,34 +128,38 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 >[!IMPORTANT]
 >
 >As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
+## Sobre o exame
 
-**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
+{{about-certification-exam}}
 
-**Fazer o exame de certificação**
+## Realizar o exame (AD0-E502)
 
-O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
+### Opções disponíveis
 
-* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]** oferece uma opção remota online
+**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 
-Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer exame
+</span>
+</a>
 
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
+**[!DNL Examity]** ( *online* )
 
-### Número do exame: AD0-E502
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E502 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502 newtab=true"}
-
-Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer exame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Perguntas**
+## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

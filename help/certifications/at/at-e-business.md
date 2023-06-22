@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E406" type="positivo"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1232'
 ht-degree: 1%
 
 ---
@@ -149,7 +149,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [Noções básicas sobre permissões de usuário empresarial no [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html){target="_blank"}
 * [Configurar Permissões de Usuário do Enterprise](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html){target="_blank"}
 * [Configurar espaços de trabalho no [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html){target="_blank"}
-* [ Introdução à Configuração de administração](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
+* [Introdução à Configuração de administração](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
 * [Configurar propriedades no [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
 
 **Seção 2: configuração, execução e gerenciamento**
@@ -184,43 +184,42 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 >[!IMPORTANT]
 >
 >As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
-**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
+## Fazer um teste prático
 
-**Fazer um teste prático**
+{{practice-test}}
 
-Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
+## Sobre o exame
 
-Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
+{{about-certification-exam}}
 
-Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
+## Realizar o exame (AD0-E406)
 
-Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
+### Opções disponíveis
 
-**Fazer o exame de certificação**
+**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 
-O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]** oferece uma opção remota online
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer exame
+</span>
+</a>
 
-Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
+**[!DNL Examity]** ( *online* )
 
-O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
-
-### Número do exame: AD0-E406
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E406 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406 newtab=true"}
-
-Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer exame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Perguntas**
+## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

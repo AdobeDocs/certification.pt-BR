@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E719" type="positivo"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1079'
 ht-degree: 1%
 
 ---
@@ -176,34 +176,39 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >[!IMPORTANT]
 >
 >As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
 
-**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
+## Sobre o exame
 
-**Fazer o exame de certificação**
+{{about-certification-exam}}
 
-O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
+## Realizar o exame (AD0-E719)
 
-* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]** oferece uma opção remota online
+### Opções disponíveis
 
-Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
+**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 
-O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer exame
+</span>
+</a>
 
-### Número do exame: AD0-E719
+**[!DNL Examity]** ( *online* )
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer exame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Perguntas**
+## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

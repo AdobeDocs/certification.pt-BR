@@ -6,18 +6,20 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
 workflow-type: tm+mt
-source-wordcount: '5189'
+source-wordcount: '5163'
 ht-degree: 8%
 
 ---
 
 # Reinicie sua jornada de certificação indo de expirado para certificado
 
-Este programa de tempo limitado, **de 24 de abril de 2023 a 20 de outubro de 2023**, oferece a você a chance de atualizar suas habilidades e permanecer à frente da curva em um cenário digital em rápida mudança.
-
-Indivíduos cujas certificações expiraram de 2020 a 23 de abril de 2023 estão qualificados para esta **grátis** programa.
+>[!AVAILABILITY]
+>
+> Este programa de tempo limitado, oferecido pela **24 de abril de 2023 a 20 de outubro de 2023**.  O programa oferece uma oportunidade de atualizar suas habilidades e manter-se à frente da curva em um cenário digital em rápida mudança.
+>
+> ** QUALIFICAÇÃO: pessoas cujas certificações expiraram de 2020 a 23 de abril de 2023 estão qualificadas para esta **grátis** programa.
 
 ## Introdução
 
@@ -107,7 +109,7 @@ As avaliações do curso são gratuitas. Não há necessidade de programá-los, 
 | [Exportar e democratizar dados do Adobe Analytics - Lições 5 e 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=pt-BR){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [Filtrar seus dados com datas e segmentação personalizada - Lição 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [Implementação guiada do Analytics - Lição 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=pt-BR){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [ Implementação e medição da pesquisa interna do site - Lições 3 e 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
+| [Implementação e medição da pesquisa interna do site - Lições 3 e 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [APIs do Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
@@ -210,12 +212,9 @@ As avaliações do curso são gratuitas. Não há necessidade de programá-los, 
 
 Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+Aqui estão os recursos sugeridos,
 
-[!BADGE Exemplos de perguntas]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**Recursos:**
-
+* [Exemplo de exame](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Documentação do produto](https://docs.adobe.com/content/help/pt-BR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Suporte para Adobe - [!DNL Experience Cloud] Públicos-alvo](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * Aprendizado e suporte do [[!DNL Experience Cloud] ](https://helpx.adobe.com/br/support/experience-cloud.html){target="_blank"}
@@ -223,9 +222,14 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Reiniciar sua certificação**
 
-Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+O exame de reinício de especialista do Adobe Audience Manager Business Practitioner ADS-E826 é gratuito, de livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
-[!BADGE Realize o exame de reinicialização de especialista do profissional de negócios da Adobe Audience Manager ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E826 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer o exame
+</span>
+</a>
 
 +++
 
@@ -319,9 +323,14 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Reiniciar sua certificação
 
-Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+O exame de reinício principal do Adobe Audience Manager Architect ADS-E825 é gratuito, livro aberto e não editado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
-[!BADGE Realize o exame de reinicialização principal do Adobe Audience Manager Architect ADS-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer o exame
+</span>
+</a>
 
 +++
 
@@ -429,9 +438,14 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Reiniciar sua certificação
 
-Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+O ADOBE [!DNL Campaign Standard] ADS-821 é livre, livro aberto, e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
-[!MEDALHA Pegue a Adobe [!DNL Campaign Standard] Exame de reinicialização de especialista em desenvolvedores ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer o exame
+</span>
+</a>
 
 +++
 
@@ -502,9 +516,14 @@ Seção 4: Administração, monitorização e apresentação de relatórios
 
 ### Reiniciar sua certificação
 
-Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+O ADOBE [!DNL Campaign Standard] ADS-822 é livre, livro aberto, e não-proctored. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
-[!MEDALHA Pegue a Adobe [!DNL Campaign Standard] Exame de reinicialização de especialista de profissionais de negócios ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer o exame
+</span>
+</a>
 
 +++
 
@@ -607,9 +626,14 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Reiniciar sua certificação
 
-Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+O exame de reinicialização do Adobe Campaign Classic ADS-823 é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
-[!BADGE Realize o exame de reinicialização do Adobe Campaign Classic ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer o exame
+</span>
+</a>
 
 +++
 
@@ -728,13 +752,18 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Reiniciar sua certificação
 
-Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+O exame de reinício de especialista do Adobe Marketo Engage Business Practitioner ADS-E824é gratuito, de livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
-[!BADGE Realize o exame de reinicialização de especialista do profissional de negócios da Adobe Marketo Engage ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer o exame
+</span>
+</a>
 
 >[!ENDTABS]
 
-### Perguntas
+## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

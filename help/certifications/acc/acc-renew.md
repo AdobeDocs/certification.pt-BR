@@ -7,7 +7,7 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 10%
@@ -151,7 +151,7 @@ Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerencia
 
 >[!ENDTABS]
 
-**Perguntas**
+## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 
 >[!ENDTABS]
 
-**Perguntas**
+## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -4,7 +4,7 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 1%
@@ -210,7 +210,7 @@ Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe
 
 >[!ENDTABS]
 
-**Perguntas**
+## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
