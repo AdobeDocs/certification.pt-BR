@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E407" type="positivo"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1149'
 ht-degree: 20%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 20%
 # Jornada de certificação para [!DNL Adobe Target] Arquiteto Principal
 
 Saiba como se tornar um arquiteto de Adobe Principal certificado.
+
+>[!NOTE]
+>
+>Este exame, Adobe Target Architect Principal (AD0-E407), foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 18 de agosto de 2023. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame](at-m-architect0623.md).
 
 ## Experiência mínima
 
@@ -52,10 +56,6 @@ Ambientes:
 * Ambientes da Web e móveis
 * Ambiente hospedado pelo AMS
 * Adobe I/O Runtime
-
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
 
 >[!BEGINTABS]
 
