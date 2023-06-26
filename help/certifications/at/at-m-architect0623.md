@@ -6,7 +6,7 @@ product: Target
 role: Data Architect
 badge: label="Exame AD0-E409" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 11%
@@ -19,7 +19,7 @@ Saiba como se tornar um arquiteto de Adobe Principal certificado.
 
 >[!NOTE]
 >
->Este é o mais novo exame Principal do Adobe Target Architect. Se você já começou a estudar ou programou o [versão mais antiga](at-m-architect.md) você tem até 25 de agosto de 2023 para concluí-lo.
+>Este é o mais novo exame Principal do Adobe Target Architect. Se você já começou a estudar ou programou o [versão mais antiga](at-m-architect.md) você tem até 8 de setembro de 2023 para concluí-lo.
 
 ## Experiência mínima
 
