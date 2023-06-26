@@ -4,10 +4,11 @@ description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Esp
 solution: Analytics
 product: Analytics
 role: Developer
+level: Experienced
 badge: label="Exame AD0-E209" type="positivo"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 9%
@@ -29,7 +30,7 @@ Familiarize-se com as seguintes ferramentas e ambientes:
 Ferramentas:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (Monitor de pacote, como o Adobe Debugger, ferramentas de desenvolvedor de navegador, Charles)
+* Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (Monitor de pacote, como Adobe Debugger, ferramentas de desenvolvedor de navegador, Charles)
 * [!DNL Adobe Analytics] Configurações do conjunto de relatórios do Admin Console
 * Conhecimento básico do Workspace
 * Ferramentas de desenvolvimento para web, editor de código e ferramentas de depuração móvel
