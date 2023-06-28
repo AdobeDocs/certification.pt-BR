@@ -6,10 +6,10 @@ product: Target
 role: Data Architect
 badge: label="Exame AD0-E409" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 11%
+source-wordcount: '1112'
+ht-degree: 12%
 
 ---
 
@@ -128,12 +128,6 @@ Você não precisa concluir o treinamento antes de fazer o exame, e o treinament
 
 Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
-**Exemplos de perguntas**
-
-Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
-
-[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
-
 **Seção 1**
 
 * [Tipos de atividade do Target](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html){target="_blank"}
@@ -208,7 +202,7 @@ Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas ant
 
 ### Número do exame: AD0-E409
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E409 newtab=true"}[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
+[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
 
 Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
