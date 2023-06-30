@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E603" type="positivo"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 12%
@@ -189,7 +189,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Opções disponíveis
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 

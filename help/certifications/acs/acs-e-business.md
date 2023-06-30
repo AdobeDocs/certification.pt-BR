@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E307" type="positivo"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '813'
 ht-degree: 10%
@@ -163,7 +163,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Opções disponíveis
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 

@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Exame AD0-E600 & AD7-E601" type="positivo"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1732'
 ht-degree: 6%
@@ -291,7 +291,7 @@ Seção 3: Destinos (27 %)
 
 ### Opções disponíveis
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 

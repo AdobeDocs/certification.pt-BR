@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E212" type="positivo"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '797'
 ht-degree: 12%
@@ -147,7 +147,7 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 ### Opções disponíveis
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 

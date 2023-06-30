@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exame AD0-E117" type="positivo"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1449'
 ht-degree: 19%
@@ -216,7 +216,7 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 ### Opções disponíveis
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 

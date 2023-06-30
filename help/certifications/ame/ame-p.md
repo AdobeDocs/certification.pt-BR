@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E555" type="positivo"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1043'
 ht-degree: 0%
@@ -177,7 +177,7 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 ### Opções disponíveis
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 
