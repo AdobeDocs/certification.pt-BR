@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E406" type="positivo"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 1%
@@ -198,6 +198,8 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 ## Realizar o exame (AD0-E406)
 
 ### Opções disponíveis
+
+{#PSI-note}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 

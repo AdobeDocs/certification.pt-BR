@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exame AD0-E306" type="positivo"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1096'
 ht-degree: 13%
@@ -170,6 +170,8 @@ Você não precisa concluir o treinamento antes de fazer o exame, e o treinament
 ## Realizar o exame (AD0-E306)
 
 ### Opções disponíveis
+
+{#PSI-note}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,9 @@ Para agendar, reagendar ou cancelar seu exame, basta selecionar o fornecedor esc
 Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
 
 Pague seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+
+## Nota PSI {#PSI-note}
+
+>[!IMPORTANT]
+>
+>A partir de 1º de agosto de 2023, a programação dos exames não estará mais disponível com o PSI. Se você já tiver programado um exame com PSI, deverá fazê-lo antes de 1º de agosto de 2023. Se você tiver programado um exame com PSI após 1º de agosto de 2023, reprograme seu exame para ser realizado antes dessa data. Se você não puder ou não estiver preparado para fazer seu exame antes de 1º de agosto de 2023, envie um email para <certif@adobe.edu> para que possamos apoiá-lo na transferência do exame para o Exame. Isso inclui exames de língua japonesa.

@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E712" type="positivo"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '956'
 ht-degree: 2%
@@ -177,6 +177,8 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 ## Realizar o exame (AD0-E712)
 
 ### Opções disponíveis
+
+{#PSI-note}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 

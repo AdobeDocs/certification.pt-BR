@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exame AD0-E209" type="positivo"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 9%
@@ -30,7 +30,7 @@ Familiarize-se com as seguintes ferramentas e ambientes:
 Ferramentas:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (Monitor de pacote, como Adobe Debugger, ferramentas de desenvolvedor de navegador, Charles)
+* Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (Monitor de pacote, como o Adobe Debugger, ferramentas de desenvolvedor de navegador, Charles)
 * [!DNL Adobe Analytics] Configurações do conjunto de relatórios do Admin Console
 * Conhecimento básico do Workspace
 * Ferramentas de desenvolvimento para web, editor de código e ferramentas de depuração móvel
@@ -190,6 +190,8 @@ Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas ant
 ## Realizar o exame (AD0-E209)
 
 ### Opções disponíveis
+
+{#PSI-note}
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 
