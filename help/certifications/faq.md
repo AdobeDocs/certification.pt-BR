@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Como precisamos garantir que nossos indivíduos com certificação Adobe estejam
 +++
 
 +++Os exames estão disponíveis em idiomas diferentes do inglês?
+
+{{PSI-note}}
 
 Há alguns exames disponíveis em japonês por meio do PSI (um de nossos fornecedores). Se o exame estiver disponível em japonês, ele será anotado nos detalhes do exame para esse exame. Os detalhes dos exames são encontrados na guia &quot;Prepare-se&quot; das páginas de jornadas de certificação.
 
