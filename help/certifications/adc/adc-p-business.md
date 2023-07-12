@@ -4,12 +4,12 @@ description: Saiba como se tornar um Adobe Doc Cloud Professional certificado.
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="Exame AD0-D106" type="positivo"
+badge: label="Exame AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -127,13 +127,9 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
 
-**Faça um teste prático - em breve!**
+## Fazer um teste prático
 
-Recomendamos fazer o teste de prática gratuita antes de começar. Você terá acesso irrestrito a todos os testes práticos disponíveis para os exames de nível de especialista do Adobe.
-
-Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos exames ao vivo. O teste prático ajudará você a entender os tópicos abordados no exame ao vivo.
-
-Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
+{{practice-test}}
 
 ## Sobre o exame
 

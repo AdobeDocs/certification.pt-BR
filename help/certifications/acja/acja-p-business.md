@@ -4,11 +4,11 @@ description: Saiba como se tornar um Adobe profissional certificado no [!DNL Cus
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
-badge: label="Exame AD0-E608" type="positivo"
+badge: label="Exame AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '626'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ Saiba como se tornar um profissional certificado de profissional de negócios do
 
 ## Experiência mínima
 
-O MQC ideal é um analista com pelo menos 6 meses de experiência no Customer Journey Analytics e uma compreensão fundamental de como o CJA funciona em conjunto com o Adobe Experience Platform. O candidato pode usar as opções apropriadas de relatórios e visualização para realizar análises básicas e avançadas para uma determinada necessidade de negócios.
+O candidato ideal minimamente qualificado é um analista com pelo menos 6 meses de experiência em Customer Journey Analytics e uma compreensão fundamental de como o CJA funciona em conjunto com o Adobe Experience Platform. O candidato pode usar as opções apropriadas de relatórios e visualização para realizar análises básicas e avançadas para uma determinada necessidade de negócios.
 
 >[!NOTE]
 >
