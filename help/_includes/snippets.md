@@ -1,5 +1,5 @@
 ---
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Pague seu exame de certificação por voucher ou cartão de crédito. Para compr
 
 >[!IMPORTANT]
 >
->A partir de 1º de agosto de 2023, a programação dos exames não estará mais disponível com o PSI. Se você já tiver programado um exame com PSI, deverá fazê-lo antes de 1º de agosto de 2023. Se você tiver programado um exame com PSI após 1º de agosto de 2023, reprograme seu exame para ser realizado antes dessa data. Se você não puder ou não estiver preparado para fazer seu exame antes de 1º de agosto de 2023, envie um email para <certif@adobe.edu> para que possamos apoiá-lo na transferência do exame para o Exame. Isso inclui exames de língua japonesa.
+>A partir de 1º de agosto de 2023, a programação dos exames não estará mais disponível com o PSI. Se você já tiver programado um exame com PSI, deverá fazê-lo antes de 1º de agosto de 2023. Se você tiver programado um exame com PSI após 1º de agosto de 2023, reprograme seu exame para ser realizado antes dessa data. Se você não puder ou não estiver preparado para fazer seu exame antes de 1º de agosto de 2023, envie um email para <certif@adobe.com> para que possamos apoiá-lo na transferência do exame para o Exame. Isso inclui exames de língua japonesa.
