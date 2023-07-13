@@ -6,7 +6,7 @@ product: Customer Journey Analytics
 role: User
 badge: label="Exame AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: 5d7c136e3d38f3fed5443dcb476c8a2af9fad24d
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 13%
@@ -125,13 +125,13 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-D608)
+## Realizar o exame (AD0-E608)
 
 ### Opções disponíveis
 
 **[!DNL Examity]** ( *online* )
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Fazer exame
@@ -145,4 +145,3 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
-
