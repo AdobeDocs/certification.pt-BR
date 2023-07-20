@@ -1,16 +1,16 @@
 ---
 title: Certificação profissional
 description: Saiba como se tornar um certificado [!DNL Experience Platform] Profissional em [!DNL Real-Time Customer Data Platform]
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
-badge: label="Exame AD0-E602" type="positivo"
+badge: label="Exame AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '770'
 ht-degree: 4%
 
 ---

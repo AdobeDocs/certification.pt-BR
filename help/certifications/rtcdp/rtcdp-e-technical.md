@@ -1,16 +1,16 @@
 ---
 title: Certificação de especialistas
 description: Saiba como se tornar um certificado [!DNL Experience Platform] Especialista em [!DNL Real-Time Customer Data Platform]
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
-badge: label="Exame AD0-E600 & AD7-E601" type="positivo"
+badge: label="Exame AD0-E600 e AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1729'
 ht-degree: 6%
 
 ---
