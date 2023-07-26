@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
+source-wordcount: '5347'
 ht-degree: 8%
 
 ---
@@ -120,13 +120,19 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 * **Etapa 2**: Estude os cursos em Experience League
 * **Etapa 3**: escolha uma das opções abaixo.
 
-**Opção 1:** Selecionar **três atividades** concluir e passar nas avaliações associadas a cada curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda e não supervisionadas. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
+  **Opção A:**
 
-**Opção 2:** Selecionar **duas atividades** concluir e passar nas avaliações associadas a cada curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda e não supervisionadas. Você pode repetir os cursos até obter aprovação nas avaliações em 80%. Em seguida, **enviar um formulário de referência do cliente** validar seu envolvimento em um projeto que totalize pelo menos 100 horas nos últimos 12 meses.
+  Selecionar **três cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
 
-[Formulário de referência do cliente do Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Opção B:**
 
-Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada.
+  Primeiro, selecione **dois cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
+
+  Segundo, **enviar um formulário de referência do cliente** validar seu trabalho contínuo como um indivíduo com certificação Adobe que lidera, gerencia e/ou participa de um projeto de implementação do Adobe Experience Cloud. Este formulário confirma que você participou de pelo menos 100 horas de envolvimento demonstrado no projeto nos últimos 12 meses.
+
+  [Formulário de referência do cliente do Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada. Se sua referência não for aceita, você poderá enviar novamente até obter êxito, desde que seja antes da certificação expirar.
 
 ### Cursos e avaliações de curso para especialistas e Principais:
 
@@ -149,13 +155,19 @@ Você será notificado pela Equipe de credenciais do Adobe quando a referência 
 * **Etapa 2**: Estude os cursos em Experience League
 * **Etapa 3**: escolha uma das opções abaixo.
 
-**Opção 1:** Selecionar **três atividades** concluir e passar nas avaliações associadas a cada curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda e não supervisionadas. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
+  **Opção A:**
 
-**Opção 2:** Selecionar **duas atividades** concluir e passar nas avaliações associadas a cada curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda e não supervisionadas. Você pode repetir os cursos até obter aprovação nas avaliações em 80%. Em seguida, **enviar um formulário de referência do cliente** validar seu envolvimento em um projeto que totalize pelo menos 100 horas nos últimos 12 meses.
+  Selecionar **três cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
 
-[Formulário de referência do cliente do Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Opção B:**
 
-Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada.
+  Primeiro, selecione **dois cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
+
+  Segundo, **enviar um formulário de referência do cliente** validar seu trabalho contínuo como um indivíduo com certificação Adobe que lidera, gerencia e/ou participa de um projeto de implementação do Adobe Experience Cloud. Este formulário confirma que você participou de pelo menos 100 horas de envolvimento demonstrado no projeto nos últimos 12 meses.
+
+  [Formulário de referência do cliente do Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada. Se sua referência não for aceita, você poderá enviar novamente até obter êxito, desde que seja antes da certificação expirar.
 
 ### Cursos e avaliações de curso para especialistas e Principais:
 
@@ -176,13 +188,19 @@ Você será notificado pela Equipe de credenciais do Adobe quando a referência 
 * **Etapa 2**: Estude os cursos em Experience League
 * **Etapa 3**: escolha uma das opções abaixo.
 
-**Opção 1:** Selecionar **três atividades** concluir e passar nas avaliações associadas a cada curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda e não supervisionadas. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
+  **Opção A:**
 
-**Opção 2:** Selecionar **duas atividades** concluir e passar nas avaliações associadas a cada curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda e não supervisionadas. Você pode repetir os cursos até obter aprovação nas avaliações em 80%. Em seguida, **enviar um formulário de referência do cliente** validar seu envolvimento em um projeto que totalize pelo menos 100 horas nos últimos 12 meses.
+  Selecionar **três cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
 
-[Formulário de referência do cliente do Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **Opção B:**
 
-Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada.
+  Primeiro, selecione **dois cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
+
+  Segundo, **enviar um formulário de referência do cliente** validar seu trabalho contínuo como um indivíduo com certificação Adobe que lidera, gerencia e/ou participa de um projeto de implementação do Adobe Experience Cloud. Este formulário confirma que você participou de pelo menos 100 horas de envolvimento demonstrado no projeto nos últimos 12 meses.
+
+  [Formulário de referência do cliente do Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada. Se sua referência não for aceita, você poderá enviar novamente até obter êxito, desde que seja antes da certificação expirar.
 
 ### Cursos e avaliações de curso para especialistas e Principais:
 
