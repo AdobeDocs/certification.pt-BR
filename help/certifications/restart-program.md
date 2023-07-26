@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -27,7 +27,7 @@ A certificação é um recurso valioso para as pessoas que buscam se manter comp
 
 Indivíduos com certificações expiradas que estão qualificados para este programa devem ter recebido um e-mail do Programa de Certificação do Adobe com o assunto, &quot;Torne-se Adobe novamente certificado de graça&quot;.
 
-Se não tiver certeza se está qualificado, verifique [aqui](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+Se não tiver certeza se está qualificado, verifique [aqui](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 Para se qualificar, sua certificação deve atender **all** dos seguintes critérios:
 
@@ -198,7 +198,7 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 
   Segundo, **enviar um formulário de referência do cliente** validar seu trabalho contínuo como um indivíduo com certificação Adobe que lidera, gerencia e/ou participa de um projeto de implementação do Adobe Experience Cloud. Este formulário confirma que você participou de pelo menos 100 horas de envolvimento demonstrado no projeto nos últimos 12 meses.
 
-  [Formulário de referência do cliente do Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Formulário de referência do cliente do Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada. Se sua referência não for aceita, você poderá enviar novamente até obter êxito, desde que seja antes da certificação expirar.
 
@@ -272,7 +272,7 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 
 Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
-Aqui estão os recursos sugeridos,
+Estes são os recursos sugeridos:
 
 * [Exemplo de exame](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Documentação do produto](https://docs.adobe.com/content/help/pt-BR/experience-cloud/user-guides/home.translate.html){target="_blank"}
