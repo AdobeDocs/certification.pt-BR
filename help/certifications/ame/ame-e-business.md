@@ -4,12 +4,12 @@ description: Saiba como se tornar um especialista certificado em profissionais d
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exame AD0-E559" type="positivo"
+badge: label="Exame AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
@@ -228,19 +228,17 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
 
-*INGLÊS*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Fazer exame de inglês
 </span>
 </a>
 
-*JAPONÊS*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Fazer exame de japonês
 </span>
 </a>
 
