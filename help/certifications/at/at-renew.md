@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 
 >[!TAB Especialista e Principal]
 
-## Você deve estar certificado no momento (não expirado) em:
+## Você deve ter pelo menos um dos seguintes **ativo** certificações a renovar:
 
 * [!DNL Adobe Target] Especialista em Profissionais de Negócios
 * [!DNL Adobe Target] Arquiteto Principal
@@ -50,8 +50,7 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 * **Etapa 3:** Escolha entre as opções abaixo para concluir a renovação.
 
   **Opção A:**
-
-  Selecionar **três cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
+Selecionar **três cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
 
   **Opção B:**
 Primeiro, selecione **dois cursos** para concluir e passar em cada avaliação de curso com uma pontuação de 80% ou superior. As avaliações do curso são gratuitas, sob demanda, não supervisionadas e de livro aberto. Você pode repetir os cursos até obter aprovação nas avaliações em 80%.
@@ -64,7 +63,7 @@ Primeiro, selecione **dois cursos** para concluir e passar em cada avaliação d
 
 >[!NOTE]
 >
->Se você tiver vários [!DNL Adobe Target] Certificações especializadas e de nível Principal preenchem os requisitos de renovação para apenas uma certificação, e o restante será renovado automaticamente.
+>Se você tiver vários [!DNL Adobe Target] Certificações especializadas e Principais, preencha os requisitos de renovação para apenas uma certificação e o restante será renovado automaticamente.
 
 ## Cursos e avaliações de curso para especialistas e Principais:
 
