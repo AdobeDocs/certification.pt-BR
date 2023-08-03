@@ -4,17 +4,28 @@ description: Saiba como se tornar um arquiteto certificado Principal no Experien
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Exame AD0-E117" type="positivo"
+badge: label="Exame AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
+source-wordcount: '1514'
 ht-degree: 19%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Experience Manager Sites] Arquiteto Principal
+
+>[!NOTE]
+>
+>Este exame (AD0-E117) está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. Use o botão abaixo para se inscrever para ser notificado quando estiver disponível novamente.
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Notificar-me
+</span>
+</a>
 
 Saiba como se tornar um arquiteto certificado Principal.
 
@@ -216,23 +227,14 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 ### Opções disponíveis
 
-{{PSI-note}}
+>[!NOTE]
+>
+>Este exame (AD0-E117) está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. Use o botão abaixo para se inscrever para ser notificado quando estiver disponível novamente.
 
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Notificar-me
 </span>
 </a>
 
