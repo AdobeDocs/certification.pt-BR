@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exame AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 19%
+source-wordcount: '1722'
+ht-degree: 16%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 19%
 >[!NOTE]
 >
 >Este exame (AD0-E117) está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
+>
+>**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
 
 Saiba como se tornar um arquiteto certificado Principal.
 
@@ -211,7 +213,6 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
-
 ## Sobre o exame
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >[!NOTE]
 >
 >Este exame (AD0-E117) está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
+>
+>**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+
+## Perguntas frequentes sobre o exame Principal do Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+
+O exame de certificação AD0-E117 está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
+
+**O que acontece se eu já agendar meu exame?**
+
+Todos os exames AD0-E117 agendados foram cancelados. Os candidatos afetados precisarão agendar o exame novamente quando a nova versão estiver disponível.
+
+**Eu já paguei o exame. Eu receberei um reembolso?**
+
+* Se você pagou seu exame com um cartão de crédito via Exame, você será totalmente reembolsado.  
+* Se você pagou com um voucher, seu código será redefinido e você poderá aplicá-lo ao seu novo compromisso no exame.  
+* Se o cupom expirar antes que você possa usá-lo, emitiremos um novo cupom assim que estiver pronto para o agendamento.
+
+**Preciso renovar minha certificação antes de outubro. Isso afetará minha renovação?**
+
+Não. Você poderá renovar por meio do aprendizado contínuo. Siga as instruções e o processo fornecidos em [Renovar sua certificação](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
