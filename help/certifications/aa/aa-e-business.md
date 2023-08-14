@@ -4,12 +4,12 @@ description: Saiba como se tornar certificado como especialista em prática de n
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Exame AD0-E208" type="positivo"
+badge: label="Exame AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1001'
 ht-degree: 15%
 
 ---
@@ -38,7 +38,7 @@ Você deve ter:
 
 * Cliente FTP
 * Atual [!DNL Adobe Analytics] Recursos do Workspace e outras opções de relatório fora do Workspace (por exemplo, agendar projetos e agendar relatórios)
-* Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (Monitor de pacote, como um depurador de Adobe, ferramentas de desenvolvedor de navegador, Charles)
+* Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (Monitor de pacote, como um Adobe Debugger, ferramentas de desenvolvedor de navegador, Charles)
 * Admin Console (console Admin do Conjunto de relatórios do Analytics e console Admin do Experience Cloud)
 * Fundamentos/noções básicas do Adobe Launch
 * Aplicativos, SPA, noções básicas sobre sites
@@ -153,7 +153,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 **Seção 4: Conhecimento geral e solução de problemas da ferramenta**
 
 * [Guia de ferramentas do Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}
-* [Visão geral da Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=pt-BR){target="_blank"}
+* [Visão geral do Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=pt-BR){target="_blank"}
 
 **Seção 5: Administração**
 
@@ -167,37 +167,22 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 >
 >As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
+>Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
 
 ## Fazer um teste prático
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E208)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E208
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

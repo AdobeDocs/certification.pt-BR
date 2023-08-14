@@ -4,9 +4,9 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1414'
 ht-degree: 1%
 
 ---
@@ -19,25 +19,16 @@ Saiba como obter um certificado no Adobe. Encontre todos os recursos necessário
 
 >[!TAB Registro]
 
-O Adobe usa dois fornecedores para administrar os exames monitorados: [!DNL PSI] e [!DNL Examity].
-
-{{PSI-note}}
-
-* **[!DNL PSI]:** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]:** oferece uma opção remota online
+O Adobe usa o Exame para administrar exames monitorados online.
 
 **Siga estas etapas para se inscrever no exame de certificação:**
 
 * **Etapa 1:** Logon bem-sucedido no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Etapa 2:** Retorne a este site e clique em Certificações técnicas.
-* **Etapa 3:** Escolha a solução Adobe, o nível de certificação e a função
+* **Etapa 3:** Escolha o aplicativo Adobe, o nível de certificação e a função
 * **Etapa 4:** Siga as etapas fornecidas na seção **Obter certificado** seção.
 
 **Recursos**
-
-**PSI:**
-
-* [Como se inscrever para um exame em um centro de testes](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
 Exame:
 
@@ -50,7 +41,7 @@ Seu [perfil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){targ
 
 Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
 
-Nenhum fornecedor de suporte ou exame do Adobe pode processar solicitações de reagendamento e cancelamento. Cancelamentos abaixo de 48 horas estão sujeitos a uma taxa de reescalonamento além da taxa do exame.
+Nem o Suporte ou o Exame do Adobe podem processar solicitações de reagendamento e cancelamento. Cancelamentos abaixo de 48 horas estão sujeitos a uma taxa de reescalonamento além da taxa do exame.
 
 Depois de concluir um exame, você recebe uma aprovação provisória ou reprovação. A pontuação final pode levar até 72 horas para ser preenchida. Você encontrará seu relatório de resultado e pontuação na guia Histórico na [Gerenciador de Credenciais Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -88,13 +79,10 @@ Nota: Descontos em massa não podem ser combinados com qualquer outra oferta ou 
 
 A equipe da Adobe Credential faz parceria com fornecedores para ajudar a apoiar as iniciativas e as metas do programa.  Estes são os fornecedores e suas informações de contato:
 
-{{PSI-note}}
-
 | Nome do Fornecedor | Descrição | Página de suporte/email |
 | ------- | ------- | ------- |
 | Credly | Sistema de gerenciamento de medalhas | [Suporte](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Exame | Testar fornecedor de entrega (somente processamento on-line) | [E-mail](mailto:support@examity.com){target="_blank"} ou 855-Exame (855-392-6489) |
-| PSI | Testar fornecedor de delivery para exames Proctored em um local ou em japonês | [Email](mailto:adobe.psisupport@psionline.com){target="_blank"} |
 | Xvoucher - Centro de Voucher de Certificação Adobe | Centro de comprovantes para comprar comprovantes individuais ou em massa | [E-mail](mailto:support@xvoucher.com){target="_blank"} ou [Ajuda online](https://help.xvoucher.com/hc/en-us) |
 
 Recursos de outros fornecedores:

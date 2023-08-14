@@ -1,7 +1,7 @@
 ---
-source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -19,16 +19,13 @@ Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://ww
 
 ## Sobre o exame de certificação {#about-certification-exam}
 
-O Adobe usa dois fornecedores para administrar exames monitorados, PSI e [!DNL Examity].
+O Adobe usa o Exame para administrar exames monitorados online. No portal Exame, você pode:
 
-* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]** oferece uma opção remota online
+* **Agendar, reagendar ou cancelar o exame.** Observe que o cancelamento e a reprogramação devem ser iniciados antes de 48 horas antes do compromisso agendado para o exame. Os candidatos devem modificar este compromisso.
 
-Para agendar, reagendar ou cancelar seu exame, basta selecionar o fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
+* **Pague pelo seu exame.** Pague o seu exame de certificação por voucher ou cartão de crédito no Portal de exames. Para comprar um cupom de exame, acesse: [Sistema de voucher de certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
-
-Pague seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+* **Faça o seu exame.**
 
 ## Nota PSI {#PSI-note}
 

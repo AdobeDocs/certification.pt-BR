@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 21a1ff4a0b8fe66004e5dae8e7a75f4196e74375
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1300'
+source-wordcount: '1298'
 ht-degree: 9%
 
 ---
@@ -32,7 +32,7 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 
 >[!TAB Profissional]
 
-+++Adobe Analytics Developer Professional
++++[!DNL Adobe Analytics] Profissional de desenvolvedor
 
 ## Instruções para renovar sua certificação:
 
@@ -147,7 +147,7 @@ Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerencia
 
 +++
 
-+++Profissional de Profissional de Negócios
++++[!DNL Adobe Analytics] Profissional de Profissional de Negócios
 
 >[!NOTE]
 >

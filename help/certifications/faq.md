@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '2655'
+source-wordcount: '2643'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Para saber mais sobre o programa de certificação Adobe, consulte as perguntas 
 
 +++O que é certificação e quais são os benefícios?
 
-Benefícios individuais: a certificação é uma credencial que reconhece a habilidade e a competência de um indivíduo em uma aplicação Adobe. Um candidato que passar no exame de certificação torna-se um Adobe Certified Professional, Expert ou Principal.
+Benefícios individuais: a certificação é uma credencial que reconhece a habilidade e a competência de um indivíduo em uma aplicação Adobe. Um candidato que passar no exame de certificação torna-se um Adobe Certified Professional, Expert ou Master.
 
 As certificações exigem compromisso, são legalmente defensáveis e a validação da Adobe do seu conhecimento. Você também pode incluir sua certificação em seus perfis sociais baixando sua medalha em [!DNL Credly].
 
@@ -49,15 +49,13 @@ As certificações são baseadas em funções, o que significa que há vários e
 
 +++E se eu tiver problemas técnicos durante meu exame supervisionado?
 
-PSI e [!DNL Examity] suporte disponível por chat, email e telefone. O suporte para Adobe não pode ajudar com problemas técnicos que ocorrem durante o exame.
+[!DNL Examity] O tem suporte disponível por chat, email e telefone. O suporte para Adobe não pode ajudar com problemas técnicos que ocorrem durante o exame.
 
-[!DNL Examity] Suporte - `adobepartnersupport@examity.com`
-
-Suporte PSI - `psisupport@psionline.com`
+[!DNL Examity] Suporte: `adobepartnersupport@examity.com`
 
 O recurso de ajuda mais rápido é por meio do chat. Todos os candidatos a teste devem garantir que seus computadores têm os requisitos de sistema adequados antes de fazer o exame.
 
-Para obter mais detalhes, consulte: PSI e [!DNL Examity] páginas para gerenciamento de exames e configuração técnica.
+Para obter mais detalhes, consulte [!DNL Examity] página para gerenciamento de exames e configuração técnica.
 
 +++
 
@@ -117,9 +115,7 @@ Como precisamos garantir que nossos indivíduos com certificação Adobe estejam
 
 +++Os exames estão disponíveis em idiomas diferentes do inglês?
 
-{{PSI-note}}
-
-Há alguns exames disponíveis em japonês por meio do PSI (um de nossos fornecedores). Se o exame estiver disponível em japonês, ele será anotado nos detalhes do exame para esse exame. Os detalhes dos exames são encontrados na guia &quot;Prepare-se&quot; das páginas de jornadas de certificação.
+Alguns exames estão disponíveis em japonês. Se o exame estiver disponível em japonês, ele será anotado nos detalhes do exame para esse exame. Os detalhes dos exames são encontrados na guia &quot;Prepare-se&quot; das páginas de jornadas de certificação.
 
 +++
 
@@ -274,7 +270,7 @@ Atualmente, não planejamos oferecer isso novamente. Esta é uma oferta única.
 
 +++Quais níveis de certificação estão incluídos no Programa de Reinicialização?
 
-Somente certificações de nível Expert e Principal estão sendo incluídas no Programa de reinicialização. As certificações de nível profissional terão um caminho de renovação disponível a partir de junho de 2023.
+Somente certificações de nível Expert e Master estão sendo incluídas no Programa de Reinicialização. As certificações de nível profissional terão um caminho de renovação disponível a partir de junho de 2023.
 
 +++
 
@@ -314,8 +310,8 @@ Todas as certificações Adobe ativas, exceto aquelas que se retiraram, fazem pa
 | AD0-E103 | [!DNL Adobe Experience Manager Sites] Especialista em desenvolvedores |
 | AD0-E116 | [!DNL Adobe Experience Manager Sites] Especialista em desenvolvedores |
 | AD0-E106 | [!DNL Adobe Experience Manager] Especialista em engenharia de desenvolvimento/operações |
-| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arquiteto Principal |
-| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arquiteto Principal |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arquiteto mestre |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arquiteto mestre |
 
 **[!DNL Adobe Analytics]**
 
@@ -323,15 +319,15 @@ Todas as certificações Adobe ativas, exceto aquelas que se retiraram, fazem pa
 | ------- | ------- |
 | AD0-E201 | [!DNL Adobe Analytics] Especialista em desenvolvedores |
 | AD0-E202 | [!DNL Adobe Analytics] Especialista em Profissionais de Negócios |
-| AD0-E200 | [!DNL Adobe Analytics] Arquiteto Principal |
-| AD0-E207 | [!DNL Adobe Analytics] Arquiteto Principal |
+| AD0-E200 | [!DNL Adobe Analytics] Arquiteto mestre |
+| AD0-E207 | [!DNL Adobe Analytics] Arquiteto mestre |
 
 **Adobe Audience Manager**
 
 | ID do exame | Nome do exame |
 | ------- | ------- |
-| AD0-E454 | [!DNL Adobe Audience Manager] Arquiteto Principal |
-| AD0-E452 | [!DNL Adobe Audience Manager] Arquiteto Principal |
+| AD0-E454 | [!DNL Adobe Audience Manager] Arquiteto mestre |
+| AD0-E452 | [!DNL Adobe Audience Manager] Arquiteto mestre |
 | AD0-E453 | [!DNL Adobe Audience Manager] Especialista em Profissionais de Negócios |
 
 **Adobe Campaign Classic**
@@ -340,8 +336,8 @@ Todas as certificações Adobe ativas, exceto aquelas que se retiraram, fazem pa
 | ------- | ------- |
 | AD0-E300 | Adobe [!DNL Campaign Classic] Especialista em profissionais de negócios de sites |
 | AD0-E314 | Adobe [!DNL Campaign Classic] Especialista em profissionais de negócios de sites |
-| AD0-E318 | Adobe [!DNL Campaign Classic] Arquiteto Principal |
-| AD0-E303 | Adobe [!DNL Campaign Classic] Arquiteto Principal |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Arquiteto mestre |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Arquiteto mestre |
 | AD0-E312 | Adobe [!DNL Campaign Classic] Especialista em desenvolvedores |
 | AD0-E308 | Adobe [!DNL Campaign Classic] Especialista em desenvolvedores |
 
@@ -365,7 +361,7 @@ Todas as certificações Adobe ativas, exceto aquelas que se retiraram, fazem pa
 | ID do exame | Nome do exame |
 | ------- | ------- |
 | AD0-E401 | [!DNL Adobe Target] Especialista em Profissionais de Negócios |
-| AD0-E402 | [!DNL Adobe Target] Arquiteto Principal |
+| AD0-E402 | [!DNL Adobe Target] Arquiteto mestre |
 
 +++
 
