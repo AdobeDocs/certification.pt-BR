@@ -4,12 +4,12 @@ description: Saiba como se tornar um Adobe de certificado [!DNL Marketo Engage] 
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exame AD0-E555" type="positivo"
+badge: label="Exame AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
@@ -169,31 +169,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E555)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E555
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

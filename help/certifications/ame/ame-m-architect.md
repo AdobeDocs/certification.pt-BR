@@ -1,31 +1,31 @@
 ---
-title: Arquiteto Principal da certificação
-description: Saiba como se tornar um arquiteto de Adobe certificado Principal no Adobe [!DNL Marketo Engage].
+title: Certificação do arquiteto mestre
+description: Saiba como se tornar um arquiteto de Adobe certificado mestre no Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
-badge: label="Exame AD0-E556" type="positivo"
+badge: label="Exame AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '983'
 ht-degree: 1%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Marketo Engage] Arquiteto Principal
+# Jornada de certificação para o Adobe [!DNL Marketo Engage] Arquiteto mestre
 
-Saiba como se tornar um arquiteto de Adobe Principal certificado.
+Saiba como se tornar um Adobe de certificado [!DNL Marketo Engage] Arquiteto mestre.
 
-O Programa de Credenciais do Adobe lançou uma nova certificação do Adobe Marketo Engage Architect para candidatos interessados em obter o título Principal Certificado. Ele substitui o processo anterior de entrevista de certificação do Marketo Certified Solution Architect (MCSA). [Leia mais](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+O Programa de Credenciais Adobe lançou um novo Adobe [!DNL Marketo Engage] Envolva a certificação de Arquiteto para os candidatos interessados em obter o título de Mestre Certificado. Ele substitui o processo anterior de entrevista de certificação do Marketo Certified Solution Architect (MCSA). [Leia mais](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
 ## Experiência mínima
 
 Você deve ter:
 
-* Uma certificação atual no [!DNL Marketo Engage] Especialista certificado de profissional de negócios
-* Pelo menos cinco anos de experiência, de preferência com várias instâncias de [!DNL Marketo Engage]
+* Uma certificação atual no Adobe [!DNL Marketo Engage] Especialista certificado de profissional de negócios
+* Pelo menos cinco anos de experiência, de preferência com várias instâncias de Adobe [!DNL Marketo Engage]
 * Uma compreensão do impacto nos negócios e explicar/comunicar efetivamente sua solução às partes interessadas (técnicas e não técnicas) em diferentes níveis
 * A capacidade de conceituar uma solução e traduzir em um [!DNL Marketo Engage] e compreender os processos de negócios afetados pelas integrações
 * Familiaridade com os princípios de arquitetura de uma instância
@@ -66,7 +66,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 **Detalhes do exame:**
 
 * Pré-requisito: Adobe Certified Expert - [!DNL Marketo Engage] Especialista em profissionais de negócios
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Certificação de profissional
 * Pontuação de aprovação: 30/50
 * Tempo: 150 minutos
@@ -164,31 +164,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E556)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E556
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

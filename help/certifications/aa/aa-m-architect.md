@@ -1,23 +1,23 @@
 ---
-title: Arquiteto Principal da certificação
-description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Arquiteto Principal.
+title: Certificação do arquiteto mestre
+description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Arquiteto mestre.
 solution: Analytics
 product: Analytics
 level: Experienced
 role: Data Architect,Developer
-badge: label="Exame AD0-E207" type="positivo"
+badge: label="Exame AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '900'
-ht-degree: 17%
+source-wordcount: '755'
+ht-degree: 20%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Analytics] Arquiteto Principal
+# Jornada de certificação para [!DNL Adobe Analytics] Arquiteto mestre
 
-Saiba como se tornar um certificado [!DNL Analytics] Arquiteto Principal.
+Saiba como se tornar um certificado [!DNL Analytics] Arquiteto mestre.
 
 ## Experiência mínima
 
@@ -52,7 +52,7 @@ Além disso, você é responsável por transformar os requisitos de negócios em
 
 **Detalhes do exame:**
 
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 33/50
 * Tempo: 100 minutos
 * Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
@@ -141,44 +141,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Fazer o exame
-
-O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
-
-* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]** oferece uma opção remota online
-
-Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
-
-O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
-
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
-
-## Realizar o exame (AD0-E207)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E207
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

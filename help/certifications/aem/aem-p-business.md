@@ -4,19 +4,19 @@ description: Saiba como se tornar um Profissional de negócios certificado no Ad
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Exame AD0-E126" type="positivo"
+badge: label="Exame AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '865'
 ht-degree: 12%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Experience Manager] Profissional de Profissional de Negócios
 
-Saiba como se tornar um profissional certificado de profissional de negócios do Adobe.
+Saiba como se tornar um Adobe de certificado [!DNL Experience Manager] Profissional de negócios.
 
 ## Experiência mínima
 
@@ -26,7 +26,7 @@ Você deve ter:
 * Pelo menos 0 a 12 meses de experiência com os recursos de AEM necessários para envolver os desenvolvedores a encontrar soluções de negócios
 * Pelo menos 0 a 12 meses de experiência na configuração, implementação e gerenciamento das tarefas de Integração contínua/Implantação contínua
 
-Se você estiver familiarizado com o Adobe Managed Services e o Adobe [!DNL Experience Manager] as a Cloud Service e capaz de configurar o Adobe [!DNL Experience Manager] ambientes e infraestrutura.
+Se você estiver confortável trabalhando no Adobe Managed Services e no Adobe [!DNL Experience Manager] as a Cloud Service e capaz de configurar o Adobe [!DNL Experience Manager] ambientes e infraestrutura.
 
 Além disso, você deve ter:
 
@@ -147,20 +147,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E126)
-
-### Opções disponíveis
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E126
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

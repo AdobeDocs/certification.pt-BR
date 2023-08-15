@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 2%
 
 ---
 
-# Renove seu [!DNL Advertising] certificação
+# Renove seu [!DNL Adobe Advertising] certificação
 
 Quando você passar em um exame de certificação, sua certificação é válida por dois anos.
 
@@ -42,7 +42,7 @@ Temos o prazer de anunciar que você poderá renovar sua certificação agora po
 
 >[!NOTE]
 >
->Renovação principal em breve.
+>Renovação mestre em breve.
 
 >[!ENDTABS]
 

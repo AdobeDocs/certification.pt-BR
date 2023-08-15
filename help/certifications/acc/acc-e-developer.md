@@ -4,19 +4,19 @@ description: Saiba como se tornar um especialista certificado da Adobe Developer
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Exame AD0-E330" type="positivo"
+badge: label="Exame AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1140'
-ht-degree: 16%
+source-wordcount: '1117'
+ht-degree: 17%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Classic] Especialista em desenvolvedores
 
-Saiba como se tornar um especialista certificado da Adobe Developer.
+Saiba como se tornar um Adobe de certificado [!DNL Campaign Classic] Especialista em desenvolvedores.
 
 ## Experiência mínima
 
@@ -42,7 +42,7 @@ Você deve ter:
 
 * Consultor técnico
 * Engenheiro de tecnologia de marketing
-* [!DNL Campaign Classic] desenvolvedor
+* Adobe [!DNL Campaign Classic] desenvolvedor
 
 **Detalhes do exame**
 
@@ -185,31 +185,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E330)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E330
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

@@ -1,55 +1,55 @@
 ---
-title: Arquiteto Principal da certificação
-description: Saiba como se tornar um arquiteto de Adobe certificado principal no Adobe [!DNL Commerce].
+title: Certificação do arquiteto mestre
+description: Saiba como se tornar um arquiteto de Adobe certificado mestre no Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Exame AD0-E718" type="positivo"
+badge: label="Exame AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 1%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Commerce] Arquiteto Principal
+# Jornada de certificação para [!DNL Adobe Commerce] Arquiteto mestre
 
-Saiba como se tornar um arquiteto de Adobe Principal certificado.
+Saiba como se tornar um certificado [!DNL Adobe Commerce] Arquiteto mestre.
 
 ## Experiência mínima
 
-Você deve ter pelo menos 3-5 anos de experiência conduzindo [!DNL Commerce] projetos de desenvolvimento e são capazes de projetar, integrar, implementar e explicar soluções para problemas de negócios utilizando o Adobe [!DNL Commerce] juntamente com os serviços associados.
+Você deve ter pelo menos 3-5 anos de experiência conduzindo [!DNL Commerce] projetos de desenvolvimento e são capazes de projetar, integrar, implementar e explicar soluções para problemas de negócios utilizando [!DNL Adobe Commerce] juntamente com os serviços associados.
 
 Além disso, você deve estar familiarizado com as seguintes atividades e tecnologias:
 
 * Estender recursos principais
-* Configurar Adobe [!DNL Commerce] totalmente
+* Configurar [!DNL Adobe Commerce] totalmente
 * Criar blueprint completo de como uma extensão deve funcionar, requisitos de empresa para blueprint de como deve funcionar, sem precisar entrar no código
 * Entender as necessidades/os recursos da empresa
 * Implicações de desempenho de soluções e extensões
 * Lógica de contratos de serviço
 * GraphQL
 * Entender o Composer como uma ferramenta de dependência
-* Definir e configurar a instância de trabalho do Adobe [!DNL Commerce] do zero
+* Definir e configurar a instância de trabalho do Adobe [!DNL Adobe Commerce] do zero
 * Personalizar o painel de administração, criando grades e formulários
 * Gerenciamento de cache e índice; criação de índice personalizado
 * Criar novo tipo de cache
 * Solucionar e depurar vários problemas no ambiente
 * Estender e gerenciar esquema de banco de dados
 * Recursos de segurança, fornecem instalação segura e extensão de desenvolvimento
-* Executar serviços baseados em servidor que [!DNL Commerce] conecta (Redis, gerenciamento de configuração de verniz)
+* Executar serviços baseados em servidor que [!DNL Adobe Commerce] conecta (Redis, gerenciamento de configuração de verniz)
 * Consciente da prática padrão de codificação, padrões de codificação, PSR, princípio SOLID
-* Configurar e usar [!DNL Commerce] Conector de serviços (e serviços associados)
+* Configurar e usar [!DNL Adobe Commerce] Conector de serviços (e serviços associados)
 * Gerenciamento de conteúdo de preparo
-* Noções básicas sobre o Adobe [!DNL Commerce] padrões, quando seu&#39; disponível e não disponível
-* Amplo entendimento de qualquer relacionado [!DNL Commerce] domínio
+* Noções básicas [!DNL Adobe Commerce] padrões, quando seu&#39; disponível e não disponível
+* Amplo entendimento de qualquer relacionado [!DNL Adobe Commerce] domínio
 * Projetar arquitetura de projeto
-* Otimizar o desempenho do Adobe [!DNL Commerce] padrão
+* Otimizar o desempenho do [!DNL Adobe Commerce] padrão
 * Criação e modificação de B2B
-* Protocolo e adaptadores AMQP no Adobe [!DNL Commerce] (S3)
+* Protocolo e adaptadores AMQP em [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Além disso, você deve estar familiarizado com as seguintes atividades e tecnol
 
 **Público-alvo:**
 
-* Software líder/[!DNL Commerce] Arquiteto
+* Software líder/[!DNL Adobe Commerce] Arquiteto
 * Arquiteto técnico
 * Arquiteto de soluções
 * Líder técnico
@@ -75,7 +75,7 @@ Além disso, você deve estar familiarizado com as seguintes atividades e tecnol
 
 **Detalhes do exame:**
 
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 29/50
 * Tempo: 120 minutos
 * Delivery: on-line por encomenda (requer acesso à câmera)
@@ -169,31 +169,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E718)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E718
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

@@ -4,19 +4,19 @@ description: Saiba como se tornar um Adobe AEM Forms Backend Developer Professio
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exame AD0-E127" type="positivo"
+badge: label="Exame AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 7%
+source-wordcount: '825'
+ht-degree: 8%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Experience Manager Forms] Desenvolvedor de backend Professional
 
-Saiba como se tornar um certificado [!DNL Adobe AEM Forms] Desenvolvedor de back-end profissional.
+Saiba como se tornar um Adobe de certificado [!DNL Experience Manager Forms] Desenvolvedor de back-end profissional.
 
 ## Experiência mínima
 
@@ -26,7 +26,7 @@ Você deve ser um desenvolvedor de formulários de back-end e ter:
 * 12 meses de experiência ao usar e configurar o Adobe Cloud Manager
 * Pelo menos 24 meses de experiência na configuração, implementação e gerenciamento das tarefas de Integração contínua/Implantação contínua
 
-Além disso, você deve se sentir confortável trabalhando no Adobe Managed Services e na Adobe Experience Manager as a Cloud Service. É capaz de configurar ambientes e infraestrutura Adobe Experience Manager.
+Além disso, você deve estar confortável trabalhando no Adobe Managed Services e Adobe Experience Manager as a Cloud Service. É capaz de configurar ambientes e infraestrutura Adobe Experience Manager.
 
 Familiarize-se com as seguintes tecnologias e ambientes:
 
@@ -152,20 +152,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E127)
-
-### Opções disponíveis
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E127
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

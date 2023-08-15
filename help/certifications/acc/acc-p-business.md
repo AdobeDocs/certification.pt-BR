@@ -4,19 +4,19 @@ description: Saiba como se tornar um profissional certificado de Profissional de
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exame AD0-E329" type="positivo"
+badge: label="Exame AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1215'
 ht-degree: 15%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Classic] Profissional de Profissional de Negócios
 
-Saiba como se tornar um profissional certificado de profissional de negócios do Adobe.
+Saiba como se tornar um Adobe de certificado [!DNL Campaign Classic] Profissional de negócios.
 
 ## Experiência mínima
 
@@ -180,20 +180,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E329)
-
-### Opções disponíveis
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E329
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

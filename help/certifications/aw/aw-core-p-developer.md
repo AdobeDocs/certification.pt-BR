@@ -3,19 +3,19 @@ title: Certificação Core Developer Professional
 description: Saiba como se tornar um profissional certificado da Adobe Developer no Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exame AD0-E905" type="positivo"
+badge: label="Exame AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1011'
 ht-degree: 2%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Workfront] Desenvolvedor Profissional Principal
 
-Saiba como se tornar um profissional certificado da Adobe Developer.
+Saiba como se tornar um Adobe de certificado [!DNL Workfront] Desenvolvedor principal profissional.
 
 ## Experiência mínima
 
@@ -170,31 +170,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E905)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E905
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

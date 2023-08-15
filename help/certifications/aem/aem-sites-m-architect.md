@@ -1,20 +1,20 @@
 ---
-title: Arquiteto Principal da certificação
-description: Saiba como se tornar um arquiteto certificado Principal no Experience Manager Sites.
+title: Certificação do arquiteto mestre
+description: Saiba como se tornar um arquiteto mestre certificado no Experience Manager Sites.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="Exame AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 16%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager Sites] Arquiteto Principal
+# Jornada de certificação para o Adobe [!DNL Experience Manager Sites] Arquiteto mestre
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ ht-degree: 16%
 >
 >**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
 
-Saiba como se tornar um arquiteto certificado Principal.
+Saiba como se tornar um Adobe de certificado [!DNL Experience Manager Sites] Arquiteto mestre.
 
 ## Experiência mínima
 
@@ -73,7 +73,7 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 
 **Detalhes do exame:**
 
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 29/50
 * Tempo: 100 minutos
 * Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
@@ -213,13 +213,11 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 >
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E117)
-
-### Opções disponíveis
+## Programar ou fazer exame AD0-E117
 
 >[!NOTE]
 >
@@ -235,7 +233,7 @@ Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.co
 
 Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
 
-## Perguntas frequentes sobre o exame Principal do Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+## Perguntas frequentes do Exame Mestre do Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
 
 O exame de certificação AD0-E117 está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
 

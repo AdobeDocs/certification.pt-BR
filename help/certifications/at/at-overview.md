@@ -3,22 +3,22 @@ title: Visão geral da certificação do Target
 description: Visão geral das opções de certificação para o Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 5%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# Visão geral da certificação do Target
+# [!DNL Adobe Target] Visão geral da certificação
 
 ## Novidades
 
-A certificação Principal do Adobe Target Architect foi atualizada.
+A variável [!DNL Adobe Target] A certificação do Architect Master foi atualizada.
 
 A versão atual é:
 
-* [Adobe Target Architect Principal (AD0-E409)](/help/certifications/at/at-m-architect.md)
+* [Arquiteto mestre do Adobe Target (AD0-E409)](/help/certifications/at/at-m-architect.md)
 
 Se você já agendou ou começou a estudar para o exame atual, agende e conclua o exame **antes de 8 de setembro de 2023**.
 

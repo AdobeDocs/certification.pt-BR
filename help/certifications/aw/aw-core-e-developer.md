@@ -3,27 +3,27 @@ title: Certificação Core Developer Expert
 description: Saiba como se tornar um especialista certificado da Adobe Developer no Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exame AD0-E904" type="positivo"
+badge: label="Exame AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1509'
 ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Workfront] Especialista do desenvolvedor principal
 
-Saiba como se tornar um Adobe Developer Expert certificado.
+Saiba como se tornar um Adobe de certificado [!DNL Workfront] Especialista em desenvolvedores principal.
 
 ## Experiência mínima
 
-Você deve ter pelo menos 18-24 meses de experiência com [!DNL Workfront]e podem:
+Você deve ter pelo menos 18-24 meses de experiência com o Adobe [!DNL Workfront]e podem:
 
 * Navegue pela [!DNL Workfront] sistema, compreendendo onde reside sua funcionalidade
 * Configurar todos os aspectos do sistema
-* Discuta os requisitos com os clientes e transforme-os em uma solução viável
+* Discutir os requisitos com os clientes e transformá-los em uma solução viável
 * Eliminar e modificar o processo existente para melhoria de forma colaborativa
 * Entender e aplicar os casos de uso de marketing e PMO
 * Recomendar e criar relatórios que deem suporte aos processos do cliente
@@ -199,31 +199,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E904)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E904
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

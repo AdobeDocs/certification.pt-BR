@@ -4,12 +4,12 @@ description: Saiba como se tornar um especialista certificado em engenheiros de 
 solution: Experience Manager
 product: Experience Manager
 role: Developer
-badge: label="Exame AD0-E124" type="positivo"
+badge: label="Exame AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '926'
 ht-degree: 5%
 
 ---
@@ -25,7 +25,7 @@ Você deve ter:
 * Pelo menos 1 a 3 anos de experiência ao usar e configurar o Adobe Cloud Manager
 * Pelo menos dois anos de experiência na configuração, implementação e gerenciamento de tarefas de Integração contínua/Implantação contínua
 
-Você deve se sentir confortável trabalhando com o Adobe Managed Services e o Adobe Experience Manager as a Cloud Service e pode configurar ambientes e a infraestrutura do Adobe Experience Manager.
+Você deve se sentir confortável trabalhando no Adobe Managed Services e no Adobe Experience Manager as a Cloud Service e pode configurar ambientes e a infraestrutura do Adobe Experience Manager.
 
 Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
 
@@ -163,31 +163,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E124)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E124
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

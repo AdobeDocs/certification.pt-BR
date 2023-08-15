@@ -4,25 +4,25 @@ description: Saiba como se tornar um especialista certificado em prática de neg
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exame AD0-E327" type="positivo"
+badge: label="Exame AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 18%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Classic] Especialista em Profissionais de Negócios
 
-Saiba como se tornar um especialista certificado em profissionais de negócios Adobe.
+Saiba como se tornar um Adobe de certificado [!DNL Campaign Classic] Especialista em Profissionais de Negócios.
 
 ## Experiência mínima
 
 Você deve ter:
 
-* Pelo menos 2 anos de [!DNL Campaign Classic] experiência com software
+* Pelo menos 2 anos de Adobe extensivo [!DNL Campaign Classic] experiência com software
 * Experiência de vários anos desenvolvendo campanhas e táticas de marketing usando omnicanal digital
 * Experiência na interpretação/tradução dos requisitos de negócios para produtos executáveis do Campaign
 * Experiência com métricas de marketing, como ROI, taxas de click-through e conversão
@@ -170,20 +170,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E327)
-
-### Opções disponíveis
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E327
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

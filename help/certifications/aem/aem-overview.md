@@ -3,14 +3,14 @@ title: Visão geral da certificação Experience Manager
 description: Visão geral das opções de certificação para o Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 1%
 
 ---
 
-# Visão geral da certificação Experience Manager
+# Adobe [!DNL Experience Manager] Visão geral da certificação
 
 Selecione o nível e a função de trabalho para encontrar mais informações sobre a certificação em que você está interessado.
 
@@ -36,7 +36,7 @@ Se estiver procurando informações sobre como renovar sua certificação existe
 
 >[!NOTE]
 >
->A variável **Exame Principal do Sites do Adobe Experience Manager Architect (AD0-E117)** O está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
+>A variável **Exame do mestre de sites do Adobe Experience Manager Architect (AD0-E117)** O está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
 >
 >**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
 
@@ -44,7 +44,7 @@ Se estiver procurando informações sobre como renovar sua certificação existe
 
 
 
-## Perguntas frequentes sobre o exame Principal do Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+## Perguntas frequentes do Exame Mestre do Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
 
 O exame de certificação AD0-E117 está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
 

@@ -7,24 +7,24 @@ role: User
 badge: label="Exame AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Jornada de certificação para profissional de negócios da Adobe Document Cloud
+# Jornada de certificação para [!DNL Adobe Document Cloud] Profissional de Profissional de Negócios
 
-Saiba como se tornar um profissional certificado de profissional de negócios do Adobe.
+Saiba como se tornar um certificado [!DNL Adobe Document Cloud] Profissional de negócios.
 
 ## Experiência mínima
 
 Você deve ter:
 
-* Pelo menos 0 a 12 meses de experiência no Adobe Document Cloud
+* Pelo menos 0-12 meses de experiência no [!DNL Adobe Document Cloud]
 * Ser capaz de identificar e comunicar as necessidades dos negócios
-* Ser capaz de executar o aviso de ativação de produto nas soluções da Adobe Document Cloud.
+* Ser capaz de executar o aviso de ativação de produto no [!DNL Adobe Document Cloud] soluções.
 
 >[!NOTE]
 >
@@ -131,20 +131,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-D106)
-
-### Opções disponíveis
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-D106
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

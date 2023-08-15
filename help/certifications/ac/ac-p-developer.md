@@ -4,19 +4,19 @@ description: Saiba como se tornar um profissional certificado da Adobe Developer
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exame AD0-E717" type="positivo"
+badge: label="Exame AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1351'
+source-wordcount: '1348'
 ht-degree: 1%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Commerce] Profissional de desenvolvedor
 
-Saiba como se tornar um profissional certificado da Adobe Developer.
+Saiba como se tornar um certificado [!DNL Adobe Commerce] Profissional de desenvolvedor.
 
 ## Experiência mínima
 
@@ -245,20 +245,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E717)
-
-### Opções disponíveis
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E717
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

@@ -4,30 +4,30 @@ description: Saiba como se tornar um especialista certificado da Adobe Developer
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exame AD0-E720" type="positivo"
+badge: label="Exame AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1220'
-ht-degree: 0%
+source-wordcount: '1046'
+ht-degree: 1%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Commerce] Especialista em desenvolvimento front-end
+# Jornada de certificação para [!DNL Adobe Commerce] Especialista em desenvolvimento front-end
 
-Saiba como se tornar um Adobe Developer Expert certificado.
+Saiba como se tornar um certificado [!DNL Adobe Commerce] Especialista em desenvolvedores.
 
 >[!NOTE]
 >
->Este é o mais novo exame Adobe Commerce Front End Developer Expert. Se você já começou a estudar ou programou o [versão mais antiga](ac-e-fedeveloper.md) você tem até 18 de agosto de 2023 para concluí-lo.
+>Este é o mais novo [!DNL Adobe Commerce] Exame de especialista em desenvolvedores front-end. Se você já começou a estudar ou programou o [versão mais antiga](ac-e-fedeveloper.md) você tem até 18 de agosto de 2023 para concluí-lo.
 
 ## Experiência mínima
 
-O desenvolvedor de front-end do Adobe Commerce é considerado uma função de nível de especialista e tem pelo menos 1 a 3 anos de experiência prática com o desenvolvimento de front-end do Adobe Commerce. Eles devem ter a capacidade de traduzir as necessidades expressas pelos requisitos da tarefa em uma solução técnica.
+A variável [!DNL Adobe Commerce] O Desenvolvedor de front-end é considerado uma função de nível Especialista e tem pelo menos 1 a 3 anos de experiência prática com o desenvolvimento de front-end do Adobe Commerce. Eles devem ter a capacidade de traduzir as necessidades expressas pelos requisitos da tarefa em uma solução técnica.
 
 O candidato deve estar confortável usando as seguintes tecnologias:
 
-* Adobe Commerce - versão 2.4.6
+* [!DNL Adobe Commerce] - versão 2.4.6
 * Conhecimento básico da estrutura e layout de front-end
 * Experiência e compreensão de HTML, CSS (e pré-processadores), LESS, Componentes JavaScript e UI, jQuery, Underscore, Require.JS, Knockout, também modelos PHP, conhecimento em BD e gestão de conteúdo
 * Familiaridade com a plataforma, Blocos CMS, Widgets, Páginas CMS, Páginas de categoria, Páginas de produto, Carrinho e Check-out e área Painel de contas
@@ -184,26 +184,18 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Teste prático em breve**
 
-**Fazer o exame de certificação**
+## Sobre o exame de certificação
 
-O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
+{{about-certification-exam}}
 
-* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]** oferece uma opção remota online
+## Programar ou fazer exame AD0-E720
 
-Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
-
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
-
-### Número do exame: AD0-E720
-
-[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720 newtab=true"}
-
-Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+<span class="spectrum-Button-label has-no-wrap">
+   Ir para o portal de análise
+</span>
+</a>
 
 >[!ENDTABS]
 

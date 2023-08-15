@@ -4,12 +4,12 @@ description: Adobe Saiba como se tornar um profissional certificado de profissio
 solution: Commerce
 product: Magento
 role: User
-badge: label="Exame AD0-E712" type="positivo"
+badge: label="Exame AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '956'
+source-wordcount: '932'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 * Gerentes de projeto
 * Proprietários do produto
 * Consultores
-* [!DNL Commerce] estrategistas
+* [!DNL Adobe Commerce] estrategistas
 * Administrador/Director/Gerente/Consultores de comércio eletrônico
 * Digital Marketing Director/Gerente/Desenvolvedores
 * Especialistas em soluções
@@ -170,31 +170,16 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E712)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E712
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

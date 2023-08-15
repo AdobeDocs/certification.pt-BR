@@ -4,19 +4,19 @@ description: Saiba como se tornar um especialista certificado da Adobe Developer
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="Exame AD0-E716" type="positivo"
+badge: label="Exame AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1854'
+source-wordcount: '1850'
 ht-degree: 2%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Commerce] Especialista em desenvolvedores
+# Jornada de certificação para [!DNL Adobe Commerce] Especialista em desenvolvedores
 
-Saiba como se tornar um Adobe Developer Expert certificado.
+Saiba como se tornar um certificado [!DNL Adobe Commerce] Especialista em desenvolvedores.
 
 ## Experiência mínima
 
@@ -87,7 +87,7 @@ Seção 1: Adobe [!DNL Commerce] Técnicas de arquitetura e personalização (36
 
 Seção 2: Trabalhar com bancos de dados e EAV (10%)
 
-* Manipular atributos de EAV e conjuntos de atributos de forma programática
+* Manipular atributos e conjuntos de atributos de EAV programaticamente
 * Demonstrar a capacidade de estender o esquema do banco de dados
 * Demonstrar a capacidade de importar/exportar dados do Adobe Commerce
 * Descrever como usar patches e configurações recorrentes para modificar o banco de dados
@@ -282,20 +282,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E716)
-
-### Opções disponíveis
-
-**[!DNL Examity]** ( *online* )
+### Programar ou fazer exame AD0-E716
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

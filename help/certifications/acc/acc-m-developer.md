@@ -1,28 +1,28 @@
 ---
-title: Arquiteto Principal da certificação
-description: Saiba como se tornar um arquiteto de Adobe certificado Principal no [!DNL Campaign Classic].
+title: Certificação do arquiteto mestre
+description: Saiba como se tornar um arquiteto de Adobe certificado mestre em [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Exame AD0-E328" type="positivo"
+badge: label="Exame AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1013'
+source-wordcount: '1011'
 ht-degree: 12%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Campaign Classic] Arquiteto Principal
+# Jornada de certificação para o Adobe [!DNL Campaign Classic] Arquiteto mestre
 
-Saiba como se tornar um arquiteto de Adobe certificado Principal no [!DNL Campaign Classic].
+Saiba como se tornar um Adobe de certificado [!DNL Campaign Classic] Arquiteto mestre.
 
 ## Experiência mínima
 
 Você deve ter:
 
-* Experiência com vários [!DNL Campaign] implementações
+* Experiência com vários Adobe [!DNL Campaign Classic] implementações
 * Uma compreensão de como o Adobe Campaign funciona como uma solução de marketing digital e a implementa com base nos requisitos do projeto
 * A capacidade de criar um documento de design funcional
 * A capacidade de criar um escopo funcional de trabalho para uma instalação do Adobe Campaign
@@ -55,7 +55,7 @@ Você deve ter:
 
 **Detalhes do exame:**
 
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 30/50
 * Tempo: 100 minutos
 * Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
@@ -160,20 +160,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 >Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E328)
-
-### Opções disponíveis
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E328
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

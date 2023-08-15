@@ -4,19 +4,19 @@ description: Saiba como se tornar um especialista certificado em prática de neg
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
-badge: label="Exame AD0-E307" type="positivo"
+badge: label="Exame AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '813'
-ht-degree: 10%
+source-wordcount: '790'
+ht-degree: 11%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Standard] Especialista em Profissionais de Negócios
 
-Saiba como se tornar um especialista certificado em profissionais de negócios Adobe.
+Saiba como se tornar um Adobe de certificado [!DNL Campaign Standard] Especialista em Profissionais de Negócios.
 
 ## Experiência mínima
 
@@ -24,7 +24,7 @@ Você deve ter experiência em trabalhar em um ambiente de entrega de canal (ema
 
 Além disso, você deve ter:
 
-* Experiência de campo trabalhando com [!DNL Campaign Standard] com frequência regular
+* Experiência de campo trabalhando com o Adobe [!DNL Campaign Standard] com frequência regular
 * A capacidade de processar arquivos de dados
 * Uma compreensão dos conceitos de bancos de dados relacionais, acionadores, APIs e workflows técnicos
 * Uma compreensão de como criar workflows de marketing e trabalhar com os dados subjacentes para iniciar workflows de marketing
@@ -155,31 +155,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{practice-test}}
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E307)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E307
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

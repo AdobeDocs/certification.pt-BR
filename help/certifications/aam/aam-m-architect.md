@@ -1,23 +1,23 @@
 ---
-title: Arquiteto Principal da certificação
-description: Saiba como se tornar certificado como um Adobe [!DNL Audience Manager] Arquiteto Principal.
+title: Certificação do arquiteto mestre
+description: Saiba como se tornar certificado como um Adobe [!DNL Audience Manager] Arquiteto mestre.
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
 level: Experienced
-badge: label="Exame AD0-E454" type="positivo"
+badge: label="Exame AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 12%
+source-wordcount: '708'
+ht-degree: 13%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Audience Manager] Arquiteto Principal
+# Jornada de certificação para [!DNL Adobe Audience Manager] Arquiteto mestre
 
-Saiba como se tornar um certificado [!DNL Audience Manager] Arquiteto Principal.
+Saiba como se tornar um certificado [!DNL Adobe Audience Manager] Arquiteto mestre.
 
 ## Experiência mínima
 
@@ -56,7 +56,7 @@ Além disso, você poderá concluir as seguintes tarefas:
 
 **Detalhes do exame**
 
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 29/50
 * Tempo: 100 minutos
 * Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
@@ -144,31 +144,16 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 
 
-## Sobre o exame
+## Sobre o exame de certificação
 
 {{about-certification-exam}}
 
-## Realizar o exame (AD0-E454)
-
-### Opções disponíveis
-
-{{PSI-note}}
-
-**PSI** (*opções de centro de testes/exames em japonês (quando disponíveis)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programar ou fazer exame AD0-E454
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Fazer exame
+   Ir para o portal de análise
 </span>
 </a>
 

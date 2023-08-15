@@ -1,25 +1,25 @@
 ---
-title: Arquiteto Principal nova certificação
-description: Saiba como se tornar um certificado [!DNL Adobe Target] Arquiteto Principal.
+title: Nova certificação do Architect Master
+description: Saiba como se tornar um certificado [!DNL Adobe Target] Arquiteto mestre.
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exame AD0-E409" type="positivo"
+badge: label="Exame AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
-ht-degree: 12%
+source-wordcount: '943'
+ht-degree: 14%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Target] Arquiteto Principal
+# Jornada de certificação para [!DNL Adobe Target] Arquiteto mestre
 
-Saiba como se tornar um arquiteto de Adobe Principal certificado.
+Saiba como se tornar um certificado [!DNL Adobe Target] Arquiteto mestre.
 
 >[!NOTE]
 >
->Este é o mais novo exame Principal do Adobe Target Architect. Se você já começou a estudar ou programou o [versão mais antiga](at-m-architect.md) você tem até 8 de setembro de 2023 para concluí-lo.
+>Este é o mais novo [!DNL Adobe Target] Exame de arquiteto mestre. Se você já começou a estudar ou programou o [versão mais antiga](at-m-architect.md) você tem até 8 de setembro de 2023 para concluí-lo.
 
 ## Experiência mínima
 
@@ -70,7 +70,7 @@ Ambientes:
 
 **Detalhes do exame:**
 
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 32/50
 * Tempo: 100 minutos
 * Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
@@ -187,26 +187,18 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
 
-**Fazer o exame de certificação**
+## Sobre o exame de certificação
 
-O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
+{{about-certification-exam}}
 
-* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]** oferece uma opção remota online
+## Programar ou fazer exame AD0-E409
 
-Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
-
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
-
-### Número do exame: AD0-E409
-
-[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+<span class="spectrum-Button-label has-no-wrap">
+   Ir para o portal de análise
+</span>
+</a>
 
 >[!ENDTABS]
 

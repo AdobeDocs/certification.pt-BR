@@ -3,14 +3,14 @@ title: Visão geral da certificação da Real-Time CDP
 description: Visão geral das opções de certificação para o Adobe Real-Time CDP
 solution: Real-Time Customer Data Platform
 exl-id: 389377d8-5a73-418a-afb4-9428d3aef990
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 7%
+source-wordcount: '37'
+ht-degree: 13%
 
 ---
 
-# Visão geral da certificação da Real-Time CDP
+# [!DNL Adobe Real-Time CDP] Visão geral da certificação
 
 **Profissional**
 

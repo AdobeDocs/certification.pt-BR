@@ -4,26 +4,26 @@ description: Saiba como se tornar um profissional certificado da Adobe Developer
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exame AD0-E721" type="positivo"
+badge: label="Exame AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1057'
+source-wordcount: '888'
 ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Commerce] Profissional de desenvolvedor front-end
 
-Saiba como se tornar um profissional certificado da Adobe Developer.
+Saiba como se tornar um certificado [!DNL Adobe Commerce] Profissional de desenvolvedor.
 
 >[!NOTE]
 >
->Este é o mais novo exame Adobe Commerce Front End Developer Professional. Se você já começou a estudar ou programou o [versão mais antiga](ac-p-fedeveloper.md) você tem até 18 de agosto de 2023 para concluí-lo.
+>Este é o mais novo [!DNL Adobe Commerce] Exame do desenvolvedor front-end Professional. Se você já começou a estudar ou programou o [versão mais antiga](ac-p-fedeveloper.md) você tem até 18 de agosto de 2023 para concluí-lo.
 
 ## Experiência mínima
 
-Você deve ter de 0 a 12 meses de experiência prática com o desenvolvimento de front-end do Adobe Commerce e a capacidade de trabalhar com soluções técnicas para fornecer componentes individuais.
+Você deve ter de 0 a 12 meses de experiência prática com o desenvolvimento de front-end da Adobe Commerce e a capacidade de trabalhar com soluções técnicas para fornecer componentes individuais.
 
 Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
@@ -171,26 +171,18 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Teste prático em breve**
 
-**Fazer o exame de certificação**
+## Sobre o exame de certificação
 
-O Adobe usa dois fornecedores para administrar exames monitorados, o PSI e o Exame.
+{{about-certification-exam}}
 
-* **PSI** oferece opções de centro de teste e exame de japonês (quando disponíveis)
-* **[!DNL Examity]** oferece uma opção remota online
+## Programar ou fazer exame AD0-E721
 
-Para agendar, reagendar ou cancelar seu exame, basta clicar no fornecedor escolhido e seguir as instruções fornecidas na tela. É simples assim!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-O nome do seu perfil no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
-
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
-
-### Número do exame: AD0-E721
-
-[!BADGE Exame]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721 newtab=true"}
-
-Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+<span class="spectrum-Button-label has-no-wrap">
+   Ir para o portal de análise
+</span>
+</a>
 
 >[!ENDTABS]
 
