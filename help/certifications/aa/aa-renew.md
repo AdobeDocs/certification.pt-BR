@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
 source-wordcount: '1298'
 ht-degree: 9%
 
 ---
 
-# Renove seu [!DNL Analytics] certificação
+# Renove seu [!DNL Adobe Analytics] certificação
 
 Sua certificação Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
