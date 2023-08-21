@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Exame AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Jornada de certificação para o Adobe [!DNL Commerce] Profissional de desenvolvedor front-end
 
 Saiba como se tornar um certificado [!DNL Adobe Commerce] Profissional de desenvolvedor.
-
->[!NOTE]
->
->Este é o mais novo [!DNL Adobe Commerce] Exame do desenvolvedor front-end Professional. Se você já começou a estudar ou programou o [versão mais antiga](ac-p-fedeveloper.md) você tem até 18 de agosto de 2023 para concluí-lo.
 
 ## Experiência mínima
 
