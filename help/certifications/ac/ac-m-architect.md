@@ -5,12 +5,12 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Exame AD0-E718" type="positive"
+badge: label="Exame AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -76,12 +76,12 @@ Além disso, você deve estar familiarizado com as seguintes atividades e tecnol
 **Detalhes do exame:**
 
 * Nível: mestre (3-5 anos de experiência)
-* Pontuação de aprovação: 29/50
+* Pontuação de aprovação: 30/50
 * Tempo: 120 minutos
 * Delivery: on-line por encomenda (requer acesso à câmera)
 * Idiomas disponíveis: inglês
 * Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do exame: AD0-E718
+* Identificação do exame: AD0-E722
 
 **Autoavaliação de disponibilidade**
 
@@ -123,12 +123,6 @@ Seção 4: Noções básicas de conformidade/segurança (13%)
 Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
 Estes são alguns recursos sugeridos para ajudar você a se preparar:
-
-**Exemplos de perguntas**
-
-Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
-
-[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **Seção 1: Design**
 
@@ -173,9 +167,9 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 {{about-certification-exam}}
 
-## Programar ou fazer exame AD0-E718
+## Programar ou fazer exame AD0-E722
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E722" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir para o portal de análise
