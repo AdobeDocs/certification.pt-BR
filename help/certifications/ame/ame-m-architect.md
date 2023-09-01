@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 # Jornada de certificação para o Adobe [!DNL Marketo Engage] Arquiteto mestre
 
 Saiba como se tornar um Adobe de certificado [!DNL Marketo Engage] Arquiteto mestre.
+
+>[!NOTE]
+>
+>Esse exame, [!DNL Adobe Marketo Engage] O arquiteto mestre (AD0-E556) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 31 de outubro de 2023. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame (AD0-E560)](ame-m-architect-23-08.md).
 
 O Programa de Credenciais Adobe lançou um novo Adobe [!DNL Marketo Engage] Envolva a certificação de Arquiteto para os candidatos interessados em obter o título de Mestre Certificado. Ele substitui o processo anterior de entrevista de certificação do Marketo Certified Solution Architect (MCSA). [Leia mais](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
