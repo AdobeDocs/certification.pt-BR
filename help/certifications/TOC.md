@@ -2,9 +2,9 @@
 user-guide-title: Certificação na Adobe
 breadcrumb-title: Certificação na Adobe
 user-guide-description: Saiba mais sobre a certificação da  [!DNL Experience Cloud]  na Adobe. Descubra o que ser certificado pode fazer por você.
-source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '258'
 ht-degree: 46%
 
 ---
@@ -133,8 +133,7 @@ ht-degree: 46%
       + Especialista {#at-expert}
          + [Profissional de negócios](/help/certifications/at/at-e-business.md)
       + Principal {#at-master}
-         + [Arquiteto](/help/certifications/at/at-m-architect.md)
-         + [Arquiteto (Novo)](/help/certifications/at/at-m-architect0623.md)
+         + [Arquiteto](/help/certifications/at/at-m-architect0623.md)
       + [Renovação](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
       + [Visão geral do Workfront](/help/certifications/aw/aw-overview.md)

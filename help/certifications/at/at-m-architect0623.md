@@ -6,20 +6,16 @@ product: Target
 role: Data Architect
 badge: label="Exame AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '943'
-ht-degree: 14%
+source-wordcount: '917'
+ht-degree: 15%
 
 ---
 
 # Jornada de certificação para [!DNL Adobe Target] Arquiteto mestre
 
 Saiba como se tornar um certificado [!DNL Adobe Target] Arquiteto mestre.
-
->[!NOTE]
->
->Este é o mais novo [!DNL Adobe Target] Exame de arquiteto mestre. Se você já começou a estudar ou programou o [versão mais antiga](at-m-architect.md) você tem até 8 de setembro de 2023 para concluí-lo.
 
 ## Experiência mínima
 
@@ -144,7 +140,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Seção 3**
 
-* [Hosts](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html){target="_blank"}
+* [Hosts](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html?lang=pt-BR){target="_blank"}
 * [Usuários](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/users/user-management.html){target="_blank"}
 * [Configuração de permissões empresariais](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html?lang=pt-BR){target="_blank"}
 * [Práticas recomendadas e limitações do Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
