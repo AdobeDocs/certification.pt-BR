@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Exame AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '918'
-ht-degree: 11%
+source-wordcount: '949'
+ht-degree: 10%
 
 ---
 
@@ -174,14 +174,25 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{about-certification-exam}}
 
-## Programar ou fazer exame AD0-E209
+## Programar ou fazer exame AD0-E209 (inglês)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
+   Ir para Portal de Exames - Exame de Inglês
 </span>
 </a>
+
+## Programar ou fazer exame AD0-E209-J (japonês)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ir para Portal de Exames - Exame Japonês
+</span>
+</a>
+
+[Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 

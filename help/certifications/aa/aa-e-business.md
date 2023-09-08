@@ -7,10 +7,10 @@ role: User
 badge: label="Exame AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 15%
+source-wordcount: '1031'
+ht-degree: 14%
 
 ---
 
@@ -143,7 +143,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [[!DNL Adobe Analytics] painéis - Visão geral](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=pt-BR){target="_blank"}
 * [Visão geral dos Projetos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=pt-BR){target="_blank"}
 * [Visão geral das visualizações](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=pt-BR){target="_blank"}
-* [Visão geral de Alertas inteligentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=pt-BR){target="_blank"}
+* [Visão geral de alertas inteligentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=pt-BR){target="_blank"}
 
 **Seção 3: Segmentação e métrica calculada**
 
@@ -177,14 +177,25 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 {{about-certification-exam}}
 
-## Programar ou fazer exame AD0-E208
+## Programar ou fazer exame AD0-E208 (inglês)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
+   Ir para Portal de Exames - Exame de Inglês
 </span>
 </a>
+
+## Programar ou fazer exame AD0-E208-J (japonês)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ir para Portal de Exames - Exame Japonês
+</span>
+</a>
+
+[Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
