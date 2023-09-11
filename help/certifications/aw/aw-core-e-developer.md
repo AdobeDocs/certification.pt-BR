@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exame AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
 workflow-type: tm+mt
-source-wordcount: '1509'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Jornada de certificação para o Adobe [!DNL Workfront] Especialista do desenvolvedor principal
 
 Saiba como se tornar um Adobe de certificado [!DNL Workfront] Especialista em desenvolvedores principal.
+
+>[!NOTE]
+>
+>Esse exame, Adobe [!DNL Workfront] O Core Developer Expert (AD0-E904) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 6 de novembro de 2023. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame (AD0-907)](aw-core-e-developer-23-08.md).
 
 ## Experiência mínima
 
