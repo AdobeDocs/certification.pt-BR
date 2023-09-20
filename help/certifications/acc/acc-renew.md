@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 10%
+source-wordcount: '923'
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 10%
 
 Sua certificação Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
-Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise com cuidado o que será necessário fazer para renovar sua certificação.
+Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Mestre). Em seguida, analise com cuidado o que será necessário fazer para renovar sua certificação.
 
 Certifique-se de fornecer tempo suficiente para concluir todos os requisitos antes da certificação expirar.
 
@@ -34,15 +34,15 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 
 >[!NOTE]
 >
->Renovação profissional em breve.
+>A renovação profissional está em desenvolvimento. Aqueles cujas certificações estiverem expirando receberão uma extensão para que ainda possam usar esse método de renovação gratuito quando ele estiver disponível.
 
->[!TAB Especialista e Principal]
+>[!TAB Especialista e mestre]
 
 Você deve estar certificado no momento (não expirado) em:
 
 * **Adobe [!DNL Campaign Classic] Especialista em desenvolvedores**
 * **Adobe [!DNL Campaign Classic] Especialista em profissionais de negócios**
-* **Adobe [!DNL Campaign Classic] Arquiteto principal**
+* **Adobe [!DNL Campaign Classic] Arquiteto mestre**
 
 ## Como renovar sua certificação:
 
@@ -59,7 +59,7 @@ Você deve estar certificado no momento (não expirado) em:
 * Custo: GRATUITO/não monitorado
 * Delivery: sob demanda
 * Idiomas disponíveis: inglês
-* Pré-requisito: Adobe atual (não expirado) [!DNL Campaign Classic] certificação de especialistas e/ou principais
+* Pré-requisito: Adobe atual (não expirado) [!DNL Campaign Classic] Certificação de especialista e/ou mestre
 * ID do exame: AD5-E823
 
 **Âmbito e objetivos**
