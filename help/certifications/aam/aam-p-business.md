@@ -8,36 +8,24 @@ level: Experienced
 badge: label="Exame AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 13%
+source-wordcount: '804'
+ht-degree: 15%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Audience Manager] Profissional de Profissional de Negócios
 
-Saiba como se tornar certificado como um [!DNL Audience Manager] Profissional de negócios.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
 
-Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negócios e KPIs, com alguma experiência em análise de dados e estratégias
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB Prepare-se]
-
-**Público-alvo:**
-
-* Especialista em marketing digital
-* Consultor de tecnologia de marketing
-* Estrategista de público
-* Consultor comportamental
-* Analista de marketing digital
-* Analista de dados de marketing
-* Gerenciador de plataformas de dados
-
-**Detalhes do exame:**
+### Detalhes do exame {#exam-details}
 
 * Nível: profissional (0-12 meses de experiência)
 * Pontuação de aprovação: 31/50
@@ -47,9 +35,31 @@ Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negóc
 * Custo: US$ 125 (global) / US$ 95 (Índia)
 * Identificação do Exame: AD0-E458
 
-**Objetivos e escopo do exame**
+<br>
 
-Seção 1: Criação e sindicalização de segmentos (32%)
+### Público-alvo {#intended-audience}
+
+* Especialista em marketing digital
+* Consultor de tecnologia de marketing
+* Estrategista de público
+* Consultor comportamental
+* Analista de marketing digital
+* Analista de dados de marketing
+* Gerenciador de plataformas de dados
+
+<br>
+
+### Experiência mínima {#minimum-experience}
+
+Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negócios e KPIs, com alguma experiência em análise de dados e estratégias
+
+<br>
+
+### Objetivos e escopo do exame {#exam-objectives}
+
+{{exam-objectives}}
+
+**Seção 1: Criação e sindicalização de segmentos (32%)**
 
 * Identificar maneiras de utilizar dados primários, secundários e de terceiros para fins de direcionamento e análise
 * Descrever o processo básico para a ativação de objetivos de negócios ou de campanha
@@ -57,42 +67,50 @@ Seção 1: Criação e sindicalização de segmentos (32%)
 * Identificar os diferentes tipos de destinos
 * Identificar os diferentes tipos de origens
 
-Seção 2: Criação de características (16%)
+**Seção 2: Criação de características (16%)**
 
 * Dado um cenário, identifique sinais, características, segmentos e públicos
 * Identificar os usos de diferentes tipos de características
 
-Seção 3: Relatórios e medições (16 %)
+**Seção 3: Relatórios e medições (16 %)**
 
 * Dado um cenário, gerar relatórios para medir a ativação ou as metas da campanha
 * Dado um cenário, compare os públicos com base nas taxas de correspondência
 
-Seção 4: Solução de problemas (10%)
+**Seção 4: Solução de problemas (10%)**
 
 * Dado um cenário, solucione problemas de dados de entrada de diferentes fontes e tipos de origem
 * Validar formato para arquivos de dados de entrada
 
-Seção 5: Taxonomia (12 %)
+**Seção 5: Taxonomia (12 %)**
 
 * Determine a estrutura apropriada para criar características e segmentos que utilizam uma nomenclatura clara e consistente
 * Determine a técnica correta para manter uma plataforma organizada usando uma estrutura de pastas limpa
 
-Seção 6: Mesclagem de perfis, Sincronização de ID e Audience Marketplace
+**Seção 6: Mesclagem de perfis, Sincronização de ID e Audience Marketplace**
 
 * Organize as características do usuário em um perfil unificado para criar públicos-alvo domésticos ou baseados em dispositivos
 * Identificar ativação usando o Audience Marketplace
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+## Como obter certificação {#how-to-get-certified}
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{how-to-get-certified-intro}}
 
-**Exemplos de perguntas**
++++Etapa 1: criar sua conta
 
-Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
+{{create-your-account}}
 
-[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Criação e sindicalização de segmentos**
 
@@ -142,15 +160,35 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 * [Ativar segmentos de público-alvo sob demanda para destinos em lote por meio da API de ativação ad-hoc](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [Ativar perfis e segmentos para um destino](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+**Exemplos de perguntas**
 
+{{sample-questions}}
 
+[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+

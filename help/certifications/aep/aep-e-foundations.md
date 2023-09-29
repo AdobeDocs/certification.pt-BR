@@ -7,21 +7,40 @@ role: Developer
 badge: label="Exame AD0-E600 e AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1530'
-ht-degree: 7%
+source-wordcount: '1422'
+ht-degree: 8%
 
 ---
 
 
 # Jornada de certificação para o Adobe [!DNL Experience Platform] Especialista
 
-Saiba como se tornar um Adobe de certificado [!DNL Experience Platform] Especialista.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
 
-Para obter uma certificação com exame, você precisa passar por dois exames distintos com um fiscal presente, on-line ou no local, quando disponível.
+{{exam-description}}
+
+>[!IMPORTANT]
+>
+>O ADOBE [!DNL Experience Platform] Atualmente, a certificação de especialistas exige a aprovação em dois exames: **Adobe [!DNL Experience Platform] Fundamentos técnicos (AD0-E600)** e **Adobe [!DNL Real-Time CDP] Profissional técnico (AD7-E601)**. A partir de 1º de novembro de 2023, um novo exame será lançado e será necessário apenas para esta certificação.
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Arquiteto/engenheiro de dados
+* Arquiteto de soluções ou MSA
+* Arquiteto corporativo
+* Gerente de produto
+* Líder de tecnologia de marketing
+* Consultor técnico
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter:
 
@@ -38,29 +57,19 @@ Você deve ter:
 * Conhecimento da frequência de envio de segmentos por meio de destinos
 * Conhecimento da frequência com que a associação do segmento é atualizada
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+[Ir para as informações do Requisito 1](#req-1)
 
->[!TAB Prepare-se]
+[Ir para Informações do Requisito 2](#req-2)
 
-**Público-alvo:**
+<br>
 
-* Arquiteto/engenheiro de dados
-* Arquiteto de soluções ou MSA
-* Arquiteto corporativo
-* Gerente de produto
-* Líder de tecnologia de marketing
-* Consultor técnico
-
-
-**Requisito 1: Adobe AD0-E600 [!DNL Experience Platform] Fundamentos técnicos**
+## Requisito #1: Informações para o Adobe [!DNL Experience Platform] Fundamentos técnicos (AD0-E600) {#req-1}
 
 O exame AD0-E600 valida as habilidades e os conhecimentos que abrangem os recursos básicos e as tarefas realizadas com frequência do Adobe [!DNL Experience Platform] nível de Especialista.
 
-**Detalhes do exame:**
+### Detalhes do exame para AD0-E600 {#exam-details-600}
 
 * Nível: especialista (1-3 anos de experiência)
 * Pontuação de aprovação: 35/50
@@ -70,15 +79,19 @@ O exame AD0-E600 valida as habilidades e os conhecimentos que abrangem os recurs
 * Custo: US$ 225 (global) / US$ 150 (Índia)
 * Identificação do Exame: AD0-E600
 
-**Objetivos e escopo do exame**
+<br>
 
-Seção 1: Modelagem de dados (20%)
+### Objetivos do exame e escopo para AD0-E600 {#exam-objectives}
+
+{{exam-objectives}}
+
+**Seção 1: Modelagem de dados (20%)**
 
 * Analisar dados de origem para avaliar as identidades primária e secundária para a compilação de perfis
 * Demonstrar uma compreensão de como usar a interface do para criar/editar esquemas XDM.
 * Identificar a orientação do DULE
 
-Seção 2: Assimilação de dados (36%)
+**Seção 2: Assimilação de dados (36%)**
 
 * Demonstrar como formatar e preparar dados para assimilação
 * Demonstrar como conectar fontes de dados usando conectores OOTB
@@ -87,7 +100,7 @@ Seção 2: Assimilação de dados (36%)
 * Demonstrar como executar a detecção de dados nos dados de origem
 * Demonstrar como transformar dados para corresponder ao XDM
 
-Seção 3: Unificação de perfis (34%)
+**Seção 3: Unificação de perfis (34%)**
 
 * Validar perfis e dados do evento após a assimilação
 * Definir espaços de nome de identidade
@@ -95,19 +108,30 @@ Seção 3: Unificação de perfis (34%)
 * Identificar como enriquecer perfis por meio de serviços de modelagem de espaço de trabalho de ciência de dados
 * Demonstrar como criar um segmento com o Construtor de segmentos e como o serviço de segmentação funciona
 
-Seção 4: Ativação (10%)
+**Seção 4: Ativação (10%)**
 
 * Demonstrar como configurar um destino e como a ativação de segmentos funciona
 * Demonstrar e entender a API de acesso a dados e exportar dados por meio do Real-Time CDP
 
-Faça um questionário de prontidão para descobrir se você atende às qualificações mínimas.
+<br>
 
+## Como obter certificação (AD0-E600) {#how-to-get-certified}
 
->[!TAB Prepare-se]
+{{how-to-get-certified-intro}}
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
++++Etapa 1: criar sua conta
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Modelagem de dados**
 
@@ -132,17 +156,33 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 * [Visão geral dos destinos](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=pt-BR){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Fazer um teste prático
+**Fazer um teste prático**
 
 {{practice-test}}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -155,18 +195,25 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
 
->[!BEGINTABS]
++++Etapa 6: gerenciar suas medalhas
 
->[!TAB Prepare-se]
+{{manage-your-badges}}
 
-**Requisito 2: Profissional técnico do AD7-E601 Adobe Real-Time CDP**
++++
+
+<br>
+
+## Requisito #2: Informações para o Adobe [!DNL Real-Time CDP] Profissional técnico (AD7-E601) {#req-2}
 
 O exame AD7-E601 abrange a criação, o gerenciamento e a compreensão do perfil do cliente, a segmentação, os destinos entre fontes e outros tópicos. O exame valida as habilidades e o conhecimento fundamentais necessários para empregar a Real-time CDP para segmentação de público, exportações de destinos e ativação em tempo real para perfis unificados que seguem as regulamentações de dados e privacidade. Os candidatos devem ter experiência com CDP (Plataforma de dados do cliente) e conhecimento de Adobe [!DNL Experience Platform].
 
-**Detalhes do exame:**
+<br>
+
+### Detalhes do exame para AD7-E601
 
 * Nível: especialista (1-3 anos de experiência)
 * Pontuação de aprovação: 34/25
@@ -176,11 +223,11 @@ O exame AD7-E601 abrange a criação, o gerenciamento e a compreensão do perfil
 * Custo: US$ 225 (global) / US$ 150 (Índia)
 * ID do exame: AD7-E601
 
-**Autoavaliação de disponibilidade**
+<br>
 
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
+### Objetivos e âmbito do exame para AD7-E601
 
-**Escopo e objetivos do exame**
+{{exam-objectives}}
 
 Seção 1: Validação(41 %)
 
@@ -200,7 +247,33 @@ Seção 3: Destinos (27 %)
 * Aplicar os conceitos necessários para configurar um ou mais Destinos ao enviar/exportar públicos com base em casos de uso de negócios
 * Demonstrar compreensão da exportação de segmentos por meio do Destino
 
->[!TAB Prepare-se]
+<br>
+
+### Questionário de preparação para AD7-E601
+
+{{readiness}}
+
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"}
+
+<br>
+
+## Como obter certificação (AD7-E601)
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Validação**
 
@@ -262,33 +335,62 @@ Seção 3: Destinos (27 %)
 * [Configurar um destino social](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [Ativar dados para aplicativo não-Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=pt-BR){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
-
-## Fazer um teste prático
+**Fazer um teste prático**
 
 {{practice-test}}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
-## Programar ou fazer exame AD0-E601
+## Programar ou fazer exame AD7-E601
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir para o portal de análise
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

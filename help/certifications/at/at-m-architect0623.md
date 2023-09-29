@@ -6,18 +6,48 @@ product: Target
 role: Data Architect
 badge: label="Exame AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '917'
-ht-degree: 15%
+source-wordcount: '841'
+ht-degree: 18%
 
 ---
 
 # Jornada de certificação para [!DNL Adobe Target] Arquiteto mestre
 
-Saiba como se tornar um certificado [!DNL Adobe Target] Arquiteto mestre.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: mestre (3-5 anos de experiência)
+* Pontuação de aprovação: 32/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E409
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Engenheiro/arquiteto de otimização de taxa de conversão
+* Engenheiro/arquiteto de personalização
+* Arquiteto de soluções digitais
+* Consultor de transformação digital
+* Líder de otimização de experiência
+* Gerenciador de otimização
+* Gerente de campanha online
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter:
 
@@ -50,67 +80,47 @@ Ambientes:
 * Ambiente hospedado pelo AMS
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Prepare-se]
+### Objetivos e escopo do exame {#exam-objectives}
 
-**Público-alvo:**
+{{exam-objectives}}
 
-* Engenheiro/arquiteto de otimização de taxa de conversão
-* Engenheiro/arquiteto de personalização
-* Arquiteto de soluções digitais
-* Consultor de transformação digital
-* Líder de otimização de experiência
-* Gerenciador de otimização
-* Gerente de campanha online
-
-**Detalhes do exame:**
-
-* Nível: mestre (3-5 anos de experiência)
-* Pontuação de aprovação: 32/50
-* Tempo: 100 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E409
-
-**Objetivos e escopo do exame**
-
-Seção 1: [!DNL Adobe Target] fundamentos (13%)
+**Seção 1: [!DNL Adobe Target] fundamentos (13%)**
 
 * Identifique o [!DNL Adobe Target] uso para um determinado cenário
 * Explicar as tecnologias fundamentais de um [!DNL Adobe Target] implementação
 
-Seção 2: Integração com o [!DNL Adobe Target] (18 %)
+**Seção 2: Integração com o [!DNL Adobe Target] (18 %)**
 
 * Aplicar o processo para integrar [!DNL Adobe Target] com Adobe Analytics (A4T)
 * Aplicar o processo para integrar [!DNL Adobe Target] para o Adobe Experience Manager
 * Descrever a integração com as soluções da Adobe Experience Cloud e da Adobe Experience Platform
 * Descrever a integração com o Adobe Experience Cloud Audiences
 
-Seção 3: [!DNL Adobe Target] administração e governação (6 %)
+**Seção 3: [!DNL Adobe Target] administração e governação (6 %)**
 
 * Definir uma configuração [!DNL Adobe Target] estratégia de implementação e governança do sistema
 * Aplicar o processo e as práticas recomendadas para gerenciar usuários
 * Descrever os aspectos administrativos da configuração de implementação
 
-Seção 4: [!DNL Adobe Target] e pontos de contato suportados (6%)
+**Seção 4: [!DNL Adobe Target] e pontos de contato suportados (6%)**
 
 * Descrever a implementação da entrega no lado do cliente
 * Descrever a implementação da entrega do lado do servidor
 * Descrever os requisitos de implementação para dispositivos móveis, direcionamento de email e APIs
 
-Seção 5: Aproveitamento [!DNL Adobe Target] recomendações (11 %)
+**Seção 5: Aproveitamento [!DNL Adobe Target] recomendações (11 %)**
 
 * Demonstrar uma compreensão das recomendações, catálogos e critérios
 * Aplicar o processo para configurar as recomendações do Target
 
-Seção 6: Arquiteto, projeto e implementação [!DNL Adobe Target] (18 %)
+**Seção 6: Arquiteto, projeto e implementação [!DNL Adobe Target] (18 %)**
 
 * Selecione a implementação correta da Solicitação do Target (Global, Confirmação de pedido, Híbrido) Avaliar e projetar um [!DNL Adobe Target] implementação
 * Descrever a implementação do [!DNL Adobe Target] em aplicativos móveis nativos
 
-Seção 7: Solução de problemas (28%)
+**Seção 7: Solução de problemas (28%)**
 
 * Solução de problemas de erros de mbox
 * Solução de problemas de erros de solicitação e resposta do Target
@@ -118,11 +128,25 @@ Seção 7: Solução de problemas (28%)
 * Entender erros de integração
 * Solução de problemas [!DNL Adobe Target] Erros do Recommendations
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+## Como obter certificação {#how-to-get-certified}
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1**
 
@@ -168,22 +192,33 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Seção 7**
 
-[Controle de qualidade da atividade](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-[Solução de problemas da entrega de conteúdo](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-[Perguntas frequentes sobre design](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-[Perguntas frequentes sobre o Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Logon do Adobe Analytics for Target (A4T) no SDK da Web da plataforma](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+* [Controle de qualidade da atividade](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Soluções de problemas da entrega de conteúdo](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
+* [Perguntas frequentes sobre o design](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [Perguntas frequentes do Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Logon do Adobe Analytics for Target (A4T) no SDK da Web da plataforma](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
++++
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
++++Etapa 3: agendar e pagar o exame
 
-**Agora que você fez logon, os links a seguir estarão diretamente acessíveis.**
+{{schedule-and-pay}}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -196,9 +231,25 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Perguntas**
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
+
+## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

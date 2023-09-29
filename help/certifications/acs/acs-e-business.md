@@ -7,18 +7,50 @@ role: User
 badge: label="Exame AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '790'
-ht-degree: 11%
+source-wordcount: '637'
+ht-degree: 13%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Standard] Especialista em Profissionais de Negócios
 
-Saiba como se tornar um Adobe de certificado [!DNL Campaign Standard] Especialista em Profissionais de Negócios.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 30/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês e japonês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E307
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Gerenciador de marketing por email
+* Gerenciador de marketing digital
+* Especialista de campanha
+* Gerente de operações de marketing
+* Gerente de produto do Campaign
+* Analista de campanha
+* Gerenciador de análise de dados
+* Gerente de CRM
+* Gerenciador de soluções
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter experiência em trabalhar em um ambiente de entrega de canal (email, correspondência direta, celular e redes sociais); familiaridade com táticas de campanha de marketing, como multitoque, ciclo de vida e reativação; e uma compreensão de métricas de marketing, como ROI, taxas de click-through e conversão.
 
@@ -31,81 +63,73 @@ Além disso, você deve ter:
 * Experiência na configuração de relatórios
 * Uma compreensão da configuração e das aprovações da entrega de campanha
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Gerenciador de marketing por email
-* Gerenciador de marketing digital
-* Especialista de campanha
-* Gerente de operações de marketing
-* Gerente de produto do Campaign
-* Analista de campanha
-* Gerenciador de análise de dados
-* Gerente de CRM
-* Gerenciador de soluções
-
-**Detalhes do exame:**
-
-* Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 30/50
-* Tempo: 100 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês e japonês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E307
-
-**Autoavaliação de disponibilidade**
-
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
-
-**Objetivos e escopo do exame**
-
-Seção 1: Gestão de deliveries (25%)
+**Seção 1: Gestão de deliveries (25%)**
 
 * Aplicar práticas recomendadas ao configurar e implantar um delivery
 * Determine a configuração de entrega correta
 * Aplicar as funcionalidades do Designer de email ao cenário apropriado
 
-Seção 2: Gestão de campanhas (25%)
+**Seção 2: Gestão de campanhas (25%)**
 
 * Aplicar configurações para executar workflows
 * Aplicar práticas recomendadas ao planejar, estruturar e modificar uma campanha
 
-Seção 3: Análise de requisitos (10%)
+**Seção 3: Análise de requisitos (10%)**
 
 * Criar um novo fluxo de trabalho com base nos requisitos de negócios/campanha
 * Interpretar os requisitos do cliente
 
-Seção 4: Relatórios (15%)
+**Seção 4: Relatórios (15%)**
 
 * Dados os requisitos do cliente, determine o relatório apropriado para gerar
 * Dado um cenário, personalize um relatório dinâmico pronto para uso
 * Dados de relatório de OOTB de amostra, forneça uma interpretação dos resultados
 * Aplicar o processo para agendar e enviar um relatório OOTB
 
-Seção 5: Solução de problemas (10%)
+**Seção 5: Solução de problemas (10%)**
 
 * Monitorar e identificar erros
 * Analisar e interpretar resultados da implantação
 
-Seção 6: Gestão e administração de dados (15 %)
+**Seção 6: Gestão e administração de dados (15 %)**
 
 * Explicar os recursos do modelo de dados
 * Executar [!DNL Campaign Standard] administração
 * Aplicar o processo para criar públicos-alvo direcionados
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+### Questionário de disponibilidade
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{readiness}}
+
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Como obter certificação {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Gestão de delivery**
 
@@ -143,19 +167,33 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [ [!DNL Campaign Standard] Introdução ao modelo de dados](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Introdução a [!DNL Campaign Standard] administração](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
-
-## Fazer um teste prático
+**Fazer um teste prático**
 
 {{practice-test}}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -168,10 +206,27 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+

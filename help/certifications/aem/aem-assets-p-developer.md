@@ -7,18 +7,49 @@ role: Developer
 badge: label="Exame AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 4%
+source-wordcount: '630'
+ht-degree: 6%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Saiba como se tornar um Adobe de certificado [!DNL Experience Manager] Profissional de desenvolvimento de ativos.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: profissional (0-12 meses de experiência)
+* Pontuação de aprovação: 30/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 125 (global) / US$ 95 (Índia)
+* Identificação do Exame: AD0-E129
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Desenvolvedores de AEM
+* Engenheiros de DevOps
+* Arquitetos do AEM
+* Engenheiros de nuvem
+* Engenheiros de confiabilidade do site
+* Gerentes técnicos
+* Engenheiros de operações de aplicativos
+* Engenheiros de sistemas
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve se sentir confortável trabalhando no Adobe Managed Services e no Adobe [!DNL Experience Manager as a Cloud Service]e podem configurar o Adobe [!DNL Experience Manager] ambientes e infraestrutura.
 
@@ -41,42 +72,13 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 * Sandbox de desenvolvimento
 * Ambiente local
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Desenvolvedores de AEM
-* Engenheiros de DevOps
-* Arquitetos do AEM
-* Engenheiros de nuvem
-* Engenheiros de confiabilidade do site
-* Gerentes técnicos
-* Engenheiros de operações de aplicativos
-* Engenheiros de sistemas
-
-**Detalhes do exame:**
-
-* Nível: profissional (0-12 meses de experiência)
-* Pontuação de aprovação: 30/50
-* Tempo: 100 minutos
-* Delivery: on-line por encomenda (requer acesso à câmera)
-* Idiomas disponíveis: inglês
-* Custo: US$ 125 (global) / US$ 95 (Índia)
-* Identificação do Exame: AD0-E129
-
-**Autoavaliação de disponibilidade**
-
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
-
-**Objetivos e escopo do exame**
-
-Seção 1: Fluxos de trabalho de ativos (24%)
+**Seção 1: Fluxos de trabalho de ativos (24%)**
 
 * Explicar o processo para personalizar fluxos de trabalho OOTB
 * Identifique quando criar ou personalizar workflows de ativos para implementar requisitos do cliente
@@ -84,7 +86,7 @@ Seção 1: Fluxos de trabalho de ativos (24%)
 * Diferenciar entre fluxos de trabalho na nuvem e no local
 * Descreva como usar o console Fluxo de trabalho para monitorar o status e o progresso
 
-Seção 2: Organização de ativos e console de ativos (22%)
+**Seção 2: Organização de ativos e console de ativos (22%)**
 
 * Demonstrar como criar e organizar ativos em coleções
 * Demonstrar como organizar ativos usando tags
@@ -92,36 +94,52 @@ Seção 2: Organização de ativos e console de ativos (22%)
 * Descreva como configurar e gerar relatórios de ativos de AEM
 * Descreva como gerenciar permissões de usuário em pastas de ativos
 
-Seção 3: Metadados dos ativos (24%)
+**Seção 3: Metadados dos ativos (24%)**
 
 * Definir esquemas de metadados
 * Dado um cenário, determine como ajustar o esquema de metadados apropriado
 * Dado um cenário, determine como os perfis de metadados podem ser usados para atender aos requisitos
 * Entender como os esquemas de metadados em cascata funcionam
 
-Seção 4: Tipos de ativos (18%)
+**Seção 4: Tipos de ativos (18%)**
 
 * Descrever os recursos OOTB disponíveis para tipos de ativos
 * Explicar fragmentos de conteúdo e modelos de fragmento de conteúdo
 * Demonstrar como e quando usar variações de fragmento de conteúdo
 
-Seção 5: Conjuntos de recursos e recursos do ativo (12%)
+**Seção 5: Conjuntos de recursos e recursos do ativo (12%)**
 
 * Descreva os casos de uso comuns e os benefícios do uso do Brand Portal
 * Descreva os casos de uso comuns e os benefícios do uso do Dynamic Media
 * Descreva as opções para aproveitar o AEM usando o Creative Cloud
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+### Questionário de disponibilidade
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{readiness}}
 
-**Exemplos de perguntas**
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
-Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
+<br>
 
-[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+## Como obter certificação {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Fluxos de trabalho de ativos**
 
@@ -152,16 +170,35 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 * [Formatos de arquivo não suportados](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Perfis de vídeo do Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
+**Exemplos de perguntas**
 
+{{sample-questions}}
 
-## Sobre o exame de certificação
+[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -174,7 +211,23 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

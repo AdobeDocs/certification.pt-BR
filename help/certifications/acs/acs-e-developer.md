@@ -7,18 +7,47 @@ role: Developer
 badge: label="Exame AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 13%
+source-wordcount: '930'
+ht-degree: 15%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Standard] Especialista em desenvolvedores
 
-Saiba como se tornar um Adobe de certificado [!DNL Campaign Standard] Especialista em desenvolvedores.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 29/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E306
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Administrador de automação de marketing
+* Desenvolvedor do Adobe Experience Cloud
+* Analista de marketing por email
+* Desenvolvedor de aplicativos
+* Desenvolvedor do Campaign
+* Desenvolvedor do Martech
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter:
 
@@ -40,40 +69,13 @@ Você deve ter:
 * Experiência com mensagens transacionais e entrega de mensagens em vários canais
 * Experiência com pacotes gerenciados
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Administrador de automação de marketing
-* Desenvolvedor do Adobe Experience Cloud
-* Analista de marketing por email
-* Desenvolvedor de aplicativos
-* Desenvolvedor do Campaign
-* Desenvolvedor do Martech
-
-**Detalhes do exame:**
-
-* Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 29/50
-* Tempo: 100 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E306
-
-**Autoavaliação de disponibilidade**
-
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
-
-**Objetivos e escopo do exame**
-
-Seção 1: Modelização e gestão de dados (26 %)
+**Seção 1: Modelização e gestão de dados (26 %)**
 
 * Dado um cenário, transformar um requisito do cliente em um recurso personalizado
 * Determine como configurar definições de tela e filtro
@@ -82,7 +84,7 @@ Seção 1: Modelização e gestão de dados (26 %)
 * Solução de problemas de modelagem de dados
 * Determine a abordagem correta para criar workflows técnicos
 
-Seção 2: Gestão de campanhas (50%)
+**Seção 2: Gestão de campanhas (50%)**
 
 * Solução de problemas de erros de fluxo de trabalho
 * Determine a abordagem correta para criar campanhas
@@ -95,7 +97,7 @@ Seção 2: Gestão de campanhas (50%)
 * Determine a abordagem correta para criar emails usando o designer criativo
 * Determine a abordagem correta para criar relatórios personalizados
 
-Seção 3: Administração (24%)
+**Seção 3: Administração (24%)**
 
 * Determine a abordagem correta para criar grupos de segurança de usuários e unidades organizacionais
 * Determine a abordagem correta para gerenciar e implantar pacotes
@@ -104,9 +106,33 @@ Seção 3: Administração (24%)
 * Determine a abordagem correta para criar marcas
 * Determinar a abordagem correta para desenvolver configurações de canal
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+### Questionário de disponibilidade
+
+{{readiness}}
+
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Como obter certificação {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Modelagem e gestão de dados**
 
@@ -151,19 +177,33 @@ Você não precisa concluir o treinamento antes de fazer o exame, e o treinament
 * [Sobre a configuração de canal](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Introdução a canais de comunicação](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
-
-## Fazer um teste prático
+**Fazer um teste prático**
 
 {{practice-test}}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ Você não precisa concluir o treinamento antes de fazer o exame, e o treinament
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

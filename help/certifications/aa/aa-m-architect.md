@@ -8,18 +8,47 @@ role: Data Architect,Developer
 badge: label="Exame AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 20%
+source-wordcount: '573'
+ht-degree: 27%
 
 ---
 
 # Jornada de certificação para [!DNL Adobe Analytics] Arquiteto mestre
 
-Saiba como se tornar um certificado [!DNL Analytics] Arquiteto mestre.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: mestre (3-5 anos de experiência)
+* Pontuação de aprovação: 33/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do exame: AD0-E207
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Arquiteto de soluções
+* Gerente técnico
+* Arquiteto de dados
+* Engenheiro de análise
+* Estrategista do Analytics
+* Engenheiro de várias soluções
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter um mínimo de 3-4 anos de experiência em design [!DNL Adobe Analytics] arquitetura, especificações da camada de dados e gerenciamento de tags, bem como uma compreensão básica do código JavaScript.
 
@@ -33,42 +62,19 @@ Além disso, você é responsável por transformar os requisitos de negócios em
 * Ferramentas de otimização
 * Editores de código
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Arquiteto de soluções
-* Gerente técnico
-* Arquiteto de dados
-* Engenheiro de análise
-* Estrategista do Analytics
-* Engenheiro de várias soluções
-
-**Detalhes do exame:**
-
-* Nível: mestre (3-5 anos de experiência)
-* Pontuação de aprovação: 33/50
-* Tempo: 100 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do exame: AD0-E207
-
-**Objetivos e escopo do exame**
-
-Seção 1: Detecção (18%)
+**Seção 1: Detecção (18%)**
 
 * Demonstrar capacidade de auditar sites
 * Investigar as necessidades do cliente para criar requisitos de negócios
 * Dado um cenário, criar estrutura de medição
 
-Seção 2: Projeto da solução (54%)
+**Seção 2: Projeto da solução (54%)**
 
 * Traduzir os requisitos de negócios em variáveis e métricas
 * Demonstrar capacidade de gerenciar configurações de conjuntos de relatórios
@@ -77,7 +83,7 @@ Seção 2: Projeto da solução (54%)
 * Escrever especificações técnicas para desenvolvedores de sites
 * Criar usuários/grupos do Experience Cloud
 
-Seção 3: Pós-implementação (28 %)
+**Seção 3: Pós-implementação (28 %)**
 
 * Dado um conjunto de requisitos, valide o rastreamento por meio de ferramentas de desenvolvedor do navegador e relatórios de Adobe
 * Aplicar conceitos de procedimentos para gerenciar a extração de dados e os relacionamentos
@@ -85,17 +91,25 @@ Seção 3: Pós-implementação (28 %)
 * Dado um cenário, gerencie fontes de dados e conectores
 * Configure os segmentos necessários e as métricas calculadas para atender aos requisitos de negócios
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+## Como obter certificação {#how-to-get-certified}
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{how-to-get-certified-intro}}
 
-**Exemplos de perguntas**
++++Etapa 1: criar sua conta
 
-Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
+{{create-your-account}}
 
-[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Detecção**
 
@@ -132,16 +146,35 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 * [Processo de inserção de dados](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Implementar o Experience Cloud em sites com o tutorial de tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
+**Exemplos de perguntas**
 
+{{sample-questions}}
 
-## Sobre o exame de certificação
+[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -154,10 +187,27 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 
 Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Dúvidas adicionais? Envie um email `certif@adobe.com`
+Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+

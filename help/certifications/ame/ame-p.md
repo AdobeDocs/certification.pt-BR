@@ -7,18 +7,54 @@ role: User
 badge: label="Exame AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Marketo Engage] Profissional
 
-Saiba como se tornar um Adobe de certificado [!DNL Marketo] Profissional.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: profissional (0-12 meses de experiência)
+* Pontuação de aprovação: 36/55
+* Tempo: 110 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês, japonês
+* Custo: US$ 125 (global) / US$ 95 (Índia)
+* ID do exame: AD0-E555 (inglês), AD0-E555-J (japonês)
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Especialista/coordenador de operações do Campaign
+* Gerente/especialista/coordenador de marketing de banco de dados
+* Funções de geração de demanda
+* Especialista em marketing digital
+* Associados/coordenadores de marketing por email
+* Organizadores/coordenadores de eventos
+* Funções de Automação de Marketing
+* Funções de geração de marketing
+* Funções da campanha de marketing
+* Funções de comunicação de marketing
+* Especialista/coordenador de operações de marketing
+* Coordenador de tecnologia de marketing / Especialista / Associado
+* Membros da equipe de marketing
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter:
 
@@ -37,47 +73,13 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 * Adobe [!DNL Marketo Engage]
 * Excel ou Google Sheets/Doc
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Especialista/coordenador de operações do Campaign
-* Gerente/especialista/coordenador de marketing de banco de dados
-* Funções de geração de demanda
-* Especialista em marketing digital
-* Associados/coordenadores de marketing por email
-* Organizadores/coordenadores de eventos
-* Funções de Automação de Marketing
-* Funções de geração de marketing
-* Funções da campanha de marketing
-* Funções de comunicação de marketing
-* Especialista/coordenador de operações de marketing
-* Coordenador de tecnologia de marketing / Especialista / Associado
-* Membros da equipe de marketing
-
-**Detalhes do exame:**
-
-* Nível: profissional (0-12 meses de experiência)
-* Pontuação de aprovação: 36/55
-* Tempo: 110 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 125 (global) / US$ 95 (Índia)
-* Identificação do exame: AD0-E555
-
-**Autoavaliação de disponibilidade**
-
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
-
-**Objetivos e escopo do exame**
-
-Seção 1: Criação e gestão de programas (39 %)
+**Seção 1: Criação e gestão de programas (39 %)**
 
 * Dada a necessidade/dúvida de negócios, identifique uma estratégia de emissão de relatórios apropriada para realizar uma análise
 * Analisar dados para responder perguntas comerciais
@@ -86,7 +88,7 @@ Seção 1: Criação e gestão de programas (39 %)
 * Analise os dados do relatório para resumir e tirar conclusões
 * Reconhecer valores atípicos e anomalias em relatórios
 
-Seção 2: Imobilizações (19 %)
+**Seção 2: Imobilizações (19 %)**
 
 * Manipular arquivos no Design Studio (upload/substituição de imagens e arquivos).
 * Criar/modificar um formulário usando o Editor de formulário.
@@ -96,7 +98,7 @@ Seção 2: Imobilizações (19 %)
 * Diferenciar a diferença entre ativos de rascunho e aprovados.
 * Diferencie a diferença entre ativos locais e globais.
 
-Seção 3: Definição e direcionamento de públicos-alvo (33%)
+**Seção 3: Definição e direcionamento de públicos-alvo (33%)**
 
 * Criar/Modificar Smart Lists.
 * Entenda as etapas do fluxo do Campaign inteligente.
@@ -111,23 +113,39 @@ Seção 3: Definição e direcionamento de públicos-alvo (33%)
 * Entenda como os acionadores e filtros do Campaign inteligente funcionam.
 * Diferencie as diferentes importações de lista.
 
-Seção 4: Análise e criação de relatórios (9%)
+**Seção 4: Análise e criação de relatórios (9%)**
 
 * Explicar o Adobe padrão [!DNL Marketo Engage] relatórios e quando devem ser usados (Desempenho do link de email, Desempenho do email, Desempenho da página de aterrissagem, Desempenho de pessoas, Desempenho do programa, Atividade da página da Web e assim por diante)
 * Compreender informações e métricas do painel (painel do programa de email, painel do programa de engajamento)
 * Compreender métricas de insights de email
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+### Questionário de disponibilidade
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{readiness}}
 
-**Exemplos de perguntas**
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
-Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
+<br>
 
-[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+## Como obter certificação {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Criação e gestão de programas**
 
@@ -160,16 +178,35 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 * [Visão geral do tipo de relatório](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [Gerenciar assinaturas de relatório](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
+**Exemplos de perguntas**
 
+{{sample-questions}}
 
-## Sobre o exame de certificação
+[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -193,7 +230,23 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 
 [Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

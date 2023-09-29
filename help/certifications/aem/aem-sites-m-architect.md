@@ -7,24 +7,50 @@ role: Data Architect
 badge: label="Exame AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1723'
-ht-degree: 16%
+source-wordcount: '1541'
+ht-degree: 18%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Experience Manager Sites] Arquiteto mestre
 
+{{intro}}
+
 >[!NOTE]
 >
->Este exame (AD0-E117) está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
->
->**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
+>Este exame (AD0-E117 / AD0-E117-J) está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.<br><br>**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
 
-Saiba como se tornar um Adobe de certificado [!DNL Experience Manager Sites] Arquiteto mestre.
+## Descrição do exame {#exam-description}
 
-## Experiência mínima
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: mestre (3-5 anos de experiência)
+* Pontuação de aprovação: 29/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês, japonês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* ID do exame: AD0-E117 (inglês), AD0-E117-J (japonês)
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Arquitetos do AEM
+* Desenvolvedores principais
+* Arquitetos técnicos
+* Arquitetos de soluções
+* Engenheiros Líderes de Desenvolvimento/Operações
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter:
 
@@ -55,45 +81,19 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 * Reutilizar conteúdo em vários canais
 * Leve em conta as considerações com foco na nuvem, como: dimensionamento automático, replicação, gerenciamento de ativos, as implicações e as diferenças entre os serviços locais e gerenciados, Cloud Manager e gerenciamento de pacotes
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Arquitetos do AEM
-* Desenvolvedores principais
-* Arquitetos técnicos
-* Arquitetos de soluções
-* Engenheiros Líderes de Desenvolvimento/Operações
-
-**Detalhes do exame:**
-
-* Nível: mestre (3-5 anos de experiência)
-* Pontuação de aprovação: 29/50
-* Tempo: 100 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês, japonês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do exame: AD0-E117
-
-**Autoavaliação de disponibilidade**
-
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
-
-**Objetivos e escopo do exame**
-
-Seção 1: Detecção (18%)
+**Seção 1: Detecção (18%)**
 
 * Traduzir as metas de negócios de alto nível para os requisitos funcionais
 * Dado um cenário, avalie o estado atual de uma arquitetura
 * Determinar requisitos técnicos não funcionais para o design da solução
 
-Seção 2: Projeto da solução (44%)
+**Seção 2: Projeto da solução (44%)**
 
 * Dados os requisitos de negócios, projetar arquitetura e solução detalhadas
 * Dado um cenário, determine as soluções de segurança apropriadas para um projeto
@@ -102,30 +102,46 @@ Seção 2: Projeto da solução (44%)
 * Aplicar conceitos de procedimentos para projetar uma arquitetura escalável e resiliente
 * Dado um cenário, recomende estratégias de migração
 
-Seção 3: Execução (22 %)
+**Seção 3: Execução (22 %)**
 
 * Dado um cenário, identifique e resolva os problemas de design revelados durante a etapa de implementação
 * Dado um cenário, recomende abordagens de implementação com base nos requisitos
 * Determine os métodos apropriados a serem usados para criar um protótipo de soluções para a prova de conceitos
 * Dado um cenário, diagnostique e resolva os problemas encontrados durante a implementação
 
-Seção 4: Manutenção (16 %)
+**Seção 4: Manutenção (16 %)**
 
 * Dado um cenário, diagnostique e resolva problemas encontrados no ambiente de produção
 * Aplicar conceitos de procedimento ao plano de uso de novos recursos e atualizações
 * Dado um cenário, otimizar a solução para requisitos não funcionais
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+### Questionário de disponibilidade
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{readiness}}
 
-**Exemplos de perguntas**
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
+<br>
 
-[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+## Como obter certificação {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Detecção**
 
@@ -205,27 +221,61 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 * [Índice Lucene](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
 * [Guia do usuário para desenvolvimento no AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
+**Exemplos de perguntas**
 
-## Sobre o exame de certificação
+{{sample-questions}}
+
+[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
-## Programar ou fazer exame AD0-E117
+## Programar ou fazer exame AD0-E117 / AD0-E117-J
 
 >[!NOTE]
 >
->Este exame (AD0-E117) está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
->
->**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
+>Este exame (AD0-E117 / AD0-E117-J) está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.<br><br>**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

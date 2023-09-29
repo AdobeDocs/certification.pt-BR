@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Exame AD0-E907" type="positive"
 mini-toc-levels: 1
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1792'
+source-wordcount: '1639'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,41 @@ ht-degree: 0%
 
 # Jornada de certificação para o Adobe [!DNL Workfront] Especialista do desenvolvedor principal
 
-Saiba como se tornar um Adobe de certificado [!DNL Workfront] Especialista em desenvolvedores principal.
+{{intro}}
 
 >[!NOTE]
 >
 >Este é o Adobe mais recente [!DNL Workfront] Exame Core Developer Expert. Se você já começou a estudar ou programou o [versão mais antiga](aw-core-e-developer.md), você deve concluí-lo até 6 de novembro de 2023.
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 35/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E907
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* [!DNL Workfront] Administradores do sistema especializados em implementação e configuração de instância nova ou atualizada
+* Designer/arquiteto de processos
+* Analista de negócios
+* Consultor técnico
+* Consultor de configuração
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter pelo menos 18-24 meses de experiência com o Adobe [!DNL Workfront]e devem poder:
 
@@ -32,39 +60,13 @@ Você deve ter pelo menos 18-24 meses de experiência com o Adobe [!DNL Workfron
 * Entender e aplicar os casos de uso de marketing e PMO
 * Recomendar e criar relatórios que deem suporte aos processos do cliente
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* [!DNL Workfront] Administradores do sistema especializados em implementação e configuração de instância nova ou atualizada
-* Designer/arquiteto de processos
-* Analista de negócios
-* Consultor técnico
-* Consultor de configuração
-
-**Detalhes do exame:**
-
-* Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 35/50
-* Tempo: 100 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E907
-
-**Autoavaliação de disponibilidade**
-
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
-
-**Objetivos e escopo do exame**
-
-Seção 1: Administração e configuração do sistema principal (17%)
+**Seção 1: Administração e configuração do sistema principal (17%)**
 
 * Dado um cenário, descreva maneiras de compartilhar permissões e acesso com eficiência.
 * Dado um cenário, identifique quando um status de grupo versus um status de sistema deve ser usado.
@@ -74,7 +76,7 @@ Seção 1: Administração e configuração do sistema principal (17%)
 * Dado o cenário, recomende uma configuração de placas para atender a um requisito personalizado.
 * Dado um cenário, identifique as práticas recomendadas para administração de grupos.
 
-Seção 2: Entrada, formulários personalizados e iniciação do projeto (13%)
+**Seção 2: Entrada, formulários personalizados e iniciação do projeto (13%)**
 
 * Dado um cenário, identifique as áreas de configuração necessárias para dar suporte às alocações de trabalho.
 * Dado um cenário, identifique como um valor é passado para um formulário personalizado de projeto.
@@ -83,7 +85,7 @@ Seção 2: Entrada, formulários personalizados e iniciação do projeto (13%)
 * Dado um cenário com vários formulários, determine ações para controlar o acesso, a visibilidade e a dependência.
 * Dado um cenário com campos calculados em formulários de vários objetos, identifique a fórmula correta.
 
-Seção 3: Funcionalidade estratégica: gestão de portfólio e programa, gestão de recursos (13%)
+**Seção 3: Funcionalidade estratégica: gestão de portfólio e programa, gestão de recursos (13%)**
 
 * Dado um cenário, defina ferramentas para capturar alterações no escopo do projeto.
 * Dado um cenário, crie uma visualização que identifique em um portfólio se um projeto atende ao nível médio de critérios necessários para ser executado.
@@ -92,7 +94,7 @@ Seção 3: Funcionalidade estratégica: gestão de portfólio e programa, gestã
 * Dado um cenário, forneça um mecanismo para garantir que os projetos tenham todo o pessoal necessário usando ferramentas de gerenciamento de recursos.
 * Dado um cenário, use as ferramentas de Gerenciamento de recursos para determinar por que um usuário está superalocado.
 
-Seção 4: Gestão de documentos e prova (13%)
+**Seção 4: Gestão de documentos e prova (13%)**
 
 * Dado um cenário, demonstrar quando utilizar gerenciamento de documentos versus prova
 * Dado um cenário, identifique as práticas recomendadas para usar a funcionalidade de visualizador de provas, configurações e marcação
@@ -100,7 +102,7 @@ Seção 4: Gestão de documentos e prova (13%)
 * Dado um cenário, demonstrar como configurar o armazenamento de documentos externo com restrições de segurança
 * Dado um cenário, configure uma conexão com o AEM as a Cloud Service ou o AEM Assets Essentials.
 
-Seção 5: Relatórios (11 %)
+**Seção 5: Relatórios (11 %)**
 
 * Dado um cenário, descreva maneiras de combinar várias colunas de dados em uma única coluna.
 * Dado um relatório ou filtro, demonstre os méritos de usar valores curingas.
@@ -109,7 +111,7 @@ Seção 5: Relatórios (11 %)
 * Dado um cenário, ilustre [!DNL Workfront] Relatórios para monitorar e melhorar a adoção de usuários.
 * Dado um cenário, determine como um tipo de campo seria renderizado em um relatório. (Os tipos de campo incluem: rich text, imagens, seleção múltipla)
 
-Seção 6: Metodologia / práticas recomendadas / casos de uso (22%)
+**Seção 6: Metodologia / práticas recomendadas / casos de uso (22%)**
 
 * Dado um cenário dentro de [!DNL Workfront], demonstrar a funcionalidade para configurar o rastreamento de produtos finais que fazem parte de uma única campanha.
 * Dado um cenário dentro de [!DNL Workfront], demonstrar a funcionalidade em torno da priorização estratégica e da justificação do trabalho.
@@ -120,7 +122,7 @@ Seção 6: Metodologia / práticas recomendadas / casos de uso (22%)
 * Dado um cenário usando [!DNL Workfront] Quadros, identificam recursos nativos para mostrar o progresso.
 * Dado um cenário, recomende uma estrutura de governança em torno da administração do sistema e de grupos.
 
-Seção 7: Consultoria de negócios (11%)
+**Seção 7: Consultoria de negócios (11%)**
 
 * Num cenário, descrever o processo necessário para apoiar plenamente os esforços de [!DNL Workfront] em um departamento multifuncional.
 * Dado um cenário, explique como adaptar um fluxo de trabalho existente para atender a uma mudança recente em um processo de negócios crítico e em curso.
@@ -128,11 +130,33 @@ Seção 7: Consultoria de negócios (11%)
 * Dado um cenário, identifique as principais considerações do gerenciamento de alterações para um [!DNL Workfront] implementação
 * Dado um cenário em que um cliente tem várias equipes, forneça uma recomendação para aumentar a eficiência.
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+### Questionário de disponibilidade
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{readiness}}
+
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## Como obter certificação {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Administração e configuração do sistema principal**
 
@@ -207,23 +231,27 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [Visão geral &quot;Pode iniciar&quot; para tarefas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
 * [Prática recomendada - Integração e adoção](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
->[!TAB Obter certificado]
++++
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
+<br>
 
-<!-- Test is coming later
++++Etapa 3: agendar e pagar o exame
 
-## Take a practice test
+{{schedule-and-pay}}
 
-{{practice-test}}
++++
 
--->
+<br>
 
-## Sobre o exame de certificação
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -236,7 +264,23 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

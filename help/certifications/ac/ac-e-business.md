@@ -8,18 +8,48 @@ level: Experienced
 badge: label="Exame AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
 
 # Jornada de certificação para [!DNL Adobe Commerce] Especialista em Profissionais de Negócios
 
-Saiba como se tornar um certificado [!DNL Adobe Commerce] Especialista em Profissionais de Negócios.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 31/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do exame: AD0-E708
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Analista de negócios
+* Estrategista de comércio
+* Consultor
+* Gerente técnico de projetos/Gerente técnico de conta
+* Arquiteto de aplicativos/Arquiteto de soluções/Especialista
+* Administrador/Director/Gerente/Consultor da agência
+* Marketing digital Director/Gerente/Desenvolvedor
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter aproximadamente 1-3 anos de experiência prática [!DNL Commerce] e uma ampla compreensão da experiência de comércio eletrônico.
 
@@ -40,41 +70,13 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 * Ferramentas de segurança: conformidade com PCI, ADA, GDPR e outras
 * Arquitetura em nuvem ou local
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Analista de negócios
-* Estrategista de comércio
-* Consultor
-* Gerente técnico de projetos/Gerente técnico de conta
-* Arquiteto de aplicativos/Arquiteto de soluções/Especialista
-* Administrador/Director/Gerente/Consultor da agência
-* Marketing digital Director/Gerente/Desenvolvedor
-
-**Detalhes do exame:**
-
-* Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 31/50
-* Tempo: 100 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do exame: AD0-E708
-
-**Autoavaliação de disponibilidade**
-
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
-
-**Objetivos e escopo do exame**
-
-Seção 1: Recursos principais/Configuração geral (46%)
+**Seção 1: Recursos principais/Configuração geral (46%)**
 
 * Identificar os recursos do Adobe [!DNL Commerce] Open Source Edition e [!DNL Commerce] Edição
 * Distinguir as diferenças entre todas as edições de Adobe [!DNL Commerce] products
@@ -90,18 +92,18 @@ Seção 1: Recursos principais/Configuração geral (46%)
 * Configuração e modificação de emails transacionais
 * Explicar os recursos nativos do autoatendimento do cliente e do programa de fidelidade em B2B
 
-Seção 2: Merchandising (10%)
+**Seção 2: Merchandising (10%)**
 
 * Demonstrar a capacidade de criar promoções que atendam a critérios específicos de negócios e como elas determinam o preço final
 * Demonstrar capacidade de gerenciar categorias e produtos
 * Compreender as diferentes configurações de preços e como elas afetam o preço final
 
-Seção 3: Marketing digital (4%)
+**Seção 3: Marketing digital (4%)**
 
 * Práticas recomendadas para SEO usando recursos nativos
 * Avaliar métricas comuns no Google Analytics e no BI
 
-Seção 4: Módulos complementares e produtos adicionais (18%)
+**Seção 4: Módulos complementares e produtos adicionais (18%)**
 
 * Descreva a funcionalidade B2B e como ela se relaciona com cenários B2B comuns
 * Aplicar requisitos comerciais para sugerir uma solução usando MSI
@@ -111,25 +113,47 @@ Seção 4: Módulos complementares e produtos adicionais (18%)
 * Entenda como aplicar preços personalizados a um cliente B2B
 * Entender as diferenças entre Adobe [!DNL Commerce] produto nativo e recomendações de produto do Adobe Sensei
 
-Seção 5: Arquitetura de sistemas (10%)
+**Seção 5: Arquitetura de sistemas (10%)**
 
 * Avalie os requisitos para determinar quais sites, lojas e exibições de loja são necessários
 * Identificar e analisar métricas de desempenho para fazer melhorias
 * Compreender os métodos disponíveis para integrar o sistema externo ao Adobe [!DNL Commerce]
 * Diferenciar entre abordagens headless e tradicionais
 
-Seção 6: Conformidade/Segurança (12%)
+**Seção 6: Conformidade/Segurança (12%)**
 
 * Demonstrar como proteger o Adobe [!DNL Commerce] acesso a dados com funções e permissões
 * Entenda as noções básicas de conformidade para leis de privacidade e segurança de pagamento
 * Explicar os aspectos comuns de segurança de um Adobe [!DNL Commerce] projeto
 * Entenda as noções básicas das leis de impostos e como configurar
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+### Questionário de disponibilidade
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{readiness}}
+
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Como obter certificação {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Recursos principais/configuração geral**
 
@@ -209,19 +233,33 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [Segurança](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [Diretrizes de imposto por país](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
-
-## Fazer um teste prático
+**Fazer um teste prático**
 
 {{practice-test}}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -234,7 +272,23 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

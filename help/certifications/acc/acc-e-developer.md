@@ -7,18 +7,44 @@ role: Developer
 badge: label="Exame AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1117'
-ht-degree: 17%
+source-wordcount: '961'
+ht-degree: 19%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Classic] Especialista em desenvolvedores
 
-Saiba como se tornar um Adobe de certificado [!DNL Campaign Classic] Especialista em desenvolvedores.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 34/50
+* Tempo: 100 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E330
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Consultor técnico
+* Engenheiro de tecnologia de marketing
+* Adobe [!DNL Campaign Classic] desenvolvedor
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter:
 
@@ -30,37 +56,13 @@ Você deve ter:
 * Capacidade de solucionar problemas de implementações do Campaign
 * Conhecimento básico das configurações de servidor relacionadas ao Campaign
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Consultor técnico
-* Engenheiro de tecnologia de marketing
-* Adobe [!DNL Campaign Classic] desenvolvedor
-
-**Detalhes do exame**
-
-* Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 34/50
-* Tempo: 100 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E330
-
-**Autoavaliação de disponibilidade**
-
-Conclua o [questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} para ver se sua experiência atual corresponde à qualificação mínima recomendada para candidatos.
-
-**Objetivos e escopo do exame**
-
-Seção 1: Configuração do sistema (16%)
+**Seção 1: Configuração do sistema (16%)**
 
 * Aplicar configurações e padrões em todo o sistema
 * Dados os vários parâmetros, selecione o recurso Adobe Campaign apropriado para implementar um caso de uso
@@ -68,7 +70,7 @@ Seção 1: Configuração do sistema (16%)
 * Implementar configurações personalizadas
 * Identificar os recursos de configuração do Painel de controle do Campaign
 
-Seção 2: Personalização (22%)
+**Seção 2: Personalização (22%)**
 
 * Dado um conjunto de requisitos, aplique as práticas recomendadas para projetar um modelo de dados
 * Descrever a implementação de APIs no Campaign
@@ -78,14 +80,14 @@ Seção 2: Personalização (22%)
 * Dado um cenário, entenda como usar scripts SQL no Adobe [!DNL Campaign Classic]
 * Descrever as funções OOTB usadas com frequência
 
-Seção 3: Gerenciamento de acesso (8%)
+**Seção 3: Gerenciamento de acesso (8%)**
 
 * Dado um cenário, defina as configurações de segurança para um operador
 * Descrever como definir as configurações de gerenciamento de acesso com base no documento de design da solução
 * Descrever o gerenciamento de acesso usando o Painel de controle do Campaign
 * Identificar as limitações do particionamento de dados e quando usar o sysfilter
 
-Seção 4: Integração de dados (16%)
+**Seção 4: Integração de dados (16%)**
 
 * Dado um cenário, selecione a melhor abordagem para integrar com fontes de dados externas
 * Implementar práticas recomendadas para o processamento de dados do fluxo de trabalho
@@ -93,7 +95,7 @@ Seção 4: Integração de dados (16%)
 * Identificar configurações de segurança e rede a serem integradas ao Adobe Campaign a partir de um sistema externo
 * Configurar o processo CRUD em um esquema de fora do Adobe Campaign
 
-Seção 5: Manutenção de instâncias (12%)
+**Seção 5: Manutenção de instâncias (12%)**
 
 * Entender e agir no mapa de calor do fluxo de trabalho
 * Demonstrar o processo para criar um fluxo de trabalho ou relatório personalizado para monitoramento de instância
@@ -101,7 +103,7 @@ Seção 5: Manutenção de instâncias (12%)
 * Explicar o impacto de serviços e processos no sistema
 * Demonstrar métricas/verificações básicas de auditoria do sistema
 
-Seção 6: Configuração do Campaign (25%)
+**Seção 6: Configuração do Campaign (25%)**
 
 * Aplicar técnicas avançadas de personalização
 * Configurar e aplicar mapeamentos de público alvo personalizados
@@ -112,11 +114,33 @@ Seção 6: Configuração do Campaign (25%)
 * Descrever as práticas de fluxo de trabalho que têm um impacto negativo no desempenho
 * Dado um caso de uso, recomendamos um design complexo de fluxo de trabalho para construção do target
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+### Questionário de disponibilidade
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{readiness}}
+
+[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Como obter certificação {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Configuração do sistema**
 
@@ -173,19 +197,27 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [Sobre modelos](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=pt-BR){target="_blank"}
 * [Usar tabela de recipient personalizada](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
->[!TAB Obter certificado]
++++
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
+<br>
 
-## Fazer um teste prático
++++Etapa 3: agendar e pagar o exame
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -198,7 +230,23 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

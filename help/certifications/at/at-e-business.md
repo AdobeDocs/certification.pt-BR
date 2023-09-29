@@ -7,18 +7,45 @@ role: User
 badge: label="Exame AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1104'
 ht-degree: 1%
 
 ---
 
 # Jornada de certificação para [!DNL Adobe Target] Especialista em Profissionais de Negócios
 
-Saiba como se tornar um certificado [!DNL Adobe Target] Especialista em Profissionais de Negócios.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 46/68
+* Tempo: 136 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês, japonês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* ID do exame: AD0-E406 (inglês), AD0-E406-J (japonês)
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Otimização
+* Personalização
+* Analytics
+* Marketing digital e de produtos
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter:
 
@@ -66,34 +93,13 @@ Ambientes:
 * Uso do target para aplicativos de página única
 * Email
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Otimização
-* Personalização
-* Analytics
-* Marketing digital e de produtos
-
-**Detalhes do exame:**
-
-* Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 46/68
-* Tempo: 136 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E406
-
-**Objetivos e escopo do exame**
-
-Seção 1: Planejamento e estratégia (31%)
+**Seção 1: Planejamento e estratégia (31%)**
 
 * Identificar KPIs de negócios e traduzi-los com êxito em metas de otimização, de acordo com os principais requisitos de negócios
 * Identificar oportunidades de otimização com base em KPIs de negócios e análise de dados
@@ -105,7 +111,7 @@ Seção 1: Planejamento e estratégia (31%)
 * Avaliar os requisitos de público
 * Determine as fontes de relatórios de análise apropriadas (ou seja, Target ou Adobe Analytics)
 
-Seção 2: configuração, execução e gerenciamento (42%)
+**Seção 2: configuração, execução e gerenciamento (42%)**
 
 * Explicar o uso do Experience Composer baseado em formulário versus o Visual Experience Composer
 * Aplicar procedimentos para criar uma experiência usando o VEC
@@ -122,7 +128,7 @@ Seção 2: configuração, execução e gerenciamento (42%)
 * Aplicar procedimentos para conduzir o Controle de qualidade da atividade
 * Aplicar procedimentos para gerenciar Atividades e públicos no Target
 
-Seção 3: Análise e relatórios (17 %)
+**Seção 3: Análise e relatórios (17 %)**
 
 * Definir e avaliar configurações de relatório para ajudar a definir os elementos que aparecem em um relatório
 * Avaliar e comparar [!DNL Adobe Target] Configurações da Calculadora de tamanho de amostra ao planejar atividades do Target e validar relatórios de atividades do Target
@@ -131,17 +137,31 @@ Seção 3: Análise e relatórios (17 %)
 * Avaliar relatórios de desempenho da experiência (MVT)
 * Determine a variação vencedora com base no aumento observado, nos níveis de confiança e nos objetivos de negócios
 
-Seção 4: Solução de problemas (10%)
+**Seção 4: Solução de problemas (10%)**
 
 * Diagnosticar problemas de qualificação de atividade
 * Usar as ferramentas de depuração do navegador (incluindo o Experience Cloud Debugger) para verificar a implementação
 * Verificar métricas e relatórios
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+## Como obter certificação {#how-to-get-certified}
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{how-to-get-certified-intro}}
+
++++Etapa 1: criar sua conta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Planejamento e estratégia**
 
@@ -179,19 +199,33 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [Solução de problemas de erros de atividade](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [Solução de problemas de erros de integração](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
-
-## Fazer um teste prático
+**Fazer um teste prático**
 
 {{practice-test}}
 
-## Sobre o exame de certificação
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 [Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 

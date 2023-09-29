@@ -4,9 +4,9 @@ description: Introdução às certificações da  [!DNL Experience Cloud] . Saib
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 611305977b6fb73516c236983fdf5878fcc920d6
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '732'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Saiba mais sobre a diferença entre os tipos de exames que você encontrará em 
 
 | Tipo | Descrição |
 | ------- | ------- |
-| Exame de certificação | A certificação é uma credencial que reconhece a habilidade e a competência de um indivíduo em um aplicativo Adobe. Um candidato que passar no exame de certificação torna-se um profissional certificado Adobe, especialista ou Principal para o produto e a função no trabalho em que o exame se baseia. |
+| Exame de certificação | A certificação é uma credencial que reconhece a habilidade e a competência de um indivíduo em um aplicativo Adobe. Um candidato que passar no exame de certificação torna-se um Profissional Certificado Adobe, Especialista ou Mestre para o produto e a função no trabalho em que o exame se baseia. |
 | Exame de renovação | As certificações Adobe expiram após dois anos. Ao fazer e passar em um exame de renovação, sua credencial de certificação é estendida por mais dois anos. |
 | Avaliação do curso | Para certas soluções, o Adobe oferece uma alternativa à aprovação em exames de renovação para manter a credencial da sua certificação. Os candidatos receberão (normalmente) de 5 a 7 cursos sob demanda para análise. Cada curso tem uma breve avaliação associada a ele, chamada de _avaliação do curso_. O critério para renovar a certificação é passar em três avaliações com base nos cursos OU passar em duas avaliações e enviar um formulário de referência do cliente assinado. |
 | Teste de prática | Um teste prático é uma versão completa de um exame de certificação baseado no mesmo conteúdo (objetivos do exame) do exame de certificação. Embora não sejam as mesmas perguntas que você responde no exame de certificação, as perguntas práticas são escritas ao mesmo tempo que o exame de certificação. Embora a aprovação em um teste prático não possa garantir que você será aprovado no exame de certificação, ele fornece um indicador notável da sua prontidão para fazer o exame |
@@ -34,9 +34,9 @@ Saiba mais sobre a diferença entre os tipos de exames que você encontrará em 
 
 >[!TAB Níveis de certificação]
 
-Adobe [!DNL Experience Cloud] O oferece três níveis diferentes de certificação: Profissional, Especialista e Principal. Essas certificações foram criadas para validar as habilidades e o conhecimento dos profissionais que trabalham com soluções de marketing digital da Adobe.
+Adobe [!DNL Experience Cloud] O oferece três níveis diferentes de certificação: Professional, Expert e Master. Essas certificações foram criadas para validar as habilidades e o conhecimento dos profissionais que trabalham com soluções de marketing digital da Adobe.
 
-Esses níveis refletem uma progressão de proficiência e conhecimento, com a certificação Profissional sendo a certificação de nível básico, Especialista sendo o nível intermediário e Principal sendo o nível mais alto de certificação.
+Esses níveis refletem uma progressão de proficiência e conhecimento, com a certificação Profissional sendo a certificação de nível básico, Especialista sendo o nível intermediário e Mestre sendo o nível mais alto de certificação.
 
 | Medalha | Descrição |
 | ------- | ------- |
@@ -58,17 +58,21 @@ Os exames de certificação de Adobe são personalizados para três funções de
 
 {style="table-layout:auto"}
 
->[!TAB Jornada da certificação]
+<!--
 
-O Guia de Jornada de certificação é uma ferramenta abrangente projetada para fornecer todas as informações necessárias para você se preparar para um exame de certificação. O guia é dividido em três seções principais: Prepare-se, Prepare-se e Obtenha certificação.
+>[!TAB Certification journey]
 
-| Seções | Descrição |
+The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
+
+| Sections | Description |
 | ------- | ------- |
-| **Prepare-se** | Destina-se a fornecer uma visão geral do exame, incluindo informações sobre o público-alvo pretendido, detalhes do exame, autoavaliação de prontidão, objetivos do exame e escopo. Esta seção ajuda você a entender o exame e o que pode esperar ao fazer. A autoavaliação de prontidão é particularmente útil, pois permite determinar seu nível atual de conhecimento e identificar áreas em que pode ser necessário concentrar seus esforços de estudo. |
-| **Prepare-se** | É onde você pode encontrar treinamento e recursos para ajudá-lo a se preparar para o exame. Esta seção inclui informações e links para materiais de estudo e cursos de treinamento. |
-| **Obter certificado** | Oferece informações valiosas sobre como se inscrever para o exame de certificação, incluindo detalhes sobre o processo de registro e métodos de pagamento disponíveis. Além disso, esta seção também fornece uma visão geral clara do processo de exame. Consulte esta seção para obter recursos úteis, como um link para o Portal de preparação de certificação do Adobe para exames que oferecem testes práticos, bem como links para inscrição nos exames de certificação. |
+|**Get Ready** | Intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts. |
+| **Get Prepped** | Is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. |
+| **Get Certified** | Offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams. |
 
 {style="table-layout:auto"}
+
+-->
 
 >[!ENDTABS]
 

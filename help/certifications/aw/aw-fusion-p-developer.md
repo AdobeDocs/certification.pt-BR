@@ -6,18 +6,47 @@ role: Developer
 badge: label="Exame AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Workfront Fusion] Profissional de desenvolvedor
 
-Saiba como se tornar um Adobe de certificado [!DNL Workfront] Profissional de desenvolvedor.
+{{intro}}
 
-## Experiência mínima
+## Descrição do exame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: profissional (0-12 meses de experiência)
+* Pontuação de aprovação: 33/51
+* Tempo: 102 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idiomas disponíveis: inglês
+* Custo: US$ 125 (global) / US$ 95 (Índia)
+* Identificação do Exame: AD0-E902
+
+<br>
+
+### Público-alvo {#intended-audience}
+
+* Desenvolvedor, Engenheiro de Automação
+* Automator, otimização de processos e gerenciador de automação
+* Consultores de integração, consultores, parceiros
+* Parceiros/integradores de sistemas
+* Analistas de negócios, analistas de negócios aplicados
+* Administrador do sistema (TI, MIS, tecnologia, sistemas de conhecimento, administradores de IA)
+
+<br>
+
+### Experiência mínima {#minimum-experience}
 
 Você deve ter:
 
@@ -32,36 +61,13 @@ Você deve ter:
 * A capacidade de gerenciar equipes e usuários da organização
 * Uma compreensão da finalidade e do uso de conectores universais para a API REST Oauth2
 
->[!NOTE]
->
->Sua certificação é válida por dois anos a partir de quando você passar. Recomendamos usar a versão mais recente quando possível, pois ela abrange recursos mais recentes do produto.
+<br>
 
->[!BEGINTABS]
+### Objetivos e escopo do exame {#exam-objectives}
 
->[!TAB Prepare-se]
+{{exam-objectives}}
 
-**Público-alvo:**
-
-* Desenvolvedor, Engenheiro de Automação
-* Automator, otimização de processos e gerenciador de automação
-* Consultores de integração, consultores, parceiros
-* Parceiros/integradores de sistemas
-* Analistas de negócios, analistas de negócios aplicados
-* Administrador do sistema (TI, MIS, tecnologia, sistemas de conhecimento, administradores de IA)
-
-**Detalhes do exame:**
-
-* Nível: profissional (0-12 meses de experiência)
-* Pontuação de aprovação: 33/51
-* Tempo: 102 minutos
-* Entrega: on-line vigiado (requer acesso à câmera) ou centro de teste vigiado
-* Idiomas disponíveis: inglês
-* Custo: US$ 125 (global) / US$ 95 (Índia)
-* Identificação do Exame: AD0-E902
-
-**Objetivos e escopo do exame**
-
-Seção 1: Conceitos técnicos de base (39%)
+**Seção 1: Conceitos técnicos de base (39%)**
 
 * Dado um [!DNL Fusion] com um formato de campo que precisa estar em outro formato de campo, forneça as possíveis funções que podem ser usadas para transformar os dados corretamente
 * Dado um [!DNL Fusion] cenário que exige que uma função seja aninhada dentro de outra função, selecione a expressão formada corretamente
@@ -77,7 +83,7 @@ Seção 1: Conceitos técnicos de base (39%)
 * Identifique as diferentes opções no [!DNL Fusion] configurações do cenário para atender às necessidades do cenário
 * Dado um [!DNL Fusion] selecionar o controlo de caudal adequado e/ou determinar a combinação correta de módulos de controlo de caudal
 
-Seção 2: Projeto e arquitetura do cenário (35%)
+**Seção 2: Projeto e arquitetura do cenário (35%)**
 
 * Dada uma lista de etapas, escolha a sequência correta para analisar o JSON e converter em pacotes
 * Dado um conjunto de requisitos, identifique o método de pesquisa de dados correto
@@ -92,7 +98,7 @@ Seção 2: Projeto e arquitetura do cenário (35%)
 * Dada uma descrição da necessidade de arquivar um cenário por mais de 60 dias e selecionar a única maneira possível (importar/exportar blueprint)
 * Dado um exemplo de Erro 403: Proibido, selecione corretamente a origem da mensagem de erro e causa
 
-Seção 3: Teste e tratamento de erros (16%)
+**Seção 3: Teste e tratamento de erros (16%)**
 
 * Identificar os elementos de um plano de teste
 * Identificar os elementos de um caso de teste
@@ -101,24 +107,32 @@ Seção 3: Teste e tratamento de erros (16%)
 * Identifique como rastrear, ler e resolver execuções incompletas
 * Dado um [!DNL Fusion] cenário com dados obrigatórios ausentes, selecione maneiras de lidar com os dados inválidos
 
-Seção 4: Trabalho com APIs (10%)
+**Seção 4: Trabalho com APIs (10%)**
 
 * Dada uma API de terceiros que retorna um 429: muitas solicitações, identifique uma solução para evitar ou lidar com o erro
 * Dado um [!DNL Fusion] cenário em que a nova funcionalidade não está disponível no [!DNL Workfront] identifique a referência correta e o tipo de módulo a ser usado na nova funcionalidade
 * Dado um sistema de terceiros que não tem um aplicativo dedicado, identifique o aplicativo HTTP e selecione o módulo apropriado
 * Identificar a diferença entre as operações CRUD e outros recursos comuns das APIs REST
 
->[!TAB Prepare-se]
+<br>
 
-Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+## Como obter certificação {#how-to-get-certified}
 
-Estes são alguns recursos sugeridos para ajudar você a se preparar:
+{{how-to-get-certified-intro}}
 
-**Exemplos de perguntas**
++++Etapa 1: criar sua conta
 
-Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão encontrados no exame real. Não é necessário fazer logon. Os resultados das perguntas de amostra não são armazenados e não preveem os resultados reais do teste.
+{{create-your-account}}
 
-[Consulte exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++Etapa 2: preparar para o exame
+
+**Materiais de estudo**
+
+{{study-materials-intro}}
 
 **Seção 1: Conceitos técnicos de base**
 
@@ -151,16 +165,35 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 * [Aplicativos e seus módulos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Módulos no Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB Obter certificado]
+<br>
 
->[!IMPORTANT]
->
->As seguintes seções e links funcionarão **somente**  após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Além disso, o nome do perfil no campo [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma incompatibilidade, o promotor encerrará o exame e solicitará que você reprograme seu compromisso e pague uma taxa de exame adicional.*
+**Exemplos de perguntas**
 
+{{sample-questions}}
 
-## Sobre o exame de certificação
+[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++Etapa 3: agendar e pagar o exame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Etapa 4: antes e depois do exame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Etapa 5: fazer o exame
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ Os exemplos de perguntas permitem ver o tipo e o formato dos itens que serão en
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Etapa 6: gerenciar suas medalhas
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovar sua certificação
+
+{{renewing-intro}}
+
+<br>
 
 ## Perguntas
 
