@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
 workflow-type: tm+mt
-source-wordcount: '2643'
+source-wordcount: '3097'
 ht-degree: 1%
 
 ---
@@ -243,6 +243,69 @@ Não, você só precisa preencher os requisitos listados para a solução. Sua(s
 +++Preciso revisar os cursos ou posso simplesmente começar a fazer avaliações?
 
 As avaliações são baseadas nos Cursos em Experience League e sua revisão preparará os candidatos a serem aprovados. No entanto, o principal requisito para a renovação é apenas a aprovação nas Avaliações.
+
++++
+
+>[!TAB  Vouchers]
+
++++Quando os comprovantes de exame expiram? Por quanto tempo elas são boas?
+
+Os vales de exame Adobe expiram 12 meses após a compra. Os vouchers não podem ser estendidos além de sua data de expiração. As inscrições para o exame devem ser programadas, pagas e realizadas antes da data de vencimento do comprovante do exame.
+
++++
+
++++Os comprovantes podem ser devolvidos para crédito ou reembolso?
+
+_Todas as vendas são finais._ Devoluções e reembolsos não são aceitos. Os vales de exame de Adobe são comprados em um nível de exame, não para exames específicos, e isso proporciona flexibilidade.
+
+* Exemplo: ao comprar 10 comprovantes de exame de nível Adobe Certified Expert e distribuí-los, você não precisa saber antecipadamente ou planejar quem fará qual exame de especialista.
+* Os administradores podem atribuir o cupom a um usuário e ver se o cupom foi visualizado, resgatado ou quando a prova está agendada ou ocorreu.
+
++++
+
++++Que tipo de pagamentos são aceitos?
+
+O pagamento pode ser feito por (todos os principais) cartões de crédito. Pagamentos via cartão de crédito exigem a aceitação de um acordo de click-wrap on-line. As diferentes opções de pagamento são:
+
+* Remoto, ordem de compra ou ACH: crie uma ordem de compra no sistema Xvoucher que pode ser impressa e enviada ao departamento de contas a pagar. Esse pedido será aprovado no recebimento da transferência ou cheque eletrônico.
+* Cartão de crédito: todos os principais cartões de crédito foram aceitos.
+* Xwallet: Isso subtrairá a quantia do pedido do pool de Xwallet.
+
++++
+
++++Há um número mínimo ou máximo de cupons que eu posso comprar?
+
+Não, não há mínimo ou máximo. As compras do cliente são limitadas apenas com base nos fundos disponíveis, como um limite de cartão de crédito ou saldo de conta bancária para transferências eletrônicas.
+
++++
+
++++Quanto tempo levará para obter acesso aos vouchers depois que eu fizer meu pedido?
+
+Os vouchers estarão disponíveis imediatamente após a compra se pagarem com cartão de crédito ou Xwallet.
+
+* Se você comprar por conta própria, os códigos dos vouchers serão fornecidos na tela e no email.
+* Se você comprar para outras pessoas, faça logon em sua conta do Xvoucher e distribua os vouchers para seus usuários finais a partir daí.
+* Se o pagamento for feito por fio ou por ordem de compra, as ordens de voucher serão liberadas quando o Xvoucher tiver recebido os fundos.
+
+[Ajuda online](https://help.xvoucher.com/){target="_blank"}
+
++++
+
++++Como faço para acessar minha conta do Xvoucher?
+
+Basta fazer login em sua conta [aqui](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+
++++
+
++++Como faço para acessar meu voucher Adobe?
+
+Depois que um cupom for atribuído a você, você receberá um email do support@xvoucher.com com um código de cupom e instruções sobre como resgatar o cupom. Se você não recebeu um email, verifique sua pasta de spam. Se ainda não conseguir encontrar o email, faça logon na sua conta do Xvoucher.
+
++++
+
++++Os comprovantes podem ser devolvidos para crédito ou reembolso?
+
+Todas as vendas são finais. Devoluções e reembolsos não são aceitos. Os Cupons de Exame Adobe são comprados em nível de exame, não para exames específicos, o que proporciona grande flexibilidade.
 
 +++
 
