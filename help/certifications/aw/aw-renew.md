@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -127,7 +127,7 @@ Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerencia
 
 **Detalhes do exame:**
 
-* Pontuação de aprovação: 35/25
+* Pontuação de aprovação: 35/27
 * Tempo: 70 minutos
 * Custo: GRATUITO/não monitorado
 * Delivery: sob demanda
