@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7b185487be1d4d5e35c6560a46cf62677324956b
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '967'
 ht-degree: 14%
 
 ---
@@ -174,7 +174,6 @@ Você deve ter:
 * [Criar e gerenciar grupos de operadores](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
 * [Usar direitos nomeados para configurar permissões](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 * [Criar e gerenciar grupos de operadores](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
-* [Gerenciamento de grupos e usuários](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 
 **Seção 4: Fluxos de trabalho técnicos**
 
