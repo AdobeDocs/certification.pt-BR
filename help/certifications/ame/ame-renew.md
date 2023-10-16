@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '2812'
 ht-degree: 2%
 
 ---
@@ -32,15 +32,157 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 
 >[!TAB Profissional]
 
+## Você deve estar certificado no momento (não expirado) em:
+
+* Adobe [!DNL Marketo Engage] Profissional de Profissional de Negócios
+
+## Instruções para renovar sua certificação:
+
+* **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
+* **Etapa 2**: revisar os objetivos e recursos do exame
+* **Etapa 3**: Fazer e passar no exame
+
+### Prepare-se
+
+**Detalhes do exame:**
+
+* Nível: especialista (0-12 meses de experiência)
+* Pontuação de aprovação: 36/27
+* Tempo: 71 minutos
+* Delivery: sob demanda/não monitorado
+* Idiomas disponíveis: inglês
+* Custo: GRATUITO
+* ID do exame: AD5-E836 - Adobe [!DNL Marketo Engage] Exame de Renovação Profissional de Profissional de Negócios
+
+**Âmbito e objetivos:**
+
+Seção 1: Criação e gerenciamento de programas (39%)
+
+* Identificar quando usar cada um dos 4 tipos de programas
+* Identificar por que/quando usar o programa de evento
+* Identificar por que/quando usar o programa padrão
+* Identificar os recursos especiais do programa de envolvimento
+* Identificar os recursos especiais do programa de email
+* Reconhecer o que pode ser clonado
+* Identificar os benefícios de tags personalizadas
+* Identificar a finalidade dos canais
+* Descrever a importância dos Custos do Período
+* Reconhecer o conceito de uso de pontuação de lead
+* Noções básicas sobre limites de comunicação
+* Reconhecimento da associação e aquisição do programa
+* Noções básicas sobre as preferências do cliente (assinatura, comunicação)
+* Aplicar práticas recomendadas para revisão antes do lançamento
+
+Seção 2: Ativos imobiliários (19 %)
+
+* Manipulação de arquivos no Design Studio (upload/substituição de imagens e arquivos)
+* Criar/modificar um formulário usando o Editor de formulário
+* Criar/editar um email usando o Editor de email
+* Criar/editar uma página de aterrissagem usando o editor de página de aterrissagem
+* Criar/editar um trecho no editor de trechos
+* Diferenciar a diferença entre ativos de Rascunho e Aprovados
+* Diferenciar a diferença entre ativos locais e globais
+
+Seção 3: Definição e direcionamento de públicos-alvo (33%)
+
+* Criar/Modificar Smart Lists
+* Entender as etapas do fluxo de campanha inteligente
+* Saiba como agendar e/ou ativar campanhas inteligentes
+* Interpretar resultados de campanhas inteligentes
+* Descreva a finalidade de uma segmentação e seu uso
+* Identificar e navegar pelo banco de dados
+* Explicar como definir configurações de privacidade no Adobe Marketo Engage (em um contexto de campanhas criadas)
+* Diferenciar entre listas inteligentes e listas estáticas (quando usar cada uma)
+* Definir Smart Lists do sistema
+* Compare e contraste os diferentes tipos de campanhas
+* Entenda como os acionadores e filtros de campanha inteligentes funcionam
+* Diferenciar as diferentes importações de lista
+
+Seção 4: Análise e criação de relatórios (9%)
+
+* Explicar os relatórios principais do Adobe Marketo Engage
+* Desempenho do link de email
+* Desempenho do email
+* Desempenho da landing page
+* Desempenho de pessoas
+* Desempenho do programa
+* Atividade da página da Web
+* Quando obter uma lista e não um relatório
+* Compreender informações e métricas do painel
+* Insights de email
+
+### Prepare-se
+
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
+
+SEÇÃO 1
+
+[Noções básicas sobre programas de engajamento](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
+[Pontuação simples](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
+[Ativar links de comunicação](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html){target="_blank"}
+[Noções básicas sobre a associação ao programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+[Tornar um email operacional](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
+[Prática recomendada para Smart Lists](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
+[Noções básicas sobre programas de evento](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
+[Aproveite a flexibilidade dos programas padrão](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html?lang=pt-BR){target="_blank"}
+[Programar programas de e-mail com fuso horário do destinatário](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
+[Clonar um programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
+[Noções básicas sobre tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
+[Criar um canal de programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
+[Noções Básicas sobre Custos do Período](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
+
+SEÇÃO 2
+
+[Adicionar imagens e arquivos ao Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
+[Alternar dinamicamente a visibilidade de um campo de formulário](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
+[Visão geral do Editor de email v2.0](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
+[Aprovar, cancelar aprovação ou excluir uma página de aterrissagem](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
+[Editar trechos com conteúdo dinâmico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
+
+SEÇÃO 3
+
+[Utilização da Lógica de Regra Avançada da Smart List](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
+[Saiba como criar um programa de email com conteúdo restrito](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
+[Criar e medir um programa padrão](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs.html){target="_blank"}
+[Noções básicas sobre campanhas inteligentes de lote e acionador](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+[Importar uma lista de pessoas](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html){target="_blank"}
+[Usar uma Data Específica em uma Etapa de Fluxo de Espera](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.html){target="_blank"}
+[Substituir restrições de pessoa em uma campanha inteligente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.html){target="_blank"}
+[Filtrar resultados da campanha inteligente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.html){target="_blank"}
+[Criar uma segmentação](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+[Painel do Banco de Dados](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html){target="_blank"}
+[Noções básicas sobre configurações de privacidade](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/understanding-privacy-settings.html){target="_blank"}
+[Atualizar uma lista ou lista inteligente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.htm){target="_blank"}
+[Usar Smart Lists Integradas/do Sistema](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
+
+SEÇÃO 4
+
+[Visão geral do tipo de relatório](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+[Relatório de desempenho da landing page](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
+[Dimension personalizados para insights de email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.html){target="_blank"}
+
+### Renovar sua certificação
+
+Primeiro, verifique se você fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Em seguida, para renovar o Adobe [!DNL Marketo Engage] Certificação Business Practitioner Professional, clique no link abaixo.
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E836" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Fazer exame AD5-E836
+</span>
+</a>
+
 >[!NOTE]
 >
->Renovação profissional em breve.
+>Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
 >[!TAB Especialista]
 
 ## Você deve estar certificado no momento (não expirado) em:
 
-* Especialista em profissionais de negócios da Adobe Marketo Engage
+* Adobe [!DNL Marketo Engage] Especialista em Profissionais de Negócios
 
 ## Instruções para renovar sua certificação:
 
@@ -155,9 +297,9 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Renovar sua certificação
 
-Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no link de renovação do Marketo Engage Business Practitioner Expert abaixo.
+Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no Adobe [!DNL Marketo Engage] Link de renovação para especialistas em business practice abaixo.
 
-[!MEDALHA Pegue a Adobe [!DNL Marketo Engage] Exame de renovação de especialista em Profissionais de Negócios AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!MEDALHA Pegue a Adobe [!DNL Marketo Engage] Exame de renovação de especialista em Profissionais de Negócios AD5-E836]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >

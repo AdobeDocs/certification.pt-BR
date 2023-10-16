@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 9%
+source-wordcount: '2061'
+ht-degree: 10%
 
 ---
 
@@ -147,11 +147,96 @@ Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerencia
 
 +++
 
-+++[!DNL Adobe Analytics] Profissional de Profissional de Negócios
+## Instruções para renovar sua certificação:
+
+* **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
+* **Etapa 2**: revisar os objetivos e recursos do exame
+* **Etapa 3**: Fazer e passar no exame
+
+### Prepare-se
+
+**Detalhes do exame:**
+
+* Pontuação de aprovação: 35/26
+* Tempo: 70 minutos
+* Custo: GRATUITO/não monitorado
+* Delivery: sob demanda
+* Idiomas disponíveis: inglês
+* Pré-requisito: certificação Adobe Analytics Business Practitioner Professional atual (não expirada)
+* ID do exame: AD5-E832
+
+**Âmbito e objetivos**
+
+Seção 1: Análise de negócios
+
+1.1 Dada uma necessidade/pergunta de negócios, identifique a estratégia de relatório mais apropriada para executar uma análise 4% 1.2 Analise dados para responder perguntas de negócios e recomende novas hipóteses de otimização 4% 1.3 Identifique funis de conversão (como um conceito para entender a análise de negócios) 4% 1.4 Interprete a Referência de design de solução (SDR) para determinar quais dados estão disponíveis nos relatórios 4% 1.5 Analise dados de relatório para resumir e tirar conclusões 6% 1.6 Investigue outliers e anomalias nos relatórios 4%
+
+Seção 2: Relatórios e painel de controle para projetos
+
+2.1 Considerar as vantagens de usar uma ferramenta de relatório com base em um determinado cenário 2% 2.2 Comparar visualização de fallout e fluxo e tipos de variáveis apropriados para relatórios 4% 2.3 Aplicar o processo para agendar projetos e Data Warehouse 2% 2.4 Aplicar o processo para compartilhar projetos e painéis de relatórios e análises para diferentes usuários e/ou grupos (compartilhamento alterado) 2% 2.5 Aplicar o processo para definir alertas 2% 2.6 Aplicar o processo para pesquisar as dimensões/componentes (predefinido e personalizado) 4% 2.7 Aplicar o processo para criar uma visualização 6% 2.8 Determinar o cenário, item apropriado para usar 6% 2.9 Aplique o processo para criar, configurar e usar cartões de pontuação móveis 2%
+
+Seção 3: Segmentação e métricas calculadas
+
+3.1 Determinar como desenvolver e configurar segmentos usando as práticas recomendadas 6% 3.2 Aplicar o processo para compartilhar segmentos com outras pessoas na organização 4% 3.3 Comparar segmentos 4% 3.4 Aplicar segmentos a projetos e componentes 4% 3.5 Aplicar o processo para gerar métricas calculadas e/ou segmentadas 4%
+
+Seção 4: Conhecimento geral e solução de problemas da ferramenta
+
+4.1 Analisar relatórios e diferenciar um problema de qualidade de dados de um problema de implementação 4% 4.2 Definir diferentes tipos de dimensões e parâmetros existentes no Adobe Analytics (evars, props e eventos) 4% 4.3 Determinar como trazer e retirar dados do Adobe Analytics 2% 4.4 Identificar informações de URLs de marketing 2%
+
+Seção 5: Administração
+
+5.1 Aplicar o processo para configurar os relatórios de Canal de marketing com regras de processamento de Canal de marketing 2% 5.2 Aplicar o processo para configurar o Importador de classificação e o Construtor de regras 2% 5.3 Aplicar o processo para configurar um conjunto de relatórios virtual com base em um segmento existente 2% 5.4 Usar a interface do administrador do Gerenciador de feed de dados 2% 5.5 Noções básicas sobre a governança de dados 2%
+
+## Prepare-se
+
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
+
+Seção 1
+
+[Visão geral da análise de contribuição](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=pt-BR)
+[Visão geral do Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=pt-BR)
+[Funil de conversão](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[Dimensões de entrada](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+Seção 2
+
+[Compartilhar projetos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=pt-BR)
+[Visão geral dos componentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=pt-BR)
+[Criador de alertas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[Criar um cartão de pontuação para dispositivos móveis](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=pt-BR)
+
+Seção 3
+
+[Comparação de segmentos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=pt-BR)
+[Criar métricas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=pt-BR)
+[Utilização de filtros suspensos no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=pt-BR)
+[Marcar segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+Seção 4
+
+[Solução de problemas de picos e quedas nos dados](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[Eventos personalizados](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=pt-BR)
+[Baixar arquivos PDF ou CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=pt-BR)
+[Um guia para iniciantes sobre parâmetros de URL](https://www.semrush.com/blog/url-parameters/)
+
+Seção 5
+
+[Regras de processamento para Canais de marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[Visão geral das classificações](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=pt-BR)
+[Criar conjuntos de relatórios virtuais](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=pt-BR)
+[Perguntas frequentes sobre regulamentos de privacidade](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## Renovar sua certificação
+
+Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no link AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) abaixo.
+
+* [AD5-E832 Adobe Analytics Exame de Renovação Profissional Profissional Profissional](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Renovação em breve.
+>Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
 +++
 

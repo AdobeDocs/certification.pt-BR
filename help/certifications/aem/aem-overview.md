@@ -2,10 +2,10 @@
 title: Visão geral da certificação Experience Manager
 description: Visão geral das opções de certificação para o Adobe Experience Manager
 solution: Experience Manager
-exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '101'
 ht-degree: 1%
 
 ---
@@ -34,31 +34,6 @@ Se estiver procurando informações sobre como renovar sua certificação existe
 
 **Principal**
 
->[!NOTE]
->
->A variável **Exame do mestre de sites do Adobe Experience Manager Architect (AD0-E117)** O está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
->
->**Perguntas?** Consulte nossa [Perguntas frequentes](#AEM-FAQ) na parte inferior desta página.
-
 * [Arquiteto (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-
-
-## Perguntas frequentes do Exame Mestre do Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
-
-O exame de certificação AD0-E117 está em manutenção e está temporariamente indisponível. Nós sinceramente pedimos desculpas pelo inconveniente. [Cadastre-se para ser notificado](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando estiver disponível novamente.
-
-**O que acontece se eu já agendar meu exame?**
-
-Todos os exames AD0-E117 agendados foram cancelados. Os candidatos afetados precisarão agendar o exame novamente quando a nova versão estiver disponível.
-
-**Eu já paguei o exame. Eu receberei um reembolso?**
-
-* Se você pagou seu exame com um cartão de crédito via Exame, você será totalmente reembolsado.  
-* Se você pagou com um voucher, seu código será redefinido e você poderá aplicá-lo ao seu novo compromisso no exame.  
-* Se o cupom expirar antes que você possa usá-lo, emitiremos um novo cupom assim que estiver pronto para o agendamento.
-
-**Preciso renovar minha certificação antes de outubro. Isso afetará minha renovação?**
-
-Não. Você poderá renovar por meio do aprendizado contínuo. Siga as instruções e o processo fornecidos em [Renovar sua certificação](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
+Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.
