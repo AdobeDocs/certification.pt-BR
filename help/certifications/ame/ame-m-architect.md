@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E556" type="neutral"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '886'
 ht-degree: 1%
 
 ---
@@ -31,6 +31,10 @@ O Programa de Credenciais Adobe lançou um novo Adobe [!DNL Marketo Engage] Envo
 <br>
 
 ### Detalhes do exame {#exam-details}
+
+>[!IMPORTANT]
+>
+>Esta certificação tem um pré-requisito. Você DEVE ter um Adobe ativo (não expirado) [!DNL Marketo Engage] Profissional de negócios **Especialista** Certificação para obter o Adobe [!DNL Marketo Engage] Exame de arquiteto mestre.
 
 * Pré-requisito: Adobe Certified Expert - [!DNL Marketo Engage] Especialista em profissionais de negócios
 * Nível: mestre (3-5 anos de experiência)
@@ -209,6 +213,10 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 {{about-certification-exam}}
 
 ## Programar ou fazer exame AD0-E556
+
+>[!IMPORTANT]
+>
+>Esta certificação tem um pré-requisito. Você DEVE ter um Adobe ativo (não expirado) [!DNL Marketo Engage] Profissional de negócios **Especialista** Certificação para obter o Adobe [!DNL Marketo Engage] Exame de arquiteto mestre.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

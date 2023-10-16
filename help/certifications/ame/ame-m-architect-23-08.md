@@ -6,13 +6,13 @@ product: Marketo
 role: Data Architect
 badge: label="Exame AD0-E560" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '848'
 ht-degree: 1%
 
 ---
-
 
 # Jornada de certificação para o Adobe [!DNL Marketo Engage] Arquiteto mestre
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Este é o mais novo [!DNL Adobe Marketo Engage] Exame de arquiteto mestre. Se você já começou a estudar ou programou o [versão mais antiga](ame-m-architect.md), você deve concluir o exame até 31 de outubro de 2023.
+>Este é o Adobe mais recente [!DNL Marketo Engage] Exame de arquiteto mestre. Se você já começou a estudar ou programou o [versão mais antiga](ame-m-architect.md), você deve concluir o exame até 31 de outubro de 2023.
 
 ## Descrição do exame {#exam-description}
 
@@ -30,7 +30,11 @@ ht-degree: 1%
 
 ### Detalhes do exame {#exam-details}
 
-* Pré-requisito: Adobe atual (não expirado) [!DNL Marketo Engage] Certificação de especialista em profissionais de negócios
+>[!IMPORTANT]
+>
+>Esta certificação tem um pré-requisito. Você DEVE ter um Adobe ativo (não expirado) [!DNL Marketo Engage] Profissional de negócios **Especialista** Certificação para obter o Adobe [!DNL Marketo Engage] Exame de arquiteto mestre.
+
+* Pré-requisito: Adobe ativo (não expirado) [!DNL Marketo Engage] Certificação de especialista em profissionais de negócios
 * Nível: mestre (3-5 anos de experiência)
 * Certificação de profissional
 * Pontuação de aprovação: 30/50
@@ -209,6 +213,10 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 {{about-certification-exam}}
 
 ## Programar ou fazer exame AD0-E560
+
+>[!IMPORTANT]
+>
+>Esta certificação tem um pré-requisito. Você DEVE ter um Adobe ativo (não expirado) [!DNL Marketo Engage] Profissional de negócios **Especialista** Certificação para obter o Adobe [!DNL Marketo Engage] Exame de arquiteto mestre.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
