@@ -6,16 +6,20 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 069b61ed426395f0162310ca9a0d2a83ed25bf30
+source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 16%
+source-wordcount: '673'
+ht-degree: 14%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Journey Optimizer] Especialista em desenvolvedores
 
 {{intro}}
+
+>[!NOTE]
+>
+>Esse exame, Adobe [!DNL Journey Optimizer] O Developer Expert (AD0-E603) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 22 de dezembro de 2023. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame](ajo-e-developer-23-10.md).
 
 ## Descrição do exame {#exam-description}
 
@@ -224,6 +228,10 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 {{about-certification-exam}}
 
 ## Programar ou fazer exame AD0-E603
+
+>[!NOTE]
+>
+>Esse exame, Adobe [!DNL Journey Optimizer] O Developer Expert (AD0-E603) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 22 de dezembro de 2023. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
