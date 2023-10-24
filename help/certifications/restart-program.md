@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+hidefromtoc: true
+source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -32,7 +33,7 @@ Se não tiver certeza se está qualificado, verifique [aqui](https://solutionpar
 Para se qualificar, sua certificação deve atender **all** dos seguintes critérios:
 
 * Ele deve ter expirado entre 1º de janeiro e 23 de abril de 2023.
-* Deve ser de nível Especialista ou Principal.
+* Deve ser nível de especialista ou mestre.
 * Ele deve ter um exame atual disponível. (Se a certificação não tiver mais um exame ativo, ela não está qualificada para o Programa de Reinicialização.)
 * Deve constar da lista de certificações elegíveis abaixo:
 
@@ -47,8 +48,8 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 | AD0-E103 | [!DNL Adobe Experience Manager Sites] Especialista em desenvolvedores |
 | AD0-E116 | [!DNL Adobe Experience Manager Sites] Especialista em desenvolvedores |
 | AD0-E106 | [!DNL Adobe Experience Manager] Especialista em engenharia de desenvolvimento/operações |
-| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arquiteto Principal |
-| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arquiteto Principal |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arquiteto mestre |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arquiteto mestre |
 
 **[!DNL Adobe Analytics]**
 
@@ -56,15 +57,15 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 | ------- | ------- |
 | AD0-E201 | [!DNL Adobe Analytics] Especialista em desenvolvedores |
 | AD0-E202 | [!DNL Adobe Analytics] Especialista em Profissionais de Negócios |
-| AD0-E200 | [!DNL Adobe Analytics] Arquiteto Principal |
-| AD0-E207 | [!DNL Adobe Analytics] Arquiteto Principal |
+| AD0-E200 | [!DNL Adobe Analytics] Arquiteto mestre |
+| AD0-E207 | [!DNL Adobe Analytics] Arquiteto mestre |
 
 **Adobe Audience Manager**
 
 | ID do exame | Nome do exame |
 | ------- | ------- |
-| AD0-E454 | [!DNL Adobe Audience Manager] Arquiteto Principal |
-| AD0-E452 | [!DNL Adobe Audience Manager] Arquiteto Principal |
+| AD0-E454 | [!DNL Adobe Audience Manager] Arquiteto mestre |
+| AD0-E452 | [!DNL Adobe Audience Manager] Arquiteto mestre |
 | AD0-E453 | [!DNL Adobe Audience Manager] Especialista em Profissionais de Negócios |
 
 **Adobe Campaign Classic**
@@ -73,8 +74,8 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 | ------- | ------- |
 | AD0-E300 | Adobe [!DNL Campaign Classic] Especialista em profissionais de negócios de sites |
 | AD0-E314 | Adobe [!DNL Campaign Classic] Especialista em profissionais de negócios de sites |
-| AD0-E318 | Adobe [!DNL Campaign Classic] Arquiteto Principal |
-| AD0-E303 | Adobe [!DNL Campaign Classic] Arquiteto Principal |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Arquiteto mestre |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Arquiteto mestre |
 | AD0-E312 | Adobe [!DNL Campaign Classic] Especialista em desenvolvedores |
 | AD0-E308 | Adobe [!DNL Campaign Classic] Especialista em desenvolvedores |
 
@@ -98,7 +99,7 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 | ID do exame | Nome do exame |
 | ------- | ------- |
 | AD0-E401 | [!DNL Adobe Target] Especialista em Profissionais de Negócios |
-| AD0-E402 | [!DNL Adobe Target] Arquiteto Principal |
+| AD0-E402 | [!DNL Adobe Target] Arquiteto mestre |
 
 +++
 
@@ -134,7 +135,7 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 
   Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada. Se sua referência não for aceita, você poderá enviar novamente até obter êxito, desde que seja antes da certificação expirar.
 
-### Cursos e avaliações de curso para especialistas e Principais:
+### Cursos e avaliações de curso para especialistas e mestres:
 
 | Curso | Avaliação do curso |
 | ------- | ------- |
@@ -169,7 +170,7 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 
   Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada. Se sua referência não for aceita, você poderá enviar novamente até obter êxito, desde que seja antes da certificação expirar.
 
-### Cursos e avaliações de curso para especialistas e Principais:
+### Cursos e avaliações de curso para especialistas e mestres:
 
 | Curso | Avaliação do curso |
 | ------- | ------- |
@@ -202,7 +203,7 @@ Para se qualificar, sua certificação deve atender **all** dos seguintes crité
 
   Você será notificado pela Equipe de credenciais do Adobe quando a referência do cliente for revisada. Se sua referência não for aceita, você poderá enviar novamente até obter êxito, desde que seja antes da certificação expirar.
 
-### Cursos e avaliações de curso para especialistas e Principais:
+### Cursos e avaliações de curso para especialistas e mestres:
 
 | Curso | Avaliação do curso |
 | ------- | ------- |
@@ -293,7 +294,7 @@ O Adobe Audience Manager Business Practitioner Expert Restart exame ADS-E826 é 
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **Arquiteto** Principal exame de reinicialização
++++ADS-E825 Adobe Audience Manager **Arquiteto** Exame Master Restart
 
 **Instruções para reiniciar a certificação:**
 
@@ -305,13 +306,13 @@ O Adobe Audience Manager Business Practitioner Expert Restart exame ADS-E826 é 
 
 **Detalhes do exame:**
 
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 22/29
 * Tempo: 58 minutos
 * Delivery: sob demanda/não monitorado
 * Idiomas disponíveis: inglês
 * Custo: GRATUITO
-* ID do exame: ADS-E825 - Adobe Audience Manager Architect Principal Restart
+* ID do exame: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
 **Âmbito e objetivos:**
 
@@ -383,7 +384,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Reiniciar sua certificação
 
-O Adobe Audience Manager Architect Principal Restart exame ADS-E825 é livre, livro aberto, e não-proctored. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da sua certificação.
+O exame ADS-E825 do Adobe Audience Manager Architect Master Restart é gratuito, de livro aberto e não editado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da sua certificação.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -587,7 +588,7 @@ O ADOBE [!DNL Campaign Standard] ADS-822 é livre, livro aberto, e não-proctore
 
 +++
 
-+++ADS-E823 Adobe **Campaign Classic** Exame de reinicialização de especialista e/ou Principal
++++ADS-E823 Adobe **Campaign Classic** Exame de reinicialização de especialista e/ou mestre
 
 **Instruções para reiniciar a certificação:**
 
@@ -599,13 +600,13 @@ O ADOBE [!DNL Campaign Standard] ADS-822 é livre, livro aberto, e não-proctore
 
 **Detalhes do exame:**
 
-* Nível: especialista (1-3 anos de experiência) e Principal (3-5 anos de experiência)
+* Nível: especialista (1-3 anos de experiência) e mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 42/55
 * Tempo: 110 minutos
 * Delivery: sob demanda/não monitorado
 * Idiomas disponíveis: inglês
 * Custo: GRATUITO
-* ID do exame: ADS-E823 - Adobe [!DNL Campaign Classic] Reinicialização especializada e/ou Principal
+* ID do exame: ADS-E823 - Adobe [!DNL Campaign Classic] Reinicialização especializada e/ou mestre
 
 **Âmbito e objetivos**
 
@@ -686,7 +687,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 ### Reiniciar sua certificação
 
-O Adobe Campaign Classic Restart exame ADS-823 é livre, livro aberto, e unproctored. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+O Adobe Campaign Classic Restart exame ADS-823 é livre, livro aberto, e não-proctored. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
