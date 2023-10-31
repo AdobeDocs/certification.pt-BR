@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
+source-git-commit: 954e46f77812963518b858e75669cf98183c4a44
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '821'
 ht-degree: 1%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 1%
 # Jornada de certificação para o Adobe [!DNL Marketo Engage] Arquiteto mestre
 
 {{intro}}
-
->[!NOTE]
->
->Este é o Adobe mais recente [!DNL Marketo Engage] Exame de arquiteto mestre. Se você já começou a estudar ou programou o [versão mais antiga](ame-m-architect.md), você deve concluir o exame até 31 de outubro de 2023.
 
 ## Descrição do exame {#exam-description}
 
