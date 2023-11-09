@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2462'
+source-wordcount: '2490'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 >[!BEGINTABS]
 
 >[!TAB Profissional]
+
+>[!NOTE]
+>
+>O método de renovação do aprendizado contínuo para todas as certificações Adobe Commerce Professional será **descontinuado em 10 de novembro de 2023**. A renovação gratuita ainda estará disponível para essas certificações através de exames de renovação.
 
 ## A renovação gratuita do aprendizado contínuo está disponível para:
 
