@@ -1,17 +1,17 @@
 ---
-title: Visão geral da certificação Audience Manager
+title: Visão geral do Audience Manager
 description: Visão geral das opções de certificação para o Adobe Audience Manager
 solution: Audience Manager
 product: Audience Manager
-exl-id: a278740d-7175-4e23-8b46-310dbf6fd97f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: aeeef127-446c-4d22-8791-b93ea755545a
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 7%
+ht-degree: 16%
 
 ---
 
-# Visão geral da certificação da Adobe Audience Manager
+# Visão geral da extensão do Adobe Audience Manager
 
 **Profissional**
 

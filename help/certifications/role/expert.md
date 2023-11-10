@@ -1,10 +1,10 @@
 ---
 title: Certificações técnicas especializadas
 description: Visão geral das opções de certificação para usuários especialistas
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 35%
+ht-degree: 53%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 35%
 * [Profissional de negócios](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Desenvolvedor](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
-**Commerce**
+**Comércio**
 
 * [Profissional de negócios](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [Desenvolvedor](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
@@ -68,4 +68,3 @@ ht-degree: 35%
 >
 >* [Certificações técnicas profissionais](professional.md)
 >* [Certificações técnicas principais](master.md)
-
