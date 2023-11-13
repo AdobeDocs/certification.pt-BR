@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exame AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
 workflow-type: tm+mt
-source-wordcount: '946'
+source-wordcount: '958'
 ht-degree: 12%
 
 ---
@@ -111,6 +111,14 @@ Você também deve ter experiência com as seguintes tarefas:
 * Identificar o significado de [!DNL Adobe Analytics] erros de variáveis.
 * Dado um cenário, identifique as práticas recomendadas de validação de teste e depuração que devem ser seguidas.
 * Identificar como rastrear um [!DNL Adobe Analytics] chamada de servidor (ou seja, Da solicitação de sinal para aparecer no relatório.)
+
+<br>
+
+### Questionário de disponibilidade
+
+{{readiness}}
+
+[Responder ao questionário de prontidão online](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
