@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
+source-git-commit: 72c191b0f6c62776b9cd02e1ae504d105ae6b827
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '2066'
 ht-degree: 12%
 
 ---
@@ -31,9 +31,11 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 
 >[!TAB Profissional]
 
++++Adobe [!DNL Experience Manager] Profissional de Profissional de Negócios
+
 ## Você deve ter o seguinte **ativo** certificação:
 
-Adobe Experience Manager Developer Professional
+* Adobe [!DNL Experience Manager] Profissional de Profissional de Negócios
 
 ## Instruções para renovar sua certificação:
 
@@ -41,11 +43,120 @@ Adobe Experience Manager Developer Professional
 * **Etapa 2**: revisar os objetivos e recursos do exame
 * **Etapa 3**: Fazer e passar no exame
 
-### Prepare-se
+## Prepare-se
 
 **Detalhes do exame:**
 
-* Nível: especialista (0-12 meses de experiência)
+* Nível: profissional (0-12 meses de experiência)
+* Pontuação de aprovação: 34/26
+* Tempo: 68 minutos
+* Delivery: sob demanda/não monitorado
+* Idiomas disponíveis: inglês
+* Custo: GRATUITO
+* ID do exame: Adobe AD5-E843 [!DNL Experience Manager] Profissional de Profissional de Negócios
+
+**Âmbito e objetivos:**
+
+Seção 1: Educação 23%
+
+* Identificar recursos e características do AEM
+* Descreva os recursos do AEM que atendem às necessidades da empresa
+* Descreva os conceitos de procedimentos necessários para realizar o treinamento de editores de conteúdo
+
+Seção 2: Arquitetura 23%
+
+* Identificar a arquitetura de informações apropriada para atender às necessidades dos negócios usando um ambiente no local ou hospedado em Adobe (Cloud)
+* Descreva como o AEM se conecta com serviços de terceiros
+* Identificar onde definir funções e permissões
+* Dado um cenário, defina abordagens de cache disponíveis
+
+Seção 3: Análise de negócios 42%
+
+* Dado um cenário, identifique módulos padrão de AEM que abordem os problemas de negócios do cliente
+* Identificar conceitos de gerenciamento de conteúdo para módulos AEM
+* Identificar os participantes típicos do projeto
+* Identificar cenários de colaboração realistas entre as equipes envolvidas
+* Dado um cenário, descreva uma abordagem correta para atender às metas de negócios, mantendo-se dentro do orçamento e/ou escopo
+* Identificar maneiras de conectar metas de negócios à equipe de desenvolvimento
+
+Seção 4: Configuração e implementação 12%
+
+* Identificar as práticas recomendadas de AEM para usar componentes de conteúdo
+* Dado um cenário, identifique a implementação correta de um recurso
+
+## Prepare-se
+
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
+
+**Seção 1**
+
+* [Criação de fragmentos de conteúdo](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=pt-BR)
+* [Sobre a solução Adobe Experience Manager Assets as a DAM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html)
+* [Formatos compatíveis com o Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster)
+* [Visão geral](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html)
+* [Introdução ao AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html)
+* [Como marcar páginas](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html)
+
+**Seção 2**
+
+* [Configuração do acesso ao AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.)
+* [Usuários, grupos e permissões do AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html?lang=pt-BR)
+* [Mapas do site](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html)
+* [Práticas recomendadas de integração do Adobe Experience Manager e do Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html)
+* [Componentes principais do AEM-CIF e integração com o Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html?lang=pt-BR)
+* [Administração e segurança do usuário](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=pt-BR)
+* [Visão geral do Admin Console](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
+* [Publicação no AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html)
+
+**Seção 3**
+
+* [Introdução ao AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html)
+* [Capacite sua experiência digital com o AEM as a Cloud Service](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3)
+* [Introdução ao Adobe Experience Manager as a Headless CMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html?lang=pt-BR)
+* [Gerencie o conteúdo do produto, da ajuda e do suporte desde a criação até a entrega.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html)
+* [Visão geral do Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
+* [Funções e responsabilidades do projeto](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html)
+* [Adição de anotações de página](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html)
+* [Guia de início rápido para a criação de páginas](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html)
+* [Uso do Connected Assets com o AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html)
+* [Planejamento](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start)
+* [Definição dos casos de teste](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html)
+
+**Seção 4**
+
+* [Inicializações](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=pt-BR)
+* [Usar o Editor de fluxo de trabalho](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html)
+* [Painel de pesquisa do administrador de ativos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.)
+
+## Renovar sua certificação
+
+Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no botão abaixo.
+
+[!MEDALHA Pegue a Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+
+>[!NOTE]
+>
+>Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+
++++Adobe [!DNL Experience Manager] Profissional de desenvolvedor
+
+## Você deve ter o seguinte **ativo** certificação:
+
+* Adobe [!DNL Experience Manager] Profissional de desenvolvedor
+
+## Instruções para renovar sua certificação:
+
+* **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
+* **Etapa 2**: revisar os objetivos e recursos do exame
+* **Etapa 3**: Fazer e passar no exame
+
+## Prepare-se
+
+**Detalhes do exame:**
+
+* Nível: profissional (0-12 meses de experiência)
 * Pontuação de aprovação: 34/26
 * Tempo: 68 minutos
 * Delivery: sob demanda/não monitorado
@@ -57,21 +168,32 @@ Adobe Experience Manager Developer Professional
 
 **Seção 1: Configurações (26%)**
 
-Reconhecer a finalidade das configurações e do armazenamento em cache do dispatcher do AEM Determinar as etapas corretas para configurar vários sites no AEM Explicar como criar e gerenciar configurações OSGi Determinar as etapas corretas para gerenciar índices OAK personalizados Determinar as etapas corretas para configurar a integração SAML ou IMS do OOTB
+* Reconhecer a finalidade das configurações e do armazenamento em cache do dispatcher do AEM
+* Determine as etapas corretas para configurar vários sites no AEM
+* Explicar como criar e gerenciar configurações de OSGi
+* Determine as etapas corretas para gerenciar índices OAK personalizados
+* Determine as etapas corretas para configurar a integração OOTB SAML ou IMS
 
 **Seção 2: Desenvolvimento do AEM (40%)**
 
-Determine as etapas corretas para implementar os componentes baseados em núcleo Conecte a funcionalidade do componente, incluindo HTL, modelos e serviços Em um cenário, determine as etapas corretas para desenvolver fluxos de trabalho Em um cenário, descreva a finalidade dos fragmentos de conteúdo ou fragmentos de experiência
+* Determine as etapas corretas para implementar os componentes baseados no núcleo
+* Funcionalidade do componente Connect, incluindo HTL, modelos e serviços
+* Dado um cenário, determine as etapas corretas para desenvolver workflows
+* Dado um cenário, descreva a finalidade dos fragmentos de conteúdo ou fragmentos de experiência
 
 **Seção 3: Criação e implantação (12%)**
 
-Definir a estrutura do projeto Maven Configurar projetos a partir de arquétipos
+* Definir a estrutura do projeto Maven
+* Configurar projetos a partir de arquétipos
 
 **Seção 4: Manutenção do ambiente(22%)**
 
-Dado um cenário, determinar as etapas necessárias para depurar problemas em ambientes AEM Explicar versões de manutenção do AEM Identificar como configurar o AEM AEM entre topologias Determinar as etapas necessárias em torno do planejamento e da migração para o as a Cloud Service
+* Dado um cenário, determine as etapas necessárias para depurar problemas em ambientes AEM
+* Explicar as versões de manutenção do AEM
+* Identificar como configurar o AEM entre topologias
+* Determine as etapas necessárias para o planejamento e a migração para o AEM as a Cloud Service
 
-### Prepare-se
+## Prepare-se
 
 Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
 
@@ -116,15 +238,17 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [Introdução à Jornada de migração para o AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [Uso do Analisador de práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
 
-### Renovar sua certificação
+## Renovar sua certificação
 
 Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no botão abaixo.
 
-[!MEDALHA Pegue a Adobe [!DNL Experience Manager] Desenvolvedor Profissional AD5-E837]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true&quot;}
+[!MEDALHA Pegue a Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
 >Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+
++++
 
 >[!TAB Especialista e mestre]
 
@@ -160,7 +284,6 @@ Primeiro, selecione **dois cursos** para concluir e passar em cada avaliação d
 >Se você tiver vários [!DNL Adobe Experience Manager] Certificações de especialista e mestre, atenda aos requisitos de renovação para apenas uma certificação e o restante será renovado automaticamente.
 
 ## Cursos e avaliações de curso para especialista e mestre:
-
 
 | Cursos para especialistas e mestres | Avaliação do curso |
 | ------- | ------- |
