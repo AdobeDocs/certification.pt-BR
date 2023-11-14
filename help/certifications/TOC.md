@@ -2,9 +2,9 @@
 user-guide-title: Certificação na Adobe
 breadcrumb-title: Certificação na Adobe
 user-guide-description: Saiba mais sobre a certificação da  [!DNL Experience Cloud]  na Adobe. Descubra o que ser certificado pode fazer por você.
-source-git-commit: 09935ec498e3e56ee7efc52e974080e63334862e
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '257'
 ht-degree: 46%
 
 ---
@@ -143,8 +143,7 @@ ht-degree: 46%
          + [Gerente de projetos](/help/certifications/aw/aw-p-project-manager.md)
          + [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-p-developer.md)
       + Especialista {#aw-expert}
-         + [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-e-developer.md)
-         + [Desenvolvedor (Principal) - NOVO](/help/certifications/aw/aw-core-e-developer-23-08.md)
+         + [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [Conector aprimorado para AEM](/help/certifications/aw/aw-aem-e-connector.md)
       + [Renovação](/help/certifications/aw/aw-renew.md)
 + [Credenciais para usuários finais](https://learning.adobe.com/certification/credentials)

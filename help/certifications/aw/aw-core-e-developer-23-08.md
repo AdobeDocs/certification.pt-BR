@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exame AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Jornada de certificação para o Adobe [!DNL Workfront] Especialista do desenvolvedor principal
 
 {{intro}}
-
->[!NOTE]
->
->Este é o Adobe mais recente [!DNL Workfront] Exame Core Developer Expert. Se você já começou a estudar ou programou o [versão mais antiga](aw-core-e-developer.md), você deve concluí-lo até 6 de novembro de 2023.
 
 ## Descrição do exame {#exam-description}
 
