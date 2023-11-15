@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
+source-git-commit: 46fc51ee1e293ba63d09ad2fb39c0763ce9a45b0
 workflow-type: tm+mt
-source-wordcount: '3755'
+source-wordcount: '3753'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Seção 1: Entrada e planejamento (29%)
 Seção 2: Execução (59%)
 
 * Criar aprovações de uso único do Workfront e quando uma Aprovação será usada. (Considere aprovações de projetos e tarefas, aprovações de vários caminhos e aprovações de vários estágios.)
-* Dado um cenário, identifique as informações que os tipos de data transmitem a um gerente de projeto. (Considere Datas Planejadas, Datas Reais, Datas Manuais, Datas de Confirmação, Datas de Estimativa)
+* Dado um cenário, identifique as informações que os tipos de data transmitem a um gerente de projeto. (Considere Datas Planejadas, Datas Reais, Datas De Confirmação, Datas Estimadas)
 * Dado um cenário, determine como diferentes Restrições de tarefa afetam a linha do tempo do projeto quando usadas. (Considere a compreensão do que as diferentes restrições de tarefa fazem, sabendo quais são as diferentes restrições de tarefa e quando usar as diferentes restrições de tarefa)
 * Dado um cenário, demonstre como encontrar equipes de projeto e como notificá-las de atribuições de trabalho, atualizações ou conclusão de itens de trabalho. (Considere tipos de notificação, notificações da equipe do projeto, guia Pessoas, Atualizações em projetos/tarefas, quando e por que assinar um objeto de trabalho e como modificar notificações por email individuais)
 * Identifique as diferentes maneiras de gerenciar um projeto. (Considere cascata, ágil, SCRUM e Kanban.)
 * Dado o cenário, descreva como fornecer às partes interessadas as informações necessárias. (Considere exportar relatórios, exportar arquivos, deliveries recorrentes etc.)
-* Dado um cenário, determine como os tipos de data e durações afetam as condições do projeto. (Considere o início planejado, o início projetado, a data de confirmação dos indivíduos etc.)
+* Dado um cenário, determine como os tipos de data e durações afetam as condições do projeto. (Considere o início planejado, o início projetado, a data de confirmação do indivíduo etc.)
 * Dado um cenário, determine como implementar ou modificar alterações nos status personalizados de nível de sistema ou de grupo
 * Dado um cenário, descreva as etapas para criar um relatório e determine o tipo de relatório necessário.
 * Dado o cenário, determine quando um problema deve ser utilizado em um projeto.
