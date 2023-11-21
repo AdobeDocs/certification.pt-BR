@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe
 ## Renovar sua certificação {#renewing-intro}
 
 As certificações expiram após dois anos. Para manter sua certificação, você deve renová-la antes de expirar. Visite o [Renovar sua certificação](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obter mais informações.
+
+<!--divider-->

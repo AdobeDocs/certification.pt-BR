@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1171'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Sua certificação Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
-Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Principal). Em seguida, analise com cuidado o que será necessário fazer para renovar sua certificação.
+Primeiro, selecione o nível apropriado na guia abaixo (Profissional, Especialista ou Mestre). Em seguida, analise com cuidado o que será necessário fazer para renovar sua certificação.
 
 Certifique-se de fornecer tempo suficiente para concluir todos os requisitos antes da certificação expirar.
 
@@ -26,7 +26,11 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 
 >[!IMPORTANT]
 >
->As seguintes seções e links funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Fazer logon primeiro:** Os links a seguir funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Para compartilhar um link:** Se você quiser compartilhar o link para um exame ou avaliação de renovação com um colega, vincule à página de renovação geral do exame, não ao URL do exame em si, para evitar problemas de logon.
 
 >[!BEGINTABS]
 
@@ -121,7 +125,7 @@ Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerencia
 
 Você deve estar certificado no momento (não expirado) em:
 
-* Adobe Audience Manager Architect principal
+* Mestre do Adobe Audience Manager Architect
 
 ## Instruções para renovar sua certificação
 
@@ -133,13 +137,13 @@ Você deve estar certificado no momento (não expirado) em:
 
 **Detalhes do exame:**
 
-* Nível: Principal (3-5 anos de experiência)
+* Nível: mestre (3-5 anos de experiência)
 * Pontuação de aprovação: 22/29
 * Tempo: 58 minutos
 * Delivery: sob demanda/não monitorado
 * Idiomas disponíveis: inglês
 * Custo: GRATUITO
-* ID do exame: AD5-E825 - Renovação Principal do Adobe Audience Manager Architect
+* ID do exame: AD5-E825 - Renovação do arquiteto mestre do Adobe Audience Manager
 
 **Âmbito e objetivos:**
 
@@ -185,13 +189,13 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [AAM: bases técnicas](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
 * [AAM: série de integração](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
 * [AAM: recursos avançados](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Treinamento e recursos de lançamento](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [Treinamento e recursos de lançamento](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Renovar sua certificação
 
-Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no link Adobe Audience Manager Architect Principal Rene- AD5-E825 abaixo.
+Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no link Renovação do Adobe Audience Manager Architect Master - AD5-E825 abaixo.
 
-[!BADGE Realize o exame de renovação Principal do Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Realize o exame de renovação do mestre do Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
 >[!NOTE]
 >
