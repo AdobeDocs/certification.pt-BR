@@ -4,9 +4,9 @@ description: Saiba mais sobre a certificação da  [!DNL Experience Cloud]  na A
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0c411dc840fd962875f2937aa84e522758527286
+source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '484'
 ht-degree: 11%
 
 ---
@@ -16,6 +16,14 @@ ht-degree: 11%
 Saiba mais sobre a certificação da Adobe e como obter o certificado pode ajudá-lo.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!TIP]
+>
+>**Nossa venda de final de ano começa na Cyber Monday!** Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro.
+><br>
+>Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}. Use o código promocional Holiday2023 no check-out.
+><br>
+>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.
 
 O Programa de credencial de experiência digital do Adobe foi criado para ajudar você a comprovar suas habilidades no Adobe [!DNL Experience Cloud] produtos. Tornar-se certificado pelo Adobe permite que você mostre sua experiência e impressionar clientes e empregadores da mesma maneira.
 

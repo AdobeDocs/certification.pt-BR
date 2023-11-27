@@ -4,9 +4,9 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
+source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
 workflow-type: tm+mt
-source-wordcount: '1471'
+source-wordcount: '1553'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 1%
 # Como obter certificação{#how}
 
 Saiba como obter um certificado no Adobe. Encontre todos os recursos necessários antes, durante e depois de se tornar certificado.
+
+>[!TIP]
+>
+>**Nossa venda de final de ano começa na Cyber Monday!** Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro.
+><br>
+>Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}. Use o código promocional Holiday2023 no check-out.
+><br>
+>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.
 
 >[!BEGINTABS]
 

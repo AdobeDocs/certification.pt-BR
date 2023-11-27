@@ -4,9 +4,9 @@ description: Introdução às certificações da  [!DNL Experience Cloud] . Saib
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '814'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 2%
 # Introdução {#getting-started}
 
 As certificações de Adobe são projetadas para validar o conhecimento e as habilidades dos profissionais que trabalham com nossas soluções de marketing digital. Use as guias a seguir para começar a aprender sobre o programa de certificação.
+
+>[!TIP]
+>
+>**Nossa venda de final de ano começa na Cyber Monday!** Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro.
+><br>
+>Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}. Use o código promocional Holiday2023 no check-out.
+><br>
+>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.
 
 >[!BEGINTABS]
 
