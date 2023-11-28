@@ -4,9 +4,9 @@ description: Introdução às certificações da  [!DNL Experience Cloud] . Saib
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '811'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,10 @@ As certificações de Adobe são projetadas para validar o conhecimento e as hab
 >[!TIP]
 >
 >**Nossa venda de final de ano começa na Cyber Monday!**<br>
->Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR). Usar código promocional **Feriado2023** no check-out. <br><i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
+><br>
+>Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out.<br>
+><br>
+><i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
 
 >[!BEGINTABS]
 
