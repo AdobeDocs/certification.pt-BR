@@ -4,7 +4,7 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
+source-git-commit: f3c825b8306646b870970f767db9060435865815
 workflow-type: tm+mt
 source-wordcount: '1550'
 ht-degree: 1%
@@ -17,9 +17,7 @@ Saiba como obter um certificado no Adobe. Encontre todos os recursos necessário
 
 >[!TIP]
 >
->**Nossa venda de final de ano começa na Cyber Monday!**<br>
->Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out.<br>
-><i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
+>**Nossa venda de final de ano começa na Cyber Monday!** <br><br> Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out. <br><br> <i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
 
 >[!BEGINTABS]
 
