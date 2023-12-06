@@ -7,14 +7,14 @@ product: Customer Journey Analytics
 badge: label="Exame AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 17%
+source-wordcount: '431'
+ht-degree: 2%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Customer Journey Analytics] Especialista
+# Jornada de certificação para o Adobe [!DNL Customer Journey Analytics] Especialista em desenvolvedores
 
 {{intro}}
 
@@ -62,7 +62,7 @@ Você deve ter 12-24 meses de experiência no Adobe [!DNL Customer Journey Analy
 * Configurar conexões com identidades primárias (ID da pessoa)
 * Configurar conexões com vários conjuntos de dados
 * Configurar uma visualização de dados (configuração de métrica/dimensão)
-* Configurar o Adobe [!DNL Customer Journey Analytics]
+* Configurar Adobe [!DNL Customer Journey Analytics]
 * Transformar dados nas dimensões e métricas
 * Analisar as noções básicas do Workspace (visualizações, configurações de atribuição, filtros, métricas calculadas)
 * Entender a governança de dados no CJA (DULE)
@@ -127,14 +127,14 @@ Você deve ter 12-24 meses de experiência no Adobe [!DNL Customer Journey Analy
 **Seção 2: Visualizações de dados**
 
 * [Visão geral das visualizações de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=pt-BR){target="_blank"}
-* [Configurações de componente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
+* [Configurações do componente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 
 **Seção 3: Validação de dados e solução de problemas**
 
 * [Visão geral das visualizações de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=pt-BR){target="_blank"}
 * [Criar ou editar uma visualização de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=pt-BR){target="_blank"}
-* [Configurações de componente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [Referência de componente padrão](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=pt-BR){target="_blank"}
+* [Configurações do componente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
+* [Referência de componente padrão](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
 
 **Seção 4: Relatórios e ativação**
 

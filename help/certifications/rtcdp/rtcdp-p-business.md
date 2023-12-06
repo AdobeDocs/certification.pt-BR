@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Exame AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 356c671e5ce6d780eb367bfe3dadc64d02aad2d2
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 9%
+source-wordcount: '470'
+ht-degree: 2%
 
 ---
 
@@ -140,7 +140,7 @@ Experiência com tarefas que incluem:
 
 * [Visão geral da assimilação de dados](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=pt-BR){target="_blank"}
 * [Monitorar fluxos de dados no Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
-* [Aplicativos do Privacy Service e Experience Cloud](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
+* [aplicativos Privacy Service e Experience Cloud](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
 * [Visão geral da aplicação de políticas](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
 **Seção 4: Esquemas e perfis**
@@ -154,8 +154,6 @@ Experiência com tarefas que incluem:
 **Fazer um teste prático**
 
 {{practice-test}}
-
-[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad4-e602-adobe-real-time-cdp-business-practitioner-professional-practice-exam){target="_blank"}
 
 +++
 
