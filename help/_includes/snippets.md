@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -220,3 +220,9 @@ Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe
 As certificações expiram após dois anos. Para manter sua certificação, você deve renová-la antes de expirar. Visite o [Renovar sua certificação](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obter mais informações.
 
 <!--divider-->
+
+## Detalhes do exame japonês {#Japanese-exam-details}
+
+Agende seu exame entre domingo - quinta-feira 17h - 2h ET para garantir que possamos designar um fiscal de língua japonesa. Se você agendar fora dessas horas, não podemos garantir um fiscal de língua japonesa.
+
+[Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)

@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Exame AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 12%
+source-wordcount: '707'
+ht-degree: 1%
 
 ---
 
@@ -150,7 +150,7 @@ Ambientes:
 **Seção 1: Noções básicas do Analytics no ecossistema do Adobe Experience Cloud**
 
 * [Notas técnicas do Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=pt-BR){target="_blank"}
-* [Definir Analytics e Experience Cloud IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=pt-BR){target="_blank"}
+* [Definição de IDs do Analytics e do Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=pt-BR){target="_blank"}
 * [Vídeos e tutoriais do Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
 
 **Seção 2: Estratégia e design com base em uma referência de design de solução (SDR)**
@@ -160,9 +160,9 @@ Ambientes:
 
 **Seção 3: Implementação e configuração do Analytics**
 
-* [Implementar o  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
-* [Como entender e criar conjuntos de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=pt-BR){target="_blank"}
-* [Configuração do rastreamento de links para [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html?lang=pt_BR){target="_blank"}
+* [Implementar [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
+* [Noções básicas e criação de conjuntos de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=pt-BR){target="_blank"}
+* [Configuração do rastreamento de links para [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
 **Seção 4: Sistemas de gerenciamento de tags**
 
@@ -222,14 +222,14 @@ Ambientes:
 
 ## Programar ou fazer exame AD0-E209-J (japonês)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir para Portal de Exames - Exame Japonês
 </span>
 </a>
-
-[Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

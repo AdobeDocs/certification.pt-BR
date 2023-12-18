@@ -7,10 +7,10 @@ role: User
 badge: label="Exame AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '981'
-ht-degree: 12%
+source-wordcount: '716'
+ht-degree: 2%
 
 ---
 
@@ -74,7 +74,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Ferramentas de monitoramento
 * Controle de versão
 * Personalização e hub de contexto
-* Editor SPA
+* Editor de SPA
 * Marcação com tags
 * Uso do navegador
 * Compreensão geral da Web
@@ -146,7 +146,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * [Guia do usuário para desenvolvimento no AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Saiba mais sobre os recursos do AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] vídeos e tutoriais](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=pt-BR){target="_blank"}
-* [Inicializações](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=pt-BR){target="_blank"}
+* [Lançamentos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=pt-BR){target="_blank"}
 * [Primeiros passos para autores](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [Práticas recomendadas de edição de conteúdo](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [Criação e organização de páginas](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html){target="_blank"}
@@ -163,7 +163,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * [Gerenciamento de funções e permissões de usuário](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html){target="_blank"}
 * [Funções e permissões](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html){target="_blank"}
 * [Usuários, funções e permissões](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html?lang=pt-BR){target="_blank"}
-* [Gerenciar usuários, grupos e cargos de usuários](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
+* [Gerenciar usuários, grupos e funções de usuário](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
 * [Armazenamento em cache de conteúdo protegido](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=pt-BR){target="_blank"}
 * [Capítulo 1 - Conceitos, padrões e antipadrões do Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
 * [Capítulo 2 - Infraestrutura](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"}
@@ -172,7 +172,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 **Seção 3: Análise de negócios**
 
 * [Desenvolver sites globais no AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
-* [Conceitos principais do AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=pt-BR){target="_blank"}
+* [Conceitos principais do AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html){target="_blank"}
 * [Visão geral dos componentes](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
 * [Arquitetura de conteúdo](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
 * [Gerenciamento de projetos - Lista de verificação de práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
@@ -192,7 +192,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * [Guia do usuário para desenvolvimento no AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 * [Desenvolvimento do AEM - diretrizes e práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=pt-BR){target="_blank"}
 * [Visão geral dos componentes](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
-* [Orientações para os componentes](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
+* [Diretrizes de componentes](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
 * [Componentes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html){target="_blank"}
 * [Recursos de localização dos Componentes principais](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=pt-BR){target="_blank"}
 * [Recurso de pesquisa](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
@@ -238,14 +238,14 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 ## Programar ou fazer exame AD0-E121-J (japonês)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir para Portal de Exames - Exame Japonês
 </span>
 </a>
-
-[Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
