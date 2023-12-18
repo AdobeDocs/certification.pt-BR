@@ -7,10 +7,10 @@ role: User
 badge: label="Exame AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 17%
+source-wordcount: '779'
+ht-degree: 1%
 
 ---
 
@@ -157,7 +157,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 **Seção 1: Análise de negócios**
 
 * [Qual [!DNL Adobe Analytics] ferramenta que devo usar?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=pt-BR){target="_blank"}
-* Documentação do [[!DNL Adobe Analytics] ](https://helpx.adobe.com/br/support/analytics.html){target="_blank"}
+* [[!DNL Adobe Analytics] Documentação](https://helpx.adobe.com/br/support/analytics.html){target="_blank"}
 * [Sobre a coleta de dados](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=pt-BR){target="_blank"}
 * [Visão geral do feed de dados do Analytics](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=pt-BR){target="_blank"}
 
@@ -165,9 +165,9 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 * [Introdução ao Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=pt-BR){target="_blank"}
 * [[!DNL Adobe Analytics] painéis - Visão geral](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=pt-BR){target="_blank"}
-* [Visão geral dos Projetos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=pt-BR){target="_blank"}
+* [Visão geral dos projetos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=pt-BR){target="_blank"}
 * [Visão geral das visualizações](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=pt-BR){target="_blank"}
-* [Visão geral de alertas inteligentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=pt-BR){target="_blank"}
+* [Visão geral de Alertas inteligentes](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Seção 3: Segmentação e métrica calculada**
 
@@ -177,13 +177,13 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 **Seção 4: Conhecimento geral e solução de problemas da ferramenta**
 
 * [Guia de ferramentas do Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}
-* [Visão geral do Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=pt-BR){target="_blank"}
+* [Visão geral do Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Seção 5: Administração**
 
 * [Guia de administração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=pt-BR){target="_blank"}
 * [Perguntas frequentes](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [Fluxo de trabalho do criador de regras de classificação](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=pt-BR){target="_blank"}
+* [Fluxo de trabalho do Construtor de regras de classificação](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=pt-BR){target="_blank"}
 
 **Fazer um teste prático**
 

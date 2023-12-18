@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d8759508e4f618a8c66c91c9ebce0478f2bd5168
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 12%
+source-wordcount: '1862'
+ht-degree: 3%
 
 ---
 
@@ -116,7 +116,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 **Seção 2**
 
 * [Validação da regra de carregamento da página global no Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
-* [Referência a objeto do satélite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
+* [Referência a objeto satélite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
 * [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
 
 **Seção 3**
@@ -129,7 +129,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 * [Adicionar o código incorporado do](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 * [Visão geral da extensão do Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=pt-BR){target="_blank"}
-* [Referência de Opt-in](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
+* [Referência de opt-in](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
 **Seção 5**
 
@@ -242,14 +242,14 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 * [Compartilhamento de projetos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=pt-BR)
 * [Visão geral dos componentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=pt-BR)
-* [Criador de alertas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+* [Criador de alertas](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=pt-BR)
 * [Criar um cartão de pontuação para dispositivos móveis](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=pt-BR)
 
 **Seção 3**
 
 * [Comparação de segmentos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=pt-BR)
 * [Criar métricas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=pt-BR)
-* [Uso de filtros suspensos no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=pt-BR)
+* [Utilização de filtros suspensos no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=pt-BR)
 * [Marcar segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **Seção 4**
