@@ -4,7 +4,7 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -20,8 +20,13 @@ Saiba como obter um certificado no Adobe. Encontre todos os recursos necessário
 >O Adobe está fechado de 22 de dezembro de 2023 a 1º de janeiro de 2024. Aguarde um atraso na resposta aos pedidos de apoio durante este período. Agradecemos a sua paciência.
 
 >[!BEGINSHADEBOX]
->
->**Venda de voucher com 50% de desconto!** <br><br> Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out. <br><br> <i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
+
+**Venda de voucher com 50% de desconto!**
+
+Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out.
+
+<i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
+
 >[!ENDSHADEBOX]
 
 >[!BEGINTABS]

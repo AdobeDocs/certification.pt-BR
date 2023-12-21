@@ -4,7 +4,7 @@ description: Saiba mais sobre [!DNL Experience Cloud] Certificação na Adobe. D
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 5%
@@ -22,8 +22,13 @@ Saiba mais sobre a certificação da Adobe e como obter o certificado pode ajud�
 >O Adobe está fechado de 22 de dezembro de 2023 a 1º de janeiro de 2024. Aguarde um atraso na resposta aos pedidos de apoio durante este período. Agradecemos a sua paciência.
 
 >[!BEGINSHADEBOX]
->
->**Venda de voucher com 50% de desconto!** <br><br> Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out. <br><br> <i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
+
+**Venda de voucher com 50% de desconto!**
+
+Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out.
+
+<i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
+
 >[!ENDSHADEBOX]
 
 O Programa de credencial de experiência digital do Adobe foi criado para ajudar você a comprovar suas habilidades no Adobe [!DNL Experience Cloud] produtos. Tornar-se certificado pelo Adobe permite que você mostre sua experiência e impressionar clientes e empregadores da mesma maneira.

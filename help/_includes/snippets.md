@@ -1,5 +1,5 @@
 ---
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '1769'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Esta página fornece informações sobre como obter esta certificação. Ele inclui uma descrição do exame, materiais de estudo, instruções passo a passo sobre o processo de certificação e como renovar sua certificação.
 
->[!WARNING]
+>[!NOTE]
 >
 >O Adobe está fechado de 22 de dezembro de 2023 a 1º de janeiro de 2024. Aguarde um atraso na resposta aos pedidos de apoio durante este período. Agradecemos a sua paciência.
 
