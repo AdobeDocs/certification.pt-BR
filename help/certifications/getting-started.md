@@ -1,13 +1,13 @@
 ---
 title: Introdução às certificações Adobe
-description: Introdução às certificações da  [!DNL Experience Cloud] . Saiba mais sobre o programa e este site.
+description: Introdução a [!DNL Experience Cloud] certificações. Saiba mais sobre o programa e este site.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '811'
-ht-degree: 2%
+source-wordcount: '825'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 2%
 
 As certificações de Adobe são projetadas para validar o conhecimento e as habilidades dos profissionais que trabalham com nossas soluções de marketing digital. Use as guias a seguir para começar a aprender sobre o programa de certificação.
 
->[!TIP]
+>[!NOTE]
 >
->**Nossa venda de final de ano começa na Cyber Monday!** <br><br> Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out. <br><br> <i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
+>O Adobe está fechado de 22 de dezembro de 2023 a 1º de janeiro de 2024. Aguarde um atraso na resposta aos pedidos de apoio durante este período. Agradecemos a sua paciência.
+
+>[!BEGINSHADEBOX]
+>
+>**Venda de voucher com 50% de desconto!** <br><br> Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out. <br><br> <i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
