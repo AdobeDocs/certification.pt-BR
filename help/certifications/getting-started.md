@@ -4,9 +4,9 @@ description: Introdução a [!DNL Experience Cloud] certificações. Saiba mais 
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
@@ -14,20 +14,6 @@ ht-degree: 1%
 # Introdução {#getting-started}
 
 As certificações de Adobe são projetadas para validar o conhecimento e as habilidades dos profissionais que trabalham com nossas soluções de marketing digital. Use as guias a seguir para começar a aprender sobre o programa de certificação.
-
->[!NOTE]
->
->O Adobe está fechado de 22 de dezembro de 2023 a 1º de janeiro de 2024. Aguarde um atraso na resposta aos pedidos de apoio durante este período. Agradecemos a sua paciência.
-
->[!BEGINSHADEBOX]
-
-**Venda de voucher com 50% de desconto!**
-
-Receba os comprovantes de exame de certificação com 50% de desconto do Programa de Credenciais de Experiência Digital da Adobe, de 27 de novembro a 31 de dezembro. Essa oferta só é válida quando você compra por meio da [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe). Usar código promocional **Feriado2023** no check-out.
-
-<i>Essa oferta só está disponível para o período mencionado e se aplica somente a novos pedidos e não pode ser aplicada a compras feitas anteriormente. Os códigos de voucher são válidos por um ano a partir da data de compra.</i>
-
->[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
