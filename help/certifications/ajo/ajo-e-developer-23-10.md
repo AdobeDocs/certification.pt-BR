@@ -5,20 +5,17 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E606" type="neutral"
-source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
+exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '591'
+ht-degree: 1%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Journey Optimizer] Especialista em desenvolvedores
 
 {{intro}}
-
->[!NOTE]
->
->Este é o Adobe mais recente [!DNL Journey Optimizer] exame de especialista em desenvolvedores (AD0-E606). Se você já começou a estudar ou programou o [versão mais antiga](ajo-e-developer.md), você deve concluí-lo até 22 de dezembro de 2023.
 
 ## Descrição do exame {#exam-description}
 
@@ -143,7 +140,7 @@ O Adobe Journey Optimizer é acionado por Experience Platform. Os candidatos que
 **Seção 4: Criação de conteúdo**
 
 * [Guia do AJO, canal SMS, Privacidade, Configuração, Jornadas, Expressões, Gerenciamento de conteúdo, Rastrear e monitorar, canal de notificação por push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
-* [Tutoriais do Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
+* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
 
 **Seção 5: Modelagem de dados**
 
@@ -175,10 +172,6 @@ O Adobe Journey Optimizer é acionado por Experience Platform. Os candidatos que
 {{about-certification-exam}}
 
 ## Programar ou fazer exame AD0-E606
-
->[!NOTE]
->
->Este é o Adobe mais recente [!DNL Journey Optimizer] exame de especialista em desenvolvedores (AD0-E606). Se você já começou a estudar ou programou o [versão mais antiga](ajo-e-developer.md), você deve concluí-lo até 22 de dezembro de 2023.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

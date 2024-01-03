@@ -6,10 +6,11 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
+hidefromtoc: true
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 14%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -139,11 +140,11 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 **Seção 1: Administração e configuração**
 
-* [Documentação do Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
 
    * Controle de acesso
    * Configuração de mensagens
-   * Configuração de evento
+   * Configuração do evento
    * Medidas de proteção
    * Jornadas
 
@@ -152,7 +153,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 **Seção 2: AEP Foundation**
 
-* [Documentação do Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Experience Platform] Documentação](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR){target="_blank"}
 
    * Guia XDM
    * Guia do Perfil do cliente em tempo real
@@ -170,7 +171,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 **Seção 3: Offer Decisioning**
 
-* [Documentação do Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
 
    * Gerenciamento de decisão
 
@@ -180,7 +181,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 **Seção 4: Criação de conteúdo**
 
-* [Documentação do Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
 
    * Criação de conteúdo
    * Jornadas
@@ -190,7 +191,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 **Seção 5: Journey Orchestration**
 
-* [Documentação do Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
 
    * Jornadas
    * Rastrear e monitorar
