@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exame AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Esse exame, Adobe [!DNL Workfront] O Core Developer Professional (AD0-E905) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, conclua-a antes de 26 de fevereiro de 2024. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame (AD0-E908)](aw-core-p-developer-23-12.md).
+>Esse exame, Adobe [!DNL Workfront] O Core Developer Professional (AD0-E905) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, conclua-a antes de 26 de fevereiro de 2024. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame (AD0-E908)](aw-core-p-developer-23-12.md). Se precisar reagendar, você deverá fazer o novo exame.
 
 ## Descrição do exame {#exam-description}
 
