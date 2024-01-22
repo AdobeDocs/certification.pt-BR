@@ -7,10 +7,10 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: dcad25077afd7883333326939ce8751eee191f36
 workflow-type: tm+mt
-source-wordcount: '2085'
-ht-degree: 2%
+source-wordcount: '1657'
+ht-degree: 0%
 
 ---
 
@@ -101,7 +101,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Seção 1**
 
-* [ [!DNL Commerce] Guia de design e conteúdo do Adobe ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=pt-BR){target="_blank"}
 * [Widgets](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
 * [Adobe [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=pt-BR){target="_blank"}
 * [Adobe [!DNL Commerce] Guia de experiência de compras e lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
@@ -118,11 +118,11 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [Modelos de email](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
 * [Fornecer assistência ao comprador](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
 * [Preparo de conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [Instalação e configuração](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
+* [Instalar e configurar](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
 * [Arquitetura Pro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Segurança](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**Section3**
+**Seção3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
 * [Visão geral da SEO](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
@@ -174,7 +174,7 @@ Adobe [!DNL Commerce] Profissional de desenvolvedor
 **Detalhes do exame:**
 
 * Nível: profissional (0-12 meses de experiência)
-* Pontuação de aprovação: 228/37
+* Pontuação de aprovação: 37/28
 * Tempo: 74 minutos
 * Delivery: sob demanda/não monitorado
 * Idiomas disponíveis: inglês
