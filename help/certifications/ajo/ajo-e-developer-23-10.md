@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: bd08c54f5c17b9eb08becfbf5ba47925db8d4254
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '595'
 ht-degree: 1%
 
 ---
@@ -146,6 +146,12 @@ O Adobe Journey Optimizer é acionado por Experience Platform. Os candidatos que
 
 * [Guia do AJO, Configuração, Públicos-alvo, perfis e identidade, Gerenciamento de dados](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
 * [Experience Platform, Conjuntos de dados, Guia de conectores de origem, Tutorials de API, Guia do serviço de identidade da plataforma, Interface de segmentação, Tutorials de interface](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR){target="_blank"}
+
+<br>
+
+**Fazer um teste prático**
+
+{{practice-test}}
 
 +++
 
