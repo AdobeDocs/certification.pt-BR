@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
+source-git-commit: e966c384d1b08ceecfa02aca78a246beadcd6bc2
 workflow-type: tm+mt
 source-wordcount: '2241'
 ht-degree: 0%
@@ -313,6 +313,8 @@ Para renovar o Adobe [!DNL Commerce] Certificação Developer Professional:
 >[!NOTE]
 >
 >Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+
++++
 
 +++Adobe [!DNL Commerce] Profissional de desenvolvedor front-end
 
