@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dcad25077afd7883333326939ce8751eee191f36
+source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '2241'
 ht-degree: 0%
 
 ---
@@ -304,6 +304,138 @@ Para renovar o Adobe [!DNL Commerce] Certificação Developer Professional:
 2. Clique no botão abaixo para ir ao Portal de exames e fazer o exame (AD5-E839)
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ir para o portal de análise
+</span>
+</a>
+
+>[!NOTE]
+>
+>Este exame é gratuito, livro aberto e não supervisionado. Você pode fazer o exame até três vezes. Se não tiver êxito após a terceira tentativa, aguarde **30 dias** para tentar novamente. A falha na conformidade pode resultar na revogação da certificação.
+
++++Adobe [!DNL Commerce] Profissional de desenvolvedor front-end
+
+## Você deve ter o seguinte **ativo** certificação a ser renovada usando este método:
+
+Adobe [!DNL Commerce] Profissional de desenvolvedor front-end
+
+## Instruções para renovar sua certificação:
+
+* **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
+* **Etapa 2**: revisar os objetivos e recursos do exame
+* **Etapa 3**: Fazer e passar no exame
+
+## Prepare-se
+
+**Detalhes do exame:**
+
+* Nível: profissional (0-12 meses de experiência)
+* Pontuação de aprovação: 34/26
+* Tempo: 68 minutos
+* Delivery: sob demanda/não monitorado
+* Idiomas disponíveis: inglês
+* Custo: GRATUITO
+* ID do exame: Adobe AD5-E844 [!DNL Commerce] Renovação profissional do desenvolvedor front-end
+
+**Âmbito e objetivos:**
+
+**Seção 1: Gerenciamento de temas (Hierarquia de temas, configuração de imagem, traduções) (14%)**
+
+* Descrever Adobe [!DNL Commerce] estrutura da pasta de temas
+* Demonstrar capacidade de criar novos temas ou estender temas existentes
+* Demonstrar a capacidade de adicionar frases de tradução personalizadas
+
+**Seção 2: Layout XML e modelos (30%)**
+
+* Demonstrar a capacidade de trabalhar com instruções básicas de XML de layout
+* Demonstrar a capacidade de usar layouts de página existentes
+* Descrever as etapas para estender e substituir o XML
+* Demonstrar capacidade de criar e personalizar modelos
+* Descrever a segurança do modelo (saída de escape)
+
+**Seção 3: Estilos (22%)**
+
+* Descreva a finalidade de estilos como m.less, style-l.less, print.less
+* Descrever a diferença entre arquivos parciais específicos (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
+* Dado um cenário, demonstrar a capacidade de substituir ou estender o Magento MENOS
+* Descreva os conceitos básicos de MENOS
+* Explicar a hierarquia de estilos (biblioteca, módulos, temas)
+* Explicar a compilação do lado do cliente e do lado do servidor
+
+**Seção 4: JavaScript (18%)**
+
+* Demonstrar a capacidade de inicializar e chamar componentes JavaScript
+* Demonstrar o uso do RequireJS
+* Descrever o uso de mixins
+* Descrever como adicionar uma tradução no JS
+* Descrever o uso de JS Knockout
+* Descrever o uso de widgets jQuery
+
+**Seção 5: Configuração de administração e PageBuilder (8%)**
+
+* Demonstrar a capacidade de personalizar o conteúdo do Page Builder e do CMS
+* Descrever etapas para personalizar emails transacionais
+
+**Seção 6: Ferramentas (CLI e Grunt) (8%)**
+
+* Descrever o uso de comandos básicos bin/Magento
+* Descrever o uso de comandos do Composer (instalar, atualizar, exigir, remover)
+* Diferenciar o caso de uso apropriado para modos de implantação
+* Descreva as ferramentas adicionais que a nuvem fornece (Fastly, download do banco de dados, implantação de conteúdo)
+
+## Prepare-se
+
+Você não precisa concluir o treinamento antes de fazer o exame, e o treinamento por si só não lhe fornecerá o conhecimento e as habilidades necessárias para passar no exame. Uma combinação de treinamento e experiência de trabalho bem-sucedida é essencial para fornecer o repositório necessário para a aprovação no exame.
+
+Estes são alguns recursos sugeridos para ajudar você a se preparar:
+
+**Seção 1**
+
+* [Exemplo de dicionário de tradução de tema](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [Estrutura de tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [Configurar propriedades do tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [Usar um dicionário para personalizar strings](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+
+**Seção 2**
+
+* [referenceBlock e referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [Instruções de layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [Substituir um layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [argumento](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [Criar um novo layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [Como substituir um layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [Apresentação da personalização do modelo](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [magento2/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [Herança de tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [Criação de script entre sites (XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+
+**Seção 3**
+
+* [CSS em design responsivo](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [Personalizar estilos de tema](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [Estender estilos principais](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [Substituir estilos principais](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [Modo de compilação](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+
+**Seção 4**
+
+* [Chamar e inicializar JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Escopo de mixin](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [Strings de tema](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [Mapa de ligação](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [Inicializar o widget Acordeão](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+
+## Renovar sua certificação
+
+Para renovar o Adobe [!DNL Commerce] Certificação Front-End Developer Professional:
+
+1. Faça logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. Clique no botão abaixo para ir ao Portal de exames e fazer o exame (AD5-E844)
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir para o portal de análise
