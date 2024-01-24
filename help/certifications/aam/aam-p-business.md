@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Exame AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 15%
+source-wordcount: '588'
+ht-degree: 1%
 
 ---
 
@@ -120,19 +120,19 @@ Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negóc
 * Tutoriais do [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
 * [Diretrizes de disponibilidade do GDPR para [!DNL Audience Manager] Clientes (controladores de dados)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html){target="_blank"}
 * [Página Detalhes do Segmento](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html){target="_blank"}
-* [Dicas do cliente - práticas recomendadas de características e segmentos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
+* [Dicas do cliente - práticas recomendadas de características e segmentos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html?lang=pt-BR){target="_blank"}
 
 **Seção 2: Criação de características**
 
 * [Sinais, características e segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=pt-BR){target="_blank"}
 * [Segmentos: finalidade, composição e regras](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
 * [compartilhamento de segmento Experience Platform com [!DNL Audience Manager] e outras soluções de Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
-* [Referência de qualificação de características e segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
+* [Referência de qualificação de característica e segmento](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
 * [Dados de população de características e segmentos no Construtor de segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=pt-BR){target="_blank"}
 
 **Seção 3: Relatórios e medições**
 
-* [Utilização de relatórios do Audience Optimization para entender o desempenho da mídia](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
+* [Utilização de relatórios de Audience Optimization para entender o desempenho da mídia](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
 * [compartilhamento de segmento Experience Platform com [!DNL Audience Manager] e outras soluções de Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
 * [Entender as taxas de correspondência](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html){target="_blank"}
 * [Criar uma fonte de dados para dados do Analytics](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
@@ -141,8 +141,8 @@ Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negóc
 
 * [Fontes de dados globais](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/global-data-sources.html#:~:text=Global%20data%20sources%20are%20accessible,by%20manufacturers%20for%20advertising%20purposes.){target="_blank"}
 * [Lista e configurações de fontes de dados](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html){target="_blank"}
-* [Gerenciar fontes de dados](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=pt-BR){target="_blank"}
-* [Conteúdo do arquivo de dados de entrada: Sintaxe, caracteres inválidos, variáveis e exemplos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
+* [Gerenciar fontes de dados](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html){target="_blank"}
+* [Conteúdo do arquivo de dados de entrada: sintaxe, caracteres inválidos, variáveis e exemplos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
 * [Assimilação de dados de entrada em tempo real](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
 * [Sincronização de ID para transferências de dados de entrada](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
 
