@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Exame AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
+source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 12%
+source-wordcount: '824'
+ht-degree: 1%
 
 ---
 
@@ -149,9 +149,9 @@ Você também deve ter experiência com as seguintes tarefas:
 
 **Seção 2: Estratégia e design do Analytics com base em uma referência de design de solução**
 
-* [Implementar o  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
+* [Implementar [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
 * [Guia de administração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=pt-BR){target="_blank"}
-* [Variáveis da Lista](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
+* [Variáveis da lista](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
 * [eVars de merchandising e métodos de busca de produtos](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
 
 **Seção 3: Implementação e configuração do Analytics**
@@ -159,14 +159,14 @@ Você também deve ter experiência com as seguintes tarefas:
 * [Guia de ferramentas do Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}
 * [Dica rápida - Transmitir dados para as regras do Launch](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 * [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [Como os dados do Analytics são coletados](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
+* [Como os dados de análise são coletados](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
 
 **Seção 4: Sistemas de gerenciamento de tags**
 
 * [Visão geral das tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR){target="_blank"}
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [Analisadores de pacote](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
-* [Referência a objeto do satélite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
+* [Referência a objeto satélite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
 
 **Seção 5: Mobile Services e API**
 
@@ -191,6 +191,12 @@ Você também deve ter experiência com as seguintes tarefas:
 {{sample-questions}}
 
 [Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Fazer um teste prático**
+
+{{practice-test}}
 
 <br>
 
