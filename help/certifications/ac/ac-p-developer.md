@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exame AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 51dbc0e8818df72da81caa3d0d9a981ae7aa7456
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
-source-wordcount: '1161'
-ht-degree: 1%
+source-wordcount: '887'
+ht-degree: 0%
 
 ---
 
@@ -175,7 +175,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 **Seção 1: Trabalhar com o administrador**
 
 * [Layouts](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Funções de usuário](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
+* [Funções do usuário](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
 * [Introdução aos componentes da interface do usuário](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
 * [Arquivos de configuração para implantação](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
 * [Extensibilidade e modularidade](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
@@ -199,7 +199,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 **Seção 3: Fundamentos de marketing digital e comércio eletrônico**
 
-* [[!DNL Commerce] Tutoriais](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [Eventos e Observadores](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
 * [Navegação em camadas](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
 * [Visão geral dos atributos do produto](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
@@ -262,6 +262,12 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 {{sample-questions}}
 
 [Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad4-e717-adobe-commerce-developer-with-cloud-add-on-professional-practice-exam){target="_blank"}
+
+<br>
+
+**Fazer um teste prático**
+
+{{practice-test}}
 
 +++
 

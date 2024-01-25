@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
@@ -185,6 +185,12 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 {{sample-questions}}
 
 [Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad4-e555-adobe-marketo-engage-professional-practice-exam){target="_blank"}
+
+<br>
+
+**Fazer um teste prático**
+
+{{practice-test}}
 
 +++
 
