@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Exame AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
 workflow-type: tm+mt
-source-wordcount: '671'
-ht-degree: 1%
+source-wordcount: '568'
+ht-degree: 0%
 
 ---
 
@@ -151,7 +151,7 @@ Além disso, você deve estar familiarizado com as seguintes atividades e tecnol
 * [Detalhes da loja](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [Páginas](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [Adicionando uma nova integração de pagamento (método de pagamento)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* Autenticação do [](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
+* [Autenticação](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [Visão geral do GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
 **Seção 2: Revisão**
@@ -171,6 +171,12 @@ Além disso, você deve estar familiarizado com as seguintes atividades e tecnol
 * [Moeda](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
 * [Visão geral da inicialização e bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Visão geral dos serviços Fastly](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
+
+<br>
+
+**Fazer um teste prático**
+
+{{practice-test}}
 
 +++
 
