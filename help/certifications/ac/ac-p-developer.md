@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -254,14 +254,6 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * [CLI da nuvem](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
 * [Gerenciar ramificações com a CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
 * [Configurar serviços](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
-
-<br>
-
-**Exemplos de perguntas**
-
-{{sample-questions}}
-
-[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad4-e717-adobe-commerce-developer-with-cloud-add-on-professional-practice-exam){target="_blank"}
 
 <br>
 
