@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -84,8 +84,8 @@ Para os candidatos que reprovarem no exame de certificação de Adobe na primeir
 +++Como posso obter uma cópia do meu relatório de pontuação?
 
 * Etapa 1: Faça logon na [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics Faça logon usando sua ID ou endereço de email e senha.
-* Etapa 2: clique em Transcripts (Transcrições).
-* Etapa 3: role pelo histórico de transcrições e selecione o relatório que deseja visualizar. Você pode receber o relatório por email ou visualizá-lo na tela.
+* Etapa 2: clique em Histórico.
+* Etapa 3: navegue pelo histórico e selecione o relatório que deseja visualizar. Você pode receber o relatório por email ou visualizá-lo na tela.
 
 +++
 
