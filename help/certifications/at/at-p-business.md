@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '580'
 ht-degree: 1%
 
 ---
@@ -154,6 +154,12 @@ Você deve ter:
 
 * [[!DNL Adobe Target] Guia do profissional de negócios do](https://docs.adobe.com/content/help/pt-BR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Visão geral do Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/pt-BR/experience-cloud/user-guides/home.translate.html){target="_blank"}
+
+<br>
+
+**Fazer um teste prático**
+
+{{practice-test}}
 
 +++
 
