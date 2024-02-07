@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 Para renovar o Adobe [!DNL Commerce] Certificação profissional de profissional de negócios:
 
-1. Faça logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}
+Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840) (Exame de renovação profissional para profissionais de negócios (AD5-E840))), link abaixo.
 
-2. Clique no botão abaixo para ir ao Portal de exames e fazer o exame (AD5-E840)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
-</span>
-</a>
+[!BADGE Pegue o Adobe [!DNL Commerce] Exame de renovação profissional de profissional de negócios (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 Para renovar o Adobe [!DNL Commerce] Certificação Developer Professional:
 
-1. Faça logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}
+Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no Adobe [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839) (Exame de renovação profissional para desenvolvedores (AD5-E839))), link abaixo.
 
-2. Clique no botão abaixo para ir ao Portal de exames e fazer o exame (AD5-E839)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
-</span>
-</a>
+[!BADGE Pegue o Adobe [!DNL Commerce] Exame de Renovação Profissional de Desenvolvedor (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 Para renovar o Adobe [!DNL Commerce] Certificação Front-End Developer Professional:
 
-1. Faça logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}
+Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no Adobe [!DNL Commerce] Exame de Renovação Profissional de Desenvolvedor Front-End (AD5-E844) abaixo.
 
-2. Clique no botão abaixo para ir ao Portal de exames e fazer o exame (AD5-E844)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
-</span>
-</a>
+[!BADGE Pegue o Adobe [!DNL Commerce] Exame de Renovação Profissional de Desenvolvedor Front-End (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
