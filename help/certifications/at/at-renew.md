@@ -7,10 +7,10 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
 workflow-type: tm+mt
-source-wordcount: '1521'
-ht-degree: 8%
+source-wordcount: '1209'
+ht-degree: 0%
 
 ---
 
@@ -118,7 +118,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 * [QuickStart para testes de personalização e criação de roteiro](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
 * [Práticas recomendadas de otimização com o Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
 * [Definir métricas](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
-* [Criar um público somente com atividades](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Criar um público-alvo com apenas uma atividade](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
 * [Adobe Analytics como origem de relatório do Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=pt-BR){target="_blank"}
 * [Configurar relatórios do A4T no Analysis Workspace para atividades de Alocação automática](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=pt-BR){target="_blank"}
 
@@ -126,7 +126,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 * [Criar ofertas JSON](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 * [Experience Composer baseado em formulário](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [Criar um público somente com atividades](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Criar um público-alvo com apenas uma atividade](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
 * [Configurações avançadas](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
 * [Controle de qualidade da atividade](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 * [Criar públicos no Target](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
@@ -141,10 +141,10 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 **Seção 3**
 
-* [Configurações de relatório](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [Configurações do relatório](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 * [Por quanto tempo você deve executar um teste A/B?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
-* Visão geral da [Alocação automática](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
-* [Relatórios de resumo de Automated Personalization](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
+* [Visão geral da alocação automática](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
+* [Relatórios de resumo do Automated Personalization](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
 * [Relatório de Resumo do direcionamento automático](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
 * [Relatório de desempenho da experiência (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
 * [Dez erros comuns em testes A/B e como evitá-los](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
@@ -153,13 +153,13 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 * [Solução de problemas de erros de atividade](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [Testar uma implementação do Adobe Target com o Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
-* [Configurações de relatório](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [Configurações do relatório](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 
 ### Renovar sua certificação
 
 Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no Adobe [!DNL Target] Link abaixo para o exame de renovação profissional do profissional de negócios.
 
-[!MEDALHA Pegue a Adobe [!DNL Target]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE Pegue o Adobe [!DNL Target] Exame de Renovação Profissional de Profissional de Negócios AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
 
 >[!NOTE]
 >
