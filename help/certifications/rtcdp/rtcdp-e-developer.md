@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Exame AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '877'
 ht-degree: 3%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 3%
 # Jornada de certificação para o Adobe [!DNL Real-Time Customer Data Platform] Especialista em desenvolvedores
 
 {{intro}}
-
->[!TIP]
->
->Para obter **50% de desconto** este exame, compre e agende seu exame até **Exame** antes **15 de fevereiro de 2024**. O desconto será aplicado automaticamente. Para obter instruções de compra e programação, consulte a Etapa 3 abaixo. <br><br><i>Observe que esta oferta não se aplica a compras feitas por meio de qualquer outro site.</i>
 
 ## Descrição do exame {#exam-description}
 
@@ -251,10 +247,6 @@ Você deve se sentir confortável nesses ambientes:
 <br>
 
 +++Etapa 3: agendar e pagar o exame
-
->[!TIP]
->
->Para obter **50% de desconto** este exame, compre e agende seu exame até **Exame** antes **15 de fevereiro de 2024**. O desconto será aplicado automaticamente. <br><br><i>Observe que esta oferta não se aplica a compras feitas por meio de qualquer outro site.</i>
 
 {{schedule-and-pay}}
 
