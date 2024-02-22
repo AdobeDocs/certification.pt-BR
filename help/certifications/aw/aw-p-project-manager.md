@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exame AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -174,15 +174,13 @@ Você deve ter:
 * [Criar e gerenciar planilhas de horas no Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
 * [Gerenciamento de Portfolio](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Cronograma do Projeto](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
-* [Criação de projetos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
+* [Criar projetos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
 <br>
 
-**Exemplos de perguntas**
+**Fazer um teste prático**
 
-{{sample-questions}}
-
-[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-professional-practice-exam){target="_blank"}
+{{practice-test}}
 
 +++
 
