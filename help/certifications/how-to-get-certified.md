@@ -4,9 +4,9 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Exame:
 
 * [Como se inscrever para um exame on-line supervisionado](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [Como iniciar o exame e conectar-se ao inspetor](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Exame dos requisitos do sistema do examinador](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB Fazer seu exame]
 
@@ -43,9 +44,11 @@ Seu [perfil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){targ
 
 **Cancelando e reprogramando**
 
-Cancelamentos e reagendamento são possíveis se iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
+Cancelamentos e reagendamento geralmente são possíveis se iniciados antes de 48 horas antes da consulta do exame agendado. Os candidatos devem modificar este compromisso.
 
 Nem o Suporte ou o Exame do Adobe podem processar solicitações de reagendamento e cancelamento. Cancelamentos abaixo de 48 horas estão sujeitos a uma taxa de reescalonamento além da taxa do exame.
+
+Se você não conseguir reagendar o exame, mesmo que seja mais de 48 horas antes do exame, talvez haja uma nova versão do exame. Se o compromisso foi com a versão anterior do exame, você não poderá reagendar o compromisso do exame. Recomendamos que você mantenha sua consulta no exame, se possível. Se não puder, você precisará cancelar seu exame e agendar uma nova reunião para fazer o novo exame.
 
 **Após o exame**
 

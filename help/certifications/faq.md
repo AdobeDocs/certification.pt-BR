@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ Para obter mais detalhes, consulte [!DNL Examity] página para gerenciamento de 
 +++Com quem posso entrar em contato caso tenha dúvidas ou problemas de certificação?
 
 Para perguntas sobre inscrição em exames, pagamentos de exames, entrega de testes, centros de testes, comentários sobre exames, perguntas de exames, experiência de testes, acomodações de testes ou perguntas sobre o portal de certificação, entre em contato com `certif@adobe.com`.
+
++++
+
++++Posso cancelar ou reagendar meu compromisso no exame?
+
+Cancelamentos e reagendamento geralmente são possíveis se iniciados antes de 48 horas antes da consulta do exame agendado. Os candidatos devem modificar este compromisso.
+
+Nem o Suporte ou o Exame do Adobe podem processar solicitações de reagendamento e cancelamento. Cancelamentos abaixo de 48 horas estão sujeitos a uma taxa de reescalonamento além da taxa do exame.
+
+Se você não conseguir reagendar o exame, mesmo que seja mais de 48 horas antes do exame, talvez haja uma nova versão do exame. Se o compromisso foi com a versão anterior do exame, você não poderá reagendar o compromisso do exame. Recomendamos que você mantenha sua consulta no exame, se possível. Se não puder, você precisará cancelar seu exame e agendar uma nova reunião para fazer o novo exame.
 
 +++
 
