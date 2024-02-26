@@ -7,10 +7,10 @@ role: User
 badge: label="Exame AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 13%
+source-wordcount: '518'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 13%
 * Pontuação de aprovação: 30/50
 * Tempo: 100 minutos
 * Delivery: on-line por encomenda (requer acesso à câmera)
-* Idiomas disponíveis: inglês e japonês
+* Idiomas disponíveis: inglês
 * Custo: US$ 225 (global) / US$ 150 (Índia)
 * Identificação do Exame: AD0-E307
 
@@ -140,9 +140,9 @@ Além disso, você deve ter:
 
 **Seção 2: Gestão de campanhas**
 
-* [Sobre a execução de fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
+* [Sobre a execução de workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
 * [Modificação de recursos personalizados para solicitações de privacidade](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
-* [Criação de públicos-alvo](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
+* [Criação de públicos](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
 **Seção 3: Análise de requisitos**
 
@@ -155,16 +155,16 @@ Além disso, você deve ter:
 * [Introdução aos relatórios](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
 * [Personalizar Criação de um relatório com base em atributos de perfil personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
 * [Introdução a relatórios dinâmicos](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=pt-BR){target="_blank"}
-* [Criar relatório com base em segmentos de fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
+* [Criar relatório com base em segmentos de workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
 
 **Seção 5: Solução de problemas**
 
-* [Práticas recomendadas para fluxos de trabalho](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=pt-BR){target="_blank"}
+* [Práticas recomendadas para workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=pt-BR){target="_blank"}
 * [Solução de problemas de API](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
 
 **Seção 6: Gestão e administração de dados**
 
-* [ [!DNL Campaign Standard] Introdução ao modelo de dados](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [Introdução a [!DNL Campaign Standard] modelo de dados](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Introdução a [!DNL Campaign Standard] administração](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 <br>
