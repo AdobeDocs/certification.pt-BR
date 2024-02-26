@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exame AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 7%
+source-wordcount: '686'
+ht-degree: 0%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 7%
 * Pontuação de aprovação: 30/50
 * Tempo: 100 minutos
 * Delivery: on-line por encomenda (requer acesso à câmera)
-* Idiomas disponíveis: inglês
+* Idiomas disponíveis: inglês, japonês
 * Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do exame: AD0-E124
+* ID do exame: AD0-E124 (inglês), AD0-E124-J (japonês)
 
 <br>
 
@@ -140,7 +140,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 **Seção 1: Configurar o Adobe Experience Manager**
 
 * [Conceitos básicos de configuração](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [Solução de problemas do AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
+* [Solução de problemas de AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
 * [Configuração de OSGi no AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=pt-BR){target="_blank"}
 
 **Seção 2: Operar a API do Cloud Manager e do Cloud Manager**
@@ -158,8 +158,8 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 * [Implantação do código](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
 * [Configuração de pipelines de produção](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
-* [Como trabalhar com pacotes](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=pt-BR){target="_blank"}
-* [Estrutura de projetos do AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=pt-BR){target="_blank"}
+* [Como trabalhar com pacotes](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
+* [Estrutura de projeto do AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=pt-BR){target="_blank"}
 
 **Seção 5: Monitorar e relatar métricas de qualidade**
 
@@ -170,7 +170,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 **Seção 6: Operar o Admin Console**
 
-* [Suporte IMS do AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
+* [Suporte IMS para AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Grupos de usuários do Adobe IMS e AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=pt-BR){target="_blank"}
 
 +++
@@ -197,12 +197,23 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{about-certification-exam}}
 
-## Programar ou fazer exame AD0-E124
+## Agendar ou fazer exame AD0-E124 (inglês)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
+   Ir para Portal de Exames - Exame de Inglês
+</span>
+</a>
+
+## Programar ou fazer exame AD0-E124-J (japonês)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ir para Portal de Exames - Exame Japonês
 </span>
 </a>
 
