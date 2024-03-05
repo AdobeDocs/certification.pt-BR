@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 8d50d5574c0f9066acc58272e44994e2771cbefc
+source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '561'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 2%
 * Pontuação de aprovação: 26/50
 * Tempo: 100 minutos
 * Delivery: on-line por encomenda (requer acesso à câmera)
-* Idiomas disponíveis: inglês
+* Idiomas disponíveis: inglês, japonês
 * Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E134
+* ID do exame: AD0-E134 (inglês), AD0-E134-J (japonês)
 
 <br>
 
@@ -191,9 +191,20 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{about-certification-exam}}
 
-## Programar ou fazer exame AD0-E134
+## Agendar ou fazer exame AD0-E134 (inglês)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ir para o portal de análise
+</span>
+</a>
+
+## Programar ou fazer exame AD0-E134-J (japonês)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir para o portal de análise
