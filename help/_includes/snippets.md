@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Pagar por voucher: Para comprar um voucher de exame, vá para: Adobe Certificati
 
 **Comprar um voucher**
 
-Você pode pagar por um exame com um voucher. Para comprar um cupom de exame, acesse o [Centro de Cupom de Certificação Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}.
+Você pode pagar por um exame com um voucher. Para comprar um cupom de exame, acesse o [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Você pode aplicar o código do voucher ao agendar seu exame. Consulte abaixo para obter informações sobre desconto de voucher.
 
