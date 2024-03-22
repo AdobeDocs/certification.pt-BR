@@ -1,6 +1,6 @@
 ---
 title: Perguntas frequentes
-description: Obtenha respostas para perguntas sobre o Programa de certificação de experiência digital Adobe. Saiba mais sobre os benefícios da certificação, como se registrar e com quem você pode entrar em contato.
+description: Obtenha respostas para perguntas sobre o Programa de certificação Adobe Digital Experience. Saiba mais sobre os benefícios da certificação, como inscrever-se e com quem você pode entrar em contato.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
 source-wordcount: '2485'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
