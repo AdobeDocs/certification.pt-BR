@@ -7,16 +7,20 @@ product: Customer Journey Analytics
 badge: label="Exame AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 2%
+source-wordcount: '427'
+ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Customer Journey Analytics] Especialista em desenvolvedores
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/376) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -119,34 +123,20 @@ Você deve ter 12-24 meses de experiência no Adobe [!DNL Customer Journey Analy
 
 {{study-materials-intro}}
 
-**Seção 1: Conexões**
-
-* [Visão geral das conexões](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=pt-BR){target="_blank"}
-* [Criar uma conexão](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=pt-BR){target="_blank"}
-
-**Seção 2: Visualizações de dados**
-
-* [Visão geral das visualizações de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=pt-BR){target="_blank"}
-* [Configurações do componente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-
-**Seção 3: Validação de dados e solução de problemas**
-
-* [Visão geral das visualizações de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=pt-BR){target="_blank"}
-* [Criar ou editar uma visualização de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=pt-BR){target="_blank"}
-* [Configurações do componente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [Referência de componente padrão](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
-
-**Seção 4: Relatórios e ativação**
-
-* [Visão geral das visualizações](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Visão geral do Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
-* [Visão geral das visualizações de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=pt-BR){target="_blank"}
-
-<br>
-
 **Fazer um teste prático**
 
 {{practice-test}}
+
+**Guia de preparação do exame**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/376" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Exibir Guia de Preparação do Exame
+</span>
+</a>
 
 +++
 

@@ -7,16 +7,20 @@ role: Developer
 badge: label="Exame AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 6%
+source-wordcount: '542'
+ht-degree: 1%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Experience Manager Forms] Especialista em desenvolvedores
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/372) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -113,7 +117,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 **Seção 4: Endpoints e integrações de API (8%)**
 
-* Integrar com a Adobe Experience Cloud
+* Integrar ao Adobe Experience Cloud
 * Gerar e consumir vários serviços de ponto de extremidade
 
 **Seção 5: Comunicação interativa (4 %)**
@@ -148,40 +152,20 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{study-materials-intro}}
 
-**Seção 1: Criação e gerenciamento de Forms**
-
-* [Guia do Adobe Experience Manager 6.4 Forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [Integração de dados do AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"}
-* [Introdução à publicação de formulários](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"}
-* [Usar bibliotecas do lado do cliente](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
-
-**Seção 2: Processos e fluxo de trabalho**
-
-* [Tutorials e vídeos do AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
-* [Armazenamento personalizado para rascunhos e envios](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
-* [Serviço de saída](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
-
-**Seção 3: Administração e solução de problemas**
-
-* [Depuração do AEM as a Cloud Service usando logs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [Habilitar registro para HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
-* [Notas de versão mais recentes do Service Pack do Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR){target="_blank"}
-* [Configuração do Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=pt-BR){target="_blank"}
-
-**Seção 4: Endpoints e integrações de API**
-
-* [Integrar o Adobe Experience Manager Forms as Cloud Service com o Acrobat Sign | ADOBE EXPERIENCE MANAGER](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
-
-**Seção 5: Comunicação interativa**
-
-* [Visão geral das comunicações de interação](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
-* [Condições em comunicações interativas](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
-
-<br>
-
 **Fazer um teste prático**
 
 {{practice-test}}
+
+**Guia de preparação do exame**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/372" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Exibir Guia de Preparação do Exame
+</span>
+</a>
 
 +++
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ As certificações expiram após dois anos. Para manter sua certificação, voc�
 Agende seu exame entre domingo - quinta-feira 17h - 2h ET para garantir que possamos designar um fiscal de língua japonesa. Se você agendar fora dessas horas, não podemos garantir um fiscal de língua japonesa.
 
 [Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## Fazer um curso gratuito {#take-course}
+
+Este curso gratuito sob demanda ajuda a prepará-lo para o seu exame com explicações dos principais conceitos, demonstrações práticas e verificações de conhecimento.
+
+## Guia de preparação do exame {#exam-prep-guide}
+
+O Guia de Preparação do Exame gratuito fornece um caminho personalizado através do seu processo de preparação do exame, incluindo os materiais de estudo aprofundado que você precisará para ter sucesso no seu exame.

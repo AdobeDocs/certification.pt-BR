@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Jornada de certificação para o especialista em engenheiros de desenvolvimento da Adobe Experience Manager
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/370) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -137,41 +141,17 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{study-materials-intro}}
 
-**Seção 1: Configurar o Adobe Experience Manager**
+**Guia de preparação do exame**
 
-* [Conceitos básicos de configuração](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [Solução de problemas de AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
-* [Configuração de OSGi no AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=pt-BR){target="_blank"}
+{{exam-prep-guide}}
 
-**Seção 2: Operar a API do Cloud Manager e do Cloud Manager**
+<a href="https://app.rockinfo.com/courses/playScorm/370" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Gerenciamento de ambientes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html){target="_blank"}
-* [Introdução à Jornada de migração para o AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
-* [Visão geral da integração de Adobe I/O](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   Exibir Guia de Preparação do Exame
+</span>
+</a>
 
-**Seção 3: configurar a infraestrutura de proxy da Web**
-
-* [Configurações do Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
-* [Desempenho de cache](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
-
-**Seção 4: criação e implantações**
-
-* [Implantação do código](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
-* [Configuração de pipelines de produção](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
-* [Como trabalhar com pacotes](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
-* [Estrutura de projeto do AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=pt-BR){target="_blank"}
-
-**Seção 5: Monitorar e relatar métricas de qualidade**
-
-* [Monitoramento e manutenção da instância do AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
-* [Dia difícil: adicionar várias instâncias do mesmo teste](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
-* [Introdução à arquitetura do AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html){target="_blank"}
-* [Dimensionamento automático](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
-
-**Seção 6: Operar o Admin Console**
-
-* [Suporte IMS para AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
-* [Grupos de usuários do Adobe IMS e AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=pt-BR){target="_blank"}
 
 +++
 
