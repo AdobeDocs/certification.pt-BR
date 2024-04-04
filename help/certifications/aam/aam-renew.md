@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Certifique-se de fornecer tempo suficiente para concluir todos os requisitos ant
 
 >[!TAB Profissional]
 
+## Instruções para renovar sua certificação:
+
+* **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
+* **Etapa 2**: revisar os objetivos e recursos do exame
+* **Etapa 3**: Fazer e passar no exame
+
 ### Adobe [!DNL Audience Manager] Exame de Renovação Profissional de Profissional de Negócios
 
 Você deve estar certificado no momento (não expirado) em:
 
 * Adobe [!DNL Audience Manager] Profissional de Profissional de Negócios
-
-### Instruções para renovar sua certificação:
-
-* **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
-* **Etapa 2**: revisar os objetivos e recursos do exame
-* **Etapa 3**: Fazer e passar no exame
 
 ### Prepare-se
 
@@ -163,15 +163,15 @@ Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerencia
 
 >[!TAB Especialista]
 
-Você deve estar certificado no momento (não expirado) em:
-
-* Especialista em profissionais de negócios da Adobe Audience Manager
-
-### Instruções para renovar sua certificação:
+## Instruções para renovar sua certificação:
 
 * **Etapa 1**: Logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}e retornar a esta página
 * **Etapa 2**: revisar os objetivos e recursos do exame
 * **Etapa 3**: Fazer e passar no exame
+
+### Você deve estar certificado no momento (não expirado) em:
+
+* Especialista em profissionais de negócios da Adobe Audience Manager
 
 ### Prepare-se
 
@@ -244,15 +244,15 @@ Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerencia
 
 >[!TAB Principal]
 
-### Você deve estar certificado no momento (não expirado) em:
-
-* Mestre do Adobe Audience Manager Architect
-
-### Instruções para renovar sua certificação
+## Instruções para renovar sua certificação
 
 * **Etapa 1** - Revisar os objetivos do exame
 * **Etapa 2** - Analisar os recursos
 * **Etapa 3** - Fazer e passar no exame
+
+### Você deve estar certificado no momento (não expirado) em:
+
+* Mestre do Adobe Audience Manager Architect
 
 ### Prepare-se
 
