@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Agende seu exame entre domingo - quinta-feira 17h - 2h ET para garantir que poss
 
 [Instruções japonesas para agendamento](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## Fazer um curso gratuito {#take-course}
 
 Este curso gratuito sob demanda ajuda a prepará-lo para o seu exame com explicações dos principais conceitos, demonstrações práticas e verificações de conhecimento.
+
+<!--divider-->
 
 ## Guia de preparação do exame {#exam-prep-guide}
 
