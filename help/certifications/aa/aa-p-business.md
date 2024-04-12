@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/391) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/531) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -133,7 +133,7 @@ Você deve ter um mínimo de 3 meses de experiência no [!DNL Adobe Analytics] e
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/playScorm/531" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Exibir Guia de Preparação do Exame
