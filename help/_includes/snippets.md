@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Agende seu exame entre domingo - quinta-feira 17h - 2h ET para garantir que poss
 
 ## Fazer um curso gratuito {#take-course}
 
-Este curso gratuito sob demanda ajuda a prepará-lo para o seu exame com explicações dos principais conceitos, demonstrações práticas e verificações de conhecimento.
+Nossos cursos gratuitos sob demanda ajudam você a se preparar para o seu exame. Os cursos podem incluir explicações sobre os principais conceitos, apresentações sobre produtos, demonstrações práticas e verificações de conhecimento.
 
 <!--divider-->
 
