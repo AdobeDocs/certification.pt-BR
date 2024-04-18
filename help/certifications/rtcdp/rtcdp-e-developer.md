@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Exame AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 3%
@@ -21,6 +21,18 @@ ht-degree: 3%
 ## Descrição do exame {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### Detalhes do exame {#exam-details}
+
+* Nível: especialista (1-3 anos de experiência)
+* Pontuação de aprovação: 45/68
+* Tempo: 136 minutos
+* Delivery: on-line por encomenda (requer acesso à câmera)
+* Idioma: inglês
+* Custo: US$ 225 (global) / US$ 150 (Índia)
+* Identificação do Exame: AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ Você deve se sentir confortável nesses ambientes:
 
 * AEP
 * Rede de borda
-
-<br>
-
-### Detalhes do exame {#exam-details}
-
-* Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 45/68
-* Tempo: 136 minutos
-* Delivery: on-line por encomenda (requer acesso à câmera)
-* Idioma: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E605
 
 <br>
 
@@ -178,7 +178,7 @@ Você deve se sentir confortável nesses ambientes:
 **Seção 3**
 
 * [Configurar um fluxo de dados para assimilar dados em lote de uma fonte de armazenamento na nuvem na interface](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Visão geral da API do servidor de rede de borda](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=pt-BR){target="_blank"}
+* [Visão geral da API do servidor Edge Network](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=pt-BR){target="_blank"}
 * [Assimilar dados por meio do SDK da Web da Adobe Experience Platform](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
 * [Transmitir dados com a API HTTP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html?lang=pt-BR){target="_blank"}
 * [Introdução ao encaminhamento de eventos](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}
