@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '593'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 1%
 <br>
 
 ### Público-alvo {#intended-audience}
+
+Os candidatos pretendidos para esta certificação incluem membros das seguintes equipes/organizações:
 
 * Otimização
 * Personalização
@@ -141,7 +143,7 @@ Você deve ter:
 * [Visão geral do teste A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 * [Criar uma atividade de direcionamento de experiência](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
 * [Visão geral de teste multivariado](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations){target="_blank"}
 * [Criar públicos](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=pt-BR){target="_blank"}
 * [Controle de qualidade da atividade](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 

@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -115,14 +115,14 @@ Os candidatos devem também poder:
 
 {{exam-objectives}}
 
-**Seção 1: Otimização de campanha e Jornada**
+**Seção 1: Otimização de campanhas e Jornadas (48%)**
 
 * Dado um cenário, identifique como criar uma Jornada do cliente
 * Dado um cenário, determine como validar uma Jornada do cliente
 * Dado um cenário sobre depois que uma Jornada é executada, identifique como avaliar a Jornada do cliente
 * Dado um cenário, identifique quando usar evento unitário ou evento de negócios
 
-**Seção 2: Offer Decisioning**
+**Seção 2: Offer decisioning (12%)**
 
 * Identifique como criar uma coleção de ofertas
 * Identificar os estágios do offer decisioning
@@ -131,7 +131,7 @@ Os candidatos devem também poder:
 * Dado um cenário, identifique quando usar o offer decisioning ou a personalização em escala
 * Dado um cenário, diferencie entre ofertas estáticas e dinâmicas
 
-**Seção 3: Criação de conteúdo**
+**Seção 3: Criação de conteúdo (20%)**
 
 * Identificar como usar o Assets Essentials
 * Dado um cenário, identifique como adicionar campos personalizados em emails
@@ -141,7 +141,7 @@ Os candidatos devem também poder:
 * Identificação dos tipos de fragmentos
 * Identificar como criar um modelo de email
 
-**Seção 4: Fundamentos da AEP**
+**Seção 4: Fundamentos da AEP (20%)**
 
 * Dado um cenário, determine quando usar diferentes tipos de dados
 * Identificar onde revisar os atributos de perfis e a associação de público-alvo
