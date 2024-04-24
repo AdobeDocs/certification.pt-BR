@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '678'
 ht-degree: 2%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 2%
 <br>
 
 ### Público-alvo {#intended-audience}
+
+Os candidatos pretendidos para esta certificação incluem membros das seguintes equipes/organizações:
 
 * Engenheiro/arquiteto de otimização de taxa de conversão
 * Engenheiro/arquiteto de personalização
@@ -179,7 +181,7 @@ Ambientes:
 
 **Seção 5**
 
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations){target="_blank"}
 * [Perguntas frequentes sobre o Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [Feeds](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
 * [Personalizar um design usando a Velocity](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}

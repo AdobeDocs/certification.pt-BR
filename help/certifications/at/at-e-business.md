@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '961'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 1%
 <br>
 
 ### Público-alvo {#intended-audience}
+
+Os candidatos pretendidos para esta certificação incluem membros das seguintes equipes/organizações:
 
 * Otimização
 * Personalização
