@@ -8,16 +8,20 @@ role: Data Architect,Developer
 badge: label="Exame AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 5%
+source-wordcount: '387'
+ht-degree: 1%
 
 ---
 
 # Jornada de certificação para [!DNL Adobe Analytics] Arquiteto mestre
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/541) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -111,40 +115,11 @@ Além disso, você é responsável por transformar os requisitos de negócios em
 
 {{study-materials-intro}}
 
-**Seção 1: Detecção**
+**Guia de preparação do exame**
 
-* [Implementar [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Guia de componentes](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=pt-BR){target="_blank"}
-* [Visão geral das tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Notas técnicas](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=pt-BR){target="_blank"}
-* [Gerenciador da camada de dados](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
+{{exam-prep-guide}}
 
-**Seção 2: Design da solução**
-
-* [[!DNL Analytics] Guia de administração](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Guia de componentes](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Guia de ferramentas](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}
-* [iOS SDK 4.x para Soluções de Experience Cloud](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Guia de importação](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=pt-BR){target="_blank"}
-* [Implementar [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
-* [Funções administrativas](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
-* [visão geral do Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
-* [Gerenciar usuários individualmente](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
-
-**Seção 3: Pós-implementação**
-
-* [Implementar [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Guia de componentes](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Guia de administração](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=pt-BR){target="_blank"}
-* [A camada de dados orientada por eventos](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [[!DNL Analytics] Guia de exportação](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=pt-BR){target="_blank"}
-* [Adobe [!DNL Target] Guia do profissional de negócios do](https://docs.adobe.com/content/help/pt-BR/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Serviço de identidade](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Guia de importação](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=pt-BR){target="_blank"}
-* [[!DNL Analytics] Guia de ferramentas](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=pt-BR){target="_blank"}
-* [Processo de inserção de dados](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Implementar o Experience Cloud em sites com o tutorial de tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/541)
 
 <br>
 

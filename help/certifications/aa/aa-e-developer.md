@@ -8,16 +8,20 @@ level: Experienced
 badge: label="Exame AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 1%
+source-wordcount: '647'
+ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Analytics] Especialista em desenvolvedores
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/530) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -147,39 +151,11 @@ Ambientes:
 
 {{study-materials-intro}}
 
-**Seção 1: Noções básicas do Analytics no ecossistema do Adobe Experience Cloud**
+**Guia de preparação do exame**
 
-* [Notas técnicas do Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=pt-BR){target="_blank"}
-* [Definição de IDs do Analytics e do Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=pt-BR){target="_blank"}
-* [Vídeos e tutoriais do Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
+{{exam-prep-guide}}
 
-**Seção 2: Estratégia e design com base em uma referência de design de solução (SDR)**
-
-* [Gerenciar recursos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] Documentação](https://experienceleague.adobe.com/docs/analytics.html?lang=pt-BR)
-
-**Seção 3: Implementação e configuração do Analytics**
-
-* [Implementar [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=pt-BR){target="_blank"}
-* [Noções básicas e criação de conjuntos de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=pt-BR){target="_blank"}
-* [Configuração do rastreamento de links para [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**Seção 4: Sistemas de gerenciamento de tags**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Visão geral das tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR){target="_blank"}
-* [Visão geral](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
-
-**Seção 5: Serviços móveis**
-
-* [Implementação do Analytics para dispositivos móveis](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [Migrar regras de processamento do Mobile Services para [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**Seção 6: Teste, validação e solução de problemas**
-
-* [visão geral do Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [Ativação, depuração e personalização do [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Otimizar o desempenho do Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=pt-BR){target="_blank"}
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 
