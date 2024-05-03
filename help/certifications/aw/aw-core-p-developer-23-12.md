@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exame AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 092884a61dd0c439f6fb80be271eb28db6399049
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Novo curso disponível:** A variável [Desenvolvedor do Adobe Workfront Core - Curso profissional](https://app.rockinfo.com/courses/231) O inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/596) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
+>* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/610) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -148,7 +148,7 @@ Os candidatos qualificados devem também ter:
 
 {{exam-prep-guide}}
 
-[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/596)
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/610)
 
 +++
 

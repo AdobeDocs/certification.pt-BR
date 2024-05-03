@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exame AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 092884a61dd0c439f6fb80be271eb28db6399049
 workflow-type: tm+mt
 source-wordcount: '721'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Curso:** A variável [Gerente de projetos da Adobe Workfront - Curso profissional](https://app.rockinfo.com/courses/230) O inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/551) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
+>* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/609) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -157,7 +157,7 @@ Você deve ter:
 
 {{exam-prep-guide}}
 
-[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/551)
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/609)
 
 +++
 
