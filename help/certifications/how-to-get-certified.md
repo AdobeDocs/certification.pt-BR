@@ -4,9 +4,9 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Nota: Descontos em massa não podem ser combinados com qualquer outra oferta ou 
 
 >[!TAB Fornecedores de certificação]
 
-A equipe da Adobe Credential faz parceria com fornecedores para ajudar a apoiar as iniciativas e as metas do programa.  Estes são os fornecedores e suas informações de contato:
+O Programa de Certificação de Experiência Digital do Adobe faz parceria com fornecedores para ajudar a apoiar as iniciativas e metas do programa. Estes são os fornecedores e suas informações de contato:
 
 | Nome do Fornecedor | Descrição | Página de suporte/email |
 | ------- | ------- | ------- |
