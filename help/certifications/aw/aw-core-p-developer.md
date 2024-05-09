@@ -7,9 +7,9 @@ badge: label="Exame AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
 hidefromtoc: true
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,7 @@ E você deve ter:
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 

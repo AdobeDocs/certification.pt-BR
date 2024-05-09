@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
@@ -149,7 +149,7 @@ Ambientes:
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 

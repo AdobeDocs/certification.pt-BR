@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '596'
 ht-degree: 3%
 
 ---
@@ -122,7 +122,7 @@ Você deve ter:
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 
@@ -151,7 +151,7 @@ Você deve ter:
 * [Atividades de ação em workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
 * [Introdução a processos e gerenciamento de dados](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html){target="_blank"}
 * [Identificar um formulário](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html){target="_blank"}
-* [Sobre a gestão de conteúdo](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html){target="_blank"}
+* [Sobre a gestão de conteúdo](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=pt-BR){target="_blank"}
 
 
 **Seção 4: Gestão de delivery**

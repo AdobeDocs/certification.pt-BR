@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '633'
 ht-degree: 5%
 
 ---
@@ -132,7 +132,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 

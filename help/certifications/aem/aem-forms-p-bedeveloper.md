@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -128,7 +128,7 @@ Familiarize-se com as seguintes tecnologias e ambientes:
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 

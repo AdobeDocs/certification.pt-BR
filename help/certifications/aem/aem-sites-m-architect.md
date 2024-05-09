@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -137,7 +137,7 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 

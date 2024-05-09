@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
@@ -134,7 +134,7 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 

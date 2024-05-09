@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '711'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 

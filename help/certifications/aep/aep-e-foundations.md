@@ -8,10 +8,10 @@ badge: label="Exame AD0-E600 e AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1318'
-ht-degree: 9%
+source-wordcount: '1069'
+ht-degree: 1%
 
 ---
 
@@ -125,7 +125,7 @@ O exame AD0-E600 valida as habilidades e os conhecimentos que abrangem os recurs
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 
@@ -146,7 +146,7 @@ O exame AD0-E600 valida as habilidades e os conhecimentos que abrangem os recurs
 
 * [Gráficos de identidade e identidade](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [Mapear identidades](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
-* [Etiqueta, assimilação e verificação de dados de identidade](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
+* [Rotular, assimilar e verificar dados de identidade](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Criar um conjunto de dados para exportar um segmento de público](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
 * [Criar segmentos aprendidos por máquina usando o Perfil do cliente em tempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
@@ -265,7 +265,7 @@ Seção 3: Destinos (27 %)
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 
@@ -299,7 +299,7 @@ Seção 3: Destinos (27 %)
 * [Guia da interface do usuário do Construtor de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=pt-br){target="_blank"}
 * [Segmentação na edição B2B da CDP em tempo real](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [Construir segmentos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
-* [Visão geral do construtor de segmentos](https://video.tv.adobe.com/v/333301/){target="_blank"}
+* [Visão geral do Construtor de segmentos](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Criar segmento](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Criar segmentos baseados em conteúdo](https://video.tv.adobe.com/v/333302/){target="_blank"}
 * [Criar segmentos de conversão](https://video.tv.adobe.com/v/333303/){target="_blank"}
@@ -321,7 +321,7 @@ Seção 3: Destinos (27 %)
 * [Real-time CDP: Destinos](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [Visão geral do destino](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=pt-BR){target="_blank"}
 * [Criar destino e ativar dados](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
-* [Visão geral de Activation](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
+* [Visão geral da ativação](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [Visão geral do catálogo de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
 * [Ativar perfis e segmentos para um destino](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 * [Integrar a correspondência do cliente da Google](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}

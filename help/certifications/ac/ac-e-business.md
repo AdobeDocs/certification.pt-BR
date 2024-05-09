@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exame AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 ### Público-alvo {#intended-audience}
 
 * Analista de negócios
-* Estrategista de comércio
+* Estrategista do Commerce
 * Consultor
 * Gerente técnico de projetos/Gerente técnico de conta
 * Arquiteto de aplicativos/Arquiteto de soluções/Especialista
@@ -154,7 +154,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 

@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -160,7 +160,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 <br>
 
-+++Etapa 2: preparar para o exame
++++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
 
 **Materiais de estudo**
 
