@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exame AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/532) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/532) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -59,7 +59,7 @@ Você deve ter:
 
 Você também deve ter experiência com as seguintes tarefas:
 
-* Interpretação de um Documento de design de soluções (SDR) e compreensão do objetivo de todos [!DNL Adobe Analytics] variáveis coletadas
+* Interpretação de um Documento de design de soluções (SDR) e compreensão da finalidade de todos [!DNL Adobe Analytics] variáveis coletadas
 * Noções básicas e trabalho com o Adobe (Experience Platform) Launch
 * Noções básicas sobre a configuração da linha de base [!DNL Adobe Analytics] dimensões e eventos Nome da página, Nome do link, Activity Map e assim por diante, mas funcionará com desenvolvedores especialistas para mais implementações do cliente - O mapeamento de variáveis ainda é de propriedade de desenvolvedores de nível Expert
 * Criação e configuração de regras no Launch seguindo o design fornecido por um especialista em AA
@@ -138,7 +138,7 @@ Você também deve ter experiência com as seguintes tarefas:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exame AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/369) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/369) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -80,7 +80,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Identifique as etapas para criar e gerenciar configurações do AEM Dispatcher
 * Determine as etapas corretas para configurar a multilocação
 * Explicar como criar e gerenciar configurações de OSGi
-* Dado um cenário, determine o método correto para Criar e gerenciar índices OAK personalizados
+* Dado um cenário, determine o método correto para Criar e gerenciar índices Oak personalizados
 * Determine as etapas corretas para configurar a integração OOTB SAML e LDAP
 
 **Seção 2: Desenvolvimento do AEM (44%)**
@@ -126,7 +126,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

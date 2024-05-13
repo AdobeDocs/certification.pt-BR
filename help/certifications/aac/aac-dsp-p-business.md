@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E502" type="neutral"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
@@ -112,7 +112,7 @@ Familiarize-se também com as seguintes ferramentas e tecnologias:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

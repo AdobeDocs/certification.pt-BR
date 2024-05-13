@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Exame AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ Você deve ter:
 * 1-2 anos de experiência no campo da tecnologia de marketing
 * 3 a 6 meses de experiência com ativação de público
 * Experiência com lógica booleana, jargão de marketing digital, análises de dados e estratégias
-* Conhecimento dos objetivos de negócios e KPIs, familiaridade com pilhas de tecnologia de marketing digital e várias integrações de plataformas, e uma compreensão dos fluxos de dados (tipos de ID, sincronizações de ID, rastreamento de pixels, destinos com base em pessoas)
+* Conhecimento dos objetivos de negócios e KPIs
+* Familiaridade com pilhas de tecnologia de marketing digital e várias integrações de plataformas
+* Uma compreensão dos fluxos de dados (tipos de ID, sincronizações de ID, rastreamento de pixels, destinos com base em pessoas)
 
 Familiarize-se com as seguintes tecnologias e ambientes:
 
@@ -63,7 +65,7 @@ Tecnologias:
 
 * Plataforma DSP (Trade Desk, Gerenciador de ofertas de clique duplo e assim por diante)
 * Excel
-* Tableau e ferramentas semelhantes (PowerBI, Qlik)
+* Tableau e ferramentas semelhantes (Power BI, Qlik)
 * Servidor de publicidade (gerenciador de campanhas de clique duplo)
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ Ambientes:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

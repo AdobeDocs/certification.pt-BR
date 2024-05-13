@@ -8,7 +8,7 @@ role: User
 badge: label="Exame AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 1%
@@ -41,7 +41,7 @@ ht-degree: 1%
 
 * Pesquisar gerentes de campanha de marketing
 * Pesquisar profissionais de marketing
-* Indivíduos que usam regularmente a Pesquisa para executar e gerenciar campanhas de pesquisa
+* Pessoas que usam a Pesquisa regularmente para executar e gerenciar campanhas de pesquisa
 
 <br>
 
@@ -130,7 +130,7 @@ Você também deve ter experiência trabalhando com as seguintes funções:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

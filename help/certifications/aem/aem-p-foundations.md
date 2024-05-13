@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/368) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/368) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -90,7 +90,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Aplicar conceitos de procedimento para criar componentes
 * Criar modelos editáveis
 * Criar bibliotecas de clientes
-* Atualização de conteúdo no CRX-DE Lite
+* Atualizar conteúdo no CRXDE Lite
 * Usar estrutura JCR para navegar até os nós
 * Criar fragmentos de experiência e conteúdo
 * Estender componentes principais
@@ -122,7 +122,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Esta certificação tem um pré-requisito. Você DEVE ter um Adobe ativo (não expirado) [!DNL Marketo Engage] Profissional de negócios **Especialista** Certificação para obter o Adobe [!DNL Marketo Engage] Exame de arquiteto mestre.
+>Esta certificação tem um pré-requisito. Você DEVE ter um Adobe ativo (não expirado) [!DNL Marketo Engage] Profissional de negócios **Especialista** Certificação para assumir o Adobe [!DNL Marketo Engage] Exame de arquiteto mestre.
 
 * Pré-requisito: Adobe ativo (não expirado) [!DNL Marketo Engage] Certificação de especialista em profissionais de negócios
 * Nível: mestre (3-5 anos de experiência)
@@ -145,7 +145,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

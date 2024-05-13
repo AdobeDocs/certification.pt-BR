@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/594) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/594) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -74,9 +74,9 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 Tecnologias:
 
-* Experience Cloud Debugger / também chamado de Adobe Experience Cloud Debugger
+* Experience Cloud Debugger/também chamado de Adobe Experience Cloud Debugger
 * Adobe Analytics como fonte de relatórios para o Target especificamente para integração A4T
-* Console do navegador / Ferramentas do desenvolvedor do navegador, como console, guia de rede
+* Console do navegador/Ferramentas do desenvolvedor do navegador, como console, guia Rede
 * Ferramentas de rede no navegador
 * Conhecimento básico de outras ferramentas do Adobe
 * Console do desenvolvedor (qualquer navegador da Web)
@@ -91,7 +91,7 @@ Tecnologias:
 Ambientes:
 
 * Desktop/site, incluindo desktops e dispositivos móveis
-* Aplicativo móvel (compreensão básica) / Uso do Target para dispositivos móveis
+* Aplicativo móvel (compreensão básica)/Uso do Target para dispositivos móveis
 * Preparo-desenvolvimento
 * Produção
 * Ambientes de produção em dispositivos móveis, dispositivos tablets e dispositivos de desktop
@@ -163,7 +163,7 @@ Ambientes:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

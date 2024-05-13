@@ -1,15 +1,15 @@
 ---
 title: Nova certificação profissional de desenvolvedor front-end
-description: Saiba como se tornar um profissional certificado da Adobe Developer para o Adobe [!DNL Commerce] .
+description: Saiba como se tornar um profissional certificado da Adobe Developer para o Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="Exame AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso**: Se você estiver apenas começando ou precisar de uma atualização, leve a nossa [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
+>* **Curso**: Se você estiver apenas começando ou precisar de uma atualização, use o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Isso fornece uma base de conhecimento que você pode usar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/384) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação.
+>* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/384) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -118,7 +118,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 * Descrever o uso de JS Knockout
 * Descrever o uso de widgets jQuery
 
-**Seção 5: Configuração de administração e PageBuilder (6%)**
+**Seção 5: Configuração de administração e Page Builder (6%)**
 
 * Demonstrar a capacidade de personalizar o conteúdo do Page Builder e do CMS&quot;
 * Aplicar/agendar um tema para um escopo específico (site, loja, visualização de loja)
@@ -127,7 +127,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
 **Seção 6: Ferramentas (CLI e Grunt) (8%)**
 
-* Descrever o uso de comandos básicos bin/magento
+* Descrever o uso de comandos básicos bin/Magento
 * Descrever o uso de comandos do Composer (instalar, atualizar, exigir, remover)
 * Diferenciar o caso de uso apropriado para modos de implantação
 * Descreva as ferramentas adicionais que a nuvem fornece (Fastly, download do banco de dados, implantação de conteúdo)
@@ -146,7 +146,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

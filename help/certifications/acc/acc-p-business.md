@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 1%
@@ -61,7 +61,7 @@ Você deve ter:
 * Experiência prática de configuração de workflows personalizados entre canais e envio de deliveries
 * Experiência na análise e no monitoramento de logs e erros
 * Uma compreensão de conceitos e táticas de marketing digital
-* Noções básicas sobre automação, métricas e táticas de campanha (recursos relacionados a gerenciamento de dados, serviços em nuvem, aprovações etc.)
+* Entendimento básico de automação, métricas e táticas de campanha (recursos sobre gerenciamento de dados, serviços em nuvem, aprovações e assim por diante)
 * Uma compreensão de bancos de dados relacionais básicos e de consultas de direcionamento em uma campanha
 * Experiência com HTML e personalização básicas
 * Gerenciamento de serviço de assinatura (aceitação/recusa)
@@ -97,7 +97,7 @@ Você deve ter:
 
 * Determine como modificar colunas em uma exibição para testar dados/saída
 * Descreva as finalidades das atividades de união, interseção, exclusão e split workflow targeting
-* Determinar o método apropriado para reconciliar dados, gerar um complemento, desduplicar e importar dados
+* Determine o método apropriado para reconciliar dados, gerar um complemento, desduplicar e importar dados
 * Dado um cenário, identifique qual regra de enriquecimento de dados deve ser usada
 * Dado um cenário, determine como segmentar um público e armazenar como uma lista e células
 * Dado um cenário, determine o melhor método para exportar dados para destinos configurando-os
@@ -142,7 +142,7 @@ Você deve ter:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

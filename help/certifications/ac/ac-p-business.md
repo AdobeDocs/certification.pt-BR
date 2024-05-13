@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cursos**: Pegue o [Curso Profissional de Profissional de Negócios da Adobe Commerce](https://app.rockinfo.com/courses/105) para obter explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) O fornece uma base de conhecimento que você pode utilizar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/383) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação.
+>* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/383) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -102,7 +102,7 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 
 * Identifique os usos básicos das ferramentas de Marketing digital (Google Analytics/Adobe Analytics, Gerenciador de tags da Google, marketing por email, segmentação, plug-ins sociais)
 * Explicar os princípios básicos do SEO
-* Identificar os usos básicos das ferramentas comuns de comércio eletrônico (por exemplo, como feeds de compras)
+* Identificar os usos básicos das ferramentas comuns de comércio eletrônico (como feeds de compras)
 * Identificar os principais recursos de um site de comércio eletrônico
 * Identificar os conceitos básicos de comércio eletrônico (incluindo opções de vitrine eletrônica)
 
@@ -134,7 +134,7 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

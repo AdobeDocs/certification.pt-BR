@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 1%
 * Especialista em segmentação RTCDP
 * Arquiteto de campanha
 * Especialista de Jornada do cliente
-* Desenvolvedor móvel / desenvolvedor da Web
+* Desenvolvedor móvel/desenvolvedor da Web
 
 <br>
 
@@ -83,7 +83,7 @@ O Adobe Journey Optimizer é acionado por Experience Platform. Os candidatos que
 * Dado um cenário, clientes-alvo em uma jornada de vários canais/várias etapas
 * Interpretar relatórios e depurar métricas de desempenho
 * Dado um cenário, determine os casos de uso apropriados para um tipo de jornada
-* Preparar casos de teste (por exemplo, experimentação ou jornada multicanal)
+* Preparar casos de teste (por exemplo, experimentação ou jornada de vários canais)
 
 **Seção 3: Offer decisioning (16 %)**
 
@@ -121,7 +121,7 @@ O Adobe Journey Optimizer é acionado por Experience Platform. Os candidatos que
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

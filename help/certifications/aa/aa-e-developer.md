@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exame AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/530) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/530) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 Você deve ter experiência como consultor de implementação em uma função híbrida com cerca de 2 anos de experiência no [!DNL Adobe Analytics] execução. Você atua como a ponte entre a TI e os negócios, transforma os requisitos de negócios em uma solução técnica (SDR) e, com base nos requisitos fornecidos pelo analista, entende qual tipo de variável é necessário, onde e como coletar os dados, projetar o modelo de dados (camada de dados), configurar e manter a solução de gerenciamento de tags.
 
-Você, como o Desenvolvedor do Analytics, raramente implementa as tags na página. Em vez disso, elas são implementadas pela TI ou pelo integrador de sistema.
+Você, como o Desenvolvedor do Analytics, raramente implementa as tags na página; em vez disso, elas são implementadas pela TI ou pelo integrador de sistema.
 
 Familiarize-se com as seguintes ferramentas e ambientes:
 
@@ -61,7 +61,7 @@ Ferramentas:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (Monitor de pacote, como Adobe Debugger, ferramentas de desenvolvedor de navegador, Charles)
-* [!DNL Adobe Analytics] Configurações do conjunto de relatórios do Admin Console
+* [!DNL Adobe Analytics] Configurações do conjunto de relatórios Admin Console
 * Conhecimento básico do Workspace
 * Ferramentas de desenvolvimento para web, editor de código e ferramentas de depuração móvel
 * Adobe Auditor
@@ -121,7 +121,7 @@ Ambientes:
 * Solução de problemas de erros do JavaScript
 * Solução de problemas [!DNL Adobe Analytics] variáveis
 * Práticas recomendadas de teste e depuração
-* Solucionar problemas de um [!DNL Adobe Analytics] chamada de servidor do em todo o seu ciclo de vida (ou seja, da solicitação de sinal para a exibição no relatório)
+* Solucionar problemas de um [!DNL Adobe Analytics] chamada de servidor em todo o seu ciclo de vida (ou seja, desde a solicitação de sinal até a exibição no relatório)
 
 <br>
 
@@ -145,7 +145,7 @@ Ambientes:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

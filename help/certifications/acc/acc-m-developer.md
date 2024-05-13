@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exame AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -56,14 +56,14 @@ Você deve ter:
 * A capacidade de fornecer o roteiro técnico, incluindo dependências de LEO e tarefas
 * A capacidade de fornecer informações de requisitos técnicos para o escopo e o cronograma do projeto
 * Experiência com workshops de requisitos comerciais
-* Workshops de design de solução líder de experiência
+* Experiência nos principais workshops de design de soluções
 * A capacidade de avaliar várias abordagens de solução e fornecer recomendações
 * A capacidade de revisar campanhas e processos existentes em outras plataformas para determinar as necessidades da implementação do Adobe Campaign
 * A capacidade de descrever e demonstrar os recursos e as capacidades do produto
 * A capacidade de mapear os recursos do produto para casos de alto uso
-* Experiência de suporte à equipe de pré-vendas
+* Experiência no apoio à equipe de pré-vendas
 * A capacidade de oferecer coaching no escritório (prática recomendada do produto, métricas de relatórios etc.)
-* Experiência que descreve as diferenças entre modelos de implantação
+* Experiência na descrição das diferenças entre modelos de implantação
 
 <br>
 
@@ -129,7 +129,7 @@ Você deve ter:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

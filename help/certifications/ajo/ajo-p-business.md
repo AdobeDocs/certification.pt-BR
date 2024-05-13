@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >Já estão disponíveis cursos gratuitos sob demanda para ajudá-lo a se preparar para o seu exame. Comece sua jornada de aprendizado hoje mesmo escolhendo o curso que melhor corresponde ao seu nível de experiência!
 >
->* A variável [Curso do Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) O apresenta o Adobe Experience Cloud, um conjunto completo de ferramentas de marketing digital criadas na única plataforma projetada para personalização em escala.
+>* A variável [Curso do Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) A apresenta o Adobe Experience Cloud, um conjunto completo de ferramentas de marketing digital criadas na única plataforma projetada para personalização em escala.
 >* A variável [Curso do Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113) O fornece uma base de conhecimento sobre esta aplicação específica.
 >* A variável [Curso Profissional de Profissional de Negócios da Adobe Journey Optimizer](https://app.rockinfo.com/courses/107) O se baseia no curso Fundamentos e ajuda você a se preparar para o exame de certificação de nível profissional.
 >* A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/588) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
@@ -84,8 +84,8 @@ Os candidatos devem poder:
 * Entender e usar diferentes atividades no Jornada
 * Depuração básica - Através do modo de teste ou de relatórios (nenhum serviço de consulta é necessário)
 * reunir e documentar os requisitos de jornada com a empresa
-* Conhecer as práticas recomendadas de jornadas e canais (por exemplo, melhor horário para enviar, melhor canal para usar, melhores padrões de design de jornada para diferentes casos de uso, quando usar mensagem transacional e de marketing)
-* Compreender os conceitos de capacidade de entrega (por exemplo, rejeições diferentes, aquecimento)
+* Conhecer as práticas recomendadas de jornadas e canais (por exemplo, melhor horário para enviar, melhor canal para uso, melhores padrões de design de jornada para diferentes casos de uso, quando usar mensagem transacional e de marketing)
+* Entender os conceitos de capacidade de entrega (por exemplo, diferentes Rejeições, aquecimento)
 * Compreender as regras de Frequência e Fadiga
 * Visualizar conjuntos de dados
 * Compreensão básica das identidades
@@ -167,7 +167,7 @@ Os candidatos devem também poder:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

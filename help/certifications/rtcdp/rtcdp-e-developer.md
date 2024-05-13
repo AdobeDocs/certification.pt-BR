@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Exame AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/617) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/617) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -66,7 +66,7 @@ Você deve ter:
 * Familiaridade com limites do padrão de assimilação de dados
 * Entender destinos e quais usar
 * Noções básicas sobre a estrutura de coleta de dados de borda
-* Capacidade de determinar quais permissões da AEP precisam ser configuradas (ou seja, permissões no nível do atributo) (fazer recomendações aos clientes)
+* Capacidade de determinar quais Permissões da AEP precisam ser configuradas (ou seja, permissões no nível do atributo) (fazer recomendações aos clientes)
 * Noções básicas sobre casos de uso do serviço de consulta
 * Compreensão básica do SDK de fontes/destinos
 
@@ -146,7 +146,7 @@ Você deve se sentir confortável nesses ambientes:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

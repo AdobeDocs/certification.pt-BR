@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exame AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -146,7 +146,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Reconhecer o conhecimento básico do gerenciamento de usuários na nuvem e da interface de integração
 * Descrever o gerenciamento de ambiente usando a interface
 * Descrever ramificação usando interface
-* Identificar os recursos do Adobe Commerce Cloud Plan
+* Identificar os recursos do Plano Adobe Commerce Cloud
 
 **Seção 9: [!DNL Commerce] Ferramenta Cloud CLI (parte de gerenciamento) (6%)**
 
@@ -176,7 +176,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

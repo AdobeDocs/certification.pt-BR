@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/373) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/373) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -59,7 +59,7 @@ Você deve ter:
 * Uma compreensão das alterações gerais na arquitetura e nos recursos ao mudar de qualquer serviço AEM (autogerenciado, AMS ou qualquer nuvem de terceiros) para AEM as a Cloud Service.
 * 1 a 3 anos de experiência em desenvolvimento de aplicativos web usando o Adobe [!DNL Experience Manager]
 * Experiência prática usando o AEM Forms, o Assets e o Sites
-* A capacidade de orientar os clientes durante o processo de migração, aconselhando e participando de todas as fases de um projeto AEM
+* A capacidade de orientar os clientes pelo processo de migração, orientando e participando de todas as fases de um projeto AEM
 
 Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
 
@@ -105,7 +105,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 **Seção 3: Implantação (16 %)**
 
-* Configurar pipelines do Cloud Manager e vincular o aos ambientes
+* Configurar pipelines do Cloud Manager e vincular aos ambientes
 * Provisionar ambientes do AEMaaCS (desenvolvimento, preparo, produção - criação, publicação, visualização)
 * Gerencie o processo de implantação com a ajuda da CLI do Adobe IO
 
@@ -138,7 +138,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

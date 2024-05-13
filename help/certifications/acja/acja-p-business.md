@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso:** Se você está apenas começando, ou precisa de um refrescamento, leve nossa [Curso do Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
+>* **Curso:** Se você estiver apenas começando, ou precisar de uma atualização, tome o [Curso do Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/375) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação.
+>* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/375) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -107,7 +107,7 @@ O candidato ideal minimamente qualificado é um analista com pelo menos 6 meses 
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

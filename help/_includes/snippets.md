@@ -1,5 +1,5 @@
 ---
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '1804'
 ht-degree: 0%
@@ -237,4 +237,4 @@ Nossos cursos gratuitos sob demanda ajudam você a se preparar para o seu exame.
 
 ## Guia de preparação do exame {#exam-prep-guide}
 
-O Guia de Preparação do Exame gratuito fornece um caminho personalizado através do seu processo de preparação do exame, incluindo os materiais de estudo aprofundado que você precisará para ter sucesso no seu exame.
+O Guia de Preparação do Exame gratuito fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado que você precisa para ter sucesso em seu exame.

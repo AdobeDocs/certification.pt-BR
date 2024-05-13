@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -70,10 +70,10 @@ Você deve ser um desenvolvedor de aplicativos e ter:
 
 **Seção 1: Configurações (26%)**
 
-* Reconhecer a finalidade das configurações e do armazenamento em cache do dispatcher do AEM
+* Reconhecer a finalidade das configurações e do armazenamento em cache do AEM Dispatcher
 * Determine as etapas corretas para configurar vários sites no AEM
 * Explicar como criar e gerenciar configurações de OSGi
-* Determine as etapas corretas para gerenciar índices OAK personalizados
+* Determine as etapas corretas para gerenciar os índices Oak personalizados
 * Determine as etapas corretas para configurar a integração OOTB SAML ou IMS
 
 **Seção 2: Desenvolvimento do AEM (40%)**
@@ -109,7 +109,7 @@ Você deve ser um desenvolvedor de aplicativos e ter:
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 

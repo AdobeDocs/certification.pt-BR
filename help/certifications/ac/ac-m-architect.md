@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exame AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/388) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/388) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado de que você precisa para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -82,7 +82,7 @@ Além disso, você deve estar familiarizado com as seguintes atividades e tecnol
 * Consciente da prática padrão de codificação, padrões de codificação, PSR, princípio SOLID
 * Configurar e usar [!DNL Adobe Commerce] Conector de serviços (e serviços associados)
 * Gerenciamento de conteúdo de preparo
-* Noções básicas [!DNL Adobe Commerce] padrões, quando seu&#39; disponível e não disponível
+* Noções básicas [!DNL Adobe Commerce] padrões, quando estiver disponível e não estiver disponível
 * Amplo entendimento de qualquer relacionado [!DNL Adobe Commerce] domínio
 * Projetar arquitetura de projeto
 * Otimizar o desempenho do [!DNL Adobe Commerce] padrão
@@ -138,7 +138,7 @@ Além disso, você deve estar familiarizado com as seguintes atividades e tecnol
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com o nosso material de estudo gratuito
++++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
 
 **Materiais de estudo**
 
