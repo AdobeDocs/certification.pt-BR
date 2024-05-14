@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >* A variável [Curso do Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) A apresenta o Adobe Experience Cloud, um conjunto completo de ferramentas de marketing digital criadas na única plataforma projetada para personalização em escala.
 >* A variável [Curso do Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113) O fornece uma base de conhecimento sobre esta aplicação específica.
 >* A variável [Curso Profissional de Profissional de Negócios da Adobe Journey Optimizer](https://app.rockinfo.com/courses/107) O se baseia no curso Fundamentos e ajuda você a se preparar para o exame de certificação de nível profissional.
->* A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/588) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
+>* A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/588) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo os materiais necessários para obter êxito no exame.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
