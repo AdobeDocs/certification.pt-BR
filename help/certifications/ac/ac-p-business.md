@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 06625c3d7b0672b42a71e43a62cec7c09eb02abd
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Cursos**: Pegue o [Curso Profissional de Profissional de Negócios da Adobe Commerce](https://app.rockinfo.com/courses/playScorm/620) para obter explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) O fornece uma base de conhecimento que você pode utilizar na jornada de certificação.
+>* **Cursos**: Pegue o [Curso Profissional de Profissional de Negócios da Adobe Commerce](https://app.rockinfo.com/courses/105) para obter explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) O fornece uma base de conhecimento que você pode utilizar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/383) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
+>* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/620) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
