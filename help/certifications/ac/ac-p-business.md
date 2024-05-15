@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 06625c3d7b0672b42a71e43a62cec7c09eb02abd
+source-git-commit: abdf8a41272838f408ef70fe7fc36f04477a90dd
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Cursos**: Pegue o [Curso Profissional de Profissional de Negócios da Adobe Commerce](https://app.rockinfo.com/courses/105) para obter explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) O fornece uma base de conhecimento que você pode utilizar na jornada de certificação.
+>* **Cursos**: Pegue o [Curso Profissional de Profissional de Negócios da Adobe Commerce](https://app.rockinfo.com/courses/219) para obter explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) O fornece uma base de conhecimento que você pode utilizar na jornada de certificação.
 >
 >* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/620) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
 >
@@ -150,7 +150,7 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 
 [Faça o curso Fundamentos da Adobe Commerce](https://app.rockinfo.com/courses/148)
 
-[Faça o curso profissional Adobe Commerce Business Practitioner](https://app.rockinfo.com/courses/105)
+[Faça o curso profissional Adobe Commerce Business Practitioner](https://app.rockinfo.com/courses/219)
 
 **Guia de preparação do exame**
 
