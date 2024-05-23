@@ -7,16 +7,20 @@ role: User
 badge: label="Exame AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: d9c2badb16c24d51e834841b27b2b0947bc6d889
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 3%
+source-wordcount: '508'
+ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Classic] Especialista em Profissionais de Negócios
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/630) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -128,56 +132,15 @@ Você deve ter:
 
 {{study-materials-intro}}
 
-**Seção 1: Gestão de campanhas**
-
-* [[!DNL Campaign Classic] Documentação do v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=pt-BR){target="_blank"}
-* [Introdução a campanhas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=pt-BR){target="_blank"}
-* [Sobre seed addresses](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html)
-* [Introdução a campanhas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=pt-BR)
-* [Adobe [!DNL Campaign Classic] Tutoriais do V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR)
-* [Usar uma tabela personalizada de recipient](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
-
-**Seção 2: Gerenciamento de workflow**
-
-* [Introdução ao teste A/B](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
-* [Introdução ao rastreamento de mensagens](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
-* [Introdução a workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=pt-BR){target="_blank"}
-* [Atividades de direcionamento em workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
-* [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
-
-**Seção 3: Gestão de dados**
-
-* [Esquemas de dados](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
-* [Atividades de ação em workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
-* [Introdução a processos e gerenciamento de dados](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html){target="_blank"}
-* [Identificar um formulário](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html){target="_blank"}
-* [Sobre a gestão de conteúdo](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=pt-BR){target="_blank"}
-
-
-**Seção 4: Gestão de delivery**
-
-* [Sobre integrações do Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
-* [Entrega](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=pt-BR){target="_blank"}
-* [Introdução a campanhas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=pt-BR){target="_blank"}
-* [Sobre etapas de criação de deliveries](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=pt-BR){target="_blank"}
-* [Introdução ao monitoramento de entrega](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=pt-BR){target="_blank"}
-
-**Seção 5: Relatórios**
-
-* [Sobre relatórios de deliveries](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
-* [Introdução aos relatórios](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
-
-**Seção 6: Administração**
-
-* [Princípio de configuração](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
-* [Introdução a permissões](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
-* [Sobre o gerenciamento de SFTP](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=pt-BR){target="_blank"}
-
-<br>
-
 **Fazer um teste prático**
 
 {{practice-test}}
+
+**Guia de preparação do exame**
+
+{{exam-prep-guide}}
+
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/630)
 
 +++
 

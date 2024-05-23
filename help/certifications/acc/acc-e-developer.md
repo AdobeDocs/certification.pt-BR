@@ -7,16 +7,20 @@ role: Developer
 badge: label="Exame AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: d9c2badb16c24d51e834841b27b2b0947bc6d889
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 1%
+source-wordcount: '601'
+ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Classic] Especialista em desenvolvedores
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/629) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -142,66 +146,15 @@ Você deve ter:
 
 {{study-materials-intro}}
 
-**Seção 1: Configuração do sistema**
-
-* [[!DNL Campaign Classic] Documentação do v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=pt-BR){target="_blank"}
-* [Introdução a mensagens transacionais](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html){target="_blank"}
-* [Arquitetura geral](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
-* [Introdução às integrações do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/about-campaign-integrations.html){target="_blank"}
-* [Projetar e executar campanhas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
-* [Arquitetura geral](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
-* [Opções de filtro](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/filtering-data/filtering-options.html){target="_blank"}
-* [Propriedades do fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
-
-**Seção 2: Personalização**
-
-* [Sobre a referência do esquema](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/about-schema-reference.html){target="_blank"}
-* [Projetar e executar campanhas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
-* [Sobre serviços da Web](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html){target="_blank"}
-* [Projetar e executar campanhas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
-* [Atividades de ação em workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
-* [Introdução a workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=pt-BR){target="_blank"}
-
-**Seção 3: Gerenciamento de acesso**
-
-* [Introdução a permissões](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
-* [Principais recursos](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=pt-BR){target="_blank"}
-* [Monitorar a capacidade do servidor](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html){target="_blank"}
-* [Sobre a edição de esquema](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html){target="_blank"}
-
-**Seção 4: Integração de dados**
-
-* [Contas externas](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html){target="_blank"}
-* [Implantação do FFDA no Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html){target="_blank"}
-* [Introdução à importação e exportação de dados](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=pt-BR){target="_blank"}
-* [Introdução a workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=pt-BR){target="_blank"}
-* [FTP (Classe)](https://experienceleague.adobe.com/developer/campaign-api/api/c-FTP.html){target="_blank"}
-* [Arquitetura geral](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
-
-**Seção 5: Manutenção da instância**
-
-* [Monitorar a execução do fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=pt-BR){target="_blank"}
-* [Propriedades do fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
-* [Casos de uso de fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/about-workflow-use-cases.html){target="_blank"}
-* [Guia de monitoramento - Arquitetura geral](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/introduction/general-architecture.html){target="_blank"}
-* [Introdução ao Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html){target="_blank"}
-* [Sobre o monitoramento de desempenho](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=pt-BR){target="_blank"}
-
-**Seção 6: Configuração do Campaign**
-
-* [Canais de comunicação](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
-* [Introdução à personalização](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=pt-BR){target="_blank"}
-* [Aplicações web e relatórios - abstractForm](https://experienceleague.adobe.com/developer/campaign-api/api/s-xtk-abstractForm.html){target="_blank"}
-* [Sobre serviços da Web](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html){target="_blank"}
-* [Usar uma tabela personalizada de recipient](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
-* [Sobre modelos](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=pt-BR){target="_blank"}
-* [Usar uma tabela personalizada de recipient](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
-
-<br>
-
 **Fazer um teste prático**
 
 {{practice-test}}
+
+**Guia de preparação do exame**
+
+{{exam-prep-guide}}
+
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/629)
 
 +++
 
