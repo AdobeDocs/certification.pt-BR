@@ -7,16 +7,20 @@ role: Data Architect
 badge: label="Exame AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 7a4da86f05dffd04ec46b82f8b47871c8d736723
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 1%
+source-wordcount: '620'
+ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o Adobe [!DNL Campaign Classic] Arquiteto mestre
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/635) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -135,45 +139,11 @@ Você deve ter:
 
 {{study-materials-intro}}
 
-**Seção 1: Definição da solução**
+**Guia de preparação do exame**
 
-* [Gerenciar assinaturas](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html){target="_blank"}
-* [Introdução à configuração do servidor do Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=pt-BR){target="_blank"}
-* [Introdução ao monitoramento de entrega](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=pt-BR){target="_blank"}
-* [Recomendações para dimensionamento de hardware](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
-* [Implantação independente](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=pt-BR){target="_blank"}
+{{exam-prep-guide}}
 
-**Seção 2: Cenário de dados**
-
-* [Power Boster e Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
-* [Restringir visualização de PII](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
-* [Práticas recomendadas de workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
-* [Práticas recomendadas do modelo de dados](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [Gerenciar solicitações de privacidade](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
-
-**Seção 3: Instalação e gerenciamento**
-
-* [Criação de espaços de oferta](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
-* [Conectores CRM](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
-* [Ofertas em um canal de entrada](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
-* [Trabalhar com pacotes de dados](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
-* [Contas externas](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html){target="_blank"}
-
-**Seção 4: Liderança em projetos**
-
-* [Monitorar a execução do fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=pt-BR){target="_blank"}
-* [Configurar identidade e logon único](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
-* [Mapeamento de banco de dados](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
-* [Workflow HeatMap](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
-
-**Seção 5: Personalização**
-
-* [Trabalhar com acionadores do Campaign e Experience Cloud](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=pt-BR){target="_blank"}
-* [Modelos e scripts JavaScript](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [Gerenciamento de big data no Snowflake](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html?lang=pt-BR){target="_blank"}
-* [Conectores CRM](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
-* [Interação e gestão de ofertas](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
-* [Princípio operacional](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/635)
 
 +++
 
