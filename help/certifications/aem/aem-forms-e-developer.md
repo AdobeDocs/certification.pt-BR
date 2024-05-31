@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exame AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '545'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/372) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/128) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -65,7 +65,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Criação de PDF forms (estático/dinâmico, interativo e não interativo)
 * Associação de esquema ou dados XML
 * Criar fragmento de formulário
-* Criação de um Formulário adaptável
+* Criar um formulário adaptável
 * Depuração de formulários complexos
 * Configurar e executar o envio de formulários
 * Criar e implantar instâncias de AEM para formulários adaptáveis
@@ -160,12 +160,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/372" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Exibir Guia de Preparação do Exame
-</span>
-</a>
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/128)
 
 +++
 

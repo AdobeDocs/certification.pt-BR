@@ -7,10 +7,10 @@ role: User
 badge: label="Exame AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '553'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/410) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/127) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -71,7 +71,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Fragmentos de experiência e fragmentos de conteúdo
 * Screens
 * Fluxos de trabalhos
-* Inicializações
+* Lançamentos
 * CRXDE Lite
 * Administração de usuários
 * Gerenciamento de vários sites
@@ -79,7 +79,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Controle de versão
 * Personalização e hub de contexto
 * Editor de SPA
-* Marcação com tags
+* Marcação
 * Uso do navegador
 * Compreensão geral da Web
 * Conceitos responsivos de web design
@@ -153,12 +153,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/410" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Exibir Guia de Preparação do Exame
-</span>
-</a>
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/127)
 
 +++
 
