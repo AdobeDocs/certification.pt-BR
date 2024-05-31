@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/618) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/247) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -85,12 +85,20 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 **Seção 1: Criação e gestão de programas (39 %)**
 
-* Dada a necessidade/dúvida de negócios, identifique uma estratégia de emissão de relatórios apropriada para realizar uma análise
-* Analisar dados para responder perguntas comerciais
-* Identificar funis de conversão (como um conceito para entender a análise de negócios)
-* Consulte a Referência de design de solução (SDR) para determinar quais dados estão disponíveis nos relatórios
-* Analise os dados do relatório para resumir e tirar conclusões
-* Reconhecer valores atípicos e anomalias em relatórios
+* Identifique quando usar cada um dos 4 tipos de programas.
+* Identifique por que/quando usar o programa de evento.
+* Identifique por que/quando usar o programa padrão.
+* Identificar os recursos especiais do programa de envolvimento.
+* Identifique os recursos especiais do programa de email.
+* Reconhecer o que pode ser clonado.
+* Identifique os benefícios de tags personalizadas.
+* Identifique a finalidade dos canais.
+* Descreva a importância dos Custos do Período.
+* Reconhecer o conceito de uso de pontuação de lead.
+* Noções básicas sobre limites de comunicação.
+* Reconhecimento da associação e aquisição do programa.
+* Noções básicas sobre as preferências do cliente (assinatura, comunicação).
+* Aplique as práticas recomendadas para revisão antes do lançamento.
 
 **Seção 2: Imobilizações (19 %)**
 
@@ -159,7 +167,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{exam-prep-guide}}
 
-[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/618)
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/247)
 
 +++
 
