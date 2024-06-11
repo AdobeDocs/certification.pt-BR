@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exame AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/playScorm/616) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/245) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -120,7 +120,7 @@ Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negóc
 
 {{exam-prep-guide}}
 
-[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/playScorm/616)
+[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/245)
 
 **Exemplos de perguntas**
 

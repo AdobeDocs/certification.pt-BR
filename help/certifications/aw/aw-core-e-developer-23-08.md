@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exame AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%
@@ -30,8 +30,8 @@ ht-degree: 0%
 ### Detalhes do exame {#exam-details}
 
 * Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 35/50
-* Tempo: 100 minutos
+* Pontuação de aprovação: 35/53
+* Tempo: 106 minutos
 * Delivery: on-line por encomenda (requer acesso à câmera)
 * Idiomas disponíveis: inglês
 * Custo: US$ 225 (global) / US$ 150 (Índia)
