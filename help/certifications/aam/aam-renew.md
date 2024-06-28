@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
+source-git-commit: 9724d768dc56c7bb67ae709ab623ca5ae173150f
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -316,7 +316,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 Verifique se você seguiu a etapa 1 acima e se fez logon no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} primeiro. Em seguida, para renovar sua certificação, clique no link Renovação do Adobe Audience Manager Architect Master - AD5-E825 abaixo.
 
-[!BADGE Realize o exame de renovação do mestre do Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Realize o exame de renovação do mestre do Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825&amp;cid=358899 newtab=true"}
 
 >[!NOTE]
 >
