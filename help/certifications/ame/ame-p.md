@@ -7,9 +7,9 @@ role: User
 badge: label="Exame AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
+source-git-commit: 8102211f100b326a62f51081f34db145320fe231
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/247) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
+>
+>* **Curso**: Se você estiver apenas começando ou precisar de uma atualização, use o [Curso do Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Isso fornece uma base de conhecimento que você pode usar na jornada de certificação.
+>
+>* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/247) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
+>
+>_Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -162,6 +168,12 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 **Fazer um teste prático**
 
 {{practice-test}}
+
+**Fazer um curso**
+
+{{take-course}}
+
+[Faça o curso Fundamentos da Adobe Marketo Engage](https://app.rockinfo.com/courses/261)
 
 **Guia de preparação do exame**
 
