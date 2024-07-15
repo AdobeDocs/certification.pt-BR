@@ -23,26 +23,26 @@ O Adobe usa o Exame para administrar exames monitorados online.
 
 **Siga estas etapas para se inscrever no exame de certificação:**
 
-* **Etapa 1:** Logon bem-sucedido no [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
-* **Etapa 2:** Retorne a este site e clique em Certificações técnicas.
-* **Etapa 3:** Escolha o aplicativo Adobe, o nível de certificação e a função
-* **Etapa 4:** Siga as etapas fornecidas na seção **Obter certificado** seção.
+* **Etapa 1:** fazer logon com êxito no [Sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+* **Etapa 2:** volte a este site e clique em Certificações técnicas.
+* **Etapa 3:** Escolha seu aplicativo Adobe, nível de certificação e função
+* **Etapa 4:** Siga as etapas fornecidas na seção **Obter Certificado**.
 
 **Recursos**
 
 Exame:
 
-* [Como se inscrever para um exame on-line supervisionado](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
-* [Como iniciar o exame e conectar-se ao inspetor](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
-* [Exame dos requisitos do sistema do examinador](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [Como se inscrever para um exame supervisionado online](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
+* [Como iniciar o exame e conectar-se ao fiscal](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Exame dos requisitos de sistema do tomador de teste](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
->[!TAB Fazer seu exame]
+>[!TAB Fazendo seu exame]
 
 **Seu Adobe ID**
 
-Seu [perfil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} O nome no Sistema de gerenciamento de credenciais do Adobe deve corresponder exatamente à sua ID do governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
+O nome do seu [perfil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} no Sistema de Gerenciamento de Credenciais do Adobe deve corresponder exatamente à sua ID do Governo. Se as informações não forem idênticas ou houver alguma discrepância, o promotor encerrará o exame e solicitará que você reprograme seu compromisso, além de pagar uma taxa de exame adicional.
 
-**Cancelando e reprogramando**
+**Cancelando e reagendando**
 
 Cancelamentos e reagendamento geralmente são possíveis se iniciados antes de 48 horas antes da consulta do exame agendado. Os candidatos devem modificar este compromisso.
 
@@ -52,11 +52,11 @@ Se você não conseguir reagendar o exame, mesmo que seja mais de 48 horas antes
 
 **Após o exame**
 
-Depois de concluir um exame, você recebe uma aprovação provisória ou reprovação. A pontuação final pode levar até 72 horas para ser preenchida. Você encontrará seu relatório de resultado e pontuação na guia Histórico na [Gerenciador de Credenciais Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+Depois de concluir um exame, você recebe uma aprovação provisória ou reprovação. A pontuação final pode levar até 72 horas para ser preenchida. Você encontrará seu relatório de resultados e pontuação na guia Histórico no [Gerenciador de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Se você não passar em um exame de certificação de Adobe na primeira tentativa, deve esperar pelo menos 24 horas antes de refazer o exame. A reprovação em um exame na segunda tentativa ou em qualquer tentativa subsequente requer um período de espera de 14 dias antes de refazer o exame. Cada tentativa incorre em uma taxa de exame separada.
 
->[!TAB Custo de exames]
+>[!TAB Custo dos exames]
 
 **Preços dos exames de certificação**
 
@@ -68,21 +68,21 @@ Se você não passar em um exame de certificação de Adobe na primeira tentativ
 
 **Preços de renovação**
 
-A maioria das renovações de certificação é **gratuitamente**. Para certificações que não têm uma opção de renovação gratuita, você deve refazer o exame de certificação completo para renovar sua certificação.
+A maioria das renovações de certificação são **gratuitas**. Para certificações que não têm uma opção de renovação gratuita, você deve refazer o exame de certificação completo para renovar sua certificação.
 
-**Pagar pelo seu exame**
+**Pagando o seu exame**
 
-Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação do Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 **Descontos para parceiros**
 
-Parceiros de bronze e acima obtêm descontos em todos os exames e aulas de certificação Adobe. Você pode ler mais sobre esses descontos e como acessar os benefícios do parceiro no [Portal de parceiros de soluções](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
+Parceiros de bronze e acima obtêm descontos em todos os exames e aulas de certificação Adobe. Você pode ler mais sobre esses descontos e como acessar os benefícios para parceiros no [Portal do parceiro de soluções](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
 
 **Outros descontos**
 
-Além disso, todos os candidatos podem receber um desconto em compras em massa de 10 ou mais exames quando compram por meio do [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Além disso, todos os candidatos podem receber um desconto em compras em massa de 10 ou mais exames quando compram por meio do [Centro de Cupom de Certificação do Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 **Níveis de desconto em massa**
 
@@ -101,16 +101,16 @@ O Programa de Certificação de Experiência Digital do Adobe faz parceria com f
 | Nome do Fornecedor | Descrição | Página de suporte/email |
 | ------- | ------- | ------- |
 | Credly | Sistema de gerenciamento de medalhas | [Suporte](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Exame | Testar fornecedor de entrega (somente processamento on-line) | [E-mail](mailto:support@examity.com){target="_blank"} ou 855-Exame (855-392-6489) |
-| Xvoucher - Centro de Voucher de Certificação Adobe | Centro de comprovantes para comprar comprovantes individuais ou em massa | [E-mail](mailto:support@xvoucher.com){target="_blank"} ou [Ajuda online](https://help.xvoucher.com/hc/en-us) |
+| Exame | Testar fornecedor de entrega (somente processamento on-line) | [Email](mailto:support@examity.com){target="_blank"} ou 855-Exame (855-392-6489) |
+| Xvoucher - Centro de Voucher de Certificação Adobe | Centro de comprovantes para comprar comprovantes individuais ou em massa | [Email](mailto:support@xvoucher.com){target="_blank"} ou [Ajuda online](https://help.xvoucher.com/hc/en-us) |
 
 Recursos de outros fornecedores:
 
 **Exame**
 
-* [Guia do Examinity Online Proctoring](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
+* [Examinar Guia de Compras Online](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
 * [Perguntas frequentes](https://www.examity.com/faq/test-takers/){target="_blank"}
-* [Exame dos requisitos do sistema do examinador](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [Exame dos requisitos de sistema do tomador de teste](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
 >
@@ -119,7 +119,7 @@ Recursos de outros fornecedores:
 Vídeos Úteis:
 
 * [Tomador de teste pela primeira vez](https://vimeo.com/394506654){target="_blank"}
-* [Como agendar sua reunião de teste](https://vimeo.com/394506786){target="_blank"}
+* [Como agendar seu compromisso de teste](https://vimeo.com/394506786){target="_blank"}
 * [Como reagendar sua reunião de teste](https://vimeo.com/394507149){target="_blank"}
 * [Como cancelar seu compromisso de teste](https://vimeo.com/394507135){target="_blank"}
 * [Como fazer seu teste online](https://vimeo.com/394506686){target="_blank"}
@@ -171,7 +171,7 @@ Os vouchers estarão disponíveis imediatamente após a compra se pagarem com ca
 
 +++Como faço para acessar minha conta do Xvoucher?
 
-Basta fazer login em sua conta [aqui](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+Basta fazer login na sua conta [aqui](https://www.xvoucher.com/Login.aspx){target="_blank"}.
 
 +++
 
@@ -187,16 +187,16 @@ Todas as vendas são finais. Devoluções e reembolsos não são aceitos. Os Cup
 
 +++
 
->[!TAB Gerenciar seu perfil de certificação]
+>[!TAB Gerenciando seu perfil de certificação]
 
-As seções e os links a seguir funcionarão somente após um logon bem-sucedido na [Sistema de Gerenciamento de Credenciais Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+As seções e os links a seguir funcionarão somente após um logon bem-sucedido no [sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 | Links rápidos | Descrição |
 | ------- | ------- | 
 | Sistema de gerenciamento de credenciais do Adobe | [Logon inicial no Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} |
-| Perfil | [Página de informações demográficas com local do nome da conta, endereço, empresa e assim por diante. Os nomes só podem ser atualizados por um administrador de Adobe](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
-| Identificação | [Localização da ID de Adobe/login. Normalmente começa com ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
-| Histórico | [Exibir relatório de pontuação e histórico do exame](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
+| Perfil | [Página de informações demográficas com localização da conta, nome, endereço, empresa e assim por diante. Os nomes só podem ser atualizados para um Adobe Admin](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Identificação | [Local da ID de Adobe/Login. Geralmente começa com ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
+| Histórico | [Exibir relatório de pontuação e histórico de exames](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Certificações | [Exibir todas as certificações atuais e expiradas](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 
 >[!TAB Gerenciar suas medalhas]
@@ -205,16 +205,16 @@ Depois de passar no exame de certificação, você receberá um selo digital Ado
 
 Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe Experience Cloud. Ao exibi-lo em seus perfis de redes sociais ou currículo, você pode demonstrar sua realização para potenciais empregadores e clientes e mostrar suas habilidades nesses aplicativos.
 
-**Para usuários existentes, há duas maneiras de aceitar seu selo de certificação Adobe:**
+**Para usuários existentes, há duas maneiras de aceitar seu selo de Certificação Adobe:**
 
-* **Etapa 1:** Entrar [Credly](https://www.credly.com/users/sign_in){target="_blank"}. _(Você deve usar o mesmo email usado para obter a credencial Adobe, caso contrário, você não verá seu selo.)_
-* **Etapa 2:** Ou vá para o email que você recebeu da Credly para aceitar o selo.
+* **Etapa 1:** Entrar em [Credly](https://www.credly.com/users/sign_in){target="_blank"}. _(Você deve usar o mesmo email usado para obter a credencial Adobe, caso contrário não verá sua medalha.)_
+* **Etapa 2:** Ou vá para o email recebido da Credly para aceitar o selo.
 * **Etapa 3:** Aceite e compartilhe sua medalha.
 
-**Para novos usuários, siga as instruções abaixo para aceitar seu selo de certificação Adobe:**
+**Para novos usuários, siga as instruções abaixo para aceitar seu selo de Certificação Adobe:**
 
-* **Etapa 1:** Acesse o email recebido da Credly para aceitar o selo.
-* **Etapa 2:** Crie uma conta. _(Você deve usar o mesmo email usado para obter a credencial Adobe, caso contrário, você não verá seu selo.)_
+* **Etapa 1:** Vá para o email recebido da Credly para aceitar a medalha.
+* **Etapa 2:** criar uma conta. _(Você deve usar o mesmo email usado para obter a credencial Adobe, caso contrário não verá sua medalha.)_
 * **Etapa 3:** Aceite e compartilhe sua medalha.
 
 [Saiba mais](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
@@ -223,6 +223,6 @@ Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

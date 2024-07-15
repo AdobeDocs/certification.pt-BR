@@ -7,24 +7,24 @@ exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 21%
+ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Classic] Visão geral da certificação
+# Visão geral da certificação do Adobe [!DNL Campaign Classic]
 
 **Profissional**
 
-* [Profissional de negócios](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [Profissional](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Desenvolvedor](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **Especialista**
 
-* [Profissional de negócios](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [Profissional](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [Desenvolvedor](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
-**Principal**
+**Mestre**
 
 * [Arquiteto](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.
+Visite a página [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.

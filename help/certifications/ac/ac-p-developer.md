@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Commerce] Profissional de desenvolvedor
+# Jornada de certificação para o Adobe [!DNL Commerce] Developer Professional
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Cursos:** Pegue o [Curso Profissional de Desenvolvedor do Adobe Commerce](https://app.rockinfo.com/courses/92) que inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) O fornece uma base de conhecimento que você pode utilizar na jornada de certificação.
+>* **Cursos** Faça o [Curso de Profissional para Desenvolvedores do Adobe Commerce](https://app.rockinfo.com/courses/92), que inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) fornece uma base de conhecimento que você pode usar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/136) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo os materiais necessários para obter êxito no exame.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/136) fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material necessário para obter êxito no exame.
 >
 >Se for solicitado a fazer logon, use sua Adobe ID.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ### Experiência mínima {#minimum-experience}
 
-Você deve estar confortável trabalhando no Adobe [!DNL Commerce] e ter uma compreensão básica do Adobe [!DNL Commerce] desenvolvimento administrativo, arquitetura, EAV/banco de dados, layout/interface do usuário, check-out e vendas e catálogo.
+Você deve estar confortável trabalhando no Adobe [!DNL Commerce] e ter uma compreensão básica do desenvolvimento administrativo, arquitetura, EAV/banco de dados, layout/interface do usuário, check-out e vendas do Adobe [!DNL Commerce] e catálogo.
 
 Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
 
@@ -76,7 +76,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{exam-objectives}}
 
-**Seção 1: Trabalho com o administrador (5%)**
+**Seção 1: Trabalhando com o Administrador (5%)**
 
 * Descreva como a ACL funciona com funções e recursos
 * Identifique os componentes a serem usados ao criar ou modificar o formulário/grade de administração
@@ -84,8 +84,8 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 **Seção 2: Arquitetura (29%)**
 
-* Descrever [!DNL Magento] estrutura de arquivo
-* Descrever [!DNL Magento] Comandos da CLI
+* Descrever a estrutura de arquivo [!DNL Magento]
+* Descrever comandos da CLI [!DNL Magento]
 * Descrever a funcionalidade CRON
 * Dado um cenário, descreva o uso do di.xml
 * Dado um cenário, crie controladores
@@ -95,10 +95,10 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Descrever plug-in, preferências, observadores de eventos e interceptores
 * Descrever rotas do módulo personalizado
 * Descrever substituições de URL
-* Descreva a [!DNL Magento] armazenamento em cache do sistema
+* Descrever o sistema de cache do [!DNL Magento]
 * Descrever lojas, sites e visualizações de loja (entendimento básico)
 
-**Seção 3: EAV/base de dados (13 %)**
+**Seção 3: EAV/banco de dados (13%)**
 
 * Dado um cenário, altere/adicione/remova conjuntos de atributos e/ou atributos
 * Descrever diferentes tipos de atributos
@@ -106,14 +106,14 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Descrever modelos, modelos de recursos e coleções
 * Descrever as noções básicas do Valor de atributo de entidade (EAV)
 
-**Seção 4: Layout/interface do usuário (15%)**
+**Seção 4: Layout/Interface do Usuário (15%)**
 
 * Aplicar alterações a tipos de produtos existentes e criar novos
 * Modificar e estender entidades existentes do catálogo
 * Demonstrar a capacidade de gerenciar índices e personalizar a saída de preços
 * Explicar como o inventário de várias origens afeta o estoque (nível de programa)
 
-**Seção 5: Check-out e vendas (8%)**
+**Seção 5: Finalização e vendas (8%)**
 
 * Descrever componentes do carrinho
 * Descrever uma regra promocional de carrinho
@@ -122,7 +122,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Dado um cenário, configure os métodos de pagamento e envio
 * Dado um cenário, configure regras de imposto, moedas, carrinho e/ou check-out
 
-**Seção 6: Catálogo (8%)**
+**Seção 6: Catálogo(8%)**
 
 * Identificar as noções básicas de gerenciamento de categorias e gerenciamento de produtos
 * Descrever tipos de produto
@@ -131,27 +131,27 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 **Seção 7: Adobe [!DNL Commerce] Arquitetura em nuvem (12%)**
 
-* Definir Adobe [!DNL Commerce] fluxo de trabalho de arquitetura/ambiente
+* Definir o fluxo de trabalho de arquitetura/ambiente do Adobe [!DNL Commerce]
 * Descrever arquivos, permissões e estrutura do projeto na nuvem
-* Listar serviços disponíveis no Adobe [!DNL Commerce] na nuvem
+* Listar serviços disponíveis no Adobe [!DNL Commerce] na Nuvem
 * Descrever como acessar diferentes tipos de logs
 * Descrever as etapas de aplicação de patches (Identifique em qual pasta colocar patches)
 * Descreva como manter e atualizar as ferramentas ECE
 * Identifique quando ligar para o suporte *Arquivos e limitações Yaml (tíquetes DIY versus Suporte)
 
-**Seção 8: Configurar o Adobe [!DNL Commerce] Nuvem (4%)**
+**Seção 8: Configurar/Configurar Adobe [!DNL Commerce] Nuvem (4%)**
 
-* Identificar como instalar/configurar o Adobe [!DNL Commerce] Nuvem
+* Identifique como instalar/configurar o Adobe [!DNL Commerce] Cloud
 * Definir a solução de problemas básica da nuvem (hierarquia da interface do usuário da Web e variáveis, precedência de configurações)
 * Reconhecer o conhecimento básico do gerenciamento de usuários na nuvem e da interface de integração
 * Descrever o gerenciamento de ambiente usando a interface
 * Descrever ramificação usando interface
 * Identificar os recursos do Plano Adobe Commerce Cloud
 
-**Seção 9: [!DNL Commerce] Ferramenta Cloud CLI (parte de gerenciamento) (6%)**
+**Seção 9: [!DNL Commerce] Ferramenta de CLI da nuvem (parte de gerenciamento) (6%)**
 
-* Descreva os recursos exclusivos do Adobe [!DNL Commerce] Ferramenta Cloud CLI (recursos exclusivos da CLI: ativar emails, ambientes de rebase, instantâneo, despejo de banco de dados, configuração de ambiente local)
-* Descreva a ramificação usando o Adobe [!DNL Commerce] Ferramenta Cloud CLI
+* Descreva os recursos exclusivos da ferramenta CLI da nuvem do Adobe [!DNL Commerce] (recursos exclusivos da CLI: ativar emails, ambientes de rebase, instantâneo, despejo de banco de dados, configuração de ambiente local)
+* Descreva a ramificação usando a ferramenta Adobe [!DNL Commerce] Cloud CLI
 * Identificar maneiras de se conectar aos serviços em nuvem? (My SQL, Redis, tunnel:info)
 
 <br>
@@ -160,7 +160,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
 
 <br>
 
@@ -204,7 +204,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 </span>
 </a>
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -263,6 +263,6 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

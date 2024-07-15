@@ -1,6 +1,6 @@
 ---
 title: Certificação Developer Expert
-description: Saiba como se tornar um Adobe certificado Adobe Developer Expert [!DNL Campaign Standard].
+description: Saiba como se tornar um Adobe do Adobe Developer Expert certificado  [!DNL Campaign Standard].
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Campaign Standard] Especialista em desenvolvedores
+# Jornada de certificação para o especialista em desenvolvedores do Adobe [!DNL Campaign Standard]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/256) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/256) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado necessário para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 Você deve ter:
 
-* Pelo menos dois anos de Adobe [!DNL Campaign Standard] experiência com software
+* Pelo menos dois anos de experiência em software Adobe [!DNL Campaign Standard]
 * Pelo menos dois anos de experiência relevante em campanhas de marketing digital de vários canais e desenvolvimento da Web (como REST API)
 * A capacidade de executar tarefas no Adobe Campaign, incluindo desenvolvimento de modelo, fluxos de trabalho técnicos, desenvolvimento de esquema e integrações, e de monitorar a instância usando o painel de controle do Campaign
 * Experiência no trabalho em um ambiente de entrega de canal (email, correspondência direta, celular e redes sociais)
@@ -79,7 +79,7 @@ Você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1: Modelização e gestão de dados (26 %)**
+**Seção 1: Modelagem e gerenciamento de dados (26%)**
 
 * Dado um cenário, transformar um requisito do cliente em um recurso personalizado
 * Determine como configurar definições de tela e filtro
@@ -88,7 +88,7 @@ Você deve ter:
 * Solução de problemas de modelagem de dados
 * Determine a abordagem correta para criar workflows técnicos
 
-**Seção 2: Gestão de campanhas (50%)**
+**Seção 2: Gerenciamento de campanha (50%)**
 
 * Solução de problemas de erros de fluxo de trabalho
 * Determine a abordagem correta para criar campanhas
@@ -116,7 +116,7 @@ Você deve ter:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -142,11 +142,11 @@ Você deve ter:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
-[Guia de preparação do exame](https://app.rockinfo.com/courses/256)
+[Guia de Preparação do Exame](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -201,6 +201,6 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

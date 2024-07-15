@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional de profissional de negócios
-description: Saiba como se tornar um certificado [!DNL Adobe Target] Profissional de negócios.
+description: Saiba como se tornar um Profissional Profissional de Profissionais  [!DNL Adobe Target]  certificado.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Target] Profissional de Profissional de Negócios
+# Jornada de certificação para o Profissional de Profissional de Negócios [!DNL Adobe Target]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/235) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/235) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -96,16 +96,16 @@ Você deve ter:
 * Descrever procedimentos para realizar o controle de qualidade da atividade
 * Descrever procedimentos para gerenciar Atividades e públicos no Target
 
-**Seção 3: Análise e relatórios (16 %)**
+**Seção 3: Análise e relatórios (16%)**
 
 * Descrever configurações para ajudar a definir os elementos que aparecem em um relatório
-* Descreva a diferença no [!DNL Adobe Target] Configurações da Calculadora de Tamanho de Amostra entre o planejamento e a validação
+* Descreva a diferença nas configurações da Calculadora de Tamanho da Amostra [!DNL Adobe Target] entre planejamento e validação
 * Descrever problemas comuns associados ao teste A/B
 * Identificar a diferença entre os relatórios de Resumo do Automated Personalization e os outros relatórios
 * Descreva os recursos dos relatórios de desempenho da experiência (MVT)
 * Descreva as práticas recomendadas que devem ser seguidas na execução do teste A/B
 
-**Seção 4: Solução de problemas (8%)**
+**Seção 4: Solução de Problemas (8%)**
 
 * Dado um cenário, identifique problemas de qualificação de atividade
 * Identificar os recursos das ferramentas de depuração do navegador (incluindo o Experience Cloud Debugger)
@@ -135,7 +135,7 @@ Você deve ter:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -196,6 +196,6 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Workfront] Visão geral da certificação
+# Visão geral da certificação do Adobe [!DNL Workfront]
 
 ## Todos os exames disponíveis para o Adobe [!DNL Workfront]
 
@@ -23,6 +23,6 @@ ht-degree: 0%
 **Especialista**
 
 * [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
-* [Conector aprimorado para AEM](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [Conector aprimorado do AEM](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.
+Visite a página [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.

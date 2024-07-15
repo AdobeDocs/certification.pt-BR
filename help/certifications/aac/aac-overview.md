@@ -1,40 +1,40 @@
 ---
-title: Visão geral da certificação de publicidade
+title: Visão geral da certificação da Advertising
 description: Visão geral das opções de certificação para o Adobe Advertising
 solution: Advertising
 product: Advertising Cloud
-exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 2%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
 # Visão geral da certificação Adobe Advertising
 
-O Adobe oferece várias certificações para profissionais de negócios de publicidade.  Essas páginas contêm todas as informações necessárias para começar a usar a jornada de certificação ou renovar a certificação existente.
+O Adobe oferece várias certificações para profissionais de negócios da Advertising.  Essas páginas contêm todas as informações necessárias para começar a usar a jornada de certificação ou renovar a certificação existente.
 
 ## Certificações
 
 **Profissional**
 
-* [Profissional de negócios (pesquisa)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [Profissional(a) de Negócios (Pesquisa)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [Profissional de negócios (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 ## Renovação
 
-Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.
+Visite a página [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.
 
 ## Recursos
 
-Para obter mais informações sobre esses produtos, use [business.adobe.com](https://business.adobe.com/) links,
+Para obter mais informações sobre esses produtos, use estes links [business.adobe.com](https://business.adobe.com/),
 
-* [Plataforma de demanda de Adobe Advertising (DSP)](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"}
-* [Pesquisa Adobe Advertising](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
+* [Plataforma de demanda (DSP)](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"} do Adobe Advertising
+* [Pesquisa de Adobe Advertising](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

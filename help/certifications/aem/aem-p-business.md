@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional de profissional de negócios
-description: Saiba como se tornar um Profissional de negócios certificado no Adobe [!DNL Experience Manager].
+description: Saiba como se tornar um Profissional Profissional de Negócios certificado no Adobe [!DNL Experience Manager].
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager] Profissional de Profissional de Negócios
+# Jornada de certificação para o profissional de business practice do Adobe [!DNL Experience Manager]
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso:** Se você estiver apenas começando, ou precisar de uma atualização, tome o [Curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
+>* **Curso:** se você está apenas começando ou precisa de uma atualização, faça o [curso do Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acessar explicações dos principais conceitos, apresentações do produto e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/122) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/122) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
 >
->_Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>_Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -62,7 +62,7 @@ Você deve ter:
 * Pelo menos 0 a 12 meses de experiência com os recursos de AEM necessários para envolver os desenvolvedores a encontrar soluções de negócios
 * Pelo menos 0 a 12 meses de experiência na configuração, implementação e gerenciamento das tarefas de Integração contínua/Implantação contínua
 
-Você deve se sentir confortável trabalhando no Adobe Managed Services e no Adobe [!DNL Experience Manager] as a Cloud Service e capaz de configurar o Adobe [!DNL Experience Manager] ambientes e infraestrutura.
+Você deve se sentir confortável trabalhando no Adobe Managed Services e no Adobe [!DNL Experience Manager] as a Cloud Service, e pode configurar ambientes e a infraestrutura do Adobe [!DNL Experience Manager].
 
 Além disso, você deve ter:
 
@@ -76,7 +76,7 @@ Além disso, você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1: Educação (22 %)**
+**Seção 1: Educação (22%)**
 
 * Identificar recursos e características do AEM
 * Descreva os recursos do AEM que atendem às necessidades da empresa
@@ -89,7 +89,7 @@ Além disso, você deve ter:
 * Identificar onde definir funções e permissões
 * Dado um cenário, defina abordagens de cache disponíveis
 
-**Seção 3: Análise de negócios (43%)**
+**Seção 3: Análise Comercial (43%)**
 
 * Dado um cenário, identifique módulos padrão de AEM que abordem os problemas de negócios do cliente
 * Identificar conceitos de gerenciamento de conteúdo para módulos AEM
@@ -98,7 +98,7 @@ Além disso, você deve ter:
 * Dado um cenário, descreva uma abordagem correta para atender às metas de negócios, mantendo-se dentro do orçamento e/ou escopo
 * Identificar maneiras de conectar metas de negócios à equipe de desenvolvimento
 
-**Seção 4: Configuração e implementação (13%)**
+**Seção 4: Instalação e implementação (13%)**
 
 * Identificar as práticas recomendadas de AEM para usar componentes de conteúdo
 * Dado um cenário, identifique a implementação correta de um recurso
@@ -129,7 +129,7 @@ Além disso, você deve ter:
 
 [Faça o curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -200,6 +200,6 @@ Além disso, você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

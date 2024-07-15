@@ -2,15 +2,15 @@
 title: Visão geral da certificação do Target
 description: Visão geral das opções de certificação para o Adobe Target
 solution: Target
-exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 18%
+ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Target] Visão geral da certificação
+# Visão geral da certificação [!DNL Adobe Target]
 
 **Profissional**
 
@@ -18,10 +18,10 @@ ht-degree: 18%
 
 **Especialista**
 
-* [Profissional de negócios](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [Profissional](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
-**Principal**
+**Mestre**
 
 * [Arquiteto](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
-Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.
+Visite a página [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.

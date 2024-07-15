@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Target] Especialista em Profissionais de Negócios
+# Jornada de certificação para [!DNL Adobe Target] especialista do profissional de negócios
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/236) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/236) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -56,12 +56,12 @@ Os candidatos pretendidos para esta certificação incluem membros das seguintes
 Você deve ter:
 
 * Mais de 2 anos de experiência com plataformas de otimização, incluindo [!DNL Adobe Target]
-* Experiência prática com [!DNL Adobe Target]
+* Experiência prática com o [!DNL Adobe Target]
 * Mais de 2 anos de experiência que leva/contribui para programas de otimização
 * Uma compreensão das noções básicas das tarefas administrativas do Target/Adobe Marketing Cloud (preferências, funções e permissões de usuário, configurações)
 * A capacidade de entender e traduzir KPIs de negócios em metas de otimização
 * A capacidade de fazer sugestões com base na avaliação das necessidades
-* A capacidade de determinar as [!DNL Adobe Target] tipos de atividade com base em metas de otimização
+* A capacidade de determinar os tipos de atividade [!DNL Adobe Target] apropriados com base nas metas de otimização
 * Conhecimento de como o HTML e o CSS podem ser usados para otimizar a experiência do usuário
 * Noções básicas do JavaScript como um conceito
 * Conhecimento dos conceitos estatísticos e da análise de dados no que se refere à otimização
@@ -79,8 +79,8 @@ Tecnologias:
 * Console do navegador/Ferramentas do desenvolvedor do navegador, como console, guia Rede
 * Ferramentas de rede no navegador
 * Conhecimento básico de outras ferramentas do Adobe
-* Console do desenvolvedor (qualquer navegador da Web)
-* [!DNL Adobe Target] calculadora de amostra
+* Developer Console (qualquer navegador da Web)
+* Calculadora de amostra [!DNL Adobe Target]
 * Fundamentos do Adobe Audience Manager
 * Adobe Experience Cloud (como origem de público-alvo para o Target)
 * Adobe Experience Manager
@@ -134,16 +134,16 @@ Ambientes:
 * Aplicar procedimentos para conduzir o Controle de qualidade da atividade
 * Aplicar procedimentos para gerenciar Atividades e públicos no Target
 
-**Seção 3: Análise e relatórios (17 %)**
+**Seção 3: Análise e relatórios (17%)**
 
 * Definir e avaliar configurações de relatório para ajudar a definir os elementos que aparecem em um relatório
-* Avaliar e comparar [!DNL Adobe Target] Configurações da Calculadora de tamanho de amostra ao planejar atividades do Target e validar relatórios de atividades do Target
+* Avaliar e comparar as configurações da Calculadora de tamanho da amostra do [!DNL Adobe Target] ao planejar atividades do Target e validar os relatórios de atividades do Target
 * Avalie e identifique problemas comuns associados ao teste A/B e como evitá-los
 * Entenda como os relatórios de Resumo do Automated Personalization diferem de outros relatórios
 * Avaliar relatórios de desempenho da experiência (MVT)
 * Determine a variação vencedora com base no aumento observado, nos níveis de confiança e nos objetivos de negócios
 
-**Seção 4: Solução de problemas (10%)**
+**Seção 4: Solução de Problemas (10%)**
 
 * Diagnosticar problemas de qualificação de atividade
 * Usar as ferramentas de depuração do navegador (incluindo o Experience Cloud Debugger) para verificar a implementação
@@ -173,7 +173,7 @@ Ambientes:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -243,6 +243,6 @@ Ambientes:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

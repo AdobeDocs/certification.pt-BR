@@ -1,6 +1,6 @@
 ---
 title: Certificação de especialistas
-description: Saiba como se tornar um Adobe de certificado [!DNL Experience Manager] especialista.
+description: Saiba como se tornar um Adobe [!DNL Experience Manager] especialista certificado.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager] Especialista as a Cloud Service em migração
+# Jornada de certificação para especialista em migração as a Cloud Service do Adobe [!DNL Experience Manager]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/129) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/129) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ### Público-alvo {#intended-audience}
 
-* Desenvolvedores com experiência com o Adobe [!DNL Experience Manager]
+* Desenvolvedores com experiência no Adobe [!DNL Experience Manager]
 * Desenvolvedores que participaram de pelo menos uma migração na nuvem
-* Adobe [!DNL Experience Manager] Desenvolvedores de sites
-* Adobe [!DNL Experience Manager] Arquiteto de sites
-* Adobe [!DNL Experience Manager] Desenvolvedores de ativos
-* Adobe [!DNL Experience Manager] Desenvolvedores do Forms
-* Desenvolvedores/DevOps/Líderes/Arquitetos que participaram de várias implantações de AEM com um mínimo de 2 a 3 anos de experiência em desenvolvimento de aplicativos da Web usando o Adobe [!DNL Experience Manager]
+* Desenvolvedores do Adobe [!DNL Experience Manager] Sites
+* Arquiteto de sites do Adobe [!DNL Experience Manager]
+* Desenvolvedores do Adobe [!DNL Experience Manager] Assets
+* Desenvolvedores do Adobe [!DNL Experience Manager] Forms
+* Desenvolvedores/DevOps/Líderes/Arquitetos que participaram de várias implantações de AEM com um mínimo de 2 a 3 anos de experiência em desenvolvimento de aplicativos Web usando o Adobe [!DNL Experience Manager]
 
 <br>
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 Você deve ter:
 
-* Uma compreensão das alterações gerais na arquitetura e nos recursos ao mudar de qualquer serviço AEM (autogerenciado, AMS ou qualquer nuvem de terceiros) para AEM as a Cloud Service.
+* Uma compreensão das alterações gerais na arquitetura e nos recursos ao mudar de qualquer serviço AEM (autogerenciado, AMS ou qualquer nuvem de terceiros) para o AEM as a Cloud Service.
 * 1 a 3 anos de experiência em desenvolvimento de aplicativos web usando o Adobe [!DNL Experience Manager]
 * Experiência prática usando o AEM Forms, o Assets e o Sites
 * A capacidade de orientar os clientes pelo processo de migração, orientando e participando de todas as fases de um projeto AEM
@@ -67,15 +67,15 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Ferramentas de conversão de fluxo de trabalho
 * Ferramentas do Dispatcher
 * Rede de entrega de conteúdo (CDN)
-* Analisador de práticas recomendadas
+* Analisador de Práticas Recomendadas
 * Modernização do AEM
 * Navegador do repositório
-* Console do desenvolvedor
+* Developer Console
 * Ferramenta de mapeamento de usuário para IMS Adobe
 * Ferramenta de comando de E/S
 * New Relic
 * SDK da nuvem local
-* Serviço de desenvolvimento, preparo, produção, autor, publicação e visualização
+* Desenvolvimento, preparo, autor de produção, Publish e serviço de visualização
 * Configuração do Dispatcher local usando o Docker
 * Logs da nuvem de rejeito no ambiente local
 * Interfaces do console da nuvem
@@ -86,7 +86,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{exam-objectives}}
 
-**Seção 1: Avaliação (32 %)**
+**Seção 1: Avaliação (32%)**
 
 * Uso do BPA
 * Preparar e estimar um plano de migração
@@ -103,13 +103,13 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Preparar configuração para microsserviços de ativos
 * Explicar a estratégia de armazenamento em cache
 
-**Seção 3: Implantação (16 %)**
+**Seção 3: Implantação (16%)**
 
 * Configurar pipelines do Cloud Manager e vincular aos ambientes
 * Provisionar ambientes do AEMaaCS (desenvolvimento, preparo, produção - criação, publicação, visualização)
 * Gerencie o processo de implantação com a ajuda da CLI do Adobe IO
 
-**Seção 4: Migração (20 %)**
+**Seção 4: Migração (20%)**
 
 * Executar testes
 * Preparar uma estratégia de migração de ativos
@@ -117,7 +117,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Executar ferramentas de migração (transferência de conteúdo, modernização, refatoração). Relatar e refinar resultados, especialmente resultados críticos não tratados por ferramentas
 * Planejar o suporte pós ativação
 
-**Seção 5: Execução (16 %)**
+**Seção 5: Implementação (16%)**
 
 * Mesclar vários projetos em um único projeto para serem implantados por meio do pipeline de Adobe
 * Gerenciar scripts de repointit para permissão de usuário/grupo
@@ -148,7 +148,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -207,6 +207,6 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

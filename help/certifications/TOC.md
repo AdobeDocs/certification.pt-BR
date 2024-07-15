@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificação na Adobe
 breadcrumb-title: Certificação na Adobe
-user-guide-description: Saiba mais sobre [!DNL Experience Cloud] Certificação na Adobe. Descubra o que ser certificado pode fazer por você.
+user-guide-description: Saiba mais sobre a  [!DNL Experience Cloud] Certificação no Adobe. Descubra o que ser certificado pode fazer por você.
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 33%
+ht-degree: 28%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 33%
 + [Renovar sua certificação](renew.md)
 + Certificações técnicas por solução {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
-      + [Visão geral da publicidade](/help/certifications/aac/aac-overview.md)
+      + [Visão geral do Advertising](/help/certifications/aac/aac-overview.md)
       + Profissional {#aac-professional}
          + [Profissional de negócios (pesquisa)](/help/certifications/aac/aac-search-p-business.md)
          + [Profissional de negócios (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
@@ -31,7 +31,7 @@ ht-degree: 33%
       + Especialista {#aa-expert}
          + [Profissional de negócios](/help/certifications/aa/aa-e-business.md)
          + [Desenvolvedor](/help/certifications/aa/aa-e-developer.md)
-      + Principal {#aa-master}
+      + Mestre {#aa-master}
          + [Arquiteto](/help/certifications/aa/aa-m-architect.md)
       + [Renovação](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
@@ -46,7 +46,7 @@ ht-degree: 33%
          + [Profissional de negócios](/help/certifications/aam/aam-p-business.md)
       + Especialista {#aam-expert}
          + [Profissional de negócios](/help/certifications/aam/aam-e-business.md)
-      + Principal {#aam-master}
+      + Mestre {#aam-master}
          + [Arquiteto](/help/certifications/aam/aam-m-architect.md)
       + [Renovação](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
@@ -57,7 +57,7 @@ ht-degree: 33%
       + Especialista {#acc-expert}
          + [Profissional de negócios](/help/certifications/acc/acc-e-business.md)
          + [Desenvolvedor](/help/certifications/acc/acc-e-developer.md)
-      + Principal {#acc-master}
+      + Mestre {#acc-master}
          + [Arquiteto](/help/certifications/acc/acc-m-developer.md)
       + [Renovação](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
@@ -76,7 +76,7 @@ ht-degree: 33%
          + [Profissional de negócios](/help/certifications/ac/ac-e-business.md)
          + [Desenvolvedor](/help/certifications/ac/ac-e-developer.md)
          + [Desenvolvedor front-end](/help/certifications/ac/ac-e-fedeveloper0623.md)
-      + Principal {#ac-master}
+      + Mestre {#ac-master}
          + [Arquiteto](/help/certifications/ac/ac-m-architect.md)
       + [Renovação](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Document Cloud] {#adc}
@@ -98,7 +98,7 @@ ht-degree: 33%
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
          + [Desenvolvedor (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
          + [Migração do Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
-      + Principal {#aem-master}
+      + Mestre {#aem-master}
          + [Arquiteto (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Renovação](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
@@ -107,7 +107,7 @@ ht-degree: 33%
          + [Profissional certificado](/help/certifications/ame/ame-p.md)
       + Especialista {#ame-expert}
          + [Profissional de negócios](/help/certifications/ame/ame-e-business.md)
-      + Principal {#ame-master}
+      + Mestre {#ame-master}
          + [Arquiteto](/help/certifications/ame/ame-m-architect-23-08.md)
       + [Renovação](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
@@ -130,7 +130,7 @@ ht-degree: 33%
          + [Profissional de negócios](/help/certifications/at/at-p-business.md)
       + Especialista {#at-expert}
          + [Profissional de negócios](/help/certifications/at/at-e-business.md)
-      + Principal {#at-master}
+      + Mestre {#at-master}
          + [Arquiteto](/help/certifications/at/at-m-architect0623.md)
       + [Renovação](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}

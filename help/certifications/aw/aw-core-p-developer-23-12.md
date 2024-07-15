@@ -1,6 +1,6 @@
 ---
 title: Certificação Core Developer Professional
-description: Saiba como se tornar um profissional certificado da Adobe Developer no Adobe [!DNL Workfront].
+description: Saiba como se tornar um Profissional Adobe Developer certificado no Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Exame AD0-E908" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Workfront] Desenvolvedor Profissional Principal
+# Jornada de certificação para o Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Novo curso disponível:** A variável [Desenvolvedor do Adobe Workfront Core - Curso profissional](https://app.rockinfo.com/courses/231) O inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento.
+>* **Novo curso disponível:** O [Adobe Workfront Core Developer - Professional course](https://app.rockinfo.com/courses/231) inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/238) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo os materiais necessários para obter êxito no exame.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/238) fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material necessário para obter êxito no exame.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 * Gerenciador de recursos
 * Analista
 * Especialista de TI
-* [!DNL Workfront] consultor/lead de implementação
+* [!DNL Workfront] consultor/líder de implementação
 
 <br>
 
@@ -65,12 +65,12 @@ Embora esse exame não exija conhecimento de codificação/programação, ele re
 
 Os candidatos qualificados devem também ter:
 
-* Experiência com o Adobe [!DNL Workfront] funcionalidade e conectividade por meio de entrada, aprovação, planejamento, execução e emissão de relatórios
-* Conhecimento profundo do Adobe [!DNL Workfront] tipos de objetos, incluindo formulários personalizados e fluxos de trabalho de aprovação, modelos, durações, esforço de trabalho/horas planejadas
-* Conhecimento profundo do Adobe [!DNL Workfront] Configuração, incluindo níveis de acesso, modelos de layout, preferências de projeto e outros métodos para obter simplicidade de design do usuário final
+* Experiência com a funcionalidade e conectividade do Adobe [!DNL Workfront] por meio de entrada, aprovação, planejamento, execução e relatórios
+* Conhecimento profundo dos tipos de objetos Adobe [!DNL Workfront], incluindo formulários personalizados e fluxos de trabalho de aprovação, modelos, durações, esforço de trabalho/horas planejadas
+* Conhecimento profundo da configuração do Adobe [!DNL Workfront], incluindo níveis de acesso, modelos de layout, preferências de projeto e outros métodos para obter simplicidade de design para o usuário final
 * Noções básicas e experiência com mapeamento de processos
-* Compreensão de Adobe diferente [!DNL Workfront] personas e como participar do suporte
-* Familiaridade com conectores nativos e outros Adobe [!DNL Workfront] produtos e serviços
+* Noções básicas sobre personalidades diferentes do Adobe [!DNL Workfront] e como entrar em suporte
+* Familiaridade com conectores nativos e outros produtos e serviços do Adobe [!DNL Workfront]
 * Familiaridade com o gerenciamento de projetos, incluindo conceitos de gerenciamento ágil e em cascata e de recursos
 
 <br>
@@ -79,19 +79,19 @@ Os candidatos qualificados devem também ter:
 
 {{exam-objectives}}
 
-**Seção 1: Estratégia e consumo (23 %)**
+**Seção 1: Estratégia e Entrada (23%)**
 
 * Usar Portfolio e programas
 * Usar filas de solicitações
 * Usar Forms personalizado
 * Usar aprovações básicas
 
-**Seção 2: Orçamento e planejamento (11%)**
+**Seção 2: Orçamento e Planejamento (11%)**
 
 * Usar o Planejador de recursos
 * Dado um cenário/conjunto de requisitos, aplique as configurações para definir um modelo de projeto
 
-**Seção 3: Experiência do usuário (25%)**
+**Seção 3: Experiência do Usuário (25%)**
 
 * Ilustrar as práticas recomendadas para gerenciamento de usuários na criação da experiência do usuário correta
 * Dado um cenário, aplique a configuração correta para direitos de compartilhamento e acesso em todo o sistema
@@ -99,20 +99,20 @@ Os candidatos qualificados devem também ter:
 * Demonstrar como criar e usar folhas de horas
 * Descrever a finalidade e o valor dos conectores, plug-ins e complementos
 
-**Seção 4: Métricas e relatórios (16%)**
+**Seção 4: Métricas e Relatórios (16%)**
 
 * Descrever conceitos básicos para criar, enviar e personalizar relatórios
 * Explicar como criar e personalizar painéis
 * Demonstrar como configurar exibições funcionais de relatórios
 
-**Seção 5: Execução (24 %)**
+**Seção 5: Execução (24%)**
 
 * Demonstrar como configurar workflows de aprovação e prova
 * Reconhecer a finalidade de criação de um problema para um projeto
 * Demonstrar como personalizar status de projeto de nível de grupo
-* Identifique os atributos necessários para habilitar o Agile no [!DNL Workfront]
+* Identifique os atributos necessários para habilitar o Agile em [!DNL Workfront]
 * Identificar as maneiras de inserir horas em [!DNL Workfront]
-* Identificar os elementos do rastreamento financeiro no [!DNL Workfront]
+* Identificar os elementos de rastreamento financeiro em [!DNL Workfront]
 
 <br>
 
@@ -144,7 +144,7 @@ Os candidatos qualificados devem também ter:
 
 [Faça o curso Adobe Workfront Core Developer - Professional](https://app.rockinfo.com/courses/231)
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -203,6 +203,6 @@ Os candidatos qualificados devem também ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

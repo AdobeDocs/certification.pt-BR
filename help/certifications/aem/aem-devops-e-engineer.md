@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/126) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/126) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 Você deve ter:
 
-* Pelo menos 1 a 3 anos de experiência no uso e configuração do Adobe Cloud Manager
+* Pelo menos 1 a 3 anos de experiência ao usar e configurar o Adobe Cloud Manager
 * Pelo menos dois anos de experiência na configuração, implementação e gerenciamento de tarefas de Integração contínua/Implantação contínua
 
 Você deve se sentir confortável trabalhando no Adobe Managed Services e no Adobe Experience Manager as a Cloud Service e pode configurar ambientes e a infraestrutura do Adobe Experience Manager.
@@ -68,7 +68,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * CLI DO ADOBE IO
 * Git CLI
 * Ferramentas de transição para a nuvem
-* Conversor do Dispatcher
+* conversor Dispatcher
 * Modernizador de repositório
 * Preparo e produção de desenvolvimento
 * Sandbox de desenvolvimento
@@ -80,28 +80,28 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{exam-objectives}}
 
-**Seção 1: Configurar o Adobe Experience Manager (18%)**
+**Seção 1: Configurar Adobe Experience Manager (18%)**
 
 * Determine o método correto para definir as configurações fundamentais do Adobe Experience Manager
 * Dado um cenário, solucione problemas do Adobe Experience Manager
 * Determine o método correto para configurar o OSGi
 
-**Seção 2: Operar a API do Cloud Manager e do Cloud Manager (20%)**
+**Seção 2: Operar API Cloud Manager e Cloud Manager (20%)**
 
-* Determine o método correto para gerenciar as configurações de ambientes do Cloud Manager por meio da interface
+* Determine o método correto para gerenciar configurações de ambientes do Cloud Manager por meio da interface
 * Determine o método correto para provisionar programas e ambientes no Cloud Manager
 * Determine o método correto para migrar para o Adobe Experience Manager as a Cloud Service
 * Determine o método correto para configurar integrações no Adobe I/O
 
-**Seção 3: Configurar a infraestrutura de proxy da Web (12%)**
+**Seção 3: configurar a infraestrutura de proxy da Web (12%)**
 
 * Determine o método correto para gerenciar as configurações do Dispatcher
 * Dado um cenário, solucionar problemas de cache
 
-**Seção 4: criação e implantações (28%)**
+**Seção 4: Compilação e implantações (28%)**
 
 * Determine o método correto para gerenciar implantações do Cloud Manager
-* Dado um cenário, analisar o estado de um pipeline do Cloud Manager
+* Dado um cenário, analise o estado de um pipeline do Cloud Manager
 * Determine o método correto para gerenciar pacotes de conteúdo em várias instâncias do Adobe Experience Manager
 * Determine o método correto para fazer alterações em arquivos Maven para oferecer suporte a pipelines
 
@@ -110,7 +110,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Determine o método correto para coletar métricas e relatórios de desempenho
 * Determine o método correto para dimensionar a infraestrutura
 
-**Seção 6: Explorar o Admin Console (8%)**
+**Seção 6: Operar o Admin Console (8%)**
 
 * Determine o método correto para enviar uma solicitação de suporte no Admin Console
 * Determine o método correto para configurar o SSO federado e sincronizar usuários e grupos do Adobe Experience Manager
@@ -119,7 +119,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
 
 <br>
 
@@ -141,7 +141,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{study-materials-intro}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -211,6 +211,6 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional de profissional de negócios
-description: Saiba como se tornar certificado como um Adobe [!DNL Audience Manager] Profissional de negócios.
+description: Saiba como se tornar um profissional Adobe [!DNL Audience Manager] profissional de prática de negócios.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Audience Manager] Profissional de Profissional de Negócios
+# Jornada de certificação para o profissional de business practice do Adobe [!DNL Audience Manager]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/245) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/245) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -76,22 +76,22 @@ Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negóc
 * Dado um cenário, identifique sinais, características, segmentos e públicos
 * Identificar os usos de diferentes tipos de características
 
-**Seção 3: Relatórios e medições (16 %)**
+**Seção 3: Relatórios e Medidas (16%)**
 
 * Dado um cenário, gerar relatórios para medir a ativação ou as metas da campanha
 * Dado um cenário, compare os públicos com base nas taxas de correspondência
 
-**Seção 4: Solução de problemas (10%)**
+**Seção 4: Solução de Problemas (10%)**
 
 * Dado um cenário, solucione problemas de dados de entrada de diferentes fontes e tipos de origem
 * Validar formato para arquivos de dados de entrada
 
-**Seção 5: Taxonomia (12 %)**
+**Seção 5: Taxonomia (12%)**
 
 * Determine a estrutura apropriada para criar características e segmentos que utilizam uma nomenclatura clara e consistente
 * Determine a técnica correta para manter uma plataforma organizada usando uma estrutura de pastas limpa
 
-**Seção 6: Mesclagem de perfis, Sincronização de ID e Audience Marketplace (14%)**
+**Seção 6: Mesclagem de Perfis, Sincronização de ID e Audience Marketplace (14%)**
 
 * Organize as características do usuário em um perfil unificado para criar públicos-alvo domésticos ou baseados em dispositivos
 * Identificar ativação usando o Audience Marketplace
@@ -116,7 +116,7 @@ Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negóc
 
 {{study-materials-intro}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -175,7 +175,7 @@ Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negóc
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
 

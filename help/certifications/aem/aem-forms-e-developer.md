@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional do desenvolvedor de back-end do AEM Forms
-description: Saiba como se tornar um Adobe de certificado [!DNL Experience Manager Forms] desenvolvedor de back-end Expert.
+description: Saiba como se tornar um especialista certificado em desenvolvedores de back-end do Adobe [!DNL Experience Manager Forms] .
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager Forms] Especialista em desenvolvedores
+# Jornada de certificação para o especialista em desenvolvedores do Adobe [!DNL Experience Manager Forms]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/128) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/128) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -75,11 +75,11 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Conhecimento básico do AEM Forms Workbench (JEE) para criar processos e serviços de longa duração e curta duração.
 * Desenvolver clientlibs do JavaScript usando a API do GuideBridge
 * Com base no CAC de sign v government, saiba qual desktop ou servidor de ambiente AEM Forms deve ser usado
-* Conhecimento básico do Java/J2EE e JavaScript para escrever lógica e chamar serviços diferentes.
+* Compreensão básica do Java/J2EE e JavaScript para escrever lógica e chamar serviços diferentes.
 * Preencher previamente um formulário adaptável
 * Noções básicas ou conhecimento de OSGi, componentes do Sling
 * Uso de serviços de documento
-* Designer de AEM, AEM workbench, AEM workspace
+* AEM Designer, AEM AEM workbench, workspace
 * Console de formulários adaptáveis
 * Ferramentas Java IDE
 * Maven
@@ -91,12 +91,12 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{exam-objectives}}
 
-**Seção 1: Criação e gerenciamento de Forms (36%)**
+**Seção 1: criação e gerenciamento de Forms (36%)**
 
 * Criar Forms
 * Configurar o modelo de dados do Forms
 * Personalizar o AEM Forms
-* Desenvolver e usar a ClientLib do JavaScript usando a API do GuideBridge
+* Desenvolver e usar a ClientLib do JavaScript utilizando a API do GuideBridge
 
 **Seção 2: Processos e fluxos de trabalho (34%)**
 
@@ -112,7 +112,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Solucionar problemas e diferenciar arquivos de registro
 * Executar atividades de administração
 * Aplicar Service Packs
-* Executar a configuração do Dispatcher do AEM para Forms
+* Executar a configuração do AEM Dispatcher para o Forms
 * Navegar em diferentes consoles
 
 **Seção 4: Endpoints e integrações de API (8%)**
@@ -120,7 +120,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Integrar ao Adobe Experience Cloud
 * Gerar e consumir vários serviços de ponto de extremidade
 
-**Seção 5: Comunicação interativa (4 %)**
+**Seção 5: Comunicação Interativa (4%)**
 
 * Projetar, demonstrar e implementar processos para a comunicação interativa
 
@@ -130,7 +130,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -156,7 +156,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -215,6 +215,6 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

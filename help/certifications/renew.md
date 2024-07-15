@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Para manter sua certificação Adobe, você deve renová-la a cada 2 anos. Se você não renovar sua certificação antes de expirar, precisará fazer o exame de certificação completo novamente para obter a certificação novamente.
 
-Visualize suas certificações atuais e expiradas no **Certificações** , na guia [Sistema de Gerenciamento de Credenciais Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+Adobe Exiba suas certificações atuais e expiradas na guia **Certificações**, no [sistema de Gerenciamento de Credenciais](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
 ## Como renovo minha certificação?
 
@@ -57,6 +57,6 @@ As certificações encontradas nos links abaixo podem ser renovadas gratuitament
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

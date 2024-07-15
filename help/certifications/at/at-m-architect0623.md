@@ -1,6 +1,6 @@
 ---
 title: Nova certificação do Architect Master
-description: Saiba como se tornar um certificado [!DNL Adobe Target] Arquiteto mestre.
+description: Saiba como se tornar um arquiteto mestre  [!DNL Adobe Target]  certificado.
 solution: Target
 product: Target
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Target] Arquiteto mestre
+# Jornada de certificação para o arquiteto mestre [!DNL Adobe Target]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/237) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/237) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 Os candidatos pretendidos para esta certificação incluem membros das seguintes equipes/organizações:
 
 * Engenheiro/arquiteto de otimização de taxa de conversão
-* Engenheiro/arquiteto de personalização
+* Engenheiro/arquiteto do Personalization
 * Arquiteto de soluções digitais
 * Consultor de transformação digital
 * Líder de otimização de experiência
@@ -61,7 +61,7 @@ Você deve ter:
 * Pelo menos três anos de experiência em otimização de marketing digital
 * Pelo menos dois anos de experiência (ou cinco contratos) na implementação, implantação e solução de problemas do Adobe Target
 * Experiência de integração do Target com a Adobe Experience Cloud
-* Entendimento fundamental do JavaScript, HTML, CSS e desenvolvimento de front-end na Web
+* Entendimento fundamental do desenvolvimento para JavaScript, HTML, CSS e front-end na Web
 * Familiaridade com as APIs/SDKs do Adobe Target/reconhecimento dessas APIs, integração no lado do servidor, relatórios e administração
 * Conhecimento da implementação do Adobe Target com estruturas de aplicativo de página única (SPA), dispositivos móveis e email e recomendações.
 
@@ -95,45 +95,46 @@ Ambientes:
 
 **Seção 1: [!DNL Adobe Target] fundamentos (13%)**
 
-* Identifique o [!DNL Adobe Target] uso para um determinado cenário
-* Explicar as tecnologias fundamentais de um [!DNL Adobe Target] implementação
+* Identificar o uso apropriado de [!DNL Adobe Target] para um determinado cenário
+* Explicar as tecnologias fundamentais de uma implementação do [!DNL Adobe Target]
 
-**Seção 2: Integração com o [!DNL Adobe Target] (18 %)**
+**Seção 2: Integração com [!DNL Adobe Target] (18%)**
 
-* Aplicar o processo para integrar [!DNL Adobe Target] com Adobe Analytics (A4T)
-* Aplicar o processo para integrar [!DNL Adobe Target] para o Adobe Experience Manager
+* Aplicar o processo para integrar [!DNL Adobe Target] ao Adobe Analytics (A4T)
+* Aplicar o processo para integrar [!DNL Adobe Target] ao Adobe Experience Manager
 * Descrever a integração com as soluções da Adobe Experience Cloud e da Adobe Experience Platform
 * Descrever a integração com o Adobe Experience Cloud Audiences
 
-**Seção 3: [!DNL Adobe Target] administração e governação (6 %)**
+**Seção 3: [!DNL Adobe Target] administração e governança (6%)**
 
-* Definir uma configuração [!DNL Adobe Target] estratégia de implementação e governança do sistema
+* Definir uma estratégia de implementação e governança do sistema em andamento para o [!DNL Adobe Target]
 * Aplicar o processo e as práticas recomendadas para gerenciar usuários
 * Descrever os aspectos administrativos da configuração de implementação
 
-**Seção 4: [!DNL Adobe Target] e pontos de contato suportados (6%)**
+**Seção 4: [!DNL Adobe Target] e pontos de contato com suporte (6%)**
 
 * Descrever a implementação da entrega no lado do cliente
 * Descrever a implementação da entrega do lado do servidor
 * Descrever os requisitos de implementação para dispositivos móveis, direcionamento de email e APIs
 
-**Seção 5: Aproveitamento [!DNL Adobe Target] recomendações (11 %)**
+**Seção 5: Aproveitar [!DNL Adobe Target] recomendações (11%)**
 
 * Demonstrar uma compreensão das recomendações, catálogos e critérios
 * Aplicar o processo para configurar as recomendações do Target
 
-**Seção 6: Arquiteto, projeto e implementação [!DNL Adobe Target] (18 %)**
+**Seção 6: arquitetar, projetar e implementar o [!DNL Adobe Target] (18%)**
 
-* Selecione a implementação correta da Solicitação do Target (Global, Confirmação de pedido, Híbrido) Avaliar e projetar um [!DNL Adobe Target] implementação
-* Descrever a implementação do [!DNL Adobe Target] em aplicativos móveis nativos
+* Selecione a implementação correta da Solicitação do Target (Global, Confirmação de pedido, Híbrido)
+Avaliar e projetar uma implementação do [!DNL Adobe Target]
+* Descrever a implementação de [!DNL Adobe Target] em aplicativos nativos para dispositivos móveis
 
-**Seção 7: Solução de problemas (28%)**
+**Seção 7: Solução de Problemas (28%)**
 
 * Solução de problemas de erros de mbox
 * Solução de problemas de erros de solicitação e resposta do Target
 * Solução de problemas de erros de configuração de atividades
 * Entender erros de integração
-* Solução de problemas [!DNL Adobe Target] Erros do Recommendations
+* Solução de problemas de [!DNL Adobe Target] erros do Recommendations
 
 <br>
 
@@ -159,7 +160,7 @@ Ambientes:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -218,6 +219,6 @@ Ambientes:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

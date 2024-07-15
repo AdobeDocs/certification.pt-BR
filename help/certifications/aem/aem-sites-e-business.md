@@ -1,6 +1,6 @@
 ---
 title: Certificação Business Practitioner Expert
-description: Saiba como se tornar um especialista profissional de negócios certificado em [!DNL Experience Manager Sites].
+description: Saiba como se tornar um especialista profissional de negócios certificado em  [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager Sites] Especialista em Profissionais de Negócios
+# Jornada de certificação para Adobe [!DNL Experience Manager Sites] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/127) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/127) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -60,7 +60,7 @@ Você deve ter:
 * Experiência com recursos e capacidades de AEM necessários para envolver desenvolvedores a encontrar soluções de negócios
 * A capacidade de usar produtos AEM para gerenciar conteúdo e impulsionar experiências digitais
 * Uma compreensão de quais módulos estão presentes
-* Uma visão mais profunda de módulos como o [!DNL Sites], [!DNL Assets], e [!DNL Forms]
+* Uma visão mais profunda de módulos como [!DNL Sites], [!DNL Assets] e [!DNL Forms]
 
 Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
 
@@ -77,7 +77,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Gerenciamento de vários sites
 * Ferramentas de monitoramento
 * Controle de versão
-* Personalização e hub de contexto
+* Personalization e hub de contexto
 * Editor de SPA
 * Marcação
 * Uso do navegador
@@ -90,7 +90,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{exam-objectives}}
 
-**Seção 1: Educação (22 %)**
+**Seção 1: Educação (22%)**
 
 * Listar recursos e funcionalidades relevantes do AEM
 * Recomenda-se como aproveitar os recursos do AEM para atender às necessidades da empresa
@@ -103,7 +103,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Determine como definir funções e permissões
 * Descrever abordagens de armazenamento em cache
 
-**Seção 3: Análise de negócios (38%)**
+**Seção 3: Análise Comercial (38%)**
 
 * Mapear módulos padrão de AEM para diferentes problemas de negócios do cliente
 * Aplicar conceitos de gerenciamento de conteúdo a módulos AEM
@@ -112,7 +112,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Determine como atingir as principais metas de negócios e, ao mesmo tempo, manter-se dentro do orçamento e/ou escopo
 * Determine como as perguntas dos desenvolvedores devem ser respondidas em relação às metas de negócios
 
-**Seção 4: Configuração e implementação (16%)**
+**Seção 4: Instalação e Implementação (16%)**
 
 * Determine como configurar e usar componentes de conteúdo para mostrar as práticas recomendadas do AEM
 * Verificar a implementação correta dos recursos e localizar e descrever os erros que ocorrem
@@ -123,7 +123,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -149,7 +149,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -219,6 +219,6 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

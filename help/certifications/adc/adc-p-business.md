@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Document Cloud] Profissional de Profissional de Negócios
+# Jornada de certificação para o Profissional de Profissional de Negócios [!DNL Adobe Document Cloud]
 
 {{intro}}
 
@@ -48,9 +48,9 @@ ht-degree: 0%
 
 Você deve ter:
 
-* Pelo menos 0-12 meses de experiência [!DNL Adobe Document Cloud]
+* Pelo menos 0-12 meses de experiência em [!DNL Adobe Document Cloud]
 * Ser capaz de identificar e comunicar as necessidades dos negócios
-* Ser capaz de executar as recomendações de ativação do produto no [!DNL Adobe Document Cloud] soluções.
+* Ser capaz de executar o aviso de habilitação do produto nas soluções do [!DNL Adobe Document Cloud].
 
 <br>
 
@@ -58,23 +58,23 @@ Você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1: Detecção de casos de uso (36%)**
+**Seção 1: Descoberta de Caso de Uso (36%)**
 
 * Faça perguntas qualificativas para identificar oportunidades de Document Cloud
 * Definir casos de uso de negócios de alto nível
 
-**Seção 2: Avaliação de processos de negócios (34%)**
+**Seção 2: Avaliação do Processo Empresarial (34%)**
 
 * Identificar as principais áreas de aprimoramento de processos e adequação a soluções
 * Alinhe as metas de negócios com os recursos de Document Cloud
 * Fornecer demonstrações de alto nível focadas no usuário final de diferentes componentes do Document Cloud
 
-**Seção 3: Definir recursos de Document Cloud (DC) (18%)**
+**Seção 3: Definir Recursos de Document Cloud (DC) (18%)**
 
 * Descrever as implicações das necessidades de conformidade e segurança dos documentos e da assinatura eletrônica
 * Descrever como a alteração de processo agrega valor
 
-**Seção 4: Solução recomendada (12%)**
+**Seção 4: Solução Recomendada (12%)**
 
 * Design de solução de Document Cloud recomendado
 
@@ -98,40 +98,40 @@ Você deve ter:
 
 {{study-materials-intro}}
 
-**Seção 1: Descoberta de caso de uso**
+**Seção 1: Descoberta de Caso de Uso**
 
-* [Visão geral dos serviços de documento](https://developer.adobe.com/document-services/docs/overview/){target="_blank"}
+* [Visão Geral dos Serviços de Documento](https://developer.adobe.com/document-services/docs/overview/){target="_blank"}
 * [Bem-vindo a uma experiência de documento totalmente nova](https://www.adobe.com/documentcloud.html){target="_blank"}
-* [API de geração de documento do Adobe](https://developer.adobe.com/document-services/apis/doc-generation){target="_blank"}
+* [API de Geração de Documentos Adobe](https://developer.adobe.com/document-services/apis/doc-generation){target="_blank"}
 * [Casos de uso da API de serviços da Acrobat](https://developer.adobe.com/document-services/use-cases/agreements-and-contracts/legal-contracts/){target="_blank"}
 * [Veja como a Acrobat Sign pode acelerar seus negócios](https://www.adobe.com/sign.html){target="_blank"}
 * [Recurso do Adobe Acrobat Sign](https://www.adobe.com/sign/features.html){target="_blank"}
 
-**Seção 2: Avaliação do processo de negócios**
+**Seção 2: Avaliação do Processo Empresarial**
 
-* [API de extração do Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
-* [API de serviços do PDF](https://developer.adobe.com/document-services/docs/apis/){target="_blank"}
-* [Guia de introdução ao Adobe Acrobat Sign](https://helpx.adobe.com/sign/using/get-started-guide.html){target="_blank"}
-* [Formulários web do Adobe Acrobat Sign](https://helpx.adobe.com/sign/config/web-forms.html){target="_blank"}
-* [API incorporada do Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-* [PDF e ferramentas de assinatura eletrônica para sua empresa. A Acrobat entendeu.](https://www.adobe.com/acrobat/business.html){target="_blank"}
-* [Guia do usuário do Adobe Acrobat](https://helpx.adobe.com/br/acrobat/user-guide.html){target="_blank"}
-* [Visão geral das integrações - Novidades](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
-* [Assinaturas on-line seguras e flexíveis](https://www.adobe.com/sign/online-signature.html){target="_blank"}
+* [API de Extração do Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
+* [API de Serviços PDF](https://developer.adobe.com/document-services/docs/apis/){target="_blank"}
+* [Guia de Introdução do Adobe Acrobat Sign](https://helpx.adobe.com/sign/using/get-started-guide.html){target="_blank"}
+* [Formulários Web do Adobe Acrobat Sign](https://helpx.adobe.com/sign/config/web-forms.html){target="_blank"}
+* [API Incorporada do Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
+* [ferramentas de PDF e assinatura eletrônica para sua empresa. O Acrobat conseguiu.](https://www.adobe.com/acrobat/business.html){target="_blank"}
+* [Guia do Usuário do Adobe Acrobat](https://helpx.adobe.com/br/acrobat/user-guide.html){target="_blank"}
+* [Visão geral das integrações- Novidades](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
+* [Assinaturas online seguras e flexíveis](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
-**Seção 3: Definir recursos de Document Cloud (DC)**
+**Seção 3: Definir Recursos de Document Cloud (DC)**
 
-* [Certificações, padrões e regulamentos de conformidade Adobe](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
-* [Adobe Sign para ciências biomédicas](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
-* [Conformidade vem como padrão](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
+* [Certificações, Padrões e Regulamentos de Conformidade Adobe](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
+* [Adobe Sign para Ciências Biomédicas](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
+* [A Conformidade Vem Como Padrão](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
 * [O que é uma assinatura digital?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [O impacto econômico total do Adobe Sign](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
-* [Refaça a imagem das experiências do documento com APIs PDF projetadas para desenvolvedores](https://developer.adobe.com/document-services){target="_blank"}
-* [Limitar visibilidade do documento](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
+* [Refaça a imagem das experiências do documento com as APIs de PDF projetadas para desenvolvedores](https://developer.adobe.com/document-services){target="_blank"}
+* [Limitar Visibilidade de Documento](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
 **Seção 4: Solução recomendada**
 
-* [Visão geral sobre a segurança das APIs de serviços da Adobe Acrobat](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
+* [Visão Geral sobre a Segurança das APIs do Adobe Acrobat Services](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
 * [Introdução às APIs de serviços da Acrobat](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
 * [Automação do Adobe Acrobat e fluxos de trabalho de documentos](https://helpx.adobe.com/acrobat/kb/automation-and-document-workflows.html){target="_blank"}
 * [Bem-vindo a uma experiência de documento totalmente nova.](https://www.adobe.com/documentcloud.html){target="_blank"}
@@ -197,6 +197,6 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

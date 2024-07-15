@@ -6,8 +6,8 @@ hidefromtoc: true
 exl-id: 23d948de-7d3d-4ccf-a55f-51bf117a41c8
 source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 3%
+source-wordcount: '487'
+ht-degree: 5%
 
 ---
 
@@ -25,8 +25,8 @@ Use a tabela abaixo para ver os exames qualificados para o programa de reinicial
 | Adobe Certified Expert - Profissional de negócios da Adobe Experience Manager Sites | Profissional de negócios da Adobe Experience Manager Sites | AD0-E102 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 | Adobe Certified Expert - Desenvolvedor do Adobe Experience Manager Sites | Desenvolvedor do Adobe Experience Manager Sites | AD0-E103 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 | Adobe Certified Expert - Desenvolvedor do Adobe Experience Manager Sites | Desenvolvedor do Adobe Experience Manager Sites | AD0-E116 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Principal - arquiteto de Adobe Experience Manager Sites | Adobe Experience Manager Sites Architect | AD0-E117 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Principal - arquiteto de Adobe Experience Manager Sites | Adobe Experience Manager Sites Architect | AD0-E104 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E117 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E104 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Analytics]
 
@@ -34,15 +34,15 @@ Use a tabela abaixo para ver os exames qualificados para o programa de reinicial
 | --- | --- | --- | --- |
 | Adobe Certified Expert - Profissional de negócios da Adobe Analytics | Profissional de negócios da Adobe Analytics | AD0-E202 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 | Adobe Certified Expert - Desenvolvedor do Adobe Analytics | Desenvolvedor do Adobe Analytics | AD0-E201 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Principal - arquiteto de Adobe Analytics | Adobe Analytics Architect | AD0-E207 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Principal - arquiteto de Adobe Analytics | Adobe Analytics Architect | AD0-E200 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E207 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E200 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Audience Manager]
 
 | Nome da certificação | Nome do exame | ID do exame | Mais informações |
 | --- | --- | --- | --- |
-| Adobe Certified Principal - Adobe Audience Manager Architecture ( com certificação de - arquitetura) | Adobe Audience Manager Architect | AD0-E454 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Principal - arquiteto de Adobe Audience Manager | Adobe Audience Manager Architect | AD0-E452 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Audience Manager Architecture (Mestre certificado - arquitetura) | Adobe Audience Manager Architect | AD0-E454 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Audience Manager Architect | Adobe Audience Manager Architect | AD0-E452 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 | Adobe Certified Expert - Profissional de negócios da Adobe Audience Manager | Profissional de negócios da Adobe Audience Manager | AD0-E453 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Campaign Classic]
@@ -51,8 +51,8 @@ Use a tabela abaixo para ver os exames qualificados para o programa de reinicial
 | --- | --- | --- | --- |
 | Adobe Certified Expert - Profissional de negócios da Adobe Campaign Classic | Profissional de negócios da Adobe Campaign Classic | AD0-E300 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 | Adobe Certified Expert - Profissional de negócios da Adobe Campaign Classic | Profissional de negócios da Adobe Campaign Classic | AD0-E114 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Principal - arquiteto de Adobe Campaign Classic | Adobe Campaign Classic Architect | AD0-E118 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Principal - arquiteto de Adobe Campaign Classic | Adobe Campaign Classic Architect | AD0-E303 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Campaign Classic Architect | Adobe Campaign Classic Architect | AD0-E118 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Campaign Classic Architect | Adobe Campaign Classic Architect | AD0-E303 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 | Adobe Certified Expert - Desenvolvedor do Adobe Campaign Classic | Desenvolvedor do Adobe Campaign Classic | AD0-E312 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 | Adobe Certified Expert - Desenvolvedor do Adobe Campaign Classic | Desenvolvedor do Adobe Campaign Classic | AD0-E308 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
@@ -76,6 +76,6 @@ Use a tabela abaixo para ver os exames qualificados para o programa de reinicial
 
 | Nome da certificação | Nome do exame | ID do exame | Mais informações |
 | --- | --- | --- | --- |
-| Adobe Certified Principal - arquiteto de Adobe Target | Adobe Target Architect | AD0-E402 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Master - Adobe Target Architect | Adobe Target Architect | AD0-E402 | [link](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!ENDTABS]

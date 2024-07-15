@@ -1,6 +1,6 @@
 ---
 title: Certificação de profissional de negócios
-description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Especialista em Profissionais de Negócios
+description: Saiba como se tornar certificado como um  [!DNL Adobe Analytics] especialista em prática de negócios
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Analytics] Especialista em Profissionais de Negócios
+# Jornada de certificação para [!DNL Adobe Analytics] especialista do profissional de negócios
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/220) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/220) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -67,15 +67,15 @@ Você deve ter:
 * A capacidade de comunicar resultados e pode propor uma linha de ação com base na análise de relatórios
 * Ajudou os clientes a entender como extrair/extrair as informações desejadas (por exemplo, ajudá-los a definir suas perguntas comerciais)
 * Uma compreensão de como a tecnologia funciona e compreende a implementação de um cliente (por exemplo, onde os dados se encontram, como eles podem ser coletados, como eles são rastreados) de um ponto de vista funcional
-* Pelo menos um ano de [!DNL Adobe Analytics] experiência prática
+* Pelo menos um ano de experiência prática de [!DNL Adobe Analytics]
 * Uma compreensão básica de como o Digital Analytics está filtrando/estruturando dados
-* A sensibilização para a integração das [!DNL Adobe Analytics] com outras soluções Adobe
+* Conhecimento da integração do [!DNL Adobe Analytics] com outras soluções de Adobe
 
 Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
 
 * Cliente FTP
-* Atual [!DNL Adobe Analytics] Recursos do Workspace e outras opções de relatório fora do Workspace (por exemplo, agendar projetos e agendar relatórios)
-* Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (Monitor de pacote, como um Adobe Debugger, ferramentas de desenvolvedor de navegador, Charles)
+* Recursos atuais do Workspace [!DNL Adobe Analytics] e outras opções de relatório fora do Workspace (por exemplo, agendar projetos e agendar relatórios)
+* Ferramentas de depuração relevantes para [!DNL Adobe Analytics] (monitor de pacote, como Adobe Debugger, ferramentas de desenvolvedor de navegador, Charles)
 * Admin Console (Admin Console e Admin Console Experience Cloud do conjunto de relatórios do Analytics)
 * Fundamentos/noções básicas do Adobe Launch
 * Aplicativos, SPA, noções básicas sobre sites
@@ -89,7 +89,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{exam-objectives}}
 
-**Seção 1: Noções básicas do Analytics no ecossistema da Adobe Experience Cloud (10%)**
+**Seção 1: Noções básicas sobre o Analytics no ecossistema da Adobe Experience Cloud (10%)**
 
 * Demonstrar conhecimento sobre a utilização da Adobe Experience Cloud ID
 * Demonstrar compreensão do Adobe Launch
@@ -115,19 +115,19 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Aplicar segmentos a projetos e componentes
 * Aplicar o processo para gerar métricas calculadas e/ou segmentadas
 
-**Seção 4: Conhecimento geral e solução de problemas da ferramenta (12%)**
+**Seção 4: conhecimento geral e solução de problemas da ferramenta (12%)**
 
 * Analise relatórios e identifique problemas de qualidade de dados
-* Definir diferentes tipos de dimensões e parâmetros existentes no [!DNL Adobe Analytics] (eVars, propriedades e eventos)
-* Determine como inserir e retirar dados [!DNL Adobe Analytics]
+* Definir diferentes tipos de dimensões e parâmetros existentes em [!DNL Adobe Analytics] (eVars, propriedades e eventos)
+* Determinar como trazer e trazer dados de [!DNL Adobe Analytics]
 * Identificar informações de URLs de marketing
 
 **Seção 5: Administração (10%)**
 
-* Aplique o processo para configurar o [!UICONTROL Canal de marketing] relatórios com [!UICONTROL Canal de marketing] regras de processamento
+* Aplique o processo para configurar os relatórios do [!UICONTROL Canal de marketing] com as regras de processamento do [!UICONTROL Canal de marketing]
 * Aplicar o processo para configurar o Importador de classificação e o Construtor de regras
 * Aplicar o processo para configurar um conjunto de relatórios virtual com base em um segmento existente
-* Use o [!UICONTROL Feed de dados] Interface do administrador do gerente
+* Usar a interface do administrador do [!UICONTROL Feed de dados]
 * Noções básicas sobre governança de dados
 
 <br>
@@ -136,7 +136,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
 
 <br>
 
@@ -162,7 +162,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -232,7 +232,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
 

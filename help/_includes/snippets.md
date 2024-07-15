@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->A partir de 1º de agosto de 2023, a programação dos exames não estará mais disponível com o PSI. Se você já tiver programado um exame com PSI, deverá fazê-lo antes de 1º de agosto de 2023. Se você tiver programado um exame com PSI após 1º de agosto de 2023, reprograme seu exame para ser realizado antes dessa data. Se você não puder ou não estiver preparado para fazer seu exame antes de 1º de agosto de 2023, envie um email para <certif@adobe.com> para que possamos apoiá-lo na transferência do exame para o Exame. Isso inclui exames de língua japonesa.
+>A partir de 1º de agosto de 2023, a programação dos exames não estará mais disponível com o PSI. Se você já tiver programado um exame com PSI, deverá fazê-lo antes de 1º de agosto de 2023. Se você tiver programado um exame com PSI após 1º de agosto de 2023, reprograme seu exame para ser realizado antes dessa data. Se você não puder ou não estiver preparado para fazer o exame antes de 1º de agosto de 2023, envie um email para <certif@adobe.com> para que possamos dar suporte à transferência do exame para o Exame. Isso inclui exames de língua japonesa.
 
 <!--divider-->
 
@@ -49,13 +49,13 @@ Essas etapas orientam você pelo processo de certificação do início ao fim.
 
 >[!IMPORTANT]
 >
-> **ID do governo necessária:** É NECESSÁRIO usar uma ID de foto emitida pelo governo como forma válida de ID. Cópias eletrônicas ou IDs digitais não são permitidas. <br><br> **Nome da conta do Adobe ID:** O nome da sua conta do Adobe ID DEVE corresponder ao seu nome na ID do governo. Para atualizar o nome da sua conta Adobe ID, envie um email para <certif@adobe.com>. Solicite esta correção **72 horas de antecedência**. Se os nomes não corresponderem no momento do exame, você precisará se inscrever em um novo exame por um custo adicional.
+> **ID do governo necessário:** Você DEVE usar uma ID com foto emitida pelo governo como sua forma válida de ID. Cópias eletrônicas ou IDs digitais não são permitidas. <br><br> **Nome da conta do Adobe ID:** O nome da sua conta do Adobe ID DEVE corresponder ao seu nome na ID do governo. Para atualizar o nome da sua conta Adobe ID, envie um email para <certif@adobe.com>. Solicite esta correção com **72 horas de antecedência**. Se os nomes não corresponderem no momento do exame, você precisará se inscrever em um novo exame por um custo adicional.
 
-Você deve ter uma Adobe ID para agendar e fazer seu exame. Se você não tiver uma Adobe ID, poderá criar uma [aqui](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Você deve ter uma Adobe ID para agendar e fazer seu exame. Se você não tiver uma Adobe ID, crie uma [aqui](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
 É necessário ter uma Adobe ID por três motivos:
 
-* Você precisará de uma Adobe ID para criar e fazer logon na [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} conta. É aqui que você pode visualizar suas certificações, o histórico dos exames, as pontuações dos exames e informações adicionais.
+* Você precisará de uma Adobe ID para criar e fazer logon em sua conta do [Sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}. É aqui que você pode visualizar suas certificações, o histórico dos exames, as pontuações dos exames e informações adicionais.
 * Você deve estar conectado ao Sistema de Gerenciamento de Credenciais do Adobe para criar e fazer logon em sua conta do Exame. É aqui que você vai agendar, pagar e fazer o seu teste.
 * Você deve estar conectado ao Sistema de Gerenciamento de Credenciais do Adobe para fazer testes práticos no Portal Preparação do Exame de Certificação do Adobe.
 
@@ -69,7 +69,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 
 >[!NOTE]
 >
->Alguns links nesta seção só funcionarão depois que você fizer logon na [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Reserve um momento para fazer login agora.
+>Alguns links nesta seção só funcionarão depois que você fizer logon no [Sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Reserve um momento para fazer login agora.
 
 <!--divider-->
 
@@ -89,9 +89,9 @@ Lembre-se de que a aprovação em um teste prático não garante que você será
 
 Para fazer o teste de prática:
 
-1. Primeiro, faça logon na [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} com sua Adobe ID.
+1. Primeiro, faça logon no [Sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} com sua Adobe ID.
 
-2. Em seguida, acesse o [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} para encontrar o teste prático.
+2. Em seguida, acesse o [Portal de Preparação para Exames de Certificação do Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} para encontrar o teste prático.
 
 <!--divider-->
 
@@ -99,21 +99,21 @@ Para fazer o teste de prática:
 
 >[!NOTE]
 >
->Alguns nesta seção só funcionarão depois que você fizer logon na [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Reserve um momento para fazer login agora.
+>Alguns nesta seção só funcionarão depois que você fizer logon no [Sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Reserve um momento para fazer login agora.
 
-**Entrega do exame**
+**Entrega de exame**
 
 O Adobe usa um fornecedor chamado Exame para administrar exames programados e monitorados. Todos os novos exames de certificação são supervisionados. Os exames de renovação são sob demanda e não são monitorados.
 
-**Agendar, reagendar ou cancelar exame**
+**Agendar, reagendar ou cancelar o exame**
 
 Para programar, reprogramar ou cancelar o exame:
 
-1. Primeiro, faça logon na [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} com sua Adobe ID.
+1. Primeiro, faça logon no [Sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} com sua Adobe ID.
 
-2. Em seguida, acesse o [Portal de análise](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} e siga as instruções fornecidas na tela.
+2. Em seguida, vá para o [Portal de análise](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} e siga as instruções fornecidas na tela.
 
-Cancelamentos e reagendamento devem ser iniciados **48 horas antes** o compromisso do exame agendado. Os candidatos devem modificar este compromisso. Nenhum fornecedor de suporte ou exame do Adobe pode processar solicitações de reagendamento e cancelamento. Cancelamentos abaixo de 48 horas estão sujeitos a uma taxa de reescalonamento além da taxa do exame.
+Os cancelamentos e o reagendamento devem ser iniciados **48 horas antes** do compromisso do exame agendado. Os candidatos devem modificar este compromisso. Nenhum fornecedor de suporte ou exame do Adobe pode processar solicitações de reagendamento e cancelamento. Cancelamentos abaixo de 48 horas estão sujeitos a uma taxa de reescalonamento além da taxa do exame.
 
 **Como pagar**
 
@@ -121,15 +121,15 @@ Pagar com cartão de crédito: Quando você agendar seu exame, será solicitado 
 
 Pagar por voucher: Para comprar um voucher de exame, vá para: Adobe Certification Voucher Center. Você pode aplicar o código do voucher ao agendar seu exame. Consulte abaixo para obter informações sobre desconto de voucher.
 
-**Comprar um voucher**
+**Comprando um comprovante**
 
-Você pode pagar por um exame com um voucher. Para comprar um cupom de exame, acesse o [Centro de Cupom de Certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar por um exame com um voucher. Para adquirir um cupom de exame, acesse o [Centro de Cupom de Certificação do Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Você pode aplicar o código do voucher ao agendar seu exame. Consulte abaixo para obter informações sobre desconto de voucher.
 
 Todos os candidatos podem receber um desconto em compras em massa de 10 ou mais exames quando compram por meio do Centro de Voucher Certificação Adobe.
 
-Para obter mais informações sobre vouchers, consulte [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Para obter mais informações sobre cupons, consulte as [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
 
 **Descontos**
 
@@ -160,7 +160,7 @@ Nota: Descontos em massa não podem ser combinados com qualquer outra oferta ou 
 
 >[!IMPORTANT]
 >
-> **ID do governo necessária:** É NECESSÁRIO usar uma ID de foto emitida pelo governo como forma válida de ID. Cópias eletrônicas ou IDs digitais não são permitidas. <br><br> **Nome da conta do Adobe ID:** O nome da sua conta do Adobe ID DEVE corresponder ao seu nome na ID do governo. Para atualizar o nome da sua conta Adobe ID, envie um email para <certif@adobe.com>. Solicite esta correção **72 horas de antecedência**. Se os nomes não corresponderem no momento do exame, você precisará se inscrever em um novo exame por um custo adicional.
+> **ID do governo necessário:** Você DEVE usar uma ID com foto emitida pelo governo como sua forma válida de ID. Cópias eletrônicas ou IDs digitais não são permitidas. <br><br> **Nome da conta do Adobe ID:** O nome da sua conta do Adobe ID DEVE corresponder ao seu nome na ID do governo. Para atualizar o nome da sua conta Adobe ID, envie um email para <certif@adobe.com>. Solicite esta correção com **72 horas de antecedência**. Se os nomes não corresponderem no momento do exame, você precisará se inscrever em um novo exame por um custo adicional.
 
 **Dia do exame**
 
@@ -181,15 +181,15 @@ Nota: Descontos em massa não podem ser combinados com qualquer outra oferta ou 
 
 O Adobe usa o Exame para administrar exames monitorados online. No portal Exame, você pode:
 
-* **Agendar, reagendar ou cancelar o exame.** Observe que o cancelamento e a reprogramação devem ser iniciados antes de 48 horas antes do compromisso agendado para o exame. Os candidatos devem modificar este compromisso.
+* **Agendar, reagendar ou cancelar seu exame.** Observe que o cancelamento e o reagendamento devem ser iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
 
-* **Pague pelo seu exame.** Pague o seu exame de certificação por voucher ou cartão de crédito no Portal de exames. Para comprar um cupom de exame, acesse: [Sistema de voucher de certificação Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+* **Pague pelo seu exame.** Pague seu exame de certificação por voucher ou cartão de crédito no Portal de Exame. Para comprar um cupom de exame, vá para: [Sistema de Cupom de Certificação do Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
-* **Faça o seu exame.**
+* **Faça seu exame.**
 
 >[!NOTE]
 >
->Você deve fazer logon na [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} antes de clicar no botão Exame abaixo.
+>Você deve fazer logon no [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} antes de clicar no botão de Exame abaixo.
 
 <!--divider-->
 
@@ -199,16 +199,16 @@ Depois de passar no exame de certificação, você receberá um selo digital Ado
 
 Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe Experience Cloud. Ao exibi-lo em seus perfis de redes sociais ou currículo, você pode demonstrar sua realização para potenciais empregadores e clientes e mostrar suas habilidades nesses aplicativos.
 
-**Para usuários existentes, há duas maneiras de aceitar seu selo de certificação Adobe:**
+**Para usuários existentes, há duas maneiras de aceitar seu selo de Certificação Adobe:**
 
-* **Etapa 1:** Entrar [Credly](https://www.credly.com/users/sign_in){target="_blank"}. (Você deve usar o mesmo email usado para obter a credencial Adobe, caso contrário, você não verá seu selo.)
-* **Etapa 2:** Ou vá para o email que você recebeu da Credly para aceitar o selo.
+* **Etapa 1:** Entrar em [Credly](https://www.credly.com/users/sign_in){target="_blank"}. (Você deve usar o mesmo email usado para obter a credencial Adobe, caso contrário, você não verá seu selo.)
+* **Etapa 2:** Ou vá para o email recebido da Credly para aceitar o selo.
 * **Etapa 3:** Aceite e compartilhe sua medalha.
 
-**Para novos usuários, siga as instruções abaixo para aceitar seu selo de certificação Adobe:**
+**Para novos usuários, siga as instruções abaixo para aceitar seu selo de Certificação Adobe:**
 
-* **Etapa 1:** Acesse o email recebido da Credly para aceitar o selo.
-* **Etapa 2:** Crie uma conta. (Você deve usar o mesmo email usado para obter a credencial Adobe, caso contrário, você não verá seu selo.)
+* **Etapa 1:** Vá para o email recebido da Credly para aceitar a medalha.
+* **Etapa 2:** criar uma conta. (Você deve usar o mesmo email usado para obter a credencial Adobe, caso contrário, você não verá seu selo.)
 * **Etapa 3:** Aceite e compartilhe sua medalha.
 
 [Saiba mais](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
@@ -217,7 +217,7 @@ Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe
 
 ## Renovar sua certificação {#renewing-intro}
 
-As certificações expiram após dois anos. Para manter sua certificação, você deve renová-la antes de expirar. Visite o [Renovar sua certificação](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obter mais informações.
+As certificações expiram após dois anos. Para manter sua certificação, você deve renová-la antes de expirar. Visite a página [Renovar sua certificação](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obter mais informações.
 
 <!--divider-->
 

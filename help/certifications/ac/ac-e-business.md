@@ -1,6 +1,6 @@
 ---
 title: Certificação Business Practitioner Expert
-description: Saiba como se tornar um especialista em prática de negócios Adobe no Adobe [!DNL Commerce].
+description: Saiba como se tornar um especialista em profissionais de negócios Adobe no Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Commerce] Especialista em Profissionais de Negócios
+# Jornada de certificação para [!DNL Adobe Commerce] especialista do profissional de negócios
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/140) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/140) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Experiência mínima {#minimum-experience}
 
-Você deve ter aproximadamente 1-3 anos de experiência prática [!DNL Commerce] e uma ampla compreensão da experiência de comércio eletrônico.
+Você deve ter aproximadamente de 1 a 3 anos de experiência prática com o [!DNL Commerce] e uma ampla compreensão da experiência de comércio eletrônico.
 
 Você deve ter experiência em:
 
@@ -80,17 +80,17 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 {{exam-objectives}}
 
-**Seção 1: Recursos principais/Configuração geral (46%)**
+**Seção 1: Recursos Principais/Configuração Geral (46%)**
 
-* Identificar os recursos do Adobe [!DNL Commerce] Open Source Edition e [!DNL Commerce] Edição
-* Distinguir as diferenças entre todas as edições de Adobe [!DNL Commerce] products
+* Identificar os recursos do Adobe [!DNL Commerce] Open Source Edition e [!DNL Commerce] Edition
+* Distinguir as diferenças entre todas as edições de produtos Adobe [!DNL Commerce]
 * Determine como utilizar tipos de produtos e seus recursos para atender aos requisitos do cliente
 * Interpretar requisitos e modelos para determinar se eles podem ser atendidos com a funcionalidade nativa
 * Demonstrar conhecimento do painel de administração e da localização dos recursos comuns
 * Demonstrar a capacidade de importar/exportar Adobe [!DNL Commerce] entidades
 * Entenda como configurar nativamente o carrinho e o checkout
-* Avaliar os métodos de envio nativos disponíveis no Adobe [!DNL Commerce] e como elas se aplicam a casos de uso comuns
-* Compreender as maneiras de criar e publicar conteúdo estilizado usando o Adobe [!DNL Commerce] Recursos do CMS, incluindo o Page Builder
+* Avalie os métodos de envio nativos disponíveis no Adobe [!DNL Commerce] e como eles se aplicam aos casos de uso comuns
+* Compreender as maneiras de criar e publicar conteúdo estilizado usando os recursos do CMS do Adobe [!DNL Commerce], incluindo o Page Builder
 * Uso de ferramentas nativas para gerenciar o ciclo de vida do pedido
 * Demonstrar a capacidade de configurar as várias opções de presentes (cartões-presente, invólucro de presente, dar mensagens)
 * Configuração e modificação de emails transacionais
@@ -111,13 +111,13 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 * Descreva a funcionalidade B2B e como ela se relaciona com cenários B2B comuns
 * Aplicar requisitos comerciais para sugerir uma solução usando MSI
-* Explicar as vantagens e como usar o BI para o Adobe [!DNL Commerce] solução
+* Explicar as vantagens e como usar o BI para a solução Adobe [!DNL Commerce]
 * Distinguir as diferenças entre a pesquisa nativa e o LiveSearch
 * Aplicar requisitos comerciais para determinar como aplicar impostos, taxas e isenções em um ambiente B2B
 * Entenda como aplicar preços personalizados a um cliente B2B
-* Entender as diferenças entre Adobe [!DNL Commerce] produto nativo e recomendações de produto do Adobe Sensei
+* Entenda as diferenças entre o produto nativo Adobe [!DNL Commerce] e as recomendações de produto do Adobe Sensei
 
-**Seção 5: Arquitetura de sistemas (10%)**
+**Seção 5: Arquitetura de Sistemas (10%)**
 
 * Avalie os requisitos para determinar quais sites, lojas e exibições de loja são necessários
 * Identificar e analisar métricas de desempenho para fazer melhorias
@@ -126,9 +126,9 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 **Seção 6: Conformidade/Segurança (12%)**
 
-* Demonstrar como proteger o Adobe [!DNL Commerce] acesso a dados com funções e permissões
+* Demonstrar como proteger o acesso a dados do Adobe [!DNL Commerce] com funções e permissões
 * Entenda as noções básicas de conformidade para leis de privacidade e segurança de pagamento
-* Explicar os aspectos comuns de segurança de um Adobe [!DNL Commerce] projeto
+* Explicar os aspectos comuns de segurança de um projeto Adobe [!DNL Commerce]
 * Entenda as noções básicas das leis de impostos e como configurar
 
 <br>
@@ -137,7 +137,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -163,7 +163,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -222,6 +222,6 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

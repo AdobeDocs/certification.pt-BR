@@ -1,6 +1,6 @@
 ---
 title: Certificação de especialistas
-description: Saiba como se tornar um Adobe de certificado [!DNL Journey Optimizer] Especialista em desenvolvedores.
+description: Saiba como se tornar um Adobe [!DNL Journey Optimizer] Developer Expert certificado.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -10,17 +10,17 @@ hidefromtoc: true
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '633'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Journey Optimizer] Especialista em desenvolvedores
+# Jornada de certificação para o especialista em desenvolvedores do Adobe [!DNL Journey Optimizer]
 
 {{intro}}
 
 >[!NOTE]
 >
->Esse exame, Adobe [!DNL Journey Optimizer] O Developer Expert (AD0-E603) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 22 de dezembro de 2023. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame](ajo-e-developer-23-10.md).
+>Este exame, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 22 de dezembro de 2023. Se você está apenas começando, recomendamos fazer a [versão mais recente deste exame](ajo-e-developer-23-10.md).
 
 ## Descrição do exame {#exam-description}
 
@@ -78,7 +78,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 {{exam-objectives}}
 
-**Seção 1: Administração e configuração (17%)**
+**Seção 1: Administração e Configuração (17%)**
 
 * Identifique as funções e quais permissões se aplicam a cada função
 * Descrever como atribuir/redefinir/excluir uma sandbox
@@ -93,12 +93,12 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 * Explicar como configurar esquemas para o AJO
 * Determine o comportamento do perfil do cliente em tempo real no AJO
 
-**Seção 3: Offer decisioning (11 %)**
+**Seção 3: Offer decisioning (11%)**
 
 * Demonstrar uma compreensão da criação e do gerenciamento de ofertas e componentes
 * Demonstrar como usar perfis de teste para executar a simulação da oferta
 
-**Seção 4: Criação de conteúdo (20%)**
+**Seção 4: Criação de Conteúdo (20%)**
 
 * Demonstrar uma compreensão de como criar mensagens de email, SMS, no aplicativo e notificações por push
 * Demonstrar uma compreensão da manipulação e personalização de conteúdo usando funções auxiliares
@@ -116,7 +116,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -148,28 +148,28 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
    * Medidas de proteção
    * Jornadas
 
-* [Visão geral de sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR){target="_blank"}
+* [Visão geral das sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR){target="_blank"}
 
 
 **Seção 2: AEP Foundation**
 
-* [Adobe [!DNL Experience Platform] Documentação](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Experience Platform] Documentação](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * Guia XDM
    * Guia do Perfil do cliente em tempo real
    * Guia do Serviço de identidade da Platform
    * configurar um Fluxo de dados
-   * Guia de conectores de origem
+   * Guia de conectores do Source
    * Guia de assimilação de dados
    * Guia do Serviço de segmentação
    * Esquemas
 
 * [Introdução ao Adobe [!DNL Experience Platform] curso](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=pt-BR){target="_blank"}
-* [Introdução ao Adobe [!DNL Experience Platform] para curso de engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=pt-BR){target="_blank"}
-* [Curso Assimilação de dados para engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=pt-BR){target="_blank"}
+* [Introdução ao Adobe [!DNL Experience Platform] curso para engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=pt-BR){target="_blank"}
+* [Assimilação de dados para o curso de engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=pt-BR){target="_blank"}
 * [Blueprints de experiência digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=pt-BR){target="_blank"}
 
-**Seção 3: Offer Decisioning**
+**Seção 3: Offer decisioning**
 
 * [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
 
@@ -232,7 +232,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 >[!NOTE]
 >
->Esse exame, Adobe [!DNL Journey Optimizer] O Developer Expert (AD0-E603) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 22 de dezembro de 2023. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame](ajo-e-developer-23-10.md).
+>Este exame, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 22 de dezembro de 2023. Se você está apenas começando, recomendamos fazer a [versão mais recente deste exame](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -261,6 +261,6 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

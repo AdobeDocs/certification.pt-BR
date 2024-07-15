@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Customer Journey Analytics] Especialista em desenvolvedores
+# Jornada de certificação para o especialista em desenvolvedores do Adobe [!DNL Customer Journey Analytics]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/132) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/132) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Experiência mínima {#minimum-experience}
 
-Você deve ter 12-24 meses de experiência no Adobe [!DNL Customer Journey Analytics]e ser capaz de executar as seguintes tarefas:
+Você deve ter 12-24 meses de experiência no Adobe [!DNL Customer Journey Analytics] e ser capaz de executar as seguintes tarefas:
 
 * Ler e entender o esquema XDM (classes)
 * Demonstrar familiaridade com a interface da plataforma
@@ -85,19 +85,19 @@ Você deve ter 12-24 meses de experiência no Adobe [!DNL Customer Journey Analy
 * Criar conexões do CJA com configurações apropriadas
 * Criar conexões do CJA com base em conjuntos de dados XDM disponíveis na AEP por sandbox
 
-**Seção 2: Visualizações de dados (30%)**
+**Seção 2: Visualizações de Dados (30%)**
 
 * Configurar visualizações de dados para relatórios e análise
 * Modificar componentes em visualizações de dados
 
-**Seção 3: Validação de dados e solução de problemas (34%)**
+**Seção 3: Validação de Dados e Solução de Problemas (34%)**
 
 * Validar se os dados estão sendo preenchidos de forma precisa e completa
 * Solução de problemas de conexões e visualizações de dados
 * Criar ou solucionar problemas de componentes
 * Monitorar uso para licenciar
 
-**Seção 4: Relatórios e ativação (14%)**
+**Seção 4: Relatório e Ativação (14%)**
 
 * Use o Analysis Workspace para demonstrar jornadas de clientes entre canais com visualizações apropriadas
 * Enviar os membros de um Filtro do CJA para um Público-alvo da RTCDP
@@ -127,7 +127,7 @@ Você deve ter 12-24 meses de experiência no Adobe [!DNL Customer Journey Analy
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -186,6 +186,6 @@ Você deve ter 12-24 meses de experiência no Adobe [!DNL Customer Journey Analy
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

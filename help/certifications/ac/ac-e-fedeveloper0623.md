@@ -1,6 +1,6 @@
 ---
 title: Nova certificação de especialista em desenvolvedores front-end
-description: Saiba como se tornar um especialista certificado da Adobe Developer no Adobe [!DNL Commerce].
+description: Saiba como se tornar um Adobe Developer Expert certificado no Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Commerce] Especialista em desenvolvimento front-end
+# Jornada de certificação para [!DNL Adobe Commerce] especialista em desenvolvedores front-end
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/139) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/139) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -56,7 +56,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 * [!DNL Adobe Commerce] - versão 2.4.6
 * Conhecimento básico da estrutura e layout de front-end
-* Experiência e compreensão de HTML, CSS (e pré-processadores), LESS, Componentes JavaScript e UI, jQuery, Underscore, Require.JS, Knockout, também modelos PHP, conhecimento em BD e gestão de conteúdo
+* Experiência e compreensão de HTML, CSS (e pré-processadores), LESS, Componentes do JavaScript e da interface do usuário, jQuery, Underscore, Require.JS, Knockout, também modelos PHP, conhecimento em BD e gerenciamento de conteúdo
 * Familiaridade com a plataforma, Blocos CMS, Widgets, Páginas CMS, Páginas de categoria, Páginas de produto, Carrinho e Check-out e área Painel de contas
 * Noções básicas ou conhecimento de configurações administrativas
 * Conhecimento sobre extensão e substituição de estilos, layouts e arquivos JS
@@ -86,7 +86,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 * Demonstrar capacidade de aplicar traduções
 * Dado um conjunto de casos de uso, identifique quando colocar arquivos no aplicativo/código ou aplicativo/design
 
-**Seção 2: Layout XML e modelos (modelos phtml) (22%)**
+**Seção 2: Modelos &amp; XML de layout (modelos phtml) (22%)**
 
 * Demonstrar a capacidade de utilizar instruções XML de layout
 * Demonstrar a capacidade de criar novos layouts de página
@@ -106,10 +106,10 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 * Demonstrar a capacidade de implementar e personalizar MENOS componentes de biblioteca
 * Identifique as diferenças entre a compilação do lado do cliente e do lado do servidor e como ela funciona
 
-**Seção 4: JavaScript (widgets de imagem, biblioteca de imagens, módulo de dados do cliente, modelos de separação) (22%)**
+**Seção 4: JavaScript (widgets de imagens, biblioteca de imagens, módulo de dados do cliente, modelos de separação) (22%)**
 
-* Demonstrar a capacidade de inicializar e chamar componentes JavaScript
-* Diferencie casos de uso para diferentes componentes JavaScript
+* Demonstrar a capacidade de inicializar e chamar componentes do JavaScript
+* Diferencie casos de uso para diferentes componentes do JavaScript
 * Demonstrar o uso do RequireJS
 * Demonstrar a capacidade de implementar diferentes tipos de mixins
 * Descrever como adicionar uma tradução no JS
@@ -118,7 +118,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 * Demonstrar o uso de widgets jQuery
 * Demonstrar o uso de componentes JS usando XML de layout
 
-**Seção 5: Configuração de administração e Page Builder (12%)**
+**Seção 5: Configuração de Administração e Page Builder (12%)**
 
 * Demonstrar a capacidade de personalizar o conteúdo do Page Builder
 * Descrever otimização de front-end
@@ -139,7 +139,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
@@ -165,7 +165,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -224,6 +224,6 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

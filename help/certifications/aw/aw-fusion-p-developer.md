@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Workfront Fusion] Profissional de desenvolvedor
+# Jornada de certificação para o Adobe [!DNL Workfront Fusion] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/228) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/228) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -54,10 +54,10 @@ ht-degree: 0%
 
 Você deve ter:
 
-* A capacidade de [!DNL Workfront] API e API Explorer, mas não necessariamente proficiente em chamadas de API
+* A capacidade de usar com a API [!DNL Workfront] e o explorador de API, mas não necessariamente proficiente em chamadas de API
 * A capacidade de usar chamadas de API personalizadas para trabalhar com [!DNL Workfront] e outras APIs
-* A capacidade de usar módulos para o [!DNL Workfront] aplicativo e outras ações como criar, ler, atualizar, excluir e pesquisar
-* A capacidade de criar soluções viáveis que produzem resultados de negócios sem atingir [!DNL Fusion] grades de proteção
+* A capacidade de usar módulos para o aplicativo [!DNL Workfront] e outras ações como criar, ler, atualizar, excluir e pesquisar
+* A capacidade de criar soluções viáveis que produzam resultados comerciais sem atingir as medidas de proteção do [!DNL Fusion]
 * A capacidade de selecionar o módulo de acionador apropriado para alcançar resultados de negócios
 * Uma compreensão de como usar o controle de fluxo (rotas, iteradores/agregadores, explicar fluxo)
 * A capacidade de realizar a solução básica de problemas e o tratamento de erros
@@ -71,31 +71,31 @@ Você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1: Conceitos técnicos de base (39%)**
+**Seção 1: Conceitos técnicos básicos (39%)**
 
-* Dado um [!DNL Fusion] com um formato de campo que precisa estar em outro formato de campo, forneça as possíveis funções que podem ser usadas para transformar os dados corretamente
-* Dado um [!DNL Fusion] cenário que exige que uma função seja aninhada dentro de outra função, selecione a expressão formada corretamente
-* Identificar maneiras de usar equipes para controlar o acesso a conexões e outros [!DNL Fusion] recursos
-* Dado um [!DNL Fusion] identifique limitações de sistema e recursos
-* Dado um [!DNL Fusion] cenário que requer manipulação de fuso horário, diferenciar entre o usuário, organização visível e onde a substituição do fuso horário é necessária
-* Dado um [!DNL Fusion] cenário, selecione o cenário apropriado [!DNL Workfront] módulo(s) ou ação(s)
-* Dado um [!DNL Fusion] Selecione a expressão do Painel de Mapeamento e/ou o(s) módulo(s) que transformariam adequadamente os dados de entrada em dados de saída
-* Identifique as maneiras corretas de utilizar o [!DNL Fusion] Ferramenta de desenvolvimento para solucionar erros na execução ou determinar chamadas e respostas feitas a sistemas de terceiros
-* Dado um [!DNL Fusion] em que os dados em um caminho são necessários em outro caminho, forneça uma solução set-get para disponibilizar esses dados em caminhos de roteamento adicionais
-* Identificar as maneiras de usar ou produzir um [!DNL Fusion] modelo para uma necessidade comercial
-* Dado um [!DNL Fusion] identifique o que fazer para exibir execuções e/ou resolver erros
-* Identifique as diferentes opções no [!DNL Fusion] configurações do cenário para atender às necessidades do cenário
-* Dado um [!DNL Fusion] selecionar o controlo de caudal adequado e/ou determinar a combinação correta de módulos de controlo de caudal
+* Dado um cenário [!DNL Fusion] com um formato de campo que precisa estar em outro formato de campo, forneça as possíveis funções que podem ser usadas para transformar os dados corretamente
+* Dado um cenário [!DNL Fusion] que requer que uma função seja aninhada dentro de outra função, selecione a expressão formada corretamente
+* Identificar maneiras de usar equipes para controlar o acesso a conexões e outros recursos do [!DNL Fusion]
+* Dado um cenário [!DNL Fusion], identifique limitações de sistema e recursos
+* Dado um cenário [!DNL Fusion] que requer manipulação de fuso horário, diferencie entre o usuário, organização visível e onde é necessário substituir o fuso horário
+* Dado um cenário [!DNL Fusion], selecione o(s) [!DNL Workfront] módulo(s) ou ação(ões) apropriados(s)
+* Dado um cenário [!DNL Fusion], selecione a expressão do Painel de Mapeamento e/ou o(s) módulo(s) que transformariam apropriadamente os dados de entrada em dados de saída
+* Identifique a(s) maneira(s) correta(s) de utilizar a Ferramenta de Desenvolvimento do [!DNL Fusion] para solucionar erros na execução ou determinar chamadas e respostas feitas a sistemas de terceiros
+* Dado um cenário [!DNL Fusion] onde dados em um caminho são necessários em outro caminho, forneça uma solução set-get para disponibilizar esses dados em caminhos de roteamento adicionais
+* Identifique as maneiras de usar ou produzir um modelo [!DNL Fusion] para uma necessidade comercial
+* Dado um cenário [!DNL Fusion], identifique o que fazer para exibir execuções e/ou resolver erros
+* Identifique as diferentes opções nas configurações do cenário [!DNL Fusion] para atender às necessidades do cenário
+* Dado um cenário [!DNL Fusion], selecione o controle de fluxo apropriado e/ou determine a combinação correta de módulo(s) de controle de fluxo
 
-**Seção 2: Projeto e arquitetura do cenário (35%)**
+**Seção 2: Design e arquitetura do cenário (35%)**
 
 * Dada uma lista de etapas, escolha a sequência correta para analisar o JSON e converter em pacotes
 * Dado um conjunto de requisitos, identifique o método de pesquisa de dados correto
 * Identificar diferenças entre acionadores instantâneos e programados
-* Identifique um módulo correto para fazer upload de um documento no [!DNL Workfront]
-* Dado um requisito de negócios, identifique a abordagem correta para rastrear esse [!DNL Fusion] processou um registro (não um usuário) e quando
-* Dado um [!DNL Fusion] identificar uma oportunidade de simplificar o projeto e/ou otimizar para manutenção
-* Identificar [!DNL Fusion] práticas recomendadas para documentar cenários
+* Identifique um módulo correto para carregar um documento para [!DNL Workfront]
+* Dado um requisito comercial, identifique a abordagem correta para rastrear se [!DNL Fusion] processou um registro (não um usuário) e quando
+* Dado um cenário [!DNL Fusion], identifique uma oportunidade de simplificar o design e/ou otimizar para manutenção
+* Identificar as práticas recomendadas do [!DNL Fusion] para documentar cenários
 * Dada uma situação, identifique uma oportunidade de reduzir o fluxo de dados por meio de um cenário
 * Dado um exemplo do número de pacotes exibidos em um módulo de pesquisa e um agregador a seguir, explique as alterações no número de operações processadas e exibidas pelo inspetor de pacotes
 * Identificar informações encontradas no inspetor de pacote
@@ -106,15 +106,15 @@ Você deve ter:
 
 * Identificar os elementos de um plano de teste
 * Identificar os elementos de um caso de teste
-* Dado um [!DNL Fusion] identificar corretamente a diretiva apropriada para lidar com um serviço não confiável
-* Identifique o processo para adicionar um tratamento de erro personalizado em um [!DNL Fusion] cenário
+* Dado um cenário [!DNL Fusion], identifique corretamente a diretiva apropriada para lidar com um serviço não confiável
+* Identifique o processo para adicionar tratamento de erros personalizado em um cenário [!DNL Fusion]
 * Identifique como rastrear, ler e resolver execuções incompletas
-* Dado um [!DNL Fusion] cenário com dados obrigatórios ausentes, selecione maneiras de lidar com os dados inválidos
+* Dado um cenário [!DNL Fusion] com dados obrigatórios ausentes, selecione maneiras de tratar os dados inválidos
 
-**Seção 4: Trabalho com APIs (10%)**
+**Seção 4: trabalhar com APIs (10%)**
 
 * Dada uma API de terceiros que retorna um 429: muitas solicitações, identifique uma solução para evitar ou lidar com o erro
-* Dado um [!DNL Fusion] cenário em que a nova funcionalidade não está disponível no [!DNL Workfront] identifique a referência correta e o tipo de módulo a ser usado na nova funcionalidade
+* Dado um cenário [!DNL Fusion] onde a nova funcionalidade não está disponível no módulo [!DNL Workfront], identifique a referência correta e o tipo de módulo para usar a nova funcionalidade
 * Dado um sistema de terceiros que não tem um aplicativo dedicado, identifique o aplicativo HTTP e selecione o módulo apropriado
 * Identificar a diferença entre as operações CRUD e outros recursos comuns das APIs REST
 
@@ -142,7 +142,7 @@ Você deve ter:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -201,6 +201,6 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificação Developer Professional
-description: Saiba como se tornar um profissional certificado da Adobe Developer no [!DNL Campaign Classic].
+description: Saiba como se tornar um Profissional Adobe Developer certificado no [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Campaign Classic] Profissional de desenvolvedor
+# Jornada de certificação para o Adobe [!DNL Campaign Classic] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/250) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/250) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado necessário para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 Você deve ter:
 
-* Pelo menos um ano de Adobe [!DNL Campaign Classic] experiência com software
+* Pelo menos um ano de experiência em software Adobe [!DNL Campaign Classic]
 * Pelo menos um ano de experiência combinada em programação JavaScript, desenvolvimento de SQL, incluindo ETL, e tecnologias da Web (XML, HTML e serviços da Web)
 * Uma compreensão básica da automação de marketing
 * Uma compreensão de conceitos de banco de dados relacional
@@ -75,7 +75,7 @@ Você deve ter:
 * Identificar as definições de configuração para enumerações Abertas e Fechadas
 * Diferenciar tipos de regras de tipologia
 * Identificar os requisitos para utilizar um Target Map personalizado e seus efeitos na funcionalidade OOTB
-* Descreva como os públicos-alvo gerados externamente de outras soluções da Adobe Experience Cloud são acessados no Adobe [!DNL Campaign Classic]
+* Descreva como os públicos gerados externamente de outras soluções da Adobe Experience Cloud são acessados no Adobe [!DNL Campaign Classic]
 * Descrever o caso de uso de negócios para interações e ofertas
 * Descreva o caso de uso de negócios do Centro de mensagens
 * Identificação da funcionalidade de importação de dados da API do V8
@@ -91,14 +91,14 @@ Você deve ter:
 * Identificar os casos de uso para usar a Gestão de conteúdo
 * Aplicar ao processo para atualizar os formulários OOTB
 
-**Seção 3: Segurança operacional (10 %)**
+**Seção 3: Segurança operacional (10%)**
 
 * Descrever o processo de adição de grupos de usuários e funções
 * Aplique o processo para traduzir a matriz de gerenciamento de usuários com direitos de usuário e hierarquia corretos
 * Identificar e definir as permissões corretas
 * Identificar a zona de segurança de um grupo de usuários
 
-**Seção 4: Fluxos de trabalho técnicos (29%)**
+**Seção 4: Fluxos de Trabalho Técnicos (29%)**
 
 * Aplicar o processo para importar/exportar
 * Identificar as diferentes fontes de dados que um workflow pode acessar
@@ -114,12 +114,12 @@ Você deve ter:
 * Aplicar o processo para configurar alertas e aprovações
 * Identificar tipos de bancos de dados de campanha
 
-**Seção 5: Manutenção da instância (4%)**
+**Seção 5: Manutenção de Instância (4%)**
 
 * Identificar erros de logs de serviço diferentes
 * Explicar as leituras do mapa de calor do fluxo de trabalho
 
-**Seção 6: Configuração do Campaign (14%)**
+**Seção 6: Configuração de campanha (14%)**
 
 * Aplicar o processo para criar campanhas usando modelos de campanha
 * Descrever o processo para criar aprovações
@@ -134,7 +134,7 @@ Você deve ter:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -160,7 +160,7 @@ Você deve ter:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -219,6 +219,6 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

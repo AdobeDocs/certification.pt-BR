@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional
-description: Saiba como se tornar um Adobe de certificado [!DNL Marketo Engage] Profissional.
+description: Saiba como se tornar um Adobe [!DNL Marketo Engage] Profissional certificado.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Marketo Engage] Profissional
+# Jornada de certificação para o Adobe [!DNL Marketo Engage] Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso**: Se você estiver apenas começando ou precisar de uma atualização, use o [Curso do Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Isso fornece uma base de conhecimento que você pode usar na jornada de certificação.
+>* **Curso**: se você estiver apenas começando ou precisar de uma atualização, faça o [Curso do Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261) para acessar explicações dos principais conceitos, apresentações do produto e verificações de conhecimento. Isso fornece uma base de conhecimento que você pode usar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/247) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/247) fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
 >
->_Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>_Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -89,7 +89,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{exam-objectives}}
 
-**Seção 1: Criação e gestão de programas (39 %)**
+**Seção 1: compilação e gerenciamento de programas (39%)**
 
 * Identifique quando usar cada um dos 4 tipos de programas.
 * Identifique por que/quando usar o programa de evento.
@@ -106,7 +106,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 * Noções básicas sobre as preferências do cliente (assinatura, comunicação).
 * Aplique as práticas recomendadas para revisão antes do lançamento.
 
-**Seção 2: Imobilizações (19 %)**
+**Seção 2: Criação de ativos (19%)**
 
 * Manipular arquivos no Design Studio (upload/substituição de imagens e arquivos).
 * Criar/modificar um formulário usando o Editor de formulário.
@@ -116,7 +116,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 * Diferenciar a diferença entre ativos de rascunho e aprovados.
 * Diferencie a diferença entre ativos locais e globais.
 
-**Seção 3: Definição e direcionamento de públicos-alvo (33%)**
+**Seção 3: definição e direcionamento de públicos-alvo (33%)**
 
 * Criar/Modificar Smart Lists.
 * Entenda as etapas do fluxo do Campaign inteligente.
@@ -124,16 +124,16 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 * Interpretar os resultados da Campanha inteligente.
 * Descreva a finalidade de uma segmentação e seu uso.
 * Identifique e navegue pelo Banco de Dados.
-* Explicar como definir configurações de privacidade no Adobe [!DNL Marketo Engage].
+* Explique como definir as configurações de privacidade no Adobe [!DNL Marketo Engage].
 * Diferenciar entre Smart Lists e Listas estáticas.
 * Definir Smart Lists do sistema.
 * Compare e contraste os diferentes tipos de Campanhas inteligentes.
 * Entenda como os acionadores e filtros do Campaign inteligente funcionam.
 * Diferencie as diferentes importações de lista.
 
-**Seção 4: Análise e criação de relatórios (9%)**
+**Seção 4: Analisando e criando relatórios (9%)**
 
-* Explicar o Adobe padrão [!DNL Marketo Engage] relatórios e quando devem ser usados (Desempenho do link de email, Desempenho do email, Desempenho da página de aterrissagem, Desempenho de pessoas, Desempenho do programa, Atividade da página da Web e assim por diante)
+* Explique os relatórios de Adobe [!DNL Marketo Engage] padrão e quando eles devem ser usados (Desempenho do link de email, Desempenho do email, Desempenho da página de aterrissagem, Desempenho de pessoas, Desempenho do programa, Atividade da página da Web, etc.)
 * Compreender informações e métricas do painel (painel do programa de email, painel do programa de engajamento)
 * Compreender métricas de insights de email
 
@@ -143,7 +143,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
 <br>
 
@@ -173,9 +173,9 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{take-course}}
 
-[Faça o curso Fundamentos da Adobe Marketo Engage](https://app.rockinfo.com/courses/261)
+[Faça o Curso Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261)
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -245,6 +245,6 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

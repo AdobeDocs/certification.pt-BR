@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Commerce] Profissional de desenvolvedor front-end
+# Jornada de certificação para o desenvolvedor de front-end do Adobe [!DNL Commerce]
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso**: Se você estiver apenas começando ou precisar de uma atualização, use o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Isso fornece uma base de conhecimento que você pode usar na jornada de certificação.
+>* **Curso**: se você estiver apenas começando ou precisar de uma atualização, faça o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) para acessar explicações dos principais conceitos, apresentações do produto e verificações de conhecimento. Isso fornece uma base de conhecimento que você pode usar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/138) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/138) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -63,7 +63,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
 * Forte compreensão da versão 2.4.6 do Adobe Commerce
 * Conhecimento básico da estrutura e layout de front-end
-* Experiência e compreensão de HTML, CSS (e pré-processadores), LESS, Componentes JavaScript e UI, jQuery, Underscore, Require.JS, Knockout, também modelos PHP, conhecimento em BD e gestão de conteúdo
+* Experiência e compreensão de HTML, CSS (e pré-processadores), LESS, Componentes do JavaScript e da interface do usuário, jQuery, Underscore, Require.JS, Knockout, também modelos PHP, conhecimento em BD e gerenciamento de conteúdo
 * Familiaridade com a plataforma, Blocos CMS, Widgets, Páginas CMS, Páginas de categoria, Páginas de produto, Carrinho e Check-out e área Painel de contas
 * Noções básicas ou conhecimento de configurações administrativas
 * Conhecimento sobre extensão e substituição de estilos, layouts e arquivos JS
@@ -77,7 +77,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 * Noções básicas sobre como trabalhar com modelos de email
 * Noções básicas sobre XML
 * Compreensão básica de SEO, otimização e técnicas de desempenho prontos para uso
-* Noções básicas sobre links canônicos, bem como mesclagem de JavaScript e CSS
+* Entendimento básico de links canônicos, bem como mesclagem de JavaScript e CSS
 * Noções básicas sobre a infraestrutura em nuvem do Adobe Commerce
 
 <br>
@@ -88,11 +88,11 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
 **Seção 1: Gerenciamento de temas (Hierarquia de temas, configuração de imagem, traduções) (14%)**
 
-* Descrever Adobe [!DNL Commerce] estrutura da pasta de temas
+* Descrever a estrutura da pasta de temas do Adobe [!DNL Commerce]
 * Demonstrar capacidade de criar novos temas ou estender temas existentes
 * Demonstrar a capacidade de adicionar frases de tradução personalizadas
 
-**Seção 2: Layout XML e modelos (30%)**
+**Seção 2: XML de layout e modelos (30%)**
 
 * Demonstrar a capacidade de trabalhar com instruções básicas de XML de layout
 * Demonstrar a capacidade de usar layouts de página existentes
@@ -111,7 +111,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
 **Seção 4: JavaScript (18%)**
 
-* Demonstrar a capacidade de inicializar e chamar componentes JavaScript
+* Demonstrar a capacidade de inicializar e chamar componentes do JavaScript
 * Demonstrar o uso do RequireJS
 * Descrever o uso de mixins
 * Descrever como adicionar uma tradução no JS
@@ -167,7 +167,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 </span>
 </a>
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -226,6 +226,6 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

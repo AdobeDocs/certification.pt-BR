@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Campaign Classic] Especialista em desenvolvedores
+# Jornada de certificação para o especialista em desenvolvedores do Adobe [!DNL Campaign Classic]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/252) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/252) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado necessário para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 * Consultor técnico
 * Engenheiro de tecnologia de marketing
-* Adobe [!DNL Campaign Classic] desenvolvedor
+* Desenvolvedor do Adobe [!DNL Campaign Classic]
 
 <br>
 
@@ -78,7 +78,7 @@ Você deve ter:
 
 * Dado um conjunto de requisitos, aplique as práticas recomendadas para projetar um modelo de dados
 * Descrever a implementação de APIs no Campaign
-* Descrever as práticas recomendadas para o desenvolvimento com JavaScript no Adobe Campaign
+* Descrever as práticas recomendadas para desenvolvimento com o JavaScript no Adobe Campaign
 * Aplicar bibliotecas JavaScript em workflows, chamadas SOAP, regras de tipologia e blocos de personalização
 * Descrever as práticas recomendadas para usar funções SQL no Adobe [!DNL Campaign Classic]
 * Dado um cenário, entenda como usar scripts SQL no Adobe [!DNL Campaign Classic]
@@ -99,7 +99,7 @@ Você deve ter:
 * Identificar configurações de segurança e rede a serem integradas ao Adobe Campaign a partir de um sistema externo
 * Configurar o processo CRUD em um esquema de fora do Adobe Campaign
 
-**Seção 5: Manutenção de instâncias (12%)**
+**Seção 5: Manutenção da instância (12%)**
 
 * Entender e agir no mapa de calor do fluxo de trabalho
 * Demonstrar o processo para criar um fluxo de trabalho ou relatório personalizado para monitoramento de instância
@@ -107,11 +107,11 @@ Você deve ter:
 * Explicar o impacto de serviços e processos no sistema
 * Demonstrar métricas/verificações básicas de auditoria do sistema
 
-**Seção 6: Configuração do Campaign (25%)**
+**Seção 6: Configuração de campanha (25%)**
 
 * Aplicar técnicas avançadas de personalização
 * Configurar e aplicar mapeamentos de público alvo personalizados
-* Identificar o uso apropriado do JavaScript no fluxo de trabalho do Campaign e por quê
+* Identifique o uso apropriado do JavaScript no fluxo de trabalho do Campaign e por quê
 * Aplicar código personalizado para manipular tabelas temporárias e contexto do fluxo de trabalho
 * Validar e depurar a lógica do fluxo de trabalho
 * Aplicar configurações avançadas de entrega
@@ -124,7 +124,7 @@ Você deve ter:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -150,7 +150,7 @@ Você deve ter:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -209,6 +209,6 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

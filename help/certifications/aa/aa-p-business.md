@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional de profissional de negócios
-description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Profissional de Profissional de Negócios.
+description: Saiba como se tornar um profissional  [!DNL Adobe Analytics] Profissional de negócios.
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Analytics] Profissional de Profissional de Negócios
+# Jornada de certificação para o profissional de business practice do Adobe [!DNL Analytics]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/145) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/145) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### Experiência mínima {#minimum-experience}
 
-Você deve ter um mínimo de 3 meses de experiência no [!DNL Adobe Analytics] e a seguinte experiência:
+Você deve ter no mínimo 3 meses de experiência no [!DNL Adobe Analytics] e a seguinte experiência:
 
 * Um plano de fundo de marketing ou vem de uma função de marketing, mas pode vir de várias funções de trabalho.
 * Uma familiaridade básica com métricas e dimensões de análise digital.
@@ -70,7 +70,7 @@ Você deve ter um mínimo de 3 meses de experiência no [!DNL Adobe Analytics] e
 
 {{exam-objectives}}
 
-**Seção 1: Análise de negócios (34%)**
+**Seção 1: Análise comercial (34%)**
 
 * Dada a necessidade/dúvida de negócios, identifique uma estratégia de emissão de relatórios apropriada para realizar uma análise
 * Analisar dados para responder perguntas comerciais
@@ -98,8 +98,8 @@ Você deve ter um mínimo de 3 meses de experiência no [!DNL Adobe Analytics] e
 
 **Seção 4: Conhecimento geral e solução de problemas da ferramenta (9%)**
 
-* Entenda os diferentes tipos de dimensões e parâmetros existentes no [!DNL Adobe Analytics] (evars, propriedades e eventos)
-* Determine como exportar dados do [!DNL Adobe Analytics]
+* Compreender os diferentes tipos de dimensões e parâmetros existentes no [!DNL Adobe Analytics] (evars, propriedades e eventos)
+* Determine como exportar dados de [!DNL Adobe Analytics]
 
 <br>
 
@@ -107,7 +107,7 @@ Você deve ter um mínimo de 3 meses de experiência no [!DNL Adobe Analytics] e
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -129,7 +129,7 @@ Você deve ter um mínimo de 3 meses de experiência no [!DNL Adobe Analytics] e
 
 {{study-materials-intro}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -199,6 +199,6 @@ Você deve ter um mínimo de 3 meses de experiência no [!DNL Adobe Analytics] e
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager Forms] Desenvolvedor de backend Professional
+# Jornada de certificação para Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso:** Se você estiver apenas começando, ou precisar de uma atualização, tome o [Curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
+>* **Curso:** se você está apenas começando ou precisa de uma atualização, faça o [curso do Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acessar explicações dos principais conceitos, apresentações do produto e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/123) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/123) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
 >
->_Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>_Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -75,7 +75,7 @@ Familiarize-se com as seguintes tecnologias e ambientes:
 * CLI DO ADOBE IO
 * Git CLI
 * Ferramentas de transição para a nuvem
-* Conversor do Dispatcher
+* Conversor de Dispatcher
 * Modernizador de repositório
 * Preparo e produção de desenvolvimento
 * Sandbox de desenvolvimento
@@ -87,12 +87,12 @@ Familiarize-se com as seguintes tecnologias e ambientes:
 
 {{exam-objectives}}
 
-**Seção 1: Criação e gerenciamento de Forms (26%)**
+**Seção 1: criação e gerenciamento de Forms (26%)**
 
 * Dado um cenário, identifique as etapas necessárias para criar o AEM Forms
 * Descrever o modelo de dados do Forms
 * Identificar etapas para personalizar o AEM Forms
-* Dado um cenário, identifique etapas para usar o JavaScript ClientLib utilizando a API do GuideBridge
+* Dado um cenário, identifique etapas para usar a ClientLib do JavaScript utilizando a API do GuideBridge
 
 **Seção 2: Processos e fluxos de trabalho (34%)**
 
@@ -116,7 +116,7 @@ Familiarize-se com as seguintes tecnologias e ambientes:
 * Dado um cenário, descreva o fluxo para integrar o Formulário AEM ao Adobe Experience Cloud
 * Identificar as etapas para gerar vários serviços de ponto de extremidade
 
-**Seção 5: Comunicação interativa (9 %)**
+**Seção 5: Comunicação interativa (9%)**
 
 * Dado um cenário, demonstrar e implementar processos para a comunicação interativa
 
@@ -146,7 +146,7 @@ Familiarize-se com as seguintes tecnologias e ambientes:
 
 [Faça o curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -209,8 +209,8 @@ Familiarize-se com as seguintes tecnologias e ambientes:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
 
 

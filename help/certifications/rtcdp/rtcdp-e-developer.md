@@ -1,6 +1,6 @@
 ---
 title: Certificação de especialistas
-description: Saiba como se tornar um Adobe de certificado [!DNL Real-Time Customer Data Platform] Especialista em desenvolvedores
+description: Saiba como se tornar um Adobe [!DNL Real-Time Customer Data Platform] especialista em desenvolvedores
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Real-Time Customer Data Platform] Especialista em desenvolvedores
+# Jornada de certificação para o especialista em desenvolvedores do Adobe [!DNL Real-Time Customer Data Platform]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/246) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/246) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -81,7 +81,7 @@ Familiarize-se com estes conceitos:
 Você deve se sentir confortável nesses ambientes:
 
 * AEP
-* Rede de borda
+* Rede Edge
 
 <br>
 
@@ -91,11 +91,11 @@ Você deve se sentir confortável nesses ambientes:
 
 **Arquitetura de dados (19%)**
 
-* Com base em um cenário, traduzir RDBMS para Adobe [!DNL RT-CDP]Modelo de dados NoSQL do
+* Com base em um cenário, converta o RDBMS para o modelo de dados NoSQL do Adobe [!DNL RT-CDP]
 * Demonstrar práticas recomendadas para modelagem do Perfil do cliente em tempo real
 * Projetar a estratégia de identidade e as relações para modelagem
 
-**Perfil do cliente em tempo real (15%)**
+**Perfil de cliente em tempo real (15%)**
 
 * Descrever como funciona o assembly de perfil
 * Descrever como o Gráfico de identidade funciona
@@ -105,7 +105,7 @@ Você deve se sentir confortável nesses ambientes:
 **Assimilação de dados (13%)**
 
 * Descrever os recursos de assimilação de dados com a CDP
-* Descrever os recursos da assimilação de borda
+* Descrever os recursos da assimilação do Edge
 * Descrever as técnicas avançadas em torno da arquitetura de assimilação de dados
 
 **Segmentação (18%)**
@@ -122,7 +122,7 @@ Você deve se sentir confortável nesses ambientes:
 
 **Governança (9%)**
 
-* Aplicar práticas recomendadas para governança no Adobe [!DNL RT-CDP] implementação
+* Aplicar práticas recomendadas para governança na implementação do Adobe [!DNL RT-CDP]
 * Descrever como gerenciar dados nos vários serviços
 
 **Administração (15%)**
@@ -130,7 +130,7 @@ Você deve se sentir confortável nesses ambientes:
 * Entender os recursos de monitoramento
 * Descrever alertas
 * Descrever o uso de licença diferente
-* Descreva os casos de uso para ativação de ABAC no Adobe [!DNL RT-CDP]
+* Descreva casos de uso para habilitação de ABAC no Adobe [!DNL RT-CDP]
 
 <br>
 
@@ -156,7 +156,7 @@ Você deve se sentir confortável nesses ambientes:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -215,6 +215,6 @@ Você deve se sentir confortável nesses ambientes:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager Sites] Arquiteto mestre
+# Jornada de certificação para o mestre arquiteto do Adobe [!DNL Experience Manager Sites]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/130) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/130) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -56,7 +56,7 @@ Você deve ter:
 
 * Pelo menos 3 anos de experiência como arquiteto na construção de AEM Sites
 * A capacidade de trabalhar no Adobe Managed Services e no Adobe [!DNL Experience Manager as a Cloud Service]
-* A capacidade de configurar o Adobe [!DNL Experience Manager] ambientes e infraestrutura
+* A capacidade de configurar ambientes e infraestrutura do Adobe [!DNL Experience Manager]
 
 Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 
@@ -64,7 +64,7 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 * Definir um modelo de conteúdo para conteúdo/ativos que possam acomodar requisitos futuros
 * Define os modelos e componentes necessários com base nos requisitos de negócios
 * Identifique quando usar os componentes principais/de funcionalidade/prontos para uso em comparação aos componentes personalizados
-* Estratégias de armazenamento em cache, balanceamento de carga e segurança de design (Dispatcher, firewall, CDN)
+* Estratégias de armazenamento em cache, balanceamento de carga e segurança do projeto (Dispatcher, firewall, CDN)
 * Fornecer estimativas de esforço de alto nível para a configuração inicial e a entrega de recursos
 * Estabelecer a função e os casos de uso da internacionalização
 * Definir estratégias para oferecer suporte a vários sites e idiomas
@@ -87,13 +87,13 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 
 {{exam-objectives}}
 
-**Seção 1: Detecção (18%)**
+**Seção 1: Descoberta (18%)**
 
 * Traduzir as metas de negócios de alto nível para os requisitos funcionais
 * Dado um cenário, avalie o estado atual de uma arquitetura
 * Determinar requisitos técnicos não funcionais para o design da solução
 
-**Seção 2: Projeto da solução (44%)**
+**Seção 2: Design da solução (44%)**
 
 * Dados os requisitos de negócios, projetar arquitetura e solução detalhadas
 * Dado um cenário, determine as soluções de segurança apropriadas para um projeto
@@ -102,14 +102,14 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 * Aplicar conceitos de procedimentos para projetar uma arquitetura escalável e resiliente
 * Dado um cenário, recomende estratégias de migração
 
-**Seção 3: Execução (22 %)**
+**Seção 3: Implementação (22%)**
 
 * Dado um cenário, identifique e resolva os problemas de design revelados durante a etapa de implementação
 * Dado um cenário, recomende abordagens de implementação com base nos requisitos
 * Determine os métodos apropriados a serem usados para criar um protótipo de soluções para a prova de conceitos
 * Dado um cenário, diagnostique e resolva os problemas encontrados durante a implementação
 
-**Seção 4: Manutenção (16 %)**
+**Seção 4: Manutenção (16%)**
 
 * Dado um cenário, diagnostique e resolva problemas encontrados no ambiente de produção
 * Aplicar conceitos de procedimento ao plano de uso de novos recursos e atualizações
@@ -121,7 +121,7 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -143,7 +143,7 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 
 {{study-materials-intro}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -213,6 +213,6 @@ Além disso, você deve ter a capacidade de executar as seguintes tarefas:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificação Business Practitioner Expert
-description: Saiba como se tornar um especialista certificado em prática de negócios Adobe no Adobe [!DNL Campaign Standard]
+description: Saiba como se tornar um especialista certificado em profissionais de negócios Adobe no Adobe [!DNL Campaign Standard]
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Campaign Standard] Especialista em Profissionais de Negócios
+# Jornada de certificação para Adobe [!DNL Campaign Standard] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/255) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/255) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado necessário para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -60,7 +60,7 @@ Você deve ter experiência em trabalhar em um ambiente de entrega de canal (ema
 
 Além disso, você deve ter:
 
-* Experiência de campo trabalhando com o Adobe [!DNL Campaign Standard] com frequência regular
+* Experiência de campo trabalhando com Adobe [!DNL Campaign Standard] com frequência regular
 * A capacidade de processar arquivos de dados
 * Uma compreensão dos conceitos de bancos de dados relacionais, acionadores, APIs e workflows técnicos
 * Uma compreensão de como criar workflows de marketing e trabalhar com os dados subjacentes para iniciar workflows de marketing
@@ -73,13 +73,13 @@ Além disso, você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1: Gestão de deliveries (25%)**
+**Seção 1: Gerenciamento de entrega (25%)**
 
 * Aplicar práticas recomendadas ao configurar e implantar um delivery
 * Determine a configuração de entrega correta
-* Aplicar as funcionalidades do Designer de email ao cenário apropriado
+* Aplicar funcionalidades do Designer de email ao cenário apropriado
 
-**Seção 2: Gestão de campanhas (25%)**
+**Seção 2: Gerenciamento de campanha (25%)**
 
 * Aplicar configurações para executar workflows
 * Aplicar práticas recomendadas ao planejar, estruturar e modificar uma campanha
@@ -89,22 +89,22 @@ Além disso, você deve ter:
 * Criar um novo fluxo de trabalho com base nos requisitos de negócios/campanha
 * Interpretar os requisitos do cliente
 
-**Seção 4: Relatórios (15%)**
+**Seção 4: Relatório (15%)**
 
 * Dados os requisitos do cliente, determine o relatório apropriado para gerar
 * Dado um cenário, personalize um relatório dinâmico pronto para uso
 * Dados de relatório de OOTB de amostra, forneça uma interpretação dos resultados
 * Aplicar o processo para agendar e enviar um relatório OOTB
 
-**Seção 5: Solução de problemas (10%)**
+**Seção 5: Solução de Problemas (10%)**
 
 * Monitorar e identificar erros
 * Analisar e interpretar resultados da implantação
 
-**Seção 6: Gestão e administração de dados (15 %)**
+**Seção 6: Gerenciamento e administração de dados (15%)**
 
 * Explicar os recursos do modelo de dados
-* Executar [!DNL Campaign Standard] administração
+* Executar administração [!DNL Campaign Standard]
 * Aplicar o processo para criar públicos-alvo direcionados
 
 <br>
@@ -113,7 +113,7 @@ Além disso, você deve ter:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -139,7 +139,7 @@ Além disso, você deve ter:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -198,7 +198,7 @@ Além disso, você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
 

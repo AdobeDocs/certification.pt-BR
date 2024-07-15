@@ -1,6 +1,6 @@
 ---
 title: Certificação Core Developer Professional
-description: Saiba como se tornar um profissional certificado da Adobe Developer no Adobe [!DNL Workfront].
+description: Saiba como se tornar um Profissional Adobe Developer certificado no Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Exame AD0-E905" type="neutral"
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Workfront] Desenvolvedor Profissional Principal
+# Jornada de certificação para o Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->Esse exame, Adobe [!DNL Workfront] O Core Developer Professional (AD0-E905) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, conclua-a antes de 26 de fevereiro de 2024. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame (AD0-E908)](aw-core-p-developer-23-12.md). Se precisar reagendar, você deverá fazer o novo exame.
+>Este exame, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, conclua-a antes de 26 de fevereiro de 2024. Se você estiver apenas começando, recomendamos fazer a [versão mais recente deste exame (AD0-E908)](aw-core-p-developer-23-12.md). Se precisar reagendar, você deverá fazer o novo exame.
 
 ## Descrição do exame {#exam-description}
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 * Gerenciador de recursos
 * Analista
 * Especialista de TI
-* [!DNL Workfront] consultor/lead de implementação
+* [!DNL Workfront] consultor/líder de implementação
 
 <br>
 
@@ -59,18 +59,18 @@ ht-degree: 0%
 Você deve ter:
 
 * Pelo menos 3 a 6 meses de experiência prática com o Adobe [!DNL Workfront]
-* Experiência com o Adobe [!DNL Workfront] funcionalidade e conectividade por meio de entrada, aprovação, planejamento, execução e emissão de relatórios
-* Uma compreensão aprofundada do Adobe [!DNL Workfront] tipos de objetos, incluindo formulários personalizados e fluxos de trabalho de aprovação, modelos, durações, esforço de trabalho/horas planejadas
-* Uma compreensão aprofundada do Adobe [!DNL Workfront] Configuração, incluindo níveis de acesso, modelos de layout, preferências de projeto e outros métodos para obter simplicidade de design do usuário final
+* Experiência com a funcionalidade e conectividade do Adobe [!DNL Workfront] por meio de entrada, aprovação, planejamento, execução e relatórios
+* Uma compreensão detalhada dos tipos de objetos Adobe [!DNL Workfront], incluindo formulários personalizados e fluxos de trabalho de aprovação, modelos, durações, esforço de trabalho/horas planejadas
+* Uma compreensão detalhada da Instalação do Adobe [!DNL Workfront], incluindo níveis de acesso, modelos de layout, preferências de projeto e outros métodos para obter simplicidade de design para o usuário final
 * Uma compreensão e experiência do mapeamento de processos
-* Uma compreensão de diferentes Adobe [!DNL Workfront] personas e como participar do suporte
+* Conheça os diferentes perfis do Adobe [!DNL Workfront] e como entrar em suporte
 
 E você deve ter:
 
-* Familiaridade com [!DNL Workfront] API e API Explorer, mas não necessariamente proficiente em chamadas de API
+* Familiaridade com a API [!DNL Workfront] e o explorador de API, mas não necessariamente proficiente em chamadas de API
 * A capacidade de usar chamadas de API personalizadas para trabalhar com [!DNL Workfront] e outras APIs
 * Familiaridade com o Adobe [!DNL Workfront]
-* Familiaridade com conectores nativos e outros Adobe [!DNL Workfront] produtos e serviços
+* Familiaridade com conectores nativos e outros produtos e serviços do Adobe [!DNL Workfront]
 * Familiaridade com o gerenciamento de projetos, incluindo conceitos de gerenciamento ágil e em cascata e de recursos
 
 <br>
@@ -79,7 +79,7 @@ E você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1. Estratégia e ingestão (24%)**
+**Seção 1. Estratégia e entrada (24%)**
 
 * Usar portfólios e programas
 * Usar filas de solicitações
@@ -110,9 +110,9 @@ E você deve ter:
 * Demonstrar como configurar workflows de aprovação e prova
 * Reconhecer a finalidade de criação de um problema para um projeto
 * Demonstrar como personalizar status de projeto de nível de grupo
-* Identifique os atributos necessários para habilitar o Agile no [!DNL Workfront]
+* Identifique os atributos necessários para habilitar o Agile em [!DNL Workfront]
 * Identificar as maneiras de inserir horas em [!DNL Workfront]
-* Identificar os elementos do rastreamento financeiro no [!DNL Workfront]
+* Identificar os elementos de rastreamento financeiro em [!DNL Workfront]
 
 <br>
 
@@ -120,7 +120,7 @@ E você deve ter:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
 <br>
 
@@ -142,32 +142,32 @@ E você deve ter:
 
 {{study-materials-intro}}
 
-**Seção 1: Estratégia e ingestão**
+**Seção 1: Estratégia e entrada**
 
 * [Prática recomendada - Portfolio e programas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
-* [visão geral de Portfolio no Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
-* [Criar uma fila de solicitações](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
-* [Entender filas de solicitações](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
+* Visão geral de [Portfolio no Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
+* [Criar uma Fila de Solicitações](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
+* [Entender as filas de solicitações](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Visão geral de formulários personalizados](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [Criar e compartilhar um formulário personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
 **Seção 2: Orçamento e planejamento**
 
-* [Planejamento de recursos no Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
-* [O que é o Planejador de recursos?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html){target="_blank"}
+* [Planejamento de Recursos no Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
+* [O que é o Planejador de Recursos?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html){target="_blank"}
 * [Prática recomendada - Planejador de recursos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 * [Criar um modelo de projeto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Editar modelos de projeto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [Prática recomendada - Modelos de projeto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
-**Seção 3: Experiência do usuário**
+**Seção 3: experiência do usuário**
 
 * [Prática recomendada - Integração e adoção](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Criar um perfil de usuário individual](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Configuração do sistema: grupos e usuários](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
 * [Compartilhar um projeto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=pt-BR){target="_blank"}
 * [Como os níveis de acesso e as permissões funcionam juntos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [Importar dados para o Adobe [!DNL Workfront] usar um modelo do Kickstart](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
+* [Importar dados para o Adobe [!DNL Workfront] usando um modelo de Início](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **Seção 4: Métricas e relatórios**
 
@@ -179,7 +179,7 @@ E você deve ter:
 **Seção 5: Execução**
 
 * [Gerenciamento de fluxo de trabalho](https://business.adobe.com/products/workfront/workflow-management.html){target="_blank"}
-* [Visão geral do status de progresso do projeto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html){target="_blank"}
+* [Visão geral do Status de Progresso do Projeto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html){target="_blank"}
 * [Criar uma equipe ágil](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Rastrear custos](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
@@ -189,7 +189,7 @@ E você deve ter:
 
 {{sample-questions}}
 
-[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+[Exibir perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
 +++
 
@@ -219,7 +219,7 @@ E você deve ter:
 
 >[!NOTE]
 >
->Esse exame, Adobe [!DNL Workfront] O Core Developer Professional (AD0-E905) foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, conclua-a antes de 26 de fevereiro de 2024. Se você estiver apenas começando, recomendamos que você [versão mais recente deste exame (AD0-E908)](aw-core-p-developer-23-12.md).
+>Este exame, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, conclua-a antes de 26 de fevereiro de 2024. Se você estiver apenas começando, recomendamos fazer a [versão mais recente deste exame (AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -248,6 +248,6 @@ E você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

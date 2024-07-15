@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Marketo Engage] Especialista em Profissionais de Negócios
+# Jornada de certificação para Adobe [!DNL Marketo Engage] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/144) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/144) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Experiência mínima {#minimum-experience}
 
-* Aproximadamente 18 meses de experiência com o Adobe [!DNL Marketo Engage] recursos e funcionalidades necessários para criar campanhas de marketing e utilizar dados de comportamento do cliente
+* Aproximadamente 18 meses de experiência com os recursos e funcionalidades do Adobe [!DNL Marketo Engage] necessários para criar campanhas de marketing e utilizar dados de comportamento do cliente
 
 Você deve ser um profissional de marketing com experiência em:
 
@@ -84,7 +84,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{exam-objectives}}
 
-**Seção 1: Administração e manutenção (12%)**
+**Seção 1: Administração e Manutenção (12%)**
 
 * Determine o processo de mapeamento entre o Marketo e o CRM
 * Identificar o que aconteceu com um ativo usando a Trilha de auditoria
@@ -103,14 +103,14 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 * Dê exemplos de uso para diferentes tipos de tokens
 * Resuma a utilidade dos Webhooks no Marketo e como eles são usados
 * Identificar e aplicar o uso apropriado do ACPC
-* Explicar os benefícios dos ativos globais e como usá-los
+* Explicar os benefícios do Global Assets e como usá-los
 * Demonstrar os recursos dos formulários
 * Executar e analisar uma estratégia de teste A/B
 * Identifique onde um programa ou ativo foi referenciado com &quot;Usado por&quot;
 * Solução de problemas de limites de comunicação
 * Usar informações do provedor de webinários em um programa de evento
 
-**Seção 3: Gerenciamento de clientes potenciais (12%)**
+**Seção 3: Gerenciamento de Clientes Potenciais (12%)**
 
 * Descrever os principais pontos de decisão na definição do modelo de ciclo de vida
 * Aplicar práticas recomendadas na pontuação de clientes potenciais
@@ -118,14 +118,14 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 * Interpretar o log de atividades do cliente potencial
 * Dado um cenário, identifique a fonte de criação
 
-**Seção 4: Gerenciamento de dados (10%)**
+**Seção 4: Gerenciamento de Dados (10%)**
 
 * Demonstrar como configurar um programa de gerenciamento de dados
 * Analisar a qualidade dos dados de uma instância
 * Identifique alguns itens importantes da política de retenção de dados da Marketo, pois ela se relaciona a smart lists
 * Resumir como a segmentação funciona
 
-**Seção 5: Relatórios (4%)**
+**Seção 5: Relatório (4%)**
 
 * Dado o resultado de uma campanha, determine como configurar um programa para fornecer os melhores relatórios
 * Em um cenário, ser capaz de investigar e atribuir o programa de aquisição apropriado
@@ -144,7 +144,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -170,7 +170,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -240,7 +240,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
 

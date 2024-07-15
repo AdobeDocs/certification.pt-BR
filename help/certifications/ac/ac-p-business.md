@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional de profissional de negócios
-description: Adobe Saiba como se tornar um profissional certificado de profissional de negócios em Adobe [!DNL Commerce].
+description: Saiba como se tornar um Profissional de Profissional de Negócios Adobe no Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Commerce] Profissional de Profissional de Negócios
+# Jornada de certificação para o profissional de business practice do Adobe [!DNL Commerce]
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Cursos**: Pegue o [Curso Profissional de Profissional de Negócios da Adobe Commerce](https://app.rockinfo.com/courses/219) para obter explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso do Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) O fornece uma base de conhecimento que você pode utilizar na jornada de certificação.
+>* **Cursos**: faça o [Curso Profissional de Profissional de Profissionais de Negócios da Adobe Commerce](https://app.rockinfo.com/courses/219) para obter explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando, o [Curso Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) fornece uma base de conhecimento que você pode usar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/137) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/137) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -66,7 +66,7 @@ Você deve ter um mínimo de 0 a 12 meses de experiência prática com o [!DNL M
 
 Além disso, você deve ter uma compreensão básica da experiência de comércio eletrônico, bem como familiaridade com os seguintes conceitos:
 
-* Marketing digital (SEO, CMS, marketing por email, técnicas de vendas) [venda cruzada, venda adicional], analytics, relatórios e monitoramento)
+* Marketing digital (SEO, CMS, marketing por email, técnicas de vendas [venda cruzada, venda adicional], análises, relatórios e monitoramento)
 * Terminologia de comércio eletrônico (estratégias de vendas/marketing como omnicanal e multicanal)
 * Preços e promoção
 * Jornada de compra do cliente
@@ -83,10 +83,10 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 
 **Seção 1: [!DNL Magento Open Source] recursos principais (49%)**
 
-* Identificar os recursos do [!DNL Magento Open Source]
+* Identificar os recursos de [!DNL Magento Open Source]
 * Diferencie o escopo correto e quando usar cada um
 * Demonstrar conhecimento do gerenciamento de catálogos
-* Manipular preços usando [!DNL Magento Open Source] recursos
+* Manipular preços usando recursos do [!DNL Magento Open Source]
 * Descrever a jornada padrão do cliente
 * Descrever o ciclo de vida padrão do pedido
 * Descreva as tarefas diárias envolvidas na manutenção do Armazenamento
@@ -109,7 +109,7 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 **Seção 4: Noções básicas de conformidade/segurança (13%)**
 
 * Entenda as noções básicas de conformidade para leis de privacidade e segurança de pagamento
-* Identificar aspectos comuns de segurança de um Adobe [!DNL Commerce] projeto
+* Identificar aspectos comuns de segurança de um projeto Adobe [!DNL Commerce]
 * Identificar práticas recomendadas e requisitos legais de conformidade de acessibilidade
 
 <br>
@@ -118,7 +118,7 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -148,11 +148,11 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 
 {{take-course}}
 
-[Faça o curso Fundamentos da Adobe Commerce](https://app.rockinfo.com/courses/148)
+[Faça o Curso Adobe Commerce Foundations](https://app.rockinfo.com/courses/148)
 
-[Faça o curso profissional Adobe Commerce Business Practitioner](https://app.rockinfo.com/courses/219)
+[Faça o Curso Profissional de Profissional de Negócios da Adobe Commerce](https://app.rockinfo.com/courses/219)
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -211,6 +211,6 @@ Além disso, você deve ter uma compreensão básica da experiência de comérci
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

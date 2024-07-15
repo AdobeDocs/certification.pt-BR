@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional
-description: Saiba como se tornar um Adobe de certificado [!DNL Experience Manager] Profissional.
+description: Saiba como se tornar um Adobe [!DNL Experience Manager] Profissional certificado.
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso:** Se você estiver apenas começando, ou precisar de uma atualização, tome o [Curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
+>* **Curso:** se você está apenas começando ou precisa de uma atualização, faça o [curso do Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acessar explicações dos principais conceitos, apresentações do produto e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/120) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/120) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
 >
->_Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>_Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Experiência mínima {#minimum-experience}
 
-Você deve se sentir confortável trabalhando no Adobe Managed Services e no Adobe [!DNL Experience Manager as a Cloud Service]e podem configurar o Adobe [!DNL Experience Manager] ambientes e infraestrutura.
+Você deve estar familiarizado com o Adobe Managed Services e o Adobe [!DNL Experience Manager as a Cloud Service] e pode configurar ambientes e a infraestrutura do Adobe [!DNL Experience Manager].
 
 Você deve ter:
 
@@ -76,7 +76,7 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 * CLI DO ADOBE IO
 * Git CLI
 * Ferramentas de transição para a nuvem
-* Conversor do Dispatcher
+* Conversor de Dispatcher
 * Modernizador de repositório
 * Preparo e produção de desenvolvimento
 * Sandbox de desenvolvimento
@@ -96,15 +96,15 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 * Diferenciar entre fluxos de trabalho na nuvem e no local
 * Descreva como usar o console Fluxo de trabalho para monitorar o status e o progresso
 
-**Seção 2: Organização de ativos e console de ativos (22%)**
+**Seção 2: Organização de ativos e o console de ativos (22%)**
 
-* Demonstrar como criar e organizar ativos em coleções
-* Demonstrar como organizar ativos usando tags
+* Demonstrar como criar e organizar o Assets em coleções
+* Demonstrar como organizar o Assets usando tags
 * Identificar como aproveitar os filtros e aspectos de pesquisa OOTB
 * Descreva como configurar e gerar relatórios de ativos de AEM
 * Descreva como gerenciar permissões de usuário em pastas de ativos
 
-**Seção 3: Metadados dos ativos (24%)**
+**Seção 3: metadados de ativos (24%)**
 
 * Definir esquemas de metadados
 * Dado um cenário, determine como ajustar o esquema de metadados apropriado
@@ -117,7 +117,7 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 * Explicar fragmentos de conteúdo e modelos de fragmento de conteúdo
 * Demonstrar como e quando usar variações de fragmento de conteúdo
 
-**Seção 5: Conjuntos de recursos e recursos do ativo (12%)**
+**Seção 5: Conjuntos de recursos e funcionalidades do ativo (12%)**
 
 * Descreva os casos de uso comuns e os benefícios do uso do Brand Portal
 * Descreva os casos de uso comuns e os benefícios do uso do Dynamic Media
@@ -129,7 +129,7 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -157,7 +157,7 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -217,6 +217,6 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

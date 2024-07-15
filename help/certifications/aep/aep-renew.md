@@ -1,6 +1,6 @@
 ---
 title: Renovação da certificação
-description: Saiba como renovar seu Adobe [!DNL Experience Platform] certificação antes de expirar.
+description: Saiba como renovar a certificação Adobe [!DNL Experience Platform]  antes de expirar.
 solution: Experience Platform
 product: Experience Platform
 role: User,Developer,Data Architect
@@ -8,12 +8,12 @@ badge: label="Renovação do Adobe Journey Optimizer" type="neutral"
 hidefromtoc: true
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Renovar o Adobe [!DNL Experience Platform] certificação
+# Renovar a certificação do Adobe [!DNL Experience Platform]
 
 Quando você passar em um exame de certificação, sua certificação é válida por dois anos.
 
@@ -21,17 +21,17 @@ Temos o prazer de anunciar que você poderá renovar sua certificação agora po
 
 >[!IMPORTANT]
 >
->**Fazer logon primeiro:** Os links a seguir funcionarão **somente** após um **logon bem-sucedido** para o [Sistema de gerenciamento de credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>Adobe **Fazer logon primeiro:** Os links a seguir funcionarão **somente** após um **logon bem-sucedido** no [Sistema de Gerenciamento de Credenciais](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Para compartilhar um link:** Se você quiser compartilhar o link para um exame ou avaliação de renovação com um colega, vincule à página de renovação geral do exame, não ao URL do exame em si, para evitar problemas de logon.
+>**Para compartilhar um link:** Se desejar compartilhar o link para um exame ou uma avaliação de renovação com um colega, vincule à página de renovação geral do exame, não à URL do exame propriamente dito, para evitar problemas de logon.
 
 >[!NOTE]
 >A renovação por especialistas será em breve.
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

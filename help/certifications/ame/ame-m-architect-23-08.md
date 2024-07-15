@@ -1,6 +1,6 @@
 ---
 title: Certificação do arquiteto mestre
-description: Saiba como se tornar um arquiteto de Adobe certificado mestre no Adobe [!DNL Marketo Engage].
+description: Saiba como se tornar um arquiteto mestre de Adobe certificado no Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Marketo Engage] Arquiteto mestre
+# Jornada de certificação para o mestre arquiteto do Adobe [!DNL Marketo Engage]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/248) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/248) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado necessário para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Esta certificação tem um pré-requisito. Você DEVE ter um Adobe ativo (não expirado) [!DNL Marketo Engage] Profissional de negócios **Especialista** Certificação para assumir o Adobe [!DNL Marketo Engage] Exame de arquiteto mestre.
+>Esta certificação tem um pré-requisito. É NECESSÁRIO ter uma Certificação de Profissional de Adobe [!DNL Marketo Engage] **Especialista** ativa (não expirada) para realizar o exame Mestre de Arquiteto de Adobe [!DNL Marketo Engage].
 
-* Pré-requisito: Adobe ativo (não expirado) [!DNL Marketo Engage] Certificação de especialista em profissionais de negócios
+* Pré-requisito: Ativo (não expirado) Adobe [!DNL Marketo Engage] Certificação de Especialista em Profissionais de Negócios
 * Nível: mestre (3-5 anos de experiência)
 * Certificação de profissional
 * Pontuação de aprovação: 32/50
@@ -89,14 +89,14 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{exam-objectives}}
 
-**Seção 1: Liderança em projetos (16%)**
+**Seção 1: Liderança em Projetos (16%)**
 
 * Com base em um estudo de caso,
 * Avaliar um conjunto de requisitos e recomendar limites de projeto, orçamento, recursos e escopo
 * Dado um processo modificado, determine quem precisa de ativação e de um plano de implantação de ativação eficiente
 * Avaliar uma auditoria e recomendar prioridades e cronograma
 
-**Seção 2: Projeto de arquitetura de Marketo Engage (48%)**
+**Seção 2: Projeto de Arquitetura de Marketo Engage (48%)**
 
 * Coletar requisitos/necessidades e recomendar um gerenciamento de clientes potenciais e um projeto de ciclo de vida
 * Revisar uma implementação existente e fornecer resultados
@@ -108,7 +108,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 * Dado um cenário, descreva os vários estágios no ciclo de vida da pessoa afetados pelas alterações/requisitos propostos
 * Avaliar um conjunto de requisitos e recomendar uma abordagem para a lógica da campanha
 
-**Seção 3: Relatórios e atribuição (20%)**
+**Seção 3: Relatórios e Atribuição (20%)**
 
 * Dado um modelo para revisão, explique o conceito de desvios no modelador de ciclo de vida
 * Dada uma publicidade on-line ou conteúdo ou social orgânico, recomende uma abordagem para a geração de relatórios
@@ -118,7 +118,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 * Identificar e descrever os prós e os contras de diferentes modelos de atribuição
 * Dado um requisito de negócios, descreva os efeitos da configuração do canal para a geração de relatórios
 
-**Seção 4: Operações avançadas (16%)**
+**Seção 4: Operações Avançadas (16%)**
 
 * Dado o cenário, identificar as etapas adequadas para melhorar a gestão ou a governança
 * Dado um conjunto de requisitos, recomende um esquema de dados eficiente
@@ -133,7 +133,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -159,11 +159,11 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
-[Guia de preparação do exame](https://app.rockinfo.com/courses/248)
+[Guia de Preparação do Exame](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 >[!IMPORTANT]
 >
->Esta certificação tem um pré-requisito. Você DEVE ter um Adobe ativo (não expirado) [!DNL Marketo Engage] Profissional de negócios **Especialista** Certificação para obter o Adobe [!DNL Marketo Engage] Exame de arquiteto mestre.
+>Esta certificação tem um pré-requisito. É NECESSÁRIO ter uma Certificação de Profissional de Adobe [!DNL Marketo Engage] **Especialista** ativa (não expirada) para realizar o exame de Adobe [!DNL Marketo Engage] Arquiteto Mestre.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ Além disso, você deve estar familiarizado com as seguintes ferramentas e tecno
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

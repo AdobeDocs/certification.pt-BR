@@ -1,6 +1,6 @@
 ---
 title: Certificação Enhanced Connector Expert
-description: Saiba como se tornar um Adobe Certified Expert certificado no Adobe [!DNL Workfront] para [!DNL Experience Manager]
+description: Saiba como se tornar um Adobe Certified Expert certificado no Adobe [!DNL Workfront] for [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Exame AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Workfront] para [!DNL Experience Manager] Especialista em conectores aprimorados
+# Jornada de Certificação para o Adobe [!DNL Workfront] para o Especialista em Conector Aprimorado [!DNL Experience Manager]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/244) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/244) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -54,13 +54,13 @@ Você deve ter obtido uma ou mais das seguintes certificações:
 
 * Especialista certificado pelo desenvolvedor da AEM Assets
 * Especialista certificado pelo desenvolvedor da AEM Sites
-* [!DNL Workfront] Especialista certificado do desenvolvedor principal
+* Especialista certificado do desenvolvedor principal [!DNL Workfront]
 
 E você deve ter:
 
 * Mais de 1 ano de experiência em CMS
 * Mais de 1 ano de experiência com AEM
-* Mais de 1 ano [!DNL Workfront] experiência
+* Mais de 1 ano de experiência [!DNL Workfront]
 * Mais de 2 anos de experiência de desenvolvedor em Java/J2EE
 * Coarquitetou pelo menos uma solução baseada em AEM
 * Experiência ao trabalhar diretamente com clientes para criar soluções personalizadas
@@ -73,12 +73,12 @@ E você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1: Requisitos técnicos (25 %)**
+**Seção 1: requisitos técnicos (25%)**
 
-* Uso [!DNL Workfront] Forms personalizado
+* Usar Forms Personalizado [!DNL Workfront]
 * Dado um cenário, demonstrar gerenciamento de documentos
 * Demonstrar conhecimento da promoção de código entre ambientes
-* Dado um cenário, identifique como os valores são transmitidos para [!DNL Workfront] formulários personalizados
+* Dado um cenário, identifique como os valores são passados para [!DNL Workfront] formulários personalizados
 * Solução de problemas do código do lado do servidor
 
 **Seção 2: Configuração (26%)**
@@ -91,10 +91,10 @@ E você deve ter:
 **Seção 3: Práticas comerciais (21%)**
 
 * Interpretar as necessidades do cliente para recomendar as estratégias de fluxo de trabalho apropriadas
-* Demonstrar como configurar [!DNL Workfront] workflows de aprovação e prova
+* Demonstrar como configurar fluxos de trabalho de aprovação e prova do [!DNL Workfront]
 * Dado um cenário, identifique as práticas recomendadas para usar a funcionalidade de visualizador de provas, configurações e marcação
 * Demonstrar uma compreensão do rastreamento de produtos finais como parte do gerenciamento de campanhas
-* Dado um cenário, identifique as principais considerações do gerenciamento de alterações para um [!DNL Workfront] implementação
+* Dado um cenário, identifique as principais considerações do gerenciamento de alterações para uma implementação [!DNL Workfront]
 
 **Seção 4: Instalação e configuração do conector (28%)**
 
@@ -121,7 +121,7 @@ E você deve ter:
 
 {{study-materials-intro}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -131,7 +131,7 @@ E você deve ter:
 
 {{sample-questions}}
 
-[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+[Exibir perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
 +++
 
@@ -186,6 +186,6 @@ E você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

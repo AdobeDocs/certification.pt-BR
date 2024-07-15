@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager Sites] Profissional de desenvolvedor
+# Jornada de certificação para o Adobe [!DNL Experience Manager Sites] Developer Professional
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso:** Pegue o [Adobe Experience Manager Sites para desenvolvedores - Curso profissional](https://app.rockinfo.com/courses/105), que inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você estiver apenas começando, ou precisar de uma atualização, tome o [Curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240), que fornece uma base de conhecimento que você pode utilizar na jornada de certificação.
+>* **Curso:** faça o [curso Adobe Experience Manager Sites para desenvolvedores - Professional](https://app.rockinfo.com/courses/105), que inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento. Se você está apenas começando ou precisa de uma atualização, faça o [curso sobre os fundamentos da Adobe Experience Manager](https://app.rockinfo.com/courses/240), que fornece uma base de conhecimento que você pode usar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/121) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo os materiais necessários para obter êxito no exame.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/121) fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material necessário para obter êxito no exame.
 >
 >Se for solicitado a fazer logon, use sua Adobe ID.
 
@@ -73,7 +73,7 @@ Você deve ser um desenvolvedor de aplicativos e ter:
 * Reconhecer a finalidade das configurações e do armazenamento em cache do AEM Dispatcher
 * Determine as etapas corretas para configurar vários sites no AEM
 * Explicar como criar e gerenciar configurações de OSGi
-* Determine as etapas corretas para gerenciar os índices Oak personalizados
+* Determine as etapas corretas para gerenciar os índices personalizados do Oak
 * Determine as etapas corretas para configurar a integração OOTB SAML ou IMS
 
 **Seção 2: Desenvolvimento do AEM (40%)**
@@ -83,12 +83,12 @@ Você deve ser um desenvolvedor de aplicativos e ter:
 * Dado um cenário, determine as etapas corretas para desenvolver workflows
 * Dado um cenário, descreva a finalidade dos fragmentos de conteúdo ou fragmentos de experiência
 
-**Seção 3: Criação e implantação (12%)**
+**Seção 3: compilação e implantação (12%)**
 
 * Definir a estrutura do projeto Maven
 * Configurar projetos a partir de arquétipos
 
-**Seção 4: Manutenção do ambiente (22%)**
+**Seção 4: manutenção do ambiente (22%)**
 
 * Dado um cenário, determine as etapas necessárias para depurar problemas em ambientes AEM
 * Explicar as versões de manutenção do AEM
@@ -121,9 +121,9 @@ Você deve ser um desenvolvedor de aplicativos e ter:
 
 [Faça o curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-[Faça o curso Adobe Experience Manager Sites para desenvolvedores - Professional](https://app.rockinfo.com/courses/105)
+[Faça o curso Adobe Experience Manager Sites para Desenvolvedores - Profissional](https://app.rockinfo.com/courses/105)
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -133,7 +133,7 @@ Você deve ser um desenvolvedor de aplicativos e ter:
 
 {{sample-questions}}
 
-[Exibir exemplos de perguntas](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
+[Exibir perguntas de exemplo](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 
@@ -188,7 +188,7 @@ Você deve ser um desenvolvedor de aplicativos e ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
 

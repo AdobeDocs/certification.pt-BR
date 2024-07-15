@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional de profissional de negócios
-description: Saiba como se tornar certificado como um Adobe [!DNL Advertising DSP] Profissional de negócios.
+description: Saiba como se tornar um profissional Adobe [!DNL Advertising DSP] profissional de prática de negócios.
 solution: Advertising
 product: Advertising Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Advertising DSP] Profissional de Profissional de Negócios
+# Jornada de certificação para o profissional de business practice do Adobe [!DNL Advertising DSP]
 
 {{intro}}
 
@@ -85,7 +85,7 @@ Familiarize-se também com as seguintes ferramentas e tecnologias:
 * Aplicar conceitos de procedimentos para solucionar problemas de uma campanha
 * Dado um cenário, gerencie integrações com soluções na plataforma
 
-**Seção 3: Relatórios e análise (26 %)**
+**Seção 3: Relatório e análise (26%)**
 
 * Dado um cenário, leia os dados na plataforma
 * Dado um cenário, crie e leia relatórios personalizados
@@ -93,7 +93,7 @@ Familiarize-se também com as seguintes ferramentas e tecnologias:
 * Dado um cenário, avalie o desempenho de uma campanha
 * Aplicar conceitos de procedimento para atribuir o desempenho a uma campanha
 
-**Seção 4: Fornecer recomendações para campanhas (10%)**
+**Seção 4: Fornecendo recomendações para campanhas (10%)**
 
 * Dado um cenário, forneça atualizações aos clientes com base em uma campanha
 * Dado um cenário, ajuste a estratégia de campanha com base no desempenho da campanha
@@ -118,29 +118,29 @@ Familiarize-se também com as seguintes ferramentas e tecnologias:
 
 {{study-materials-intro}}
 
-**Seção 1: Configuração de campanhas**
+**Seção 1: Configurando campanhas**
 
-* [Sobre o Gerenciamento de público-alvo no [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
-* [Visão Geral dos Recursos do Inventário no [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [Sobre o Gerenciamento de Público-Alvo em [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
+* [Visão Geral dos Recursos de Inventário em [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
 * [[!DNL Campaign] Configurações](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
 * [Configurações de posicionamento](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
 **Seção 2: Executar e otimizar campanhas**
 
-* [Como [!DNL Advertising DSP] Otimiza suas campanhas](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
-* [Sobre metas personalizadas](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
+* [Como [!DNL Advertising DSP] Otimiza Suas Campanhas](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Sobre Metas Personalizadas](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
 * [Práticas recomendadas para configurar campanhas de desempenho](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
-* [Sobre o Inventário Premium On Demand](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
+* [Sobre O Inventário Premium Por Demanda](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
 * [Relatórios com [!DNL Advertising] Canais de marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
 
-**Seção 3: Relatórios e análise**
+**Seção 3: Relatório e análise**
 
 * [Console da Web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
-**Seção 4: Fornecer recomendações para campanhas**
+**Seção 4: Fornecendo recomendações para campanhas**
 
-* [Como [!DNL Advertising] DSP otimiza suas campanhas](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
-* [Sobre o gerenciamento de anúncios no [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
+* [Como [!DNL Advertising] O DSP Otimiza Suas Campanhas](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Sobre o gerenciamento de anúncios em [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
 +++
 
@@ -195,6 +195,6 @@ Familiarize-se também com as seguintes ferramentas e tecnologias:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

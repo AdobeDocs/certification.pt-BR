@@ -1,6 +1,6 @@
 ---
 title: Certificação do Project Manager Professional
-description: Saiba como se tornar um profissional certificado do gerente de projetos do Adobe no Adobe [!DNL Workfront].
+description: Saiba como se tornar um Gerente de Projetos Adobe certificado no Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Exame AD0-E903" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Workfront] Gerenciador de projetos Professional
+# Jornada de certificação para o Adobe [!DNL Workfront] Project Manager Professional
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso:** A variável [Gerente de projetos da Adobe Workfront - Curso profissional](https://app.rockinfo.com/courses/230) O inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento.
+>* **Curso:** O [Gerente de Projetos Adobe Workfront - Curso profissional](https://app.rockinfo.com/courses/230) inclui explicações sobre os principais conceitos, demonstrações práticas e verificações de conhecimento.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/229) O fornece um caminho personalizado por meio do processo de preparação do exame, incluindo os materiais necessários para obter êxito no exame.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/229) fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material necessário para obter êxito no exame.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 Você deve ter:
 
 * Uma compreensão do processo de trabalho desde uma solicitação de trabalho inicial até a conclusão ou teve exposição ao projeto ou ao gerenciamento de trabalho
-* Concluído treinamento autoguiado ou treinamento de inicialização ou ter sido um [!DNL Workfront] usuário por 6 a 12 meses, para que ele entenda a funcionalidade básica
+* Treinamento autoguiado ou treinamento de inicialização concluído ou usuário do [!DNL Workfront] há 6 a 12 meses, para que eles entendam a funcionalidade básica
 * Uma compreensão de como configurar, rastrear e monitorar dados de relatório
 
 <br>
@@ -71,7 +71,7 @@ Você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1: Entrada e planejamento (30%)**
+**Seção 1: entrada e planejamento (30%)**
 
 * Identificar diferentes maneiras de ser notificado de uma solicitação de trabalho
 * Dada uma solicitação, revise os dados personalizados para determinar a ação apropriada
@@ -83,10 +83,10 @@ Você deve ter:
 * Identifique o campo apropriado para exibir um recurso atribuído específico
 * Dado um perfil, determine a entrada ou o planejamento de relatórios/painéis que são úteis para o perfil durante a entrada do trabalho ou o estágio de planejamento do projeto/processo de trabalho
 
-**Seção 2: Execução (50%)**
+**Seção 2: Executar (50%)**
 
 * Identificar maneiras de entender, aplicar e medir os marcos de um projeto
-* Criar [!DNL Workfront] Aprovações de uso único e quando uma Aprovação seria usada
+* Criar [!DNL Workfront] aprovações de uso único e quando uma aprovação será usada
 * Identificar como tipos de data diferentes são usados pelo sistema
 * Dado um cenário, identifique as informações que os tipos de data transmitem a um gerente de projeto
 * Dado um cenário, determine como diferentes Restrições de Tarefa afetam a linha do tempo do projeto quando usadas
@@ -97,11 +97,11 @@ Você deve ter:
 * Dado um cenário, localize o elemento financeiro específico em [!DNL Workfront]
 * Dado um gráfico de Gantt, explique os relacionamentos entre objetos no gráfico
 * Comparar diferenças entre Status de Condição e Progresso
-* Identificar como [!DNL Workfront] equipes e [!DNL Workfront] grupos podem ser usados
+* Identificar como as equipes [!DNL Workfront] e os grupos [!DNL Workfront] podem ser usados
 * Dado o cenário, descreva como fornecer às partes interessadas as informações de que necessitam
 * Dado um cenário, determine como os tipos de data e durações afetam as condições do projeto
 * Dado um cenário, determine se os status personalizados são obrigatórios
-* Identificar os vários tipos de relatórios disponíveis no [!DNL Workfront]
+* Identificar os vários tipos de relatórios disponíveis em [!DNL Workfront]
 * Dado um cenário, descreva as etapas para criar um relatório personalizado
 
 **Seção 3: Fechamento (20%)**
@@ -117,7 +117,7 @@ Você deve ter:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
 <br>
 
@@ -137,7 +137,7 @@ Você deve ter:
 
 **Curso de treinamento recomendado**
 
-[Treinamento da equipe principal para planejadores no novo [!DNL Workfront] experiência](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[Treinamento da equipe principal para planejadores na nova [!DNL Workfront] experiência](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
 **Materiais de estudo**
 
@@ -151,9 +151,9 @@ Você deve ter:
 
 {{take-course}}
 
-[Faça o curso Adobe Workfront Project Manager - Professional](https://app.rockinfo.com/courses/230)
+[Faça o curso do Gerente de Projetos Adobe Workfront - Profissional](https://app.rockinfo.com/courses/230)
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -212,6 +212,6 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

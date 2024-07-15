@@ -1,6 +1,6 @@
 ---
 title: Certificação profissional
-description: Saiba como se tornar um certificado [!DNL Experience Platform] Profissional em [!DNL Real-Time Customer Data Platform]
+description: Saiba como se tornar um [!DNL Experience Platform] Profissional certificado [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Real-Time CDP] Profissional de Profissional de Negócios
+# Jornada de certificação para o profissional de business practice do Adobe [!DNL Real-Time CDP]
 
 {{intro}}
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
 >
->* **Curso:** Se você está apenas começando, ou precisa de um refrescamento, leve nossa [Curso do Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acessar explicações dos principais conceitos, apresentações dos produtos e verificações de conhecimento. Este curso fornece uma base de conhecimento que você pode usar na jornada de certificação.
+>* **Curso:** Se você está apenas começando ou precisa de uma atualização, faça o nosso [Curso do Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acessar explicações dos principais conceitos, apresentações do produto e verificações de conhecimento. Este curso fornece uma base de conhecimento que você pode usar na jornada de certificação.
 >
->* **Guia de preparação do exame:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/133) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/133) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação.
 >
 >_Se for solicitado a fazer logon, use sua Adobe ID._
 
@@ -99,7 +99,7 @@ Experiência com tarefas que incluem:
 * Demonstrar uma compreensão das políticas DULE e seus impactos na disponibilidade de dados nos destinos
 * Garantir que as medidas de privacidade e conformidade de dados sejam seguidas
 
-**Seção 3: Análise de negócios (30%)**
+**Seção 3: Análise comercial (30%)**
 
 * Identificar casos de uso que se vinculam aos KPIs de negócios
 * Realizar análise de dados em segmentos de clientes na plataforma
@@ -107,7 +107,7 @@ Experiência com tarefas que incluem:
 
 **Seção 4: Esquemas e perfis (18%)**
 
-* Demonstrar uma compreensão do Adobe [!DNL Experience Platform] conceitos
+* Demonstrar uma compreensão dos conceitos do Adobe [!DNL Experience Platform]
 * Usar recursos de perfil
 
 <br>
@@ -145,7 +145,7 @@ Experiência com tarefas que incluem:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -205,6 +205,6 @@ Experiência com tarefas que incluem:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

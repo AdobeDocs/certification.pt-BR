@@ -1,7 +1,7 @@
 ---
 source-git-commit: c550ec351b2926db895746457667474d69249c2c
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -15,4 +15,4 @@ Nossos testes práticos são todos desenvolvidos a partir do mesmo modelo dos ex
 
 Lembre-se de que a aprovação em um teste prático não garante que você será aprovado no exame de certificação.
 
-Vá para a [Portal de Preparação de Exames de Certificação Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} agora para fazer um teste prático.
+Vá agora para o [Portal de Preparação para Exames de Certificação do Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} para fazer um teste prático.

@@ -1,6 +1,6 @@
 ---
 title: Certificação do arquiteto mestre
-description: Saiba como se tornar um arquiteto de Adobe certificado mestre em [!DNL Campaign Classic].
+description: Saiba como se tornar um arquiteto mestre de Adobe certificado no [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Campaign Classic] Arquiteto mestre
+# Jornada de certificação para o mestre arquiteto do Adobe [!DNL Campaign Classic]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/254) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/254) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado necessário para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### Público-alvo {#intended-audience}
 
-* Líder técnica com Adobe [!DNL Campaign Classic] plano de fundo
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Desenvolvedor
-* Adobe [!DNL Campaign Classic] função de desenvolvedor ou similar
+* Líder técnico com Adobe [!DNL Campaign Classic] em segundo plano
+* Adobe Certified Expert - [!DNL Campaign Classic] Desenvolvedor
+* Função de desenvolvedor ou similar do Adobe [!DNL Campaign Classic]
 * Arquiteto de soluções Martech
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 Você deve ter:
 
-* Experiência com vários Adobe [!DNL Campaign Classic] implementações
+* Experiência com várias implementações do Adobe [!DNL Campaign Classic]
 * Uma compreensão de como o Adobe Campaign funciona como uma solução de marketing digital e a implementa com base nos requisitos do projeto
 * A capacidade de criar um documento de design funcional
 * A capacidade de criar um escopo funcional de trabalho para uma instalação do Adobe Campaign
@@ -79,11 +79,11 @@ Você deve ter:
 
 * Dados os requisitos específicos de negócios, determine as informações relevantes para o projeto da solução
 * Dado um cenário, forneça desempenho, infraestrutura e recomendações de configuração
-* Analisar [!DNL Campaign Classic] configurações para aconselhar sobre melhorias
+* Analisar as configurações do [!DNL Campaign Classic] para fornecer recomendações sobre melhorias
 * Determine os requisitos comerciais para projetar uma solução de marketing digital
 * Dado um cenário, especifique o método correto de implantação do produto
 
-**Seção 2: Cenário de dados (24%)**
+**Seção 2: paisagem de dados (24%)**
 
 * Especifique o Modelo de dados e os parâmetros de design do mapa de integração para uma solução do Campaign com outras ferramentas do cliente
 * Dado um cenário, determine o design da solução necessário para estar em conformidade com as leis e normas
@@ -92,13 +92,13 @@ Você deve ter:
 **Seção 3: Instalação e gerenciamento (16%)**
 
 * Dado um conjunto de módulos chave, valide a configuração da configuração do módulo
-* Dado um cenário, recomende soluções de integração para permitir integrações nativas e de terceiros com o Adobe [!DNL Campaign Classic]
+* Dado um cenário, recomende soluções de integração para habilitar integrações nativas e de terceiros com o Adobe [!DNL Campaign Classic]
 * Dado um cenário, determine os métodos de diagnóstico
 * Especificar parâmetros de integração e abordagem para integrações de Adobe e de aplicativos que não sejam Adobe
 * Dado um cenário, aconselhe sobre a infraestrutura de hardware apropriada necessária durante o projeto da solução
 * Dado um cenário, determine o método correto para a promoção da solução para o respectivo ambiente
 
-**Seção 4: Liderança em projetos (10%)**
+**Seção 4: Liderança do projeto (10%)**
 
 * Dados os requisitos do cliente, determine as atividades e os recursos apropriados necessários
 * Dado um cenário, analisar a solução geral para determinar riscos técnicos, premissas, problemas e dependências
@@ -117,7 +117,7 @@ Você deve ter:
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -139,7 +139,7 @@ Você deve ter:
 
 {{study-materials-intro}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -198,8 +198,8 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
 
 

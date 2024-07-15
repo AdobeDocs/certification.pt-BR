@@ -1,6 +1,6 @@
 ---
 title: Certificação do arquiteto mestre
-description: Saiba como se tornar certificado como um [!DNL Adobe Analytics] Arquiteto mestre.
+description: Saiba como se tornar certificado como um  [!DNL Adobe Analytics] Arquiteto Mestre.
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para [!DNL Adobe Analytics] Arquiteto mestre
+# Jornada de certificação para o arquiteto mestre [!DNL Adobe Analytics]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/223) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/223) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 ### Experiência mínima {#minimum-experience}
 
-Você deve ter um mínimo de 3-4 anos de experiência em design [!DNL Adobe Analytics] arquitetura, especificações da camada de dados e gerenciamento de tags, bem como uma compreensão básica do código JavaScript.
+Você deve ter no mínimo de 3 a 4 anos de experiência no design da arquitetura [!DNL Adobe Analytics], especificações da camada de dados e gerenciamento de tags, bem como uma compreensão básica do código JavaScript.
 
-Além disso, você é responsável por transformar os requisitos de negócios em especificações de rastreamento e [!DNL Adobe Analytics] e estiver familiarizado com as seguintes tecnologias e ambientes:
+Além disso, você é responsável por traduzir os requisitos de negócios em especificações de rastreamento e [!DNL Adobe Analytics] variáveis, e está familiarizado com as seguintes tecnologias e ambientes:
 
 * Aplicativos de análise da web
 * Adobe Experience Cloud
@@ -72,13 +72,13 @@ Além disso, você é responsável por transformar os requisitos de negócios em
 
 {{exam-objectives}}
 
-**Seção 1: Detecção (18%)**
+**Seção 1: Descoberta (18%)**
 
 * Demonstrar capacidade de auditar sites
 * Investigar as necessidades do cliente para criar requisitos de negócios
 * Dado um cenário, criar uma estrutura de medição
 
-**Seção 2: Projeto da solução (54%)**
+**Seção 2: Design da solução (54%)**
 
 * Traduzir os requisitos de negócios em variáveis e métricas
 * Demonstrar capacidade de gerenciar configurações de conjuntos de relatórios
@@ -87,7 +87,7 @@ Além disso, você é responsável por transformar os requisitos de negócios em
 * Escrever especificações técnicas para desenvolvedores de sites
 * Criar usuários/grupos do Experience Cloud
 
-**Seção 3: Pós-implementação (28 %)**
+**Seção 3: implementação do Post (28%)**
 
 * Dado um conjunto de requisitos, valide o rastreamento por meio de ferramentas de desenvolvedor do navegador e relatórios de Adobe
 * Aplicar conceitos de procedimentos para gerenciar a extração de dados e os relacionamentos
@@ -119,7 +119,7 @@ Além disso, você é responsável por transformar os requisitos de negócios em
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -178,7 +178,7 @@ Além disso, você é responsável por transformar os requisitos de negócios em
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
 

@@ -1,6 +1,6 @@
 ---
 title: Certificação Business Practitioner Expert
-description: Saiba como se tornar um especialista certificado em prática de negócios Adobe com [!DNL Campaign Classic].
+description: Saiba como se tornar um especialista certificado em profissionais de negócios Adobe com o  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Campaign Classic] Especialista em Profissionais de Negócios
+# Jornada de certificação para Adobe [!DNL Campaign Classic] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/253) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado que você precisará para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/253) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo o material de estudo detalhado necessário para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 Você deve ter:
 
-* Pelo menos 2 anos de Adobe extensivo [!DNL Campaign Classic] experiência com software
+* Pelo menos 2 anos de extensa experiência em software Adobe [!DNL Campaign Classic]
 * Experiência de vários anos desenvolvendo campanhas e táticas de marketing usando omnicanal digital
 * Experiência na interpretação/tradução dos requisitos de negócios para produtos executáveis do Campaign
 * Experiência com métricas de marketing, como ROI, taxas de click-through e conversão
@@ -69,7 +69,7 @@ Você deve ter:
 
 {{exam-objectives}}
 
-**Seção 1: Gestão de campanhas (20%)**
+**Seção 1: Gerenciamento de campanha (20%)**
 
 * Aplicar práticas recomendadas para criar uma campanha
 * Dado um cenário, determine o template de campanha correto
@@ -84,7 +84,7 @@ Você deve ter:
 * Dado um conjunto de requisitos de campanha, determine o design correto de um workflow de marketing
 * Aplicar práticas recomendadas na execução de workflows
 
-**Seção 3: Gestão de dados (24%)**
+**Seção 3: Gerenciamento de dados (24%)**
 
 * Explicar os conceitos principais de bancos de dados relacionais
 * Determine as diferentes fontes de dados que um workflow pode acessar
@@ -94,13 +94,13 @@ Você deve ter:
 * Execute as etapas para configurar um filtro predefinido
 * Dado um requisito comercial, identifique o formulário de entrada apropriado
 
-**Seção 4: Gestão de deliveries (14%)**
+**Seção 4: Gerenciamento de entrega (14%)**
 
 * Aplicar as etapas para criar/configurar deliveries
 * Dado um cenário, selecione e configure o público de prova apropriado para aprovações
 * Analisar e interpretar auditorias de entrega
 
-**Seção 5: Relatórios (12 %)**
+**Seção 5: Relatório (12%)**
 
 * Dado um cenário, determine os relatórios apropriados para gerar
 * Interpretar relatórios internos
@@ -136,7 +136,7 @@ Você deve ter:
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -195,6 +195,6 @@ Você deve ter:
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.

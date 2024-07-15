@@ -1,20 +1,21 @@
 ---
 title: Certificação da plataforma
-description: Saiba como se tornar um Adobe de certificado [!DNL Experience Platform] Especialista.
+description: Saiba como se tornar um Adobe [!DNL Experience Platform] Expert certificado.
 solution: Experience Platform
 product: Experience Platform
 hidefromtoc: true
-source-git-commit: c488851695d2eb1c2c8369126760aaa74c44ef58
+exl-id: 9ed6a519-e8ee-4212-8619-22ade3675446
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Experience Platform] Visão geral da certificação
+# Visão geral da certificação do Adobe [!DNL Experience Platform]
 
 **Especialista**
 
 * [Desenvolvedor](/help/certifications/aep/aep-e-foundations.md) <!--AD0-E601-->
 
-Visite o [Renovar sua certificação](/help/certifications/renew.md) página para ver se uma opção de renovação está disponível para este produto.
+Visite a página [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.

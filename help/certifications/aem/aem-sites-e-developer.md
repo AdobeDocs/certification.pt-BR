@@ -1,6 +1,6 @@
 ---
 title: Certificação Developer Expert
-description: Saiba como se tornar um Adobe de certificado [!DNL Experience Manager Sites] Especialista.
+description: Saiba como se tornar um Adobe [!DNL Experience Manager Sites] Expert certificado.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Jornada de certificação para o Adobe [!DNL Experience Manager] Especialista em desenvolvedores do Sites
+# Jornada de certificação para Adobe [!DNL Experience Manager] Sites Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** A variável [Guia de preparação do exame](https://app.rockinfo.com/courses/125) O fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de preparação do exame, use sua Adobe ID._
+>**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/125) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -80,7 +80,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Identifique as etapas para criar e gerenciar configurações do AEM Dispatcher
 * Determine as etapas corretas para configurar a multilocação
 * Explicar como criar e gerenciar configurações de OSGi
-* Dado um cenário, determine o método correto para Criar e gerenciar índices Oak personalizados
+* Dado um cenário, determine o método correto para Criar e gerenciar índices personalizados do Oak
 * Determine as etapas corretas para configurar a integração OOTB SAML e LDAP
 
 **Seção 2: Desenvolvimento do AEM (44%)**
@@ -92,12 +92,12 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 * Dado um cenário, determine a abordagem para qualquer integração de terceiros
 * Determinar a abordagem para implementar uma implementação headless ou híbrida
 
-**Seção 3: Criação e implantação (14%)**
+**Seção 3: compilação e implantação (14%)**
 
 * Identificar as etapas para configurar e manter o gerenciamento de dependências de front-end e back-end
 * Determine o arquétipo correto ao criar projetos
 
-**Seção 4: Manutenção do ambiente (22%)**
+**Seção 4: manutenção do ambiente (22%)**
 
 * Dado um cenário, determine as etapas necessárias para gerenciar ambientes AEM
 * Explicar as etapas de configuração sobre o gerenciamento de versões
@@ -110,7 +110,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{readiness}}
 
-[Responder ao questionário de prontidão online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -136,7 +136,7 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 {{practice-test}}
 
-**Guia de preparação do exame**
+**Guia de Preparação do Exame**
 
 {{exam-prep-guide}}
 
@@ -206,6 +206,6 @@ Além disso, você deve estar familiarizado com as seguintes tecnologias e ambie
 
 ## Perguntas
 
-Exibir a certificação [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Entre em contato](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
