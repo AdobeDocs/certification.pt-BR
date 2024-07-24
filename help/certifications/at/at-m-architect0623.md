@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exame AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Ambientes:
 **Seção 6: arquitetar, projetar e implementar o [!DNL Adobe Target] (18%)**
 
 * Selecione a implementação correta da Solicitação do Target (Global, Confirmação de pedido, Híbrido)
-Avaliar e projetar uma implementação do [!DNL Adobe Target]
+* Avaliar e projetar uma implementação do [!DNL Adobe Target]
 * Descrever a implementação de [!DNL Adobe Target] em aplicativos nativos para dispositivos móveis
 
 **Seção 7: Solução de Problemas (28%)**
