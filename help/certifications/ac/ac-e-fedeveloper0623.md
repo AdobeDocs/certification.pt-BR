@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: d0bf65a667035e122f9731c23d207dd35e68487f
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '725'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 * [!DNL Adobe Commerce] - versão 2.4.6
 * Conhecimento básico da estrutura e layout de front-end
 * Experiência e compreensão de HTML, CSS (e pré-processadores), LESS, Componentes do JavaScript e da interface do usuário, jQuery, Underscore, Require.JS, Knockout, também modelos PHP, conhecimento em BD e gerenciamento de conteúdo
-* Familiaridade com a plataforma, Blocos CMS, Widgets, Páginas CMS, Páginas de categoria, Páginas de produto, Carrinho e Check-out e área Painel de contas
+* Familiaridade com a plataforma, Blocos de CMS, Widgets, Páginas do CMS, Páginas de categoria, Páginas de produto, Carrinho e Check-out e área Painel de contas
 * Noções básicas ou conhecimento de configurações administrativas
 * Conhecimento sobre extensão e substituição de estilos, layouts e arquivos JS
 * Extensão de temas principais/Hierarquia de temas
@@ -132,14 +132,6 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 * Diferenciar o caso de uso apropriado para modos de implantação
 * Definir configuração e uso do Grunt
 * Descreva as ferramentas adicionais que a nuvem fornece (Fastly, download do banco de dados, implantação de conteúdo, ramificação usando a interface do usuário)
-
-<br>
-
-### Questionário de disponibilidade
-
-{{readiness}}
-
-[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
