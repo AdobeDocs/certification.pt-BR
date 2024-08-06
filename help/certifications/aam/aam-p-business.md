@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exame AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: ca46b04aad617757ac7fa1c9089c5c40c6b6addc
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -177,5 +177,5 @@ Você deve ter uma compreensão básica dos fluxos de dados, objetivos de negóc
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).
 

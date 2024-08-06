@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exame AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Você deve estar familiarizado com o Adobe Managed Services e o Adobe [!DNL Expe
 
 Você deve ter:
 
-* Mais de 6 meses de experiência com CMS
+* 6 meses+ experiência com o CMS
 * 6 meses+ experiência com o AEM Assets
 * Mais de 6 meses de experiência de desenvolvedor de Java
 * Experiência no local e na nuvem
@@ -219,4 +219,4 @@ Além disso, você deve ter experiência com as seguintes tecnologias e ambiente
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

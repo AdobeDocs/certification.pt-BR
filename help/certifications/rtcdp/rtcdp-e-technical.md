@@ -9,7 +9,7 @@ badge: label="Exame AD0-E600 e AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Você deve ter:
 >
 ><br>
 >
->**Se você já tiver agendado o exame AD0-E600**, recomendamos cancelar seu compromisso no Portal de Exame (veja a etapa 3 abaixo) e reagendar quando o novo exame for lançado. Se tiver dúvidas, contate o [Suporte à Certificação](mailto:certif@adobe.com){target="_blank"}.
+>**Se você já tiver agendado o exame AD0-E600**, recomendamos cancelar seu compromisso no Portal de Exame (veja a etapa 3 abaixo) e reagendar quando o novo exame for lançado. Se tiver dúvidas, contate o [Suporte à Certificação](mailto:certif@adobe.com).
 
 O exame AD0-E600 valida as habilidades e conhecimentos que abrangem os recursos básicos e as tarefas realizadas com frequência do Adobe [!DNL Experience Platform] no nível Expert.
 
@@ -183,7 +183,7 @@ O exame AD0-E600 valida as habilidades e conhecimentos que abrangem os recursos 
 >
 ><br>
 >
->**Se você já tiver agendado o exame AD0-E600**, recomendamos cancelar seu compromisso no portal Exame e reagendar quando o novo exame for lançado. Se tiver dúvidas, contate o [Suporte à Certificação](mailto:certif@adobe.com){target="_blank"}.
+>**Se você já tiver agendado o exame AD0-E600**, recomendamos cancelar seu compromisso no portal Exame e reagendar quando o novo exame for lançado. Se tiver dúvidas, contate o [Suporte à Certificação](mailto:certif@adobe.com).
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ O exame AD0-E600 valida as habilidades e conhecimentos que abrangem os recursos 
 >
 ><br>
 >
->**Se você já tiver agendado o exame AD0-E600**, recomendamos cancelar seu compromisso no portal Exame e reagendar quando o novo exame for lançado. Se tiver dúvidas, contate o [Suporte à Certificação](mailto:certif@adobe.com){target="_blank"}.
+>**Se você já tiver agendado o exame AD0-E600**, recomendamos cancelar seu compromisso no portal Exame e reagendar quando o novo exame for lançado. Se tiver dúvidas, contate o [Suporte à Certificação](mailto:certif@adobe.com).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ O exame AD0-E600 valida as habilidades e conhecimentos que abrangem os recursos 
 >
 ><br>
 >
->**Se você já tiver passado no exame AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations e estiver se preparando para o exame AD7-E601**, sugerimos que você mantenha sua consulta, pois a aprovação no exame AD7-E601 concederá a Certificação de Especialista do Adobe [!DNL Real-Time Customer Data Platform]. Se tiver dúvidas, contate o [Suporte à Certificação](mailto:certif@adobe.com){target="_blank"}.
+>**Se você já tiver passado no exame AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations e estiver se preparando para o exame AD7-E601**, sugerimos que você mantenha sua consulta, pois a aprovação no exame AD7-E601 concederá a Certificação de Especialista do Adobe [!DNL Real-Time Customer Data Platform]. Se tiver dúvidas, contate o [Suporte à Certificação](mailto:certif@adobe.com).
 
 O exame AD7-E601 abrange a criação, o gerenciamento e a compreensão do perfil do cliente, a segmentação, os destinos entre fontes e outros tópicos. O exame valida as habilidades e o conhecimento fundamentais necessários para empregar a Real-time CDP para segmentação de público, exportações de destinos e ativação em tempo real para perfis unificados que seguem as regulamentações de dados e privacidade. Os candidatos devem ter experiência com CDP (Plataforma de dados do cliente) e conhecimento sobre o Adobe [!DNL Experience Platform].
 
@@ -431,4 +431,4 @@ Seção 3: Destinos (27 %)
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

@@ -4,7 +4,7 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
 workflow-type: tm+mt
 source-wordcount: '1496'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Se você não passar em um exame de certificação de Adobe na primeira tentativ
 
 **Preços dos exames de certificação**
 
-| Certificação Adobe | Preço (US$) | Índia Preço (USD) |
+| Certificação da Adobe | Preço (US$) | Índia Preço (USD) |
 | ------- | ------- | ------- |
 | Profissional certificado Adobe | $ 125 | $ 95 |
 | Adobe Certified Expert | $ 225 | $ 150 |
@@ -225,4 +225,4 @@ Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

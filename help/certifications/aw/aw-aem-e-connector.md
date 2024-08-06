@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exame AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Você deve ter obtido uma ou mais das seguintes certificações:
 
 E você deve ter:
 
-* Mais de 1 ano de experiência em CMS
+* Mais de 1 ano de experiência com o CMS
 * Mais de 1 ano de experiência com AEM
 * Mais de 1 ano de experiência [!DNL Workfront]
 * Mais de 2 anos de experiência de desenvolvedor em Java/J2EE
@@ -188,4 +188,4 @@ E você deve ter:
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exame AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '577'
 ht-degree: 0%
@@ -211,6 +211,6 @@ Familiarize-se com as seguintes tecnologias e ambientes:
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).
 
 

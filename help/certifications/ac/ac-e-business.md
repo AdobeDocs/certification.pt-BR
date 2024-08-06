@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exame AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 * Demonstrar a capacidade de importar/exportar Adobe [!DNL Commerce] entidades
 * Entenda como configurar nativamente o carrinho e o checkout
 * Avalie os métodos de envio nativos disponíveis no Adobe [!DNL Commerce] e como eles se aplicam aos casos de uso comuns
-* Compreender as maneiras de criar e publicar conteúdo estilizado usando os recursos do CMS do Adobe [!DNL Commerce], incluindo o Page Builder
+* Compreender as maneiras de criar e publicar conteúdo estilizado usando os recursos do Adobe [!DNL Commerce] CMS, incluindo o Page Builder
 * Uso de ferramentas nativas para gerenciar o ciclo de vida do pedido
 * Demonstrar a capacidade de configurar as várias opções de presentes (cartões-presente, invólucro de presente, dar mensagens)
 * Configuração e modificação de emails transacionais
@@ -224,4 +224,4 @@ Além disso, você deve se sentir confortável usando as seguintes tecnologias:
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

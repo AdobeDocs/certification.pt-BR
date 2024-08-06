@@ -7,7 +7,7 @@ role: User
 badge: label="Exame AD0-E502" type="neutral"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
@@ -197,4 +197,4 @@ Familiarize-se também com as seguintes ferramentas e tecnologias:
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

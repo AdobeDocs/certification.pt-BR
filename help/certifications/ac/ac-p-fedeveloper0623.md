@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exame AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 * Forte compreensão da versão 2.4.6 do Adobe Commerce
 * Conhecimento básico da estrutura e layout de front-end
 * Experiência e compreensão de HTML, CSS (e pré-processadores), LESS, Componentes do JavaScript e da interface do usuário, jQuery, Underscore, Require.JS, Knockout, também modelos PHP, conhecimento em BD e gerenciamento de conteúdo
-* Familiaridade com a plataforma, Blocos CMS, Widgets, Páginas CMS, Páginas de categoria, Páginas de produto, Carrinho e Check-out e área Painel de contas
+* Familiaridade com a plataforma, Blocos de CMS, Widgets, Páginas do CMS, Páginas de categoria, Páginas de produto, Carrinho e Check-out e área Painel de contas
 * Noções básicas ou conhecimento de configurações administrativas
 * Conhecimento sobre extensão e substituição de estilos, layouts e arquivos JS
 * Extensão de temas principais/Hierarquia de temas
@@ -228,4 +228,4 @@ Além disso, você deve exibir conhecimento sobre as seguintes tecnologias:
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

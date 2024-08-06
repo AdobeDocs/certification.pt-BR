@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exame AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%
@@ -221,4 +221,4 @@ Você deve ter pelo menos 18-24 meses de experiência com o Adobe [!DNL Workfron
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

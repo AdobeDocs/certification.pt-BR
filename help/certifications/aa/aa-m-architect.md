@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Exame AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Além disso, você é responsável por traduzir os requisitos de negócios em es
 * Escrever especificações técnicas para desenvolvedores de sites
 * Criar usuários/grupos do Experience Cloud
 
-**Seção 3: implementação do Post (28%)**
+**Seção 3: Após a implementação (28%)**
 
 * Dado um conjunto de requisitos, valide o rastreamento por meio de ferramentas de desenvolvedor do navegador e relatórios de Adobe
 * Aplicar conceitos de procedimentos para gerenciar a extração de dados e os relacionamentos
@@ -180,5 +180,5 @@ Além disso, você é responsável por traduzir os requisitos de negócios em es
 
 Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com){target="_blank"}.
+Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).
 
