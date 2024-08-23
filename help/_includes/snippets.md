@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ O Adobe usa o Exame para administrar exames monitorados online. No portal Exame,
 >[!NOTE]
 >
 >Você deve fazer logon no [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} antes de clicar no botão de Exame abaixo.
+
+>[!WARNING]
+>
+>O Programa de certificação de experiência digital do Adobe está se preparando para atualizações. Por causa disso, os candidatos não podem agendar as nomeações para os exames a serem realizadas após 26 de setembro de 2024. O agendamento retornará ao normal quando as atualizações forem concluídas.
 
 <!--divider-->
 
