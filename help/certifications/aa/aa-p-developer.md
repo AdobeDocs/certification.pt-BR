@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exame AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,16 @@ ht-degree: 0%
 
 {{intro}}
 
+
 >[!NOTE]
 >
->**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/217) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
+>Os recursos gratuitos e sob demanda agora estão disponíveis para ajudá-lo a se preparar para o seu exame:
+>
+>* **Curso:** se você está apenas começando ou precisa de uma atualização, faça o [curso do Adobe Analytics Foundations](https://app.rockinfo.com/courses/263) para acessar explicações dos principais conceitos, apresentações do produto e verificações de conhecimento. Este curso fornecerá uma base de conhecimento que você pode usar na sua jornada de certificação.
+>
+>* **Guia de Preparação do Exame:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/217) fornece um caminho personalizado por meio do processo de preparação do exame, incluindo o material de estudo detalhado necessário para obter êxito no exame.
+>
+>_Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
 
 ## Descrição do exame {#exam-description}
 
@@ -147,6 +154,12 @@ Você também deve ter experiência com as seguintes tarefas:
 **Fazer um teste prático**
 
 {{practice-test}}
+
+**Fazer um curso**
+
+{{take-course}}
+
+[Curso do Adobe Analytics Foundations](https://app.rockinfo.com/courses/263)
 
 **Guia de Preparação do Exame**
 
