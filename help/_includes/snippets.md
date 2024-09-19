@@ -1,5 +1,5 @@
 ---
-source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
+source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
 workflow-type: tm+mt
 source-wordcount: '1835'
 ht-degree: 0%
@@ -193,7 +193,7 @@ O Adobe usa o Exame para administrar exames monitorados online. No portal Exame,
 
 >[!WARNING]
 >
->O Programa de certificação de experiência digital do Adobe está se preparando para atualizações. Por causa disso, os candidatos não podem agendar as nomeações para os exames a serem realizadas após 26 de setembro de 2024. O agendamento retornará ao normal quando as atualizações forem concluídas.
+>O Programa de certificação de experiência digital do Adobe está se preparando para atualizações. Por causa disso, os candidatos não podem agendar as nomeações para os exames a serem realizadas após 13 de outubro de 2024. O agendamento retornará ao normal quando as atualizações forem concluídas.
 
 <!--divider-->
 
