@@ -4,9 +4,9 @@ description: Saiba como obter um certificado no Adobe. Encontre todos os recurso
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ A maioria das renovações de certificação são **gratuitas**. Para certifica�
 
 **Pagando o seu exame**
 
-Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação do Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar pelo seu exame de certificação por voucher ou cartão de crédito. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação do Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
@@ -82,7 +82,7 @@ Parceiros de bronze e acima obtêm descontos em todos os exames e aulas de certi
 
 **Outros descontos**
 
-Além disso, todos os candidatos podem receber um desconto em compras em massa de 10 ou mais exames quando compram por meio do [Centro de Cupom de Certificação do Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Além disso, todos os candidatos podem receber um desconto em compras em massa de 10 ou mais exames quando compram por meio do [Centro de Cupom de Certificação do Adobe](https://certification.adobe.com/certifications/vouchers).
 
 **Níveis de desconto em massa**
 
@@ -94,6 +94,68 @@ Nota: Descontos em massa não podem ser combinados com qualquer outra oferta ou 
 | 25-49 | 25% |
 | 50+ | 33% |
 
+>[!TAB Comprovantes]
+
+O Programa de certificação de experiência digital do Adobe está migrando para uma nova plataforma neste último trimestre! O novo Portal de Certificação do Adobe oferecerá treinamento técnico, bem como uma melhor experiência do usuário para os candidatos à certificação.
+
+Como parte do portal, projetamos um novo [Centro de Cupom de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}, que será lançado em 23 de setembro de 2024. Esse novo sistema de compra e gerenciamento de vouchers é mais robusto, mais fácil de navegar e oferece opções de relatórios aprimoradas para administradores.
+
+Quaisquer vouchers que você já tenha comprado por meio do Xvoucher estarão disponíveis no Portal de Certificação do Adobe em 72 horas após esta transição. Depois de fazer logon, acesse o [Centro de Cupom do Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} para exibir seus comprovantes e histórico de cupom ativos e comprar novos comprovantes.
+
+**Datas importantes para lembrar:**
+
+**23 de setembro de 2024, 12:01 AM ET**
+* Os vouchers não podem mais ser comprados no Xvoucher.
+* A compra do cupom estará disponível no [Centro de Cupom do Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+* Os exames ainda podem ser agendados no [Sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe/){target="_blank"}.
+
+**25 de setembro de 2024 às 8h00 ET**
+* Os vouchers da sua conta Xvoucher aparecerão no [Centro de Vouchers de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
+**Perguntas frequentes**
+
++++O que acontece com os vouchers existentes?
+
+Todos os vouchers que você já comprou por meio do Xvoucher estarão disponíveis no Portal de certificação do Adobe em 25 de setembro de 2024 às 8:00, horário do Pacífico. Você ainda pode usar esses vouchers para agendar exames. Os números não serão alterados mesmo após a transição do Xvoucher.
+
++++
+
++++Como faço para comprar vouchers no Portal de Certificação do Adobe?
+
+Vá para o [Centro de Cupom do Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} e adicione o número desejado de cupom ao carrinho. Desde que você esteja conectado com o email do parceiro, o desconto do parceiro será aplicado.
+
+Para ver uma demonstração sobre a compra de vouchers, assista a este [vídeo](https://video.tv.adobe.com/v/3434122){target="_blank"}.
+
++++
+
++++Como atribuo e gerencio vouchers para minha equipe?
+
+Este [vídeo](https://video.tv.adobe.com/v/3434581){target="_blank"} fornece uma visão geral detalhada dos recursos de administração do Centro de Cupom de Adobe.
+
++++
+
++++Onde posso exibir os cupons da minha equipe?
+
+Os cupons da sua equipe estarão visíveis no [Centro de Cupom de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
++++
+
++++Onde os membros da minha equipe podem exibir os cupons atribuídos?
+
+As pessoas físicas poderão exibir seus comprovantes atribuídos em sua [conta](https://certification.adobe.com/user/purchases){target="_blank"} no Portal de Certificação do Adobe.
+
++++
+
++++Como faço para iniciar a integração de meu pedido de compra no novo sistema?
+
+Consulte a última pergunta em nossas [Perguntas frequentes sobre voucher](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}: &quot;Qual é o processo de pagamento com uma Ordem de Compra?&quot;
+
++++
+
+**Perguntas?**
+
+Visite as [Perguntas frequentes sobre o voucher](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} detalhadas em nosso site.
+
 >[!TAB Fornecedores de certificação]
 
 O Programa de Certificação de Experiência Digital do Adobe faz parceria com fornecedores para ajudar a apoiar as iniciativas e metas do programa. Estes são os fornecedores e suas informações de contato:
@@ -102,7 +164,6 @@ O Programa de Certificação de Experiência Digital do Adobe faz parceria com f
 | ------- | ------- | ------- |
 | Credly | Sistema de gerenciamento de medalhas | [Suporte](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Exame | Testar fornecedor de entrega (somente processamento on-line) | [Email](mailto:support@examity.com){target="_blank"} ou 855-Exame (855-392-6489) |
-| Xvoucher - Centro de Voucher de Certificação Adobe | Centro de comprovantes para comprar comprovantes individuais ou em massa | [Email](mailto:support@xvoucher.com){target="_blank"} ou [Ajuda online](https://help.xvoucher.com/hc/en-us) |
 
 Recursos de outros fornecedores:
 
@@ -123,69 +184,6 @@ Vídeos Úteis:
 * [Como reagendar sua reunião de teste](https://vimeo.com/394507149){target="_blank"}
 * [Como cancelar seu compromisso de teste](https://vimeo.com/394507135){target="_blank"}
 * [Como fazer seu teste online](https://vimeo.com/394506686){target="_blank"}
-
-Perguntas frequentes sobre o Centro de vouchers de Certificação do Adobe (Xvoucher)
-
-+++Quando os comprovantes de exame expiram? Por quanto tempo elas são boas?
-
-Os vales de exame Adobe expiram 12 meses após a compra. Os vouchers não podem ser estendidos além de sua data de expiração. As inscrições para o exame devem ser programadas, pagas e realizadas antes da data de vencimento do comprovante do exame.
-
-+++
-
-+++Os comprovantes podem ser devolvidos para crédito ou reembolso?
-
-_Todas as vendas são finais._ Devoluções e reembolsos não são aceitos. Os vales de exame de Adobe são comprados em um nível de exame, não para exames específicos, e isso proporciona flexibilidade.
-
-* Exemplo: ao comprar 10 comprovantes de exame de nível Adobe Certified Expert e distribuí-los, você não precisa saber antecipadamente ou planejar quem fará qual exame de especialista.
-* Os administradores podem atribuir o cupom a um usuário e ver se o cupom foi visualizado, resgatado ou quando a prova está agendada ou ocorreu.
-
-+++
-
-+++Que tipo de pagamentos são aceitos?
-
-O pagamento pode ser feito por (todos os principais) cartões de crédito. Pagamentos via cartão de crédito exigem a aceitação de um acordo de click-wrap on-line. As diferentes opções de pagamento são:
-
-* Remoto, ordem de compra ou ACH: crie uma ordem de compra no sistema Xvoucher que pode ser impressa e enviada ao departamento de contas a pagar. Esse pedido será aprovado no recebimento da transferência ou cheque eletrônico.
-* Cartão de crédito: todos os principais cartões de crédito foram aceitos.
-* Xwallet: Isso subtrairá a quantia do pedido do pool de Xwallet.
-
-+++
-
-+++Há um número mínimo ou máximo de cupons que eu posso comprar?
-
-Não, não há mínimo ou máximo. As compras do cliente são limitadas apenas com base nos fundos disponíveis, como um limite de cartão de crédito ou saldo de conta bancária para transferências eletrônicas.
-
-+++
-
-+++Quanto tempo levará para obter acesso aos vouchers depois que eu fizer meu pedido?
-
-Os vouchers estarão disponíveis imediatamente após a compra se pagarem com cartão de crédito ou Xwallet.
-
-* Se você comprar por conta própria, os códigos dos vouchers serão fornecidos na tela e no email.
-* Se você comprar para outras pessoas, faça logon em sua conta do Xvoucher e distribua os vouchers para seus usuários finais a partir daí.
-* Se o pagamento for feito por fio ou por ordem de compra, as ordens de voucher serão liberadas quando o Xvoucher tiver recebido os fundos.
-
-[Ajuda online](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++Como faço para acessar minha conta do Xvoucher?
-
-Basta fazer login na sua conta [aqui](https://www.xvoucher.com/Login.aspx){target="_blank"}.
-
-+++
-
-+++Como faço para acessar meu voucher Adobe?
-
-Depois que um cupom for atribuído a você, você receberá um email do support@xvoucher.com com um código de cupom e instruções sobre como resgatar o cupom. Se você não recebeu um email, verifique sua pasta de spam. Se ainda não conseguir encontrar o email, faça logon na sua conta do Xvoucher.
-
-+++
-
-+++Os comprovantes podem ser devolvidos para crédito ou reembolso?
-
-Todas as vendas são finais. Devoluções e reembolsos não são aceitos. Os Cupons de Exame Adobe são comprados em nível de exame, não para exames específicos, o que proporciona grande flexibilidade.
-
-+++
 
 >[!TAB Gerenciando seu perfil de certificação]
 
