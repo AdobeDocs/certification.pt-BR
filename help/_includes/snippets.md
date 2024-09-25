@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Pagar por voucher: Para comprar um voucher de exame, vá para: Adobe Certificati
 
 **Comprando um comprovante**
 
-Você pode pagar por um exame com um voucher. Para adquirir um cupom de exame, acesse o [Centro de Cupom de Certificação do Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Você pode pagar por um exame com um voucher. Para adquirir um cupom de exame, acesse o [Centro de Cupom de Certificação do Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Você pode aplicar o código do voucher ao agendar seu exame. Consulte abaixo para obter informações sobre desconto de voucher.
 
 Todos os candidatos podem receber um desconto em compras em massa de 10 ou mais exames quando compram por meio do Centro de Voucher Certificação Adobe.
 
-Para obter mais informações sobre cupons, consulte as [Perguntas frequentes](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Para obter mais informações sobre cupons, consulte as [Perguntas frequentes](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}.
 
 **Descontos**
 
@@ -143,7 +143,7 @@ Os descontos em massa estão disponíveis:
 
 Descontos para parceiros: Parceiros de nível Bronze e acima obtêm descontos em todos os exames e aulas de certificação Adobe. Você pode ler mais sobre esses descontos e como acessar os benefícios dos parceiros no Portal do parceiro de soluções.
 
-Descontos de voucher: Todos os candidatos podem receber um desconto em compras em massa de 10 ou mais exames quando compram através do Centro de Voucher Certificação Adobe.
+Descontos de voucher: todos os candidatos podem receber um desconto em compras em massa de 10 ou mais exames quando compram por meio do [Centro de Voucher Certificação Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Nota: Descontos em massa não podem ser combinados com qualquer outra oferta ou desconto.
 
@@ -183,7 +183,7 @@ O Adobe usa o Exame para administrar exames monitorados online. No portal Exame,
 
 * **Agendar, reagendar ou cancelar seu exame.** Observe que o cancelamento e o reagendamento devem ser iniciados antes de 48 horas antes do compromisso com o exame agendado. Os candidatos devem modificar este compromisso.
 
-* **Pague pelo seu exame.** Pague seu exame de certificação por voucher ou cartão de crédito no Portal de Exame. Para comprar um cupom de exame, vá para: [Sistema de Cupom de Certificação do Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
+* **Pague pelo seu exame.** Pague seu exame de certificação por voucher ou cartão de crédito no Portal de Exame. Para comprar um cupom de exame, acesse: [Centro de Cupom de Certificação do Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Você pode aplicar o código do voucher ao agendar seu exame. Se você tiver um desconto, ele será aplicado no check-out.
 
 * **Faça seu exame.**
 
