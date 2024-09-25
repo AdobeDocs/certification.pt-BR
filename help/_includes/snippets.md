@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ O Adobe usa o Exame para administrar exames monitorados online. No portal Exame,
 
 * **Faça seu exame.**
 
->[!NOTE]
->
->Você deve fazer logon no [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} antes de clicar no botão de Exame abaixo.
+**Observação:** faça logon no [Sistema de Gerenciamento de Credenciais do Adobe](https://www.certmetrics.com/adobe){target="_blank"} antes de clicar no botão Exame abaixo.
 
 >[!WARNING]
 >
