@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '2421'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # Renovar a certificação do Adobe [!DNL Marketo Engage]
+
+{{renewals-hold}}
 
 Sua certificação Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 
@@ -271,7 +273,7 @@ Estes são alguns recursos sugeridos para ajudar você a se preparar:
 **Seção 1: Administração e manutenção**
 
 * [Experience League - [!DNL Marketo Engage] Documentação do Produto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR){target="_blank"} (Gerenciamento de Campo, Sincronização de CRM, Trilha de Auditoria, Administração de Usuários, Espaços de Trabalho e Partições, Smart Lists, Campo Personalizado)
-* [Nação do Adobe Marketo](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Sincronizando com integrações do Salesforce, CRM)
+* [Nação do Adobe Marketo](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Sincronizando com Salesforce, integrações de CRM)
 
 **Seção 2: Atividades de marketing/Gerenciamento de campanhas**
 

@@ -4,10 +4,10 @@ description: Saiba mais sobre a  [!DNL Experience Cloud] Certificação no Adobe
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 6%
+source-wordcount: '552'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,16 @@ ht-degree: 6%
 Saiba mais sobre a certificação Experience Cloud no Adobe e o que a obtenção da certificação pode fazer por você.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!NOTE]
+>Atualização do programa de certificação de experiência digital do Adobe
+>
+>**O Programa de Certificação de Experiência Digital Adobe está em andamento!** O novo Portal de Certificação do Adobe será lançado em 22 de outubro de 2024. Anote estas **datas importantes:**
+>
+>* **14 de outubro de 2024:** Agendamento de exames, testes práticos e acesso ao Sistema de Gerenciamento de Credenciais do Adobe não estarão disponíveis enquanto migrarmos dados para o novo portal
+>* **22 de outubro de 2024:** O Portal de Certificação do Adobe é iniciado. Seu histórico de certificação estará disponível no novo portal, juntamente com todas as informações dos exames, recursos de estudos e recursos de agendamento. Suas pontuações de teste de prática e relatórios de treinamento retroativos a 1 de janeiro de 2021 também estarão disponíveis em sua conta.
+>
+>Volte aqui em 22 de outubro para obter detalhes sobre como fazer logon no novo Portal de certificação Adobe!
 
 O Programa de Certificação de Experiência Digital Adobe foi criado para ajudá-lo a comprovar suas habilidades em produtos Adobe [!DNL Experience Cloud]. Tornar-se certificado pelo Adobe permite que você mostre sua experiência e impressionar clientes e empregadores da mesma maneira.
 

@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '1195'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # Renovar a certificação do Adobe [!DNL Campaign Standard]
+
+{{renewals-hold}}
 
 Sua certificação Adobe é válida por dois anos. Se você estiver se aproximando dessa marca de dois anos, é hora de renovar sua certificação para mantê-la ativa.
 

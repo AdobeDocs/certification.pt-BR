@@ -6,7 +6,7 @@ product: Experience Platform
 role: User,Developer,Data Architect
 badge: label="Renovação do Adobe Journey Optimizer" type="neutral"
 hidefromtoc: true
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -14,6 +14,8 @@ ht-degree: 0%
 ---
 
 # Renovar a certificação do Adobe [!DNL Experience Platform]
+
+{{renewals-hold}}
 
 Quando você passar em um exame de certificação, sua certificação é válida por dois anos.
 

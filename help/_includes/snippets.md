@@ -1,7 +1,7 @@
 ---
-source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '1838'
+source-wordcount: '1989'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,16 @@ ht-degree: 0%
 ## Introdução {#intro}
 
 Esta página fornece informações sobre como obter esta certificação. Ele inclui uma descrição do exame, materiais de estudo, instruções passo a passo sobre o processo de certificação e como renovar sua certificação.
+
+>[!NOTE]
+>Atualização do programa de certificação de experiência digital do Adobe
+>
+>**O Programa de Certificação de Experiência Digital Adobe está em andamento!** O novo Portal de Certificação do Adobe será lançado em 22 de outubro de 2024. Anote estas **datas importantes:**
+>
+>* **14 de outubro de 2024:** Agendamento de exames, testes práticos e acesso ao Sistema de Gerenciamento de Credenciais do Adobe não estarão disponíveis enquanto migrarmos dados para o novo portal
+>* **22 de outubro de 2024:** O Portal de Certificação do Adobe é iniciado. Seu histórico de certificação estará disponível no novo portal, juntamente com todas as informações dos exames, recursos de estudos e recursos de agendamento. Suas pontuações de teste de prática e relatórios de treinamento retroativos a 1 de janeiro de 2021 também estarão disponíveis em sua conta.
+>
+>Volte aqui em 22 de outubro para obter detalhes sobre como fazer logon no novo Portal de certificação Adobe!
 
 <!--divider-->
 
@@ -240,3 +250,9 @@ Nossos cursos gratuitos sob demanda ajudam você a se preparar para o seu exame.
 ## Guia de preparação do exame {#exam-prep-guide}
 
 O Guia de Preparação do Exame gratuito fornece um caminho personalizado através do processo de preparação do exame, incluindo os materiais necessários para ser bem-sucedido em seu exame.
+
+## Renovações em espera {#renewals-hold}
+
+>[!WARNING]
+>
+>O Programa de certificação de experiência digital da Adobe será alterado em breve. Se você estiver no processo de renovação da sua certificação, observe que **13 de outubro de 2024 é a última data para concluir a renovação.**
