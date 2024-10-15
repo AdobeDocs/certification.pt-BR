@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
+source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ O Adobe oferece vários recursos e ferramentas para ajudar você a renovar sua c
 
 A maioria das certificações pode ser renovada **gratuitamente**. Algumas certificações ainda não têm uma opção de renovação gratuita. Para renovar essas certificações, você precisará refazer o exame de certificação completo.
 
-## Opções de renovação gratuita
-
-As certificações encontradas nos links abaixo podem ser renovadas gratuitamente, seja através de aprendizado contínuo ou fazendo um exame de renovação sob demanda. Se você não encontrar sua certificação aqui, precisará renová-la fazendo novamente o exame completo da certificação.
-
 <!-- 
+
+## Free renewal options
+
+The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
 
 >[!NOTE]
 >
