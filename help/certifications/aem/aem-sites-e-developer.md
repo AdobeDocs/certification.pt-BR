@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->**Novos recursos de estudo disponíveis:** O [Guia de Preparação do Exame](https://app.rockinfo.com/courses/125) fornece um caminho personalizado por meio do processo de preparação do exame de certificação, incluindo os materiais necessários para obter essa certificação. _Se for solicitado a fazer logon no Guia de Preparação do Exame, use sua Adobe ID._
-
-## Descrição do exame {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### Detalhes do exame {#exam-details}
+## Detalhes do exame {#exam-details}
 
 * Nível: especialista (1-3 anos de experiência)
 * Pontuação de aprovação: 26/50
@@ -38,174 +28,4 @@ ht-degree: 0%
 * Custo: US$ 225 (global) / US$ 150 (Índia)
 * ID do exame: AD0-E134 (inglês), AD0-E134-J (japonês)
 
-<br>
-
-### Público-alvo {#intended-audience}
-
-* Desenvolvedores de AEM
-* Desenvolvedores sênior do AEM
-* Desenvolvedores Líderes de AEM
-
-<br>
-
-### Experiência mínima {#minimum-experience}
-
-Você deve ter:
-
-* Um mínimo de 1-3 anos de experiência trabalhando com a plataforma AEM
-* A capacidade de executar desenvolvimento avançado de componentes
-* Uma compreensão profunda da estrutura do Controlador de exibição de modelo (MVC)
-* O conhecimento de estruturas e bibliotecas em AEM
-* Uma compreensão do ciclo de vida do desenvolvimento do AEM
-
-Além disso, você deve estar familiarizado com as seguintes tecnologias e ambientes:
-
-* JVM
-* Ambientes inferiores/de pré-produção
-* Diferentes recursos de hospedagem do AEM
-* Sincronizar conteúdo/ambientes juntos
-* Maven
-* Git
-* Ferramentas de desenvolvimento e embalagem
-* Ferramentas de linha de comando
-
-<br>
-
-### Objetivos e escopo do exame {#exam-objectives}
-
-{{exam-objectives}}
-
-**Seção 1: Configurações (22%)**
-
-* Identifique as etapas para criar e gerenciar configurações do AEM Dispatcher
-* Determine as etapas corretas para configurar a multilocação
-* Explicar como criar e gerenciar configurações de OSGi
-* Dado um cenário, determine o método correto para Criar e gerenciar índices personalizados do Oak
-* Determine as etapas corretas para configurar a integração OOTB SAML e LDAP
-
-**Seção 2: Desenvolvimento do AEM (44%)**
-
-* Determine as etapas corretas para implementar a estrutura, os modelos e os componentes do SPA
-* Com um design, crie componentes personalizados, incluindo HTL, modelos e serviços
-* Determine o método correto para criar testes de unidade e mapear dados de modelo
-* Dado um cenário, determine as etapas corretas para desenvolver workflows
-* Dado um cenário, determine a abordagem para qualquer integração de terceiros
-* Determinar a abordagem para implementar uma implementação headless ou híbrida
-
-**Seção 3: compilação e implantação (14%)**
-
-* Identificar as etapas para configurar e manter o gerenciamento de dependências de front-end e back-end
-* Determine o arquétipo correto ao criar projetos
-
-**Seção 4: manutenção do ambiente (22%)**
-
-* Dado um cenário, determine as etapas necessárias para gerenciar ambientes AEM
-* Explicar as etapas de configuração sobre o gerenciamento de versões
-* Recomendar e implementar soluções para sincronizar conteúdo/configurações em ambientes AEM
-* Determine as etapas necessárias para o planejamento e a implementação de atualizações do AEM e atividades/tarefas de migração do repositório
-
-<br>
-
-### Questionário de disponibilidade
-
-{{readiness}}
-
-[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
-
-<br>
-
-## Como obter certificação {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++Etapa 1: criar sua conta
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
-
-**Materiais de estudo**
-
-{{study-materials-intro}}
-
-**Fazer um teste prático**
-
-{{practice-test}}
-
-**Guia de Preparação do Exame**
-
-{{exam-prep-guide}}
-
-[Exibir Guia de Preparação do Exame](https://app.rockinfo.com/courses/125)
-
-+++
-
-<br>
-
-+++Etapa 3: agendar e pagar o exame
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++Etapa 4: antes e depois do exame
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++Etapa 5: fazer o exame
-
-{{about-certification-exam}}
-
-## Agendar ou fazer exame AD0-E134 (inglês)
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
-</span>
-</a>
-
-## Programar ou fazer exame AD0-E134-J (japonês)
-
-{{Japanese-exam-details}}
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
-</span>
-</a>
-
-+++
-
-<br>
-
-+++Etapa 6: gerenciar suas medalhas
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## Renovar sua certificação
-
-{{renewing-intro}}
-
-<br>
-
-## Perguntas
-
-Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
-
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).
+{{questions}}

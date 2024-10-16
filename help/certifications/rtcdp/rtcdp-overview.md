@@ -3,9 +3,9 @@ title: Visão geral da certificação da Real-Time CDP
 description: Visão geral das opções de certificação para o Adobe Real-Time CDP
 solution: Real-Time Customer Data Platform
 exl-id: 763724d3-1fac-421f-b166-b4aea210872f
-source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '19'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,5 @@ ht-degree: 0%
 
 * [Desenvolvedor](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
-Visite a página [Renovar sua certificação](/help/certifications/renew.md) para ver se há uma opção de renovação disponível para este produto.
+{{questions}}
+
