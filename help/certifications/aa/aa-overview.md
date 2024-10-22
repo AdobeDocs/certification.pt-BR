@@ -4,9 +4,9 @@ description: Visão geral das opções de certificação para o Adobe Analytics
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
 workflow-type: tm+mt
-source-wordcount: '24'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 **Profissional**
 
-* [Profissional](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
-* [Desenvolvedor](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
+* [Profissional](https://certification.adobe.com/certification/analytics-business-practitioner-professional) <!--AD0-E212-->
+* [Desenvolvedor](https://certification.adobe.com/certification/adobe-analytics-developer-professional) <!--AD0-E213-->
 
 **Especialista**
 
-* [Profissional](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
-* [Desenvolvedor](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
+* [Profissional](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [Desenvolvedor](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
 
 **Mestre**
 
-* [Arquiteto](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
+* [Arquiteto](https://certification.adobe.com/certification/architect-master) <!--AD0-E207-->
 
 {{questions}}
 
