@@ -7,124 +7,184 @@ role: Developer
 badge: label="Exame AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 4%
+source-wordcount: '349'
+ht-degree: 0%
 
 ---
 
 # Jornada de certificação para o especialista em desenvolvedores do Adobe [!DNL Journey Optimizer]
 
-{{intro}}
+>[!NOTE]
+>
+>**O Programa de Certificação da Experiência Digital Adobe foi movido para o novo [Portal de Certificação Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
+
+## O que há no novo Portal de certificação Adobe?
+
+Tudo o que você costumava encontrar nesta página e muito mais!
+
+* Agendamento do exame
+* Detalhes do exame
+* Recursos do estudo
+* Testes práticos
+* Validação e compartilhamento de medalha
+* Novos cursos de treinamento técnico
+* A nova Comunidade de experiência digital do Adobe
+* Um novo painel interativo para rastrear e compartilhar seu curso e atividade de certificação
+
+## Perguntas frequentes
+
+### Por onde começar?
+
+[Faça logon hoje](https://certification.adobe.com/){target="_blank"} e verifique os dados do seu perfil.
+
+Em seguida, explore nossos [cursos](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certificações](https://certification.adobe.com/certifications){target="_blank"}, [comunidade](https://certification.adobe.com/community/){target="_blank"} e [painel personalizável](https://certification.adobe.com/user/dashboard){target="_blank"}.
+
+### Como agendar uma prova?
+
+Agora você pode agendar um exame no Portal de certificação do Adobe.
+
+1. Vá para o [Catálogo de Certificação](https://certification.adobe.com/certifications){target="_blank"}.
+2. Encontre seu exame
+3. Vá para a guia **Agendar ou fazer exame**.
+4. Na seção **Agendar e pagar pelo exame**, você encontrará o link da página do exame.
+5. Clique no botão **Agendar exame**.
+
+### Onde encontro meu histórico de certificação?
+
+Suas certificações ativas já foram migradas para [sua conta](https://certification.adobe.com/user/certifications){target="_blank"} no Portal de Certificação do Adobe. Alguns aspectos da sua conta podem ainda não estar totalmente preenchidos enquanto migramos seus dados de usuário restantes. Obrigado por sua paciência!
+
+### Onde encontro meus cupons?
+
+Seus cupons (incluindo aqueles transferidos do Xvoucher) aparecerão em [sua conta](https://certification.adobe.com/user/purchases){target="_blank"} no Portal de Certificação Adobe.
+
+### Onde está meu crachá de certificação?
+
+Seu selo agora está disponível no Portal de certificação do Adobe.
+
+1. Vá para **Minha conta** > [Conquistas](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Localize o widget **Certificações ativas**.
+
+* Para exibir sua página de verificação de medalha, clique no botão **Compartilhar**. Nessa página, você pode compartilhar nas redes sociais.
+
+* Para baixar sua medalha, clique na **imagem de miniatura da medalha**.
+
+### Dúvidas?
+
+Veja os [vídeos de instruções](https://certification.adobe.com/#){target="_blank"} na parte inferior da nossa página inicial, visite nossas [Perguntas frequentes](https://certification.adobe.com/support/faq){target="_blank"} ou [fale conosco](https://certification.adobe.com/support/contactus){target="_blank"}.
+
+Estamos animados para explorar a nova página inicial do Programa de Certificação de Experiência Digital Adobe e conhecer nossos novos recursos.
+
+<!-- 
 
 >[!NOTE]
 >
->Este exame, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 22 de dezembro de 2023. Se você está apenas começando, recomendamos fazer a [versão mais recente deste exame](ajo-e-developer-23-10.md).
+>This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).
 
-## Descrição do exame {#exam-description}
+## Exam description {#exam-description}
 
 {{exam-description}}
 
 <br>
 
-### Detalhes do exame {#exam-details}
+### Exam details {#exam-details}
 
-* Nível: especialista (1-3 anos de experiência)
-* Pontuação de aprovação: 31/51
-* Tempo: 110 minutos
-* Delivery: on-line por encomenda (requer acesso à câmera)
-* Idiomas disponíveis: inglês
-* Custo: US$ 225 (global) / US$ 150 (Índia)
-* Identificação do Exame: AD0-E603
-
-<br>
-
-### Público-alvo {#intended-audience}
-
-* Arquiteto de dados
-* Engenheiro de dados
-* Arquiteto de soluções
-* Arquiteto corporativo
-* Desenvolvedor de automação de marketing
-* Desenvolvedor de CDP
-* Arquiteto de CDP
+* Level: Expert (1-3 years experience)
+* Passing Score: 31/51
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E603
 
 <br>
 
-### Experiência mínima {#minimum-experience}
+### Intended audience {#intended-audience}
 
-Você deve ter pelo menos um ano de experiência trabalhando com vários sistemas de CDP e automação de marketing e ser capaz de executar as seguintes tarefas:
-
-* Configuração de permissões de usuário
-* Criação e gerenciamento de sandboxes
-* Configuração da marca
-* Entender os conceitos de design do esquema
-* Configurar fontes de dados e assimilação de dados
-* Criação de segmentos
-* Configuração de eventos de experiência
-* Criação e gerenciamento de ofertas
-* Criar simulações (testar ofertas)
-* Criação de email, SMS, em mensagens do aplicativo e notificações por push
-* Manipulação e personalização de conteúdo usando funções auxiliares
-* Validar, revisar e publicar uma mensagem
-* Criação de uma jornada multicanal
-* Jornada relatórios
-* Jornadas de teste/validação
+* Data Architect
+* Data Engineer
+* Solution Architect
+* Enterprise Architect
+* Marketing Automation Developer
+* CDP Developer
+* CDP Architect
 
 <br>
 
-### Objetivos e escopo do exame {#exam-objectives}
+### Minimum experience {#minimum-experience}
+
+You should have at least one year experience working with various CDP and marketing automation systems, and be able to perform the following tasks:
+
+* Configuring user permissions
+* Creating and managing sandboxes
+* Brand configuration
+* Understand Schema design concepts
+* Setting up data sources and data ingestion
+* Creating segments
+* Setting up experience events
+* Creating and managing offers
+* Create simulations (testing offers)
+* Creating email, SMS, in app messages and push notifications
+* Content manipulation and personalization using helper functions
+* Validating, proofing, and publishing a message
+* Creating a multi-channel journey
+* Journey reporting
+* Testing/validating journeys
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
 
 {{exam-objectives}}
 
-**Seção 1: Administração e Configuração (17%)**
+**Section 1: Administration and Configuration (17%)**
 
-* Identifique as funções e quais permissões se aplicam a cada função
-* Descrever como atribuir/redefinir/excluir uma sandbox
-* Demonstrar uma compreensão da Administração de canal
-* Demonstrar uma compreensão de Eventos/Ações/Fontes de dados
+* Identify the roles and which permissions apply to each role
+* Describe how to assign/reset/delete a sandbox
+* Demonstrate an understanding of Channel Administration
+* Demonstrate an understanding of Events/Actions/Data Sources
 
-**Seção 2: Adobe Experience Platform Foundation (33%)**
+**Section 2: Adobe Experience Platform Foundation (33%)**
 
-* Demonstrar uma compreensão do Experience Data Model (XDM)
-* Explicar como configurar fontes de dados e a assimilação de dados
-* Demonstrar uma compreensão do serviço de segmentação
-* Explicar como configurar esquemas para o AJO
-* Determine o comportamento do perfil do cliente em tempo real no AJO
+* Demonstrate an understanding of Experience Data Model (XDM)
+* Explain how to set up data sources and data ingestion
+* Demonstrate an understanding of segmentation service
+* Explain how to configure schemas for AJO
+* Determine the behavior of the real-time customer profile on AJO
 
-**Seção 3: Offer decisioning (11%)**
+**Section 3: Offer Decisioning (11%)**
 
-* Demonstrar uma compreensão da criação e do gerenciamento de ofertas e componentes
-* Demonstrar como usar perfis de teste para executar a simulação da oferta
+* Demonstrate an understanding of creating and managing offers and components
+* Demonstrate how to use test profiles to run offer simulation
 
-**Seção 4: Criação de Conteúdo (20%)**
+**Section 4: Content Authoring (20%)**
 
-* Demonstrar uma compreensão de como criar mensagens de email, SMS, no aplicativo e notificações por push
-* Demonstrar uma compreensão da manipulação e personalização de conteúdo usando funções auxiliares
-* Demonstrar uma compreensão da validação, prova e publicação de uma mensagem
+* Demonstrate an understanding of how to create email, SMS, in app messages and push notifications
+* Demonstrate an understanding of content manipulation and personalization using helper functions
+* Demonstrate an understanding of validating, proofing, and publishing a message
 
-**Seção 5: Journey Orchestration (19%)**
+**Section 5: Journey Orchestration (19%)**
 
-* Explicar o processo de criação de uma jornada multicanal
-* Identificar onde acessar os painéis do relatório
-* Demonstrar como testar e validar uma jornada
+* Explain the process of creating a multi-channel journey
+* Identify where to access report dashboards
+* Demonstrate how to test and validate a journey
 
 <br>
 
-### Questionário de disponibilidade
+### Readiness questionnaire
 
 {{readiness}}
 
-[Responder ao questionário de preparação online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
-## Como obter certificação {#how-to-get-certified}
+## How to get certified {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++Etapa 1: criar sua conta
++++Step 1: Create your account
 
 {{create-your-account}}
 
@@ -132,83 +192,83 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 <br>
 
-+++Etapa 2: Prepare-se para o seu exame com estes materiais de estudo gratuitos
++++Step 2: Prepare for your exam with these free study materials
 
-**Materiais de estudo**
+**Study Materials**
 
 {{study-materials-intro}}
 
-**Seção 1: Administração e configuração**
+**Section 1: Administration and configuration**
 
-* [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-   * Controle de acesso
-   * Configuração de mensagens
-   * Configuração do evento
-   * Medidas de proteção
-   * Jornadas
+    * Access Control
+    * Configuring Messages
+    * Event configuration
+    * Guardrails
+    * Journeys
+  
+* [Sandboxes overview](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html){target="_blank"} 
 
-* [Visão geral das sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR){target="_blank"}
 
+**Section 2: AEP Foundation**
 
-**Seção 2: AEP Foundation**
+* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"} 
 
-* [Adobe [!DNL Experience Platform] Documentação](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+    * XDM guide
+    * Real-time Customer Profile guide
+    * Platform Identity Service guide
+    * configure a Dataflow
+    * Source Connectors guide
+    * Data Ingestion guide
+    * Segmentation Service guide
+    * Schemas
 
-   * Guia XDM
-   * Guia do Perfil do cliente em tempo real
-   * Guia do Serviço de identidade da Platform
-   * configurar um Fluxo de dados
-   * Guia de conectores do Source
-   * Guia de assimilação de dados
-   * Guia do Serviço de segmentação
-   * Esquemas
+* [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
+* [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
+* [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
+* [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"} 
 
-* [Introdução ao Adobe [!DNL Experience Platform] curso](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=pt-BR){target="_blank"}
-* [Introdução ao Adobe [!DNL Experience Platform] curso para engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=pt-BR){target="_blank"}
-* [Assimilação de dados para o curso de engenheiros de dados](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=pt-BR){target="_blank"}
-* [Blueprints de experiência digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=pt-BR){target="_blank"}
+**Section 3: Offer Decisioning**
 
-**Seção 3: Offer decisioning**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-* [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+    * Decision management
 
-   * Gerenciamento de decisão
+* [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"} 
 
-* [Adobe [!DNL Journey Optimizer] Vídeos e Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}
+    * Create journeys
 
-   * Criar jornadas
+**Section 4: Content Authoring**
 
-**Seção 4: Criação de conteúdo**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
 
-* [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+    * Design content
+    * Journeys
+    * Messages
+    * Personalization
+    * Landing pages
 
-   * Criação de conteúdo
-   * Jornadas
-   * Mensagens
-   * Personalização
-   * Páginas de destino
+**Section 5: Journey Orchestration**
 
-**Seção 5: Journey Orchestration**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-* [Adobe [!DNL Journey Optimizer] Documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
-
-   * Jornadas
-   * Rastrear e monitorar
-   * Segmentos
-   * Perfis e identidade
+    * Journeys
+    * Track and monitor
+    * Segments
+    * Profiles and identity
 
 <br>
 
-**Fazer um teste prático**
+**Take a practice test**
 
 {{practice-test}}
 
-+++
++++ 
 
 <br>
 
-+++Etapa 3: agendar e pagar o exame
++++Step 3: Schedule & pay for exam
 
 {{schedule-and-pay}}
 
@@ -216,7 +276,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 <br>
 
-+++Etapa 4: antes e depois do exame
++++Step 4: Before and after the exam
 
 {{before-and-after}}
 
@@ -224,20 +284,20 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 <br>
 
-+++Etapa 5: fazer o exame
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
-## Programar ou fazer exame AD0-E603
+## Schedule or take exam AD0-E603
 
 >[!NOTE]
 >
->Este exame, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), foi atualizado. Se você já começou a estudar ou está programado para receber esta versão, certifique-se de concluí-la antes de 22 de dezembro de 2023. Se você está apenas começando, recomendamos fazer a [versão mais recente deste exame](ajo-e-developer-23-10.md).
+>This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ir para o portal de análise
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal
 </span>
 </a>
 
@@ -245,7 +305,7 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 <br>
 
-+++Etapa 6: gerenciar suas medalhas
++++Step 6: Manage your badges
 
 {{manage-your-badges}}
 
@@ -253,14 +313,16 @@ Você deve ter pelo menos um ano de experiência trabalhando com vários sistema
 
 <br>
 
-## Renovar sua certificação
+## Renewing your certification
 
 {{renewing-intro}}
 
 <br>
 
-## Perguntas
+## Questions
 
-Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
