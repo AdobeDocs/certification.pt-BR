@@ -4,18 +4,20 @@ description: Saiba mais sobre a  [!DNL Experience Cloud] Certificação no Adobe
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 1c4e5dd4c7955fee989e99c1683734beea7bb6d1
+source-git-commit: 8e6929bf11e7e122e54035c05310e6fa730f1760
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
 
 ---
 
-![Banner](/help/certifications/assets/home_banner_smallwide.png)
+
 
 # O Programa de certificação de experiência digital do Adobe foi movido.
 
 Você pode nos encontrar no novo [Portal de Certificação do Adobe](https://certification.adobe.com/){target="_blank"}. Leia sobre os recursos do portal e saiba como começar abaixo.
+
+![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
 ## O que há no novo Portal de certificação Adobe?
 
