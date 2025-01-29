@@ -4,14 +4,16 @@ description: Visão geral das opções de certificação para o Adobe Audience M
 solution: Audience Manager
 product: Audience Manager
 exl-id: aeeef127-446c-4d22-8791-b93ea755545a
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Visão geral da certificação da Adobe Audience Manager
+
+Selecione o seu nível e função para encontrar os detalhes do exame de certificação, acessar os recursos do estudo e agendar o seu exame. Você também pode explorar o [catálogo completo de certificações](https://certification.adobe.com/certifications){target="_blank"} e os [cursos de treinamento técnico](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Profissional**
 

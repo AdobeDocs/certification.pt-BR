@@ -4,14 +4,16 @@ description: Visão geral das opções de certificação para o Adobe Marketo En
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # Visão geral da certificação do Adobe [!DNL Marketo Engage]
+
+Selecione o seu nível e função para encontrar os detalhes do exame de certificação, acessar os recursos do estudo e agendar o seu exame. Você também pode explorar o [catálogo completo de certificações](https://certification.adobe.com/certifications){target="_blank"} e os [cursos de treinamento técnico](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Profissional**
 

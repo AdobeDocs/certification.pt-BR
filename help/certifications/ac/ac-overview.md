@@ -4,14 +4,16 @@ description: Visão geral das opções de certificação para o Adobe Commerce
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: 2d2cdd441d5ef1c799bfe53bf0213c9e34d389ea
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # Visão geral da certificação da Commerce
+
+Selecione o seu nível e função para encontrar os detalhes do exame de certificação, acessar os recursos do estudo e agendar o seu exame. Você também pode explorar o [catálogo completo de certificações](https://certification.adobe.com/certifications){target="_blank"} e os [cursos de treinamento técnico](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Profissional**
 

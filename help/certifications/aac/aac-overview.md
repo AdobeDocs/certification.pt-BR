@@ -4,30 +4,21 @@ description: Visão geral das opções de certificação para o Adobe Advertisin
 solution: Advertising
 product: Advertising Cloud
 exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '57'
+ht-degree: 0%
 
 ---
 
 # Visão geral da certificação Adobe Advertising
 
-O Adobe oferece várias certificações para profissionais de negócios da Advertising.  Essas páginas contêm todas as informações necessárias para começar a usar a jornada de certificação ou renovar a certificação existente.
-
-## Certificações
+Selecione o seu nível e função para encontrar os detalhes do exame de certificação, acessar os recursos do estudo e agendar o seu exame. Você também pode explorar o [catálogo completo de certificações](https://certification.adobe.com/certifications){target="_blank"} e os [cursos de treinamento técnico](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Profissional**
 
 * [Profissional de negócios (Pesquisa)](https://certification.adobe.com/certification/advertising-search-business-practitioner-professional){target="_blank"} <!--AD0-E501-->
 * [Profissional de negócios (DSP)](https://certification.adobe.com/certification/advertising-dsp-business-practitioner-professional){target="_blank"} <!--AD0-E502-->
-
-## Recursos
-
-Para obter mais informações sobre esses produtos, use estes links [business.adobe.com](https://business.adobe.com/):
-
-* [Plataforma de demanda (DSP)](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"} do Adobe Advertising
-* [Pesquisa de Adobe Advertising](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
 
 {{questions}}
 
