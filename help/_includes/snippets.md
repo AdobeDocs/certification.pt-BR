@@ -110,7 +110,7 @@ Essas etapas orientam você pelo processo de certificação do início ao fim.
 >
 > **ID do governo necessário:** Você DEVE usar uma ID com foto emitida pelo governo como sua forma válida de ID. Cópias eletrônicas ou IDs digitais não são permitidas. <br><br> **Nome da conta do Adobe ID:** O nome da sua conta do Adobe ID DEVE corresponder ao seu nome na ID do governo. Para atualizar o nome da sua conta Adobe ID, envie um email para <certif@adobe.com>. Solicite esta correção com **72 horas de antecedência**. Se os nomes não corresponderem no momento do exame, você precisará se inscrever em um novo exame por um custo adicional.
 
-Você deve ter uma Adobe ID para agendar e fazer seu exame. Se você não tiver uma Adobe ID, crie uma [aqui](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Você deve ter uma Adobe ID para agendar e fazer seu exame. Se você não tiver uma Adobe ID, crie uma [aqui](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html).
 
 É necessário ter uma Adobe ID por três motivos:
 
@@ -278,7 +278,7 @@ Sua medalha é uma prova tangível de sua proficiência com os produtos da Adobe
 
 ## Renovar sua certificação {#renewing-intro}
 
-As certificações expiram após dois anos. Para manter sua certificação, você deve renová-la antes de expirar. Visite a página [Renovar sua certificação](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obter mais informações.
+As certificações expiram após dois anos. Para manter sua certificação, você deve renová-la antes de expirar. Visite a página [Renovar sua certificação](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=pt-BR){target="_blank"} para obter mais informações.
 
 <!--divider-->
 

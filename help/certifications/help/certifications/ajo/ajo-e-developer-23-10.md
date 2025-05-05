@@ -151,7 +151,7 @@ O Adobe Journey Optimizer é acionado por Experience Platform. Os candidatos que
 **Seção 5: Modelagem de Dados**
 
 * [Guia, Configuração, Públicos-alvo, perfis e identidade da AJO, Gerenciamento de dados](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
-* [Experience Platform, Conjuntos de dados, Guia de Conectores do Source, Tutorials de API, Guia do Serviço de Identidade da Plataforma, Interface de Segmentação, Interface do usuário Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Experience Platform, Conjuntos de dados, Guia de Conectores do Source, Tutorials de API, Guia do Serviço de Identidade da Plataforma, Interface de Segmentação, Interface do usuário Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR){target="_blank"}
 
 +++
 
@@ -210,6 +210,6 @@ O Adobe Journey Optimizer é acionado por Experience Platform. Os candidatos que
 
 ## Perguntas
 
-Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} da certificação.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=pt-BR){target="_blank"} da certificação.
 
 Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).
