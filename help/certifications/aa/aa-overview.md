@@ -4,16 +4,16 @@ description: Visão geral das opções de certificação para o Adobe Analytics
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
 # Visão geral da certificação da Adobe Analytics
 
-Selecione o seu nível e função para encontrar os detalhes do exame de certificação, acessar os recursos do estudo e agendar o seu exame. Você também pode explorar o [catálogo completo de certificações](https://certification.adobe.com/certifications){target="_blank"} e os [cursos de treinamento técnico](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+Selecione o seu nível e função para encontrar os detalhes do exame de certificação, acessar os recursos do estudo e agendar o seu exame. Você também pode explorar o [catálogo completo de certificações](https://certification.adobe.com/certifications){target="_blank"}, bem como os [cursos de treinamento técnico](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Profissional**
 
@@ -23,7 +23,9 @@ Selecione o seu nível e função para encontrar os detalhes do exame de certifi
 **Especialista**
 
 * [Profissional](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [Profissional de negócios - Japonês](https://certification.adobe.com/certification/analytics-business-practitioner-expert)<!--AD0-E208-J-->
 * [Desenvolvedor](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
+* [Desenvolvedor - Japonês](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-J-->
 
 **Mestre**
 

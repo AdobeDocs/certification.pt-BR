@@ -3,16 +3,16 @@ title: Visão geral da certificação do Target
 description: Visão geral das opções de certificação para o Adobe Target
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Visão geral da certificação [!DNL Adobe Target]
 
-Selecione o seu nível e função para encontrar os detalhes do exame de certificação, acessar os recursos do estudo e agendar o seu exame. Você também pode explorar o [catálogo completo de certificações](https://certification.adobe.com/certifications){target="_blank"} e os [cursos de treinamento técnico](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+Selecione o seu nível e função para encontrar os detalhes do exame de certificação, acessar os recursos do estudo e agendar o seu exame. Você também pode explorar o [catálogo completo de certificações](https://certification.adobe.com/certifications){target="_blank"}, bem como os [cursos de treinamento técnico](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Profissional**
 
@@ -21,6 +21,7 @@ Selecione o seu nível e função para encontrar os detalhes do exame de certifi
 **Especialista**
 
 * [Profissional](https://certification.adobe.com/certification/target-business-practitioner-expert){target="_blank"} <!--AD0-E406-->
+* [Profissional de negócios - Japonês](https://certification.adobe.com/certification/target-business-practitioner-expert){target="_blank"} <!--AD0-E406-J-->
 
 **Mestre**
 
