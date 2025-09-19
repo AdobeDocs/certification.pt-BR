@@ -4,7 +4,7 @@ description: Visão geral das opções de certificação para o Adobe Marketo En
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 59e40e4144cca7250af2e903106e422a29b37f3c
+source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Selecione o seu nível e função para encontrar os detalhes do exame de certifi
 
 * [Profissional certificado](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [Profissional Certificado - Japonês](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [Profissional de marketing digital](https://certification.adobe.com/certification/digital-marketer-professional) (observe que esta certificação não conta para os requisitos do parceiro){target="_blank"} <!--AD0-E564-->
+* [Profissional de marketing digital](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} (observe que esta certificação não conta para os requisitos do parceiro). <!--AD0-E564-->
 
 **Especialista**
 
@@ -29,7 +29,7 @@ Selecione o seu nível e função para encontrar os detalhes do exame de certifi
 **Mestre**
 
 * [Arquiteto - NOVO](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
-* [Arquiteto - Expira em 25 de novembro de 2025](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
+* [Arquiteto - Expira em 15 de novembro de 2025](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
 
 {{questions}}
 
