@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificação na Adobe
 breadcrumb-title: Certificação na Adobe
-user-guide-description: Saiba mais sobre a  [!DNL Experience Cloud] Certificação no Adobe. Descubra o que ser certificado pode fazer por você.
+user-guide-description: Saiba mais sobre a  [!DNL Experience Cloud] Certificação na Adobe. Descubra o que ser certificado pode fazer por você.
 source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 28%
+ht-degree: 35%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 28%
       + Especialista {#aa-expert}
          + [Profissional de negócios](/help/certifications/aa/aa-e-business.md)
          + [Desenvolvedor](/help/certifications/aa/aa-e-developer.md)
-      + Mestre {#aa-master}
+      + Principal {#aa-master}
          + [Arquiteto](/help/certifications/aa/aa-m-architect.md)
       + [Renovação](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Audience Manager] {#aam}
@@ -40,7 +40,7 @@ ht-degree: 28%
          + [Profissional de negócios](/help/certifications/aam/aam-p-business.md)
       + Especialista {#aam-expert}
          + [Profissional de negócios](/help/certifications/aam/aam-e-business.md)
-      + Mestre {#aam-master}
+      + Principal {#aam-master}
          + [Arquiteto](/help/certifications/aam/aam-m-architect.md)
       + [Renovação](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
@@ -51,7 +51,7 @@ ht-degree: 28%
       + Especialista {#acc-expert}
          + [Profissional de negócios](/help/certifications/acc/acc-e-business.md)
          + [Desenvolvedor](/help/certifications/acc/acc-e-developer.md)
-      + Mestre {#acc-master}
+      + Principal {#acc-master}
          + [Arquiteto](/help/certifications/acc/acc-m-developer.md)
       + [Renovação](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
@@ -70,7 +70,7 @@ ht-degree: 28%
          + [Profissional de negócios](/help/certifications/ac/ac-e-business.md)
          + [Desenvolvedor](/help/certifications/ac/ac-e-developer.md)
          + [Desenvolvedor front-end](/help/certifications/ac/ac-e-fedeveloper0623.md)
-      + Mestre {#ac-master}
+      + Principal {#ac-master}
          + [Arquiteto](/help/certifications/ac/ac-m-architect.md)
       + [Renovação](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
@@ -98,7 +98,7 @@ ht-degree: 28%
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
          + [Desenvolvedor (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
          + [Migração do Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
-      + Mestre {#aem-master}
+      + Principal {#aem-master}
          + [Arquiteto (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Renovação](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
@@ -114,7 +114,7 @@ ht-degree: 28%
          + [Profissional certificado](/help/certifications/ame/ame-p.md)
       + Especialista {#ame-expert}
          + [Profissional de negócios](/help/certifications/ame/ame-e-business.md)
-      + Mestre {#ame-master}
+      + Principal {#ame-master}
          + [Arquiteto](/help/certifications/ame/ame-m-architect-23-08.md)
       + [Renovação](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
@@ -130,7 +130,7 @@ ht-degree: 28%
          + [Profissional de negócios](/help/certifications/at/at-p-business.md)
       + Especialista {#at-expert}
          + [Profissional de negócios](/help/certifications/at/at-e-business.md)
-      + Mestre {#at-master}
+      + Principal {#at-master}
          + [Arquiteto](/help/certifications/at/at-m-architect0623.md)
       + [Renovação](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
@@ -141,7 +141,7 @@ ht-degree: 28%
          + [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + Especialista {#aw-expert}
          + [Desenvolvedor (Principal)](/help/certifications/aw/aw-core-e-developer-23-08.md)
-         + [Conector aprimorado para AEM](/help/certifications/aw/aw-aem-e-connector.md)
+         + [Conector aprimorado do AEM](/help/certifications/aw/aw-aem-e-connector.md)
       + [Renovação](/help/certifications/aw/aw-renew.md)
    + [Exames qualificados fornecidos pelo ADLS](https://learning.adobe.com/certification/credentials)
 + [Perguntas frequentes](faq.md)
