@@ -3,9 +3,9 @@ title: Visão geral da certificação da Workfront
 description: Visão geral das opções de certificação para o Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: f6e091c196be679b3643aa7df87981812564dd11
+source-git-commit: f2f470a40056cbcf5052262de12cd5f490514ab7
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,8 @@ _Observe que a credencial Qualificada não é uma certificação._
 * [Desenvolvedor (Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
 * [Gerente de projetos - NOVO](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
 * [Gerenciador de projetos - Expira em 17 de janeiro de 2026](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
-* [Desenvolvedor (Principal)](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
+* [Desenvolvedor (Principal) - NOVO](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
+* [Desenvolvedor (Principal) - Expira em 31 de janeiro de 2026](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
 
 **Especialista**
 
