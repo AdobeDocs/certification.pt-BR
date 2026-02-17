@@ -1,19 +1,19 @@
 ---
 title: Renovação da certificação
-description: Saiba como renovar a certificação Adobe [!DNL Experience Platform]  antes de expirar.
+description: Saiba como renovar sua certificação Adobe [!DNL Experience Platform]  antes de expirar.
 solution: Experience Platform
 product: Experience Platform
-role: User,Developer,Data Architect
+role: User,Developer
 badge: label="Renovação do Adobe Journey Optimizer" type="neutral"
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '20'
 ht-degree: 0%
 
 ---
 
-# Renovar a certificação do Adobe [!DNL Experience Platform]
+# Renovar sua certificação do Adobe [!DNL Experience Platform]
 
 {{renewals-hold}}
 
@@ -36,7 +36,7 @@ We're happy to announce that you are now able to renew your certification via a 
 
 ## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=pt-BR){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
 
