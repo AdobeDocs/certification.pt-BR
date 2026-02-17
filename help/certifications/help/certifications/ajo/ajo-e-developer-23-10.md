@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exame AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
@@ -181,7 +181,7 @@ O Adobe Journey Optimizer é habilitado pela Experience Platform. Os candidatos 
 
 >[!NOTE]
 >
->Este é o mais novo exame de especialista em desenvolvedores do Adobe [!DNL Journey Optimizer] (AD0-E606). Se você já começou a estudar ou agendou a [versão mais antiga](ajo-e-developer.md), deverá concluí-la até 22 de dezembro de 2023.
+>Este é o mais novo exame de especialista em desenvolvedores do Adobe [!DNL Journey Optimizer] (AD0-E606).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ O Adobe Journey Optimizer é habilitado pela Experience Platform. Os candidatos 
 
 ## Perguntas
 
-Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=pt-BR){target="_blank"} de certificação.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} de certificação.
 
 Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).
