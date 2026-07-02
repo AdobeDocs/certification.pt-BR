@@ -1,6 +1,6 @@
 ---
 title: Renovação da certificação
-description: Saiba como renovar a certificação Adobe [!DNL Workfront]  antes de expirar.
+description: Saiba como renovar sua certificação Adobe [!DNL Workfront]  antes de expirar.
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
@@ -8,12 +8,12 @@ hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
 
-# Renovar a certificação do Adobe [!DNL Workfront]
+# Renovar sua certificação do Adobe [!DNL Workfront]
 
 {{renewals-hold}}
 
