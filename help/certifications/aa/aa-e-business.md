@@ -1,25 +1,32 @@
 ---
 title: Certificação de profissional de negócios
-description: Saiba como se tornar certificado como um  [!DNL Adobe Analytics] especialista em prática de negócios
+description: Saiba como se tornar um especialista em profissionais de negócios [!DNL Adobe Analytics]
 solution: Analytics
 product: Analytics
 role: User
 badge: label="Exame AD0-E208" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 # Jornada de certificação para [!DNL Adobe Analytics] especialista do profissional de negócios
 
 >[!NOTE]
 >
->**O Programa Adobe Digital Experience Certification foi movido para o novo [Portal de Certificação do Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
+>**O Programa de Certificação da Adobe Digital Experience foi movido para o novo [Portal de Certificação da Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
 
 ## O que há de novo no Portal de certificação do Adobe?
 
@@ -58,7 +65,7 @@ Suas certificações ativas já foram migradas para [sua conta](https://certific
 
 ### Onde encontro meus cupons?
 
-Seus comprovantes (incluindo os transferidos do Xvoucher) aparecerão em [sua conta](https://certification.adobe.com/user/purchases){target="_blank"} no Portal de Certificação da Adobe.
+Seus cupons (incluindo aqueles transferidos do Xvoucher) aparecerão em [sua conta](https://certification.adobe.com/user/purchases){target="_blank"} no Portal de Certificação da Adobe.
 
 ### Onde está meu crachá de certificação?
 
@@ -73,6 +80,6 @@ Sua medalha agora está disponível no Portal de certificação do Adobe.
 
 ### Dúvidas?
 
-Veja os [vídeos de instruções](https://certification.adobe.com/#){target="_blank"} na parte inferior da nossa página inicial, visite nossas [Perguntas frequentes](https://certification.adobe.com/support/faq){target="_blank"} ou [fale conosco](https://certification.adobe.com/support/contactus){target="_blank"}.
+Exiba os [vídeos de instruções](https://certification.adobe.com/#){target="_blank"} na parte inferior da nossa página inicial, visite nossas [Perguntas frequentes](https://certification.adobe.com/support/faq){target="_blank"} ou [fale conosco](https://certification.adobe.com/support/contactus){target="_blank"}.
 
 Estamos animados para explorar a nova página inicial do Programa de certificação de experiência digital da Adobe e conhecer nossos novos recursos.

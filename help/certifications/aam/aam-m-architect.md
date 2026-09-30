@@ -1,26 +1,33 @@
 ---
 title: Certificação do arquiteto mestre
-description: Saiba como se tornar certificado como um Mestre de Arquiteto do Adobe [!DNL Audience Manager] .
+description: Saiba como se tornar um arquiteto mestre do Adobe [!DNL Audience Manager].
 solution: Audience Manager
 product: Audience Manager
 role: Developer
 level: Experienced
 badge: label="Exame AD0-E454" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '384'
 ht-degree: 0%
-
 ---
-
 # Jornada de certificação para o arquiteto mestre [!DNL Adobe Audience Manager]
 
 >[!NOTE]
 >
->**O Programa Adobe Digital Experience Certification foi movido para o novo [Portal de Certificação do Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
+>**O Programa de Certificação da Adobe Digital Experience foi movido para o novo [Portal de Certificação da Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
 
 ## O que há de novo no Portal de certificação do Adobe?
 
