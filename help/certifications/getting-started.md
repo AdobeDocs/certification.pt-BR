@@ -1,24 +1,25 @@
 ---
-title: Introdução às certificações Adobe
-description: Introdução às  [!DNL Experience Cloud]  certificações. Saiba mais sobre o programa e este site.
+title: Introdução às certificações do Adobe
+description: Introdução às certificações [!DNL Experience Cloud]. Saiba mais sobre o programa e este site.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-hidefromtoc: true
-source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
+hidefromtoc: 'yes'
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '381'
 ht-degree: 2%
-
 ---
-
 # Introdução {#getting-started}
 
 >[!NOTE]
 >
->**O Programa de Certificação da Experiência Digital Adobe foi movido para o novo [Portal de Certificação Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
+>**O Programa de Certificação da Adobe Digital Experience foi movido para o novo [Portal de Certificação da Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
 
-## O que há no novo Portal de certificação Adobe?
+## O que há de novo no Portal de certificação do Adobe?
 
 Tudo o que você costumava encontrar nesta página e muito mais!
 
@@ -28,7 +29,7 @@ Tudo o que você costumava encontrar nesta página e muito mais!
 * Testes práticos
 * Validação e compartilhamento de medalha
 * Novos cursos de treinamento técnico
-* A nova Comunidade de experiência digital do Adobe
+* A nova Comunidade de experiência digital da Adobe
 * Um novo painel interativo para rastrear e compartilhar seu curso e atividade de certificação
 
 ## Perguntas frequentes
@@ -51,15 +52,15 @@ Agora você pode agendar um exame no Portal de certificação do Adobe.
 
 ### Onde encontro meu histórico de certificação?
 
-Suas certificações ativas já foram migradas para [sua conta](https://certification.adobe.com/user/certifications){target="_blank"} no Portal de Certificação do Adobe. Alguns aspectos da sua conta podem ainda não estar totalmente preenchidos enquanto migramos seus dados de usuário restantes. Obrigado por sua paciência!
+Suas certificações ativas já foram migradas para [sua conta](https://certification.adobe.com/user/certifications){target="_blank"} no Portal de Certificação da Adobe. Alguns aspectos da sua conta podem ainda não estar totalmente preenchidos enquanto migramos seus dados de usuário restantes. Obrigado por sua paciência!
 
 ### Onde encontro meus cupons?
 
-Seus cupons (incluindo aqueles transferidos do Xvoucher) aparecerão em [sua conta](https://certification.adobe.com/user/purchases){target="_blank"} no Portal de Certificação Adobe.
+Seus cupons (incluindo aqueles transferidos do Xvoucher) aparecerão em [sua conta](https://certification.adobe.com/user/purchases){target="_blank"} no Portal de Certificação da Adobe.
 
 ### Onde está meu crachá de certificação?
 
-Seu selo agora está disponível no Portal de certificação do Adobe.
+Sua medalha agora está disponível no Portal de certificação do Adobe.
 
 1. Vá para **Minha conta** > [Conquistas](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
 2. Localize o widget **Certificações ativas**.
@@ -70,6 +71,6 @@ Seu selo agora está disponível no Portal de certificação do Adobe.
 
 ### Dúvidas?
 
-Veja os [vídeos de instruções](https://certification.adobe.com/#){target="_blank"} na parte inferior da nossa página inicial, visite nossas [Perguntas frequentes](https://certification.adobe.com/support/faq){target="_blank"} ou [fale conosco](https://certification.adobe.com/support/contactus){target="_blank"}.
+Exiba os [vídeos de instruções](https://certification.adobe.com/#){target="_blank"} na parte inferior da nossa página inicial, visite nossas [Perguntas frequentes](https://certification.adobe.com/support/faq){target="_blank"} ou [fale conosco](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Estamos animados para explorar a nova página inicial do Programa de Certificação de Experiência Digital Adobe e conhecer nossos novos recursos.
+Estamos animados para explorar a nova página inicial do Programa de certificação de experiência digital da Adobe e conhecer nossos novos recursos.

@@ -5,15 +5,22 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Exame AD0-E606" type="neutral"
-hidefromtoc: true
-exl-id: null
-source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
+hidefromtoc: 'yes'
+exl-id:
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 1%
-
+source-wordcount: '696'
+ht-degree: 9%
 ---
-
 # Jornada de certificação para o especialista em desenvolvedores do Adobe [!DNL Journey Optimizer]
 
 {{intro}}
@@ -131,8 +138,8 @@ O Adobe Journey Optimizer é habilitado pela Experience Platform. Os candidatos 
 
 **Seção 1: Administração e Configuração**
 
-* [Experience Platform, Controle de Acesso, Guia de Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=pt-BR){target="_blank"}
-* [Guia do AJO, Configuração, canal de SMS, Jornada](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+* [Experience Platform, Controle de acesso, Guia de sandboxes](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=pt-BR){target="_blank"}
+* [Guia do AJO, Configuração, canal SMS, Jornada](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
 * [APIs do AJO](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **Seção 2: Journey Orchestration**
@@ -150,8 +157,8 @@ O Adobe Journey Optimizer é habilitado pela Experience Platform. Os candidatos 
 
 **Seção 5: Modelagem de Dados**
 
-* [Guia, Configuração, Públicos-alvo, perfis e identidade da AJO, Gerenciamento de dados](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
-* [Experience Platform, Conjuntos de Dados, Guia dos Conectores da Source, Tutoriais da API, Guia do Serviço de Identidade da Plataforma, Interface de Segmentação, Tutoriais da Interface do Usuário](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR){target="_blank"}
+* [Guia do AJO, Configuração, Públicos-alvo, perfis e identidade, Gerenciamento de dados](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR){target="_blank"}
+* [Experience Platform, Conjuntos de dados, Guia dos conectores da Source, Tutoriais da API, Guia do serviço de identidade da plataforma, Interface de segmentação, Tutoriais da interface](https://experienceleague.adobe.com/docs/experience-platform.html?lang=pt-BR){target="_blank"}
 
 +++ 
 
@@ -210,6 +217,6 @@ O Adobe Journey Optimizer é habilitado pela Experience Platform. Os candidatos 
 
 ## Perguntas
 
-Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=pt-BR){target="_blank"} de certificação.
+Exiba as [Perguntas Frequentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} de certificação.
 
 Dúvidas adicionais? [Fale conosco](mailto:certif@adobe.com).

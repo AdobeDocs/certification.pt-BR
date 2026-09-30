@@ -7,20 +7,27 @@ role: Developer
 level: Experienced
 badge: label="Exame AD0-E722" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '386'
 ht-degree: 0%
-
 ---
-
 # Jornada de certificação para o arquiteto mestre do Adobe [!DNL Commerce]
 
 >[!NOTE]
 >
->**O Programa Adobe Digital Experience Certification foi movido para o novo [Portal de Certificação do Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
+>**O Programa de Certificação da Adobe Digital Experience foi movido para o novo [Portal de Certificação da Adobe](https://certification.adobe.com/){target="_blank"}!** Leia sobre os novos recursos e como começar abaixo.
 
 ## O que há de novo no Portal de certificação do Adobe?
 
